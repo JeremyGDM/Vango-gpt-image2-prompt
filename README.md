@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
+<p align="center">
+  <a href="https://happyhorses.site/"><strong>🌐 Browse and generate at Happy Horses</strong></a>
+</p>
+
 
 ---
 
