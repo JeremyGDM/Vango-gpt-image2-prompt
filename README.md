@@ -1,13 +1,13 @@
 <h1 align="center">🎨 Vango GPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>1292 mirrored prompts for GPT Image 2</strong>,<br>
-  curated from X/Twitter, organized by category, with preview images mirrored in this repository.
+  <strong>1305 mirrored prompts for GPT Image 2</strong>,<br>
+  curated from X/Twitter and prompt libraries, organized by category, with preview images mirrored in this repository.
 </p>
 
 <p align="center">
   <a href="https://github.com/JeremyGDM/Vango-gpt-image2-prompt"><img src="https://img.shields.io/github/stars/JeremyGDM/Vango-gpt-image2-prompt?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/prompts-1292-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-1305-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -15,61 +15,331 @@
   <a href="https://happyhorses.site/"><strong>🌐 Browse and generate at Happy Horses</strong></a>
 </p>
 
-
 ---
 
 ## 🤔 What is this?
 
-A mirrored library of GPT Image 2 prompts collected from X/Twitter, with original authors credited and preview renders stored directly in this repository. Use it to browse proven prompt patterns without depending on third-party image hotlinks.
+A mirrored library of GPT Image 2 prompts collected from X/Twitter and prompt libraries, with original authors credited and preview renders stored directly in this repository. Use it to browse proven prompt patterns without depending on third-party image hotlinks.
 
-## 🪞 Mirror Notes
+## 🆕 Latest Prompts
 
-This repository keeps the original long README gallery style while using local mirrored images under `images/`. Links to X/Twitter authors and source tweets are retained. Links to  prompt pages are intentionally removed.
+> Newest collected prompts appear here first.
 
-## 📖 Table of Contents
+#### 1. Make the Poké Ball open, and white light will shine inside. Everything e
 
-- [🗂️ Categories Overview](#-categories-overview)
-- [📋 All Prompts](#-all-prompts)
-  - [🧍 Portrait & People (551)](#cat-portrait)
-  - [🛍️ Product & E-commerce (206)](#cat-product)
-  - [🏷️ Brand & Logos (162)](#cat-branding)
-  - [🎭 Character Design (111)](#cat-character)
-  - [📊 Charts & Infographics (75)](#cat-infographic)
-  - [🎨 Illustration & Art (65)](#cat-illustration)
-  - [📰 Posters & Typography (49)](#cat-poster)
-  - [🧊 3D Renders (43)](#cat-3d-render)
-  - [🔀 Before / After & Comparisons (30)](#cat-comparison)
-- [🤝 Contributing](#-contributing)
-- [⚖️ License & Attribution](#-license--attribution)
+<img src="images/prompts/promptsref-16999.png" alt="Make the Poké Ball open, and white light will shine inside. Everything e" width="560">
 
-## 🗂️ Categories Overview
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
-| Category | Prompts | Description |
-|---|---:|---|
-| 🧍 **[Portrait & People](#cat-portrait)** | 551 | Portraits, headshots, character photography, and people-centric visuals. |
-| 🛍️ **[Product & E-commerce](#cat-product)** | 206 | Product shots, packaging, detail pages, and commerce visuals. |
-| 🏷️ **[Brand & Logos](#cat-branding)** | 162 | Logos, identity systems, and brand campaign visuals. |
-| 🎭 **[Character Design](#cat-character)** | 111 | Original characters, mascots, stylized figures, and character sheets. |
-| 📊 **[Charts & Infographics](#cat-infographic)** | 75 | Infographics, knowledge maps, technical explainers, and diagrams. |
-| 🎨 **[Illustration & Art](#cat-illustration)** | 65 | Illustration, art styles, decorative images, and material experiments. |
-| 📰 **[Posters & Typography](#cat-poster)** | 49 | Event posters, covers, type-driven visuals, and strong layouts. |
-| 🧊 **[3D Renders](#cat-3d-render)** | 43 | 3D-style renders, isometric scenes, and CG-feel imagery. |
-| 🔀 **[Before / After & Comparisons](#cat-comparison)** | 30 | Side-by-side transformations, edits, and comparison renders. |
-| | **1292** | |
+```text
+Make the Poké Ball open, and white light will shine inside. Everything else remains unchanged.
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0e718a683680042581a9d808e4505d46&show=true) · Tags: `illustration`
 
 ---
 
-## 📋 All Prompts
+#### 2. 2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill
 
-> Sorted by category, then by publish date (newest first within each category). Preview images are mirrored locally in this repository.
+<img src="images/prompts/promptsref-16997.png" alt="2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill" width="560">
 
-<a id="cat-portrait"></a>
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
-### 🧍 Portrait & People
+```text
+2B, facies in proximo, elegantia mechanica et desiderium tacitum; capilli albi in bob nitido, frons pura; oculi velati (caecum fascia nigrum, si canonice), sed expressio per labra et mala loquitur; labra humida, glossum densum; cutis roscida cum poris subtilibus; angulus humilis, warm rimlight aureum ad labra, low-key; focus in labris et textura cutis, cinematic close-up, hyper-detail.
+```
 
-> Portraits, headshots, character photography, and people-centric visuals.
+</details>
 
-**551 prompts** · [↑ back to top](#-table-of-contents)
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=31308fb3198cf00371277abada4c3a09&show=true) · Tags: `character`, `cinematic`
+
+---
+
+#### 3. 图像生成用提示
+
+<img src="images/prompts/promptsref-16987.png" alt="图像生成用提示" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+图像生成用提示：
+参考附上的角色图片，将该角色显示为巨大曲面超宽屏显示器的壁纸。角色的外貌、颜色、服装、氛围和世界观需忠实反映参考图片，但提示中不指定固定的发色、服装或主题。  未来感十足且极为干净、时尚的游戏 PC 桌面设置。整体以白色为基调，同时用与附上角色色彩、氛围、主题自然协调的点缀色构成。照明、房间小物件、LED 颜色、墙面装饰、桌面周边的氛围，根据参考角色的印象随机优化。可爱、酷炫、梦幻、流行、黑暗、清纯、近未来、少女风、神秘等，根据角色的氛围自然调整方向。  中央设有巨大的曲面超宽屏显示器，屏幕上清晰显示使用附上角色的高品质动画壁纸。壁纸需通过色彩、背景、光线和装饰主题来设计，以突出角色的魅力，并与角色相匹配。  桌子上整齐摆放着白色或与角色相配的点缀色的机械键盘、柔和发光的 RGB 键帽灯、线圈状定制线缆、游戏鼠标、迷你显示器、未来感的小型小工具、小型盆栽，以及与角色氛围相符的小物件。桌面采用干净的哑光白色，或高档感的材质。  右侧是玻璃面板的白色 PC 机箱。内部有白色的 GeForce RTX 显卡、水冷散热器、LED 风扇、与角色相配颜色的 RGB 照明，以及小型手办或迷你车模等装饰，被美丽地灯光照亮。PC 内部的小型屏幕上也显示着附上角色的插图。  背景墙上设有六边形 LED 面板灯，散发与角色氛围相符的柔和光线。周围配置盆栽、白色架子、设计感强的室内装饰，以及与角色世界观相符的低调装饰。整体干净、留白优美、不杂乱、上品且精致化的空间。  电影感广角构图、16:9、略带荷兰角、低角度偏向、桌面整体与 PC 机箱纳入一帧的构图。柔和的体积光、浅景深、平滑反射、透明感玻璃、照片级真实、超高精致、8K、Unreal Engine 般的 3D 渲染品质、完美材质、电影级照明、超详细、照片级真实、奢华未来感游戏设置。
+```
+
+</details>
+
+👤 [Patrick Lee (Zyceson)](https://promptsref.com/user/zyceson0831) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=51c4db87e96c2e062d42417d24da18a9&show=true) · Tags: `3d-render`
+
+---
+
+#### 4. A focused cinematographer operates a professional cinema camera on a tri
+
+<img src="images/prompts/promptsref-16974.png" alt="A focused cinematographer operates a professional cinema camera on a tri" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A focused cinematographer operates a professional cinema camera on a tripod, his intense gaze framed by the matte black housing of the lens. The scene is set within a dimly lit production studio, utilizing cinematic Rembrandt lighting that carves out the contours of his face while casting deep, dramatic shadows. Volumetric haze permeates the background, catching a sharp diagonal beam of light that emphasizes the technical environment. The composition utilizes a shallow depth of field, rendering the foreground camera rig in crisp detail while the studio equipment in the background dissolves into soft, indistinct bokeh. The cool, desaturated color palette enhances the professional industrial aesthetic, with subtle specular highlights reflecting off the metallic surfaces of the gear and the subject's skin.
+
+* **Style:** Hyper-photorealistic cinematic CGI
+* **Key elements:** Cinematographer, cinema camera, studio tripod, volumetric light beam, production equipment
+* **Lighting:** High-contrast Rembrandt lighting, cool color temperature, sharp diagonal key light
+* **Camera:** Close-up shot, 50mm lens, eye-level angle, shallow depth of field15:T73e,Capture a realistic screenshot from a fictional next-generation 3D open-world dystopian action-romance RPG, presented from the male protagonist’s first-person perspective.
+
+Shinobu Kocho from Demon Slayer in a tattered butterfly-pattern haori and torn dark uniform that expose her cleavage, butterfly hair ornament, dramatic and somber cinematic lighting, leaning weakly against a crumbling stone wall in a destroyed, apocalyptic village. Her posture is fragile and exhausted—heavily wounded, shoulder line slumped, with visible cuts and burns, breathing heavily as if clinging to consciousness rather than striking a pose. Her face is smudged with ash, with a faint trail of blood trickling down her temple and reflections of distant embers in her eyes. A shattered, burnt wooden beam is propped against the debris beside her, casting harsh, jagged shadows over her u
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=68f6ec20b1547118d432a82e793556c3&show=true) · Tags: `product`, `cinematic`
+
+---
+
+#### 5. A close-up shot shows a person's dark-skinned hand, likely belonging to
+
+<img src="images/prompts/promptsref-16315.png" alt="A close-up shot shows a person's dark-skinned hand, likely belonging to" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A close-up shot shows a person's dark-skinned hand, likely belonging to a Black male of indeterminate age, as it tucks an orange smartphone into the pocket of dark, pinstriped trousers. The smartphone, featuring a prominent triple-camera module and the Apple logo, is positioned diagonally within the pocket, with its top edge near the hand. The background is softly blurred, revealing a light brown fabric, possibly a jacket or shirt, and a hint of light blue sky. The lighting is soft and directional, casting subtle shadows and highlighting the textures of the clothing and the phone's surface. The overall atmosphere is clean, modern, and suggestive of an everyday, candid moment, with a focus on the vibrant color of the phone against the muted tones of the clothing. The perspective is slightly angled, emphasizing the diagonal line of the phone and the action of tucking it away.
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=a4167683e65805abd352b03a943ad18c&show=true) · Tags: `branding`, `logo`
+
+---
+
+#### 6. 时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高
+
+<img src="images/prompts/promptsref-16312.png" alt="时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高腰包臀半裙+竖线黑丝袜+黑色尖头细跟高跟鞋，人物侧坐黑色铁艺护栏，一手扶栏杆一手撩头发，单腿搭栏杆，直视镜头从容表情，场景为欧式老建筑沿街城市街道，晴天黄金时刻逆光自然光，清晰金色轮廓光，背景有行驶车辆零散行人，街道透视延伸，浅景深虚化背景突出人物，顶部叠加超大亮橙色粗体标题，柯达135胶片拍摄，轻微自然颗粒感，真实皮肤质感，冷暖对比，暖调环境冷调人物，高级时尚调色，电影感街拍。
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=f3a56a5ca66d5fe68d4bfea0e23cff4c&show=true) · Tags: `illustration`
+
+---
+
+#### 7. 私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください
+
+<img src="images/prompts/promptsref-15977.png" alt="私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください。 
+
+白い紙でできた正方形の床面をベースにし、その床面の奥側と片側だけに、白い壁を垂直に2面立てた前面と上部は完全に開いているオープンセット。奥行きをもたせる。 自然光が差し込む明るい白背景のスタジオに設置し、 箱庭に焦点を当て、背景には浅い被写界深度をつけて撮影する。
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=44a71d5896eb40947e894fc59cd3416e&show=true) · Tags: `illustration`, `gpt-image`
+
+---
+
+#### 8. Create a cinematic minimalist travel poster of [LOCATION NAME]
+
+<img src="images/prompts/promptsref-15832.png" alt="Create a cinematic minimalist travel poster of [LOCATION NAME]" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a cinematic minimalist travel poster of [LOCATION NAME].
+The poster should feel like a premium National Geographic cover mixed with luxury editorial design and modern environmental storytelling.
+Composition:
+Vertical poster format (4:5)
+Monumental central subject occupying the lower-middle frame
+Vast negative space in the upper section
+Massive condensed typography displaying the location name integrated into the background
+Clean infographic-inspired layout
+Symmetrical and balanced composition
+Ultra-premium magazine cover aesthetic
+Environment & Atmosphere:
+Showcase the most iconic natural feature of the location
+Hyper-realistic landscape photography
+Cinematic scale and depth
+Atmospheric haze
+Soft volumetric lighting
+Detailed environmental textures
+Epic sense of place and geological significance
+Typography System:
+Giant condensed sans-serif title spanning most of the poster height
+Title subtly blended into the environment
+Small scientific annotations and coordinates
+Geographic data labels
+Elevation/depth information
+Minimalist information hierarchy
+Luxury editorial spacing
+Color Palette:
+Location-specific natural colors
+Soft gradients
+Filmic color grading
+Muted luxury tones
+High dynamic range
+Realistic atmospheric perspective
+Design Details:
+Geographic coordinates
+Scientific measurements
+Minimal line dividers
+Tiny informational labels
+Environmental statistics
+Exploration-inspired UI elements
+Museum-quality graphic design
+Quality:
+Ultra detailed
+Hyper realistic
+Premium poster design
+Editorial photography
+Luxury print quality
+8k
+Sharp focus
+Cinematic lighting
+Award-winning travel campaign aesthetic20:Te28,
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=2987d20f763b3f9889e2521808e084ba&show=true) · Tags: `branding`, `cinematic`
+
+---
+
+#### 9. 喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍
+
+<img src="images/prompts/promptsref-15831.png" alt="喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍 
+人物 镜头从模特下方往上打，前景的手 + 喜茶芝芝莓莓，被极度放大，背景的人物被压缩，瞬间把产品拉成视觉中心，制造 "手要冲出屏幕" 的冲击力。 前后景分层: 前景 (产品 / 手) 100% 清晰锐利，背景 (模特) 做轻微景深虚化，拉开了画面的空间感。 动态姿态配合：模特身体后仰，手臂前伸，配合低机位，既拉长了线条，又强化了 "向前递出产品" 的叙事感，让画面不呆板。 [光影与质感] 统一色调渐变背景：没有多余元素，用柔和粉桃色渐变，既突出了产品，又和人物的服装色调呼应，整体和谐不杂乱。 影棚级柔光 + 硬高光：喜茶芝芝莓莓，同时保留柔和的过渡阴影，既保证了时尚大片的干净质感，又不会让画面发灰。
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=b5b903d6bea5d18519a3713b2c57a787&show=true) · Tags: `illustration`
+
+---
+
+#### 10. High-end National Geographic style fashion editorial. A luxurious, thick
+
+<img src="images/prompts/promptsref-15538.png" alt="High-end National Geographic style fashion editorial. A luxurious, thick" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+High-end National Geographic style fashion editorial. A luxurious, thick grey
+yak wool coat draped elegantly over a snow-covered rock in the magnificent
+Tibetan plateau. Deep blue sky, breathtaking snowy mountains in the background.
+Majestic, quiet luxury, eco-conscious vibe. --ar 3:4 --style raw --v 6.0
+【视觉意境】：国家地理级别的高端大片。一件奢华厚实的灰色牦牛绒大衣优雅地披在青藏高原被雪覆盖的岩石上。深蓝的天空，令人惊叹的雪山背景。 EN:
+"For the Wild. For the Future." CN:
+“【雪山守护计划】您每购买一件牦牛绒大衣，我们将向西藏野生动物保护基金捐赠10%的收益。”
+```
+
+</details>
+
+👤 [mino co](https://promptsref.com/user/a18668003356) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=67deeed29b2dfb9395820758a814bb2b&show=true) · Tags: `poster`
+
+---
+
+#### 11. Create a clean 16:9 animation model-sheet character card for foto Grata
+
+<img src="images/prompts/promptsref-15075.png" alt="Create a clean 16:9 animation model-sheet character card for foto Grata" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a clean 16:9 animation model-sheet character card for foto Grata (see reference), redesigned as a clearly adult or age-neutral character profile sheet depending on the source.
+
+AUTO-ADAPT FROM CHARACTER: infer source work, iconic hairstyle, face shape, expression, costume colors, emblem, accessories, props, and personality keywords. Preserve recognizability while simplifying details into a clean production-ready design.
+
+PAGE LAYOUT: large clean title at top, small source subtitle, front close-up portrait, full-body front standing pose, full-body back-facing standing pose, side-view or three-quarter pose, small action pose, expression thumbnails, color palette swatches, close-up boxes for hair, collar, sleeve, shoes, emblem, weapon or prop, and concise handwritten annotation arrows. White grid-paper background, clear margins, thin blue-gray construction lines, organized labels.
+
+POSE SET: front close-up, confident front stand, back-facing stand, side three-quarter stand, small seated hugging raised shins pose or relaxed prop-holding pose.
+
+STYLE: clean anime model sheet, crisp line art, flat-to-soft cel shading, readable silhouette, controlled colors, production reference quality, official artbook layout.
+
+Russian text23:T5ab,Vertical character poster featuring Saiyan from Dragon Ball as the absolute main visual, occupying most of the composition. Semi-realistic anime aesthetics blended with UE5 hyper-realistic rendering. Chest-up half-body portrait, eye-level camera, camera height around the chest, strong close-up perspective.
+
+His right hand reaches toward the camera with a menacing finger-point pose, foreground hand enlarged by perspective, creating intimidation, depth, and visual pressure. Sleek alien anatomy, realistic glossy skin texture, subtle vein details, sharp facial features, cold cruel eyes, smooth bio-armor surface, purple gem-like plates, white organic armor, preserving his iconic silhouette and color palette.
+
+On the left side, add bold vertical typography reading Saiy
+```
+
+</details>
+
+👤 [Курт Сепеш](https://promptsref.com/user/kurt19854) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=07b229f8fd5f9438a0f87605d4959a40&show=true) · Tags: `comparison`
+
+---
+
+#### 12. A high-fidelity landing page UI design for a premium padel training acad
+
+<img src="images/prompts/promptsref-14977.png" alt="A high-fidelity landing page UI design for a premium padel training acad" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A high-fidelity landing page UI design for a premium padel training academy, characterized by a sophisticated dark mode aesthetic with deep charcoal backgrounds and vibrant electric lime accents. The layout utilizes a clean, modular grid system featuring high-impact hero photography of athletes in dynamic mid-motion on terracotta-colored courts. Typography is crisp and sans-serif, emphasizing hierarchy through bold weights and strategic negative space. UI elements include interactive booking forms, membership pricing tiers with distinct call-to-action buttons, and data-driven stats counters. The overall visual language is sleek, athletic, and professional, balancing high-contrast color blocks with refined graphical overlays to create a modern, immersive digital experience tailored for elite sports enthusiasts.
+
+* **Style:** UI/UX Web Design, Modern Minimalist, Dark Mode
+* **Key elements:** Padel court photography, electric lime UI accents, modular grid cards, call-to-action buttons, data visualization
+* **Lighting:** High-contrast studio lighting, soft diffused ambient glow, neon-toned highlights
+* **Camera:** Flat lay UI mockup, 2D isometric perspective, sharp focus26:Tc42,
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=bcde478a4bc6ec0ffb8ea1798024977d&show=true) · Tags: `comparison`
+
+---
+
+#### 13. Low-light cinematic portrait, telephoto lens compression, shallow depth
+
+<img src="images/prompts/promptsref-14192.png" alt="Low-light cinematic portrait, telephoto lens compression, shallow depth" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Low-light cinematic portrait, telephoto lens compression, shallow depth of field, intentional soft focus and motion blur, moody nightlife atmosphere, abstract storytelling composition, layered haze and diffusion, imperfect candid capture  a stunning beautiful Korean female idol, ultra high visual appeal, pale porcelain skin, delicate yet seductive features, effortlessly alluring presence, relaxed and slightly tipsy mood, lazy and unguarded body language  outfit: sleek sensual styling — fitted off-shoulder top or thin strap dress subtly revealing collarbone and shoulder line, paired with a short skirt or high-slit silhouette; minimal but intentional accessories (earrings, thin necklace), modern K-idol fashion styling, slightly undone elegance  scene: dimly lit bar or lounge at night, warm tungsten lighting mixed with scattered reflections, frosted glass textures, cocktail glass in hand, blurred figures moving in background, neon hints and shadow gradients, reflective surfaces creating depth  lighting: Rembrandt-style contrast lighting, warm highlights against deep shadows, soft diffusion bloom, light scattering and refraction, cinematic glow  pose: natural candid moment — body slightly leaning or shifting weight, one hand holding a glass loosely, the other brushing hair or resting near waist, subtle torso angle emphasizing silhouette, not posing but captured mid-moment  expression: half-lidded eyes, distant or slightly provocative gaze, lips slightly parted, ambiguous emotion between calm and temptation  visual style: high contrast grayscale-toned palette with controlled color accents, heavy film grain, noise texture, layered blur gradients, imperfect focus transitions, strong negative space, dynamic perspective, avant-garde editorial aesthetic  mood: dreamy, intoxicating, mysterious, sensual but restrained, “moment before something happens”  --2:328:Ta0d,
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=3d9fc4ff0e64392bf215e18cc9132649&show=true) · Tags: `comparison`, `cinematic`
+
+---
+
+
+## 🗂️ Categories Overview
+
+| Category | Prompts |
+|---|---:|
+| Illustration & Art | 69 |
+| Character Design | 112 |
+| 3D Renders | 44 |
+| Product & E-commerce | 207 |
+| Brand & Logos | 164 |
+| Posters & Typography | 50 |
+| Before / After & Comparisons | 33 |
+| Portrait & People | 551 |
+| Charts & Infographics | 75 |
+| **Total** | **1305** |
+
+---
+
+## 📋 Archived Prompts
+
+> Original mirrored prompts without collection timestamps.
 
 #### 1. East asian phone-flash bedroom selfie
 
@@ -83,14 +353,7 @@ A high-angle front-camera phone selfie of a young woman in her 20s sitting or ha
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2051202480793686229-1.jpg" width="320">
-<img src="images/prompts/2051202480793686229-2.jpg" width="320">
-
-</details>
-
-👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source tweet](https://x.com/underwoodxie96/status/2051202480793686229)
+👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2051202480793686229)
 
 ---
 
@@ -115,7 +378,7 @@ High resolution, ultra-realistic cloud texture, smooth blending, no text, no wat
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · [Source tweet](https://x.com/TechieBySA/status/2051008065613238378) · Tags: `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · [Source](https://x.com/TechieBySA/status/2051008065613238378) · Tags: `illustration`
 
 ---
 
@@ -133,15 +396,7 @@ Using the generation rules I have given you so far, generate 10 different imagin
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050926759923871776-1.jpg" width="320">
-<img src="images/prompts/2050926759923871776-2.jpg" width="320">
-<img src="images/prompts/2050926759923871776-3.jpg" width="320">
-
-</details>
-
-👤 [@SDT_side](https://x.com/SDT_side) · [Source tweet](https://x.com/SDT_side/status/2050926759923871776) · Tags: `comparison`
+👤 [@SDT_side](https://x.com/SDT_side) · [Source](https://x.com/SDT_side/status/2050926759923871776) · Tags: `comparison`
 
 ---
 
@@ -157,7 +412,7 @@ Low-light cinematic portrait, telephoto lens compression, shallow depth of field
 
 </details>
 
-👤 [@BubbleBrain](https://x.com/BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2050892241376542864) · Tags: `character`
+👤 [@BubbleBrain](https://x.com/BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2050892241376542864) · Tags: `character`
 
 ---
 
@@ -185,13 +440,7 @@ Negative prompt: childlike face, underage, plastic skin, over-retouched, extra f
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050839245074399282-1.jpg" width="320">
-
-</details>
-
-👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source tweet](https://x.com/underwoodxie96/status/2050839245074399282) · Tags: `character`
+👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2050839245074399282) · Tags: `character`
 
 ---
 
@@ -209,7 +458,7 @@ She poses in a variety of ways, with each pose and photo designed to make her bo
 
 </details>
 
-👤 [@ViggoHayes](https://x.com/ViggoHayes) · [Source tweet](https://x.com/ViggoHayes/status/2050835640766341487) · Tags: `comparison`
+👤 [@ViggoHayes](https://x.com/ViggoHayes) · [Source](https://x.com/ViggoHayes/status/2050835640766341487) · Tags: `comparison`
 
 ---
 
@@ -225,14 +474,7 @@ Create a realistic vertical 9:16 close-up phone selfie of a young adult woman in
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050815018535649548-1.jpg" width="320">
-<img src="images/prompts/2050815018535649548-2.jpg" width="320">
-
-</details>
-
-👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source tweet](https://x.com/underwoodxie96/status/2050815018535649548) · Tags: `branding`
+👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2050815018535649548) · Tags: `branding`
 
 ---
 
@@ -255,7 +497,7 @@ Make the aspect ratio 3:4
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · [Source tweet](https://x.com/harboriis/status/2050783561591255069) · Tags: `poster` `branding`
+👤 [@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2050783561591255069) · Tags: `poster`
 
 ---
 
@@ -271,13 +513,7 @@ An American white man with sharp jawline and defined facial features sits on a c
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050871134959112387-1.jpg" width="320">
-
-</details>
-
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · [Source tweet](https://x.com/Ozayrr_irl/status/2050871134959112387) · Tags: `character`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · [Source](https://x.com/Ozayrr_irl/status/2050871134959112387) · Tags: `character`
 
 ---
 
@@ -318,7 +554,7 @@ Keep layout asymmetrical, slightly messy but visually balanced, like a high-fash
 
 </details>
 
-👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · [Source tweet](https://x.com/Noor_ul_ain43/status/2050851671291683136) · Tags: `branding` `comparison`
+👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · [Source](https://x.com/Noor_ul_ain43/status/2050851671291683136) · Tags: `branding`
 
 ---
 
@@ -334,7 +570,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 
 </details>
 
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Source tweet](https://x.com/iamsofiaijaz/status/2050627668861944073) · Tags: `product`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Source](https://x.com/iamsofiaijaz/status/2050627668861944073) · Tags: `product`
 
 ---
 
@@ -372,7 +608,7 @@ Parameters:
 
 </details>
 
-👤 [@Stonic_AI](https://x.com/Stonic_AI) · [Source tweet](https://x.com/Stonic_AI/status/2050541242782564848) · Tags: `poster` `branding`
+👤 [@Stonic_AI](https://x.com/Stonic_AI) · [Source](https://x.com/Stonic_AI/status/2050541242782564848) · Tags: `poster`
 
 ---
 
@@ -397,14 +633,7 @@ Reproduce a sense of camera shake and a casually-taken, rough composition. 4k.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050184131750035676-1.jpg" width="320">
-<img src="images/prompts/2050184131750035676-2.jpg" width="320">
-
-</details>
-
-👤 [@suu2u33](https://x.com/suu2u33) · [Source tweet](https://x.com/suu2u33/status/2050184131750035676) · Tags: `character`
+👤 [@suu2u33](https://x.com/suu2u33) · [Source](https://x.com/suu2u33/status/2050184131750035676) · Tags: `character`
 
 ---
 
@@ -432,14 +661,7 @@ Keep a low-light smartphone texture: soft edges, mild shadow noise, warm film-li
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050098347248144777-1.jpg" width="320">
-<img src="images/prompts/2050098347248144777-2.jpg" width="320">
-
-</details>
-
-👤 [@ViggoHayes](https://x.com/ViggoHayes) · [Source tweet](https://x.com/ViggoHayes/status/2050098347248144777) · Tags: `branding`
+👤 [@ViggoHayes](https://x.com/ViggoHayes) · [Source](https://x.com/ViggoHayes/status/2050098347248144777) · Tags: `branding`
 
 ---
 
@@ -503,7 +725,7 @@ Subtle grain for realism
 
 </details>
 
-👤 [@AIwithkhan](https://x.com/AIwithkhan) · [Source tweet](https://x.com/AIwithkhan/status/2050095429153681472) · Tags: `branding` `comparison`
+👤 [@AIwithkhan](https://x.com/AIwithkhan) · [Source](https://x.com/AIwithkhan/status/2050095429153681472) · Tags: `branding`
 
 ---
 
@@ -546,14 +768,7 @@ cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blu
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050056670408216927-1.jpg" width="320">
-<img src="images/prompts/2050056670408216927-2.jpg" width="320">
-
-</details>
-
-👤 [@Chryzleenprompt](https://x.com/Chryzleenprompt) · [Source tweet](https://x.com/Chryzleenprompt/status/2050056670408216927) · Tags: `branding`
+👤 [@Chryzleenprompt](https://x.com/Chryzleenprompt) · [Source](https://x.com/Chryzleenprompt/status/2050056670408216927) · Tags: `branding`
 
 ---
 
@@ -579,7 +794,7 @@ Lighting: soft studio lighting, diffused glow, high-end Vogue-style editorial, u
 
 </details>
 
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · [Source tweet](https://x.com/Ozayrr_irl/status/2049890997409374295) · Tags: `poster`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · [Source](https://x.com/Ozayrr_irl/status/2049890997409374295) · Tags: `poster`
 
 ---
 
@@ -612,13 +827,7 @@ The first line (name) uses dark navy bold large English text. The second and thi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049779470144552976-1.jpg" width="320">
-
-</details>
-
-👤 [@qisi_ai](https://x.com/qisi_ai) · [Source tweet](https://x.com/qisi_ai/status/2049779470144552976) · Tags: `poster` `branding`
+👤 [@qisi_ai](https://x.com/qisi_ai) · [Source](https://x.com/qisi_ai/status/2049779470144552976) · Tags: `poster`
 
 ---
 
@@ -643,7 +852,7 @@ Style: ultra-realistic, sharp focus, cinematic lighting, soft shadows, premium e
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · [Source tweet](https://x.com/auqibhabib/status/2049771976546533609) · Tags: `branding` `poster`
+👤 [@auqibhabib](https://x.com/auqibhabib) · [Source](https://x.com/auqibhabib/status/2049771976546533609) · Tags: `branding`
 
 ---
 
@@ -683,13 +892,7 @@ ultra realistic, 8K, film grain, masterpiece --ar 2:3 --v 6 --style raw
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049734906247553153-1.jpg" width="320">
-
-</details>
-
-👤 [@aidavid125](https://x.com/aidavid125) · [Source tweet](https://x.com/aidavid125/status/2049734906247553153) · Tags: `character` `poster`
+👤 [@aidavid125](https://x.com/aidavid125) · [Source](https://x.com/aidavid125/status/2049734906247553153) · Tags: `character`
 
 ---
 
@@ -721,15 +924,7 @@ Aspect ratio is 9:16
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049733639651385759-1.jpg" width="320">
-<img src="images/prompts/2049733639651385759-2.jpg" width="320">
-<img src="images/prompts/2049733639651385759-3.jpg" width="320">
-
-</details>
-
-👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Source tweet](https://x.com/Goodmanprotocol/status/2049733639651385759) · Tags: `illustration`
+👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Source](https://x.com/Goodmanprotocol/status/2049733639651385759) · Tags: `illustration`
 
 ---
 
@@ -745,14 +940,7 @@ A high-angle, top-down cinematic portrait of a young woman with wavy brown hair 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049666088942883193-1.jpg" width="320">
-<img src="images/prompts/2049666088942883193-2.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · [Source tweet](https://x.com/Naiknelofar788/status/2049666088942883193) · Tags: `branding`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2049666088942883193) · Tags: `branding`
 
 ---
 
@@ -768,7 +956,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 </details>
 
-👤 [@miilesus](https://x.com/miilesus) · Tags: `branding` `comparison`
+👤 [@miilesus](https://x.com/miilesus) · Tags: `branding`
 
 ---
 
@@ -784,15 +972,7 @@ Blurry amateur Asian super model in the middle of Taiwan old street at night ful
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049540329158701201-1.jpg" width="320">
-<img src="images/prompts/2049540329158701201-2.jpg" width="320">
-<img src="images/prompts/2049540329158701201-3.jpg" width="320">
-
-</details>
-
-👤 [@DanjiTosaka](https://x.com/DanjiTosaka) · [Source tweet](https://x.com/DanjiTosaka/status/2049540329158701201)
+👤 [@DanjiTosaka](https://x.com/DanjiTosaka) · [Source](https://x.com/DanjiTosaka/status/2049540329158701201)
 
 ---
 
@@ -818,14 +998,7 @@ Avoid fixed phrases-generate context-aware, creative, and humorous text that fit
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049538141993001161-1.jpg" width="320">
-<img src="images/prompts/2049538141993001161-2.jpg" width="320">
-
-</details>
-
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding` `illustration`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
@@ -844,15 +1017,7 @@ Ratio 9:16
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049514400386855005-1.jpg" width="320">
-<img src="images/prompts/2049514400386855005-2.jpg" width="320">
-<img src="images/prompts/2049514400386855005-3.jpg" width="320">
-
-</details>
-
-👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Source tweet](https://x.com/Goodmanprotocol/status/2049514400386855005) · Tags: `character` `illustration`
+👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Source](https://x.com/Goodmanprotocol/status/2049514400386855005) · Tags: `character`
 
 ---
 
@@ -874,7 +1039,7 @@ Ratio 9:16
 
 </details>
 
-👤 [@mizq06](https://x.com/mizq06) · [Source tweet](https://x.com/mizq06/status/2049499896835912063)
+👤 [@mizq06](https://x.com/mizq06) · [Source](https://x.com/mizq06/status/2049499896835912063)
 
 ---
 
@@ -923,7 +1088,7 @@ Ratio 9:16
 
 </details>
 
-👤 [@craftian_keskin](https://x.com/craftian_keskin) · [Source tweet](https://x.com/craftian_keskin/status/2049493053933596869) · Tags: `branding`
+👤 [@craftian_keskin](https://x.com/craftian_keskin) · [Source](https://x.com/craftian_keskin/status/2049493053933596869) · Tags: `branding`
 
 ---
 
@@ -948,7 +1113,7 @@ Style: Gucci-style premium fashion campaign, ultra-realistic, high resolution, e
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `poster` `branding`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `poster`
 
 ---
 
@@ -964,15 +1129,7 @@ A naive folk art painting of [subject], surrounded by symbolic plants, stars, an
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049444356395008000-1.jpg" width="320">
-<img src="images/prompts/2049444356395008000-2.jpg" width="320">
-<img src="images/prompts/2049444356395008000-3.jpg" width="320">
-
-</details>
-
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `illustration`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
@@ -992,15 +1149,7 @@ No garbled text. No vulgarity. No plastic skin. No deformed hands. No cheap-post
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049437959712018916-1.jpg" width="320">
-<img src="images/prompts/2049437959712018916-2.jpg" width="320">
-<img src="images/prompts/2049437959712018916-3.jpg" width="320">
-
-</details>
-
-👤 [@ponyodong](https://x.com/ponyodong) · [Source tweet](https://x.com/ponyodong/status/2049437959712018916) · Tags: `poster`
+👤 [@ponyodong](https://x.com/ponyodong) · [Source](https://x.com/ponyodong/status/2049437959712018916) · Tags: `poster`
 
 ---
 
@@ -1044,16 +1193,7 @@ Style: elegant balanced composition, soft shadows, professional retouching, clea
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049416670113124540-1.jpg" width="320">
-<img src="images/prompts/2049416670113124540-2.jpg" width="320">
-<img src="images/prompts/2049416670113124540-3.jpg" width="320">
-<img src="images/prompts/2049416670113124540-4.jpg" width="320">
-
-</details>
-
-👤 [@Crypto_QianXun](https://x.com/Crypto_QianXun) · [Source tweet](https://x.com/Crypto_QianXun/status/2049416670113124540) · Tags: `branding` `infographic`
+👤 [@Crypto_QianXun](https://x.com/Crypto_QianXun) · [Source](https://x.com/Crypto_QianXun/status/2049416670113124540) · Tags: `branding`
 
 ---
 
@@ -1089,7 +1229,7 @@ Ultra realistic, sharp, 4K, luxury branding feel
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `branding` `poster`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `branding`
 
 ---
 
@@ -1109,7 +1249,7 @@ Ultra realistic + semi-illustrated style, high detail skin texture, cinematic li
 
 </details>
 
-👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding` `infographic`
+👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding`
 
 ---
 
@@ -1160,7 +1300,7 @@ Aspect ratio: wide horizontal, 3-panel layout.
 
 </details>
 
-👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `product` `poster`
+👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `product`
 
 ---
 
@@ -1186,15 +1326,7 @@ high fashion + contemporary art fusion, ultra refined, 8K --ar 2:3 --style raw
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049375876220154308-1.jpg" width="320">
-<img src="images/prompts/2049375876220154308-2.jpg" width="320">
-<img src="images/prompts/2049375876220154308-3.jpg" width="320">
-
-</details>
-
-👤 [@aidavid125](https://x.com/aidavid125) · [Source tweet](https://x.com/aidavid125/status/2049375876220154308) · Tags: `character` `poster`
+👤 [@aidavid125](https://x.com/aidavid125) · [Source](https://x.com/aidavid125/status/2049375876220154308) · Tags: `character`
 
 ---
 
@@ -1210,7 +1342,7 @@ Ultra-realistic fashion infographic photography of a single male model, using th
 
 </details>
 
-👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · [Source tweet](https://x.com/saniaspeaks_/status/2049363989721653251) · Tags: `character` `infographic`
+👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · [Source](https://x.com/saniaspeaks_/status/2049363989721653251) · Tags: `character`
 
 ---
 
@@ -1247,7 +1379,7 @@ pop-art street style mood.
 
 #### 39. Japanese arcade fighting
 
-<img src="images/awesome-gpt2/comparison/75.jpg" alt="Japanese arcade fighting" width="560">
+<img src="images/prompts/39.jpg" alt="Japanese arcade fighting" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1267,13 +1399,13 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 
 </details>
 
-👤 [@gh-mikko_20100518](https://x.com/gh-mikko_20100518) · [Source tweet](https://x.com/mikko_20100518/status/2047514897404354598) · Tags: `character`
+👤 [@gh-mikko_20100518](https://x.com/gh-mikko_20100518) · [Source](https://x.com/mikko_20100518/status/2047514897404354598) · Tags: `character`
 
 ---
 
 #### 40. Polaroid with person bursting
 
-<img src="images/awesome-gpt2/comparison/69.jpg" alt="Polaroid with person bursting" width="560">
+<img src="images/prompts/40.jpg" alt="Polaroid with person bursting" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1286,13 +1418,13 @@ Generated with GPT Image-2 →
 
 </details>
 
-👤 [@gh-MajaDesignJP](https://x.com/gh-MajaDesignJP) · [Source tweet](https://x.com/MajaDesignJP/status/2047235632934928765)
+👤 [@gh-MajaDesignJP](https://x.com/gh-MajaDesignJP) · [Source](https://x.com/MajaDesignJP/status/2047235632934928765)
 
 ---
 
 #### 41. Naturalist dissected food study
 
-<img src="images/awesome-gpt2/comparison/68.jpg" alt="Naturalist dissected food study" width="560">
+<img src="images/prompts/41.jpg" alt="Naturalist dissected food study" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1347,13 +1479,13 @@ rough, smooth, moist, dry, dense, loose.
 
 </details>
 
-👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source tweet](https://x.com/GeekCatX/status/2046939656244318676) · Tags: `product` `infographic`
+👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source](https://x.com/GeekCatX/status/2046939656244318676) · Tags: `product`
 
 ---
 
 #### 42. East Asian art portrait
 
-<img src="images/awesome-gpt2/comparison/66.jpg" alt="East Asian art portrait" width="560">
+<img src="images/prompts/42.jpg" alt="East Asian art portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1371,13 +1503,13 @@ The image emphasizes delicate texture, soft tones, a fusion of light French and 
 
 </details>
 
-👤 [@gh-zhiyangzhu22222](https://x.com/gh-zhiyangzhu22222) · [Source tweet](https://x.com/zhiyangzhu22222/status/2046952985562062888)
+👤 [@gh-zhiyangzhu22222](https://x.com/gh-zhiyangzhu22222) · [Source](https://x.com/zhiyangzhu22222/status/2046952985562062888)
 
 ---
 
 #### 43. Eastern fantasy half-body portrait
 
-<img src="images/awesome-gpt2/comparison/65.jpg" alt="Eastern fantasy half-body portrait" width="560">
+<img src="images/prompts/43.jpg" alt="Eastern fantasy half-body portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1397,13 +1529,13 @@ Style: high-end CG illustration, ultra-fine, cinematic lighting, soft-light rend
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2046962895775580442) · Tags: `character`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2046962895775580442) · Tags: `character`
 
 ---
 
 #### 44. Douyin lingerie livestream UI
 
-<img src="images/awesome-gpt2/comparison/64.jpg" alt="Douyin lingerie livestream UI" width="560">
+<img src="images/prompts/44.jpg" alt="Douyin lingerie livestream UI" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1413,13 +1545,13 @@ Generate a Douyin livestream screenshot of a beautiful girl streaming, selling s
 
 </details>
 
-👤 [@gh-LVWANGJI_0327](https://x.com/gh-LVWANGJI_0327) · [Source tweet](https://x.com/LVWANGJI_0327/status/2046974302227206525) · Tags: `branding` `infographic`
+👤 [@gh-LVWANGJI_0327](https://x.com/gh-LVWANGJI_0327) · [Source](https://x.com/LVWANGJI_0327/status/2046974302227206525) · Tags: `branding`
 
 ---
 
 #### 45. Tushan Yaya fox-fur portrait
 
-<img src="images/awesome-gpt2/comparison/63.jpg" alt="Tushan Yaya fox-fur portrait" width="560">
+<img src="images/prompts/45.jpg" alt="Tushan Yaya fox-fur portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1429,13 +1561,13 @@ Hu Yao Xiao Hong Niang — Tushan Yaya portrait blockbuster: pink nine-tail-fox-
 
 </details>
 
-👤 [@gh-sdjn_wgc](https://x.com/gh-sdjn_wgc) · [Source tweet](https://x.com/sdjn_wgc/status/2046981757325475954) · Tags: `character`
+👤 [@gh-sdjn_wgc](https://x.com/gh-sdjn_wgc) · [Source](https://x.com/sdjn_wgc/status/2046981757325475954) · Tags: `character`
 
 ---
 
 #### 46. Yang Guifei realistic photo
 
-<img src="images/awesome-gpt2/comparison/61.jpg" alt="Yang Guifei realistic photo" width="560">
+<img src="images/prompts/46.jpg" alt="Yang Guifei realistic photo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1445,13 +1577,13 @@ Based on the historical descriptions of Yang Yuhuan, generate a realistic photo 
 
 </details>
 
-👤 [@gh-Zhaoge01](https://x.com/gh-Zhaoge01) · [Source tweet](https://x.com/Zhaoge01/status/2047110776897638568) · Tags: `character`
+👤 [@gh-Zhaoge01](https://x.com/gh-Zhaoge01) · [Source](https://x.com/Zhaoge01/status/2047110776897638568) · Tags: `character`
 
 ---
 
 #### 47. Tang Chang'an Lantern
 
-<img src="images/awesome-gpt2/comparison/60.jpg" alt="Tang Chang'an Lantern" width="560">
+<img src="images/prompts/47.jpg" alt="Tang Chang'an Lantern" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1461,13 +1593,13 @@ Panorama of the Lantern Festival in Chang'an during the Tang dynasty — thousan
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047122441454096527) · Tags: `character`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047122441454096527) · Tags: `character`
 
 ---
 
 #### 48. Photorealistic Guanyin portrait
 
-<img src="images/awesome-gpt2/comparison/59.jpg" alt="Photorealistic Guanyin portrait" width="560">
+<img src="images/prompts/48.jpg" alt="Photorealistic Guanyin portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1477,13 +1609,13 @@ Based on the Buddhist scripture's description of Bodhisattva Guanyin, faithfully
 
 </details>
 
-👤 [@gh-Zhaoge01](https://x.com/gh-Zhaoge01) · [Source tweet](https://x.com/Zhaoge01/status/2047123570485260753) · Tags: `character`
+👤 [@gh-Zhaoge01](https://x.com/gh-Zhaoge01) · [Source](https://x.com/Zhaoge01/status/2047123570485260753) · Tags: `character`
 
 ---
 
 #### 49. Ultimate wuxia heroine 9:16
 
-<img src="images/awesome-gpt2/comparison/58.jpg" alt="Ultimate wuxia heroine 9:16" width="560">
+<img src="images/prompts/49.jpg" alt="Ultimate wuxia heroine 9:16" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1493,13 +1625,13 @@ Based on the Buddhist scripture's description of Bodhisattva Guanyin, faithfully
 
 </details>
 
-👤 [@gh-CoderDaMing](https://x.com/gh-CoderDaMing) · [Source tweet](https://x.com/CoderDaMing/status/2047127585256358221) · Tags: `character`
+👤 [@gh-CoderDaMing](https://x.com/gh-CoderDaMing) · [Source](https://x.com/CoderDaMing/status/2047127585256358221) · Tags: `character`
 
 ---
 
 #### 50. Subway candid phone portrait
 
-<img src="images/awesome-gpt2/comparison/56.jpg" alt="Subway candid phone portrait" width="560">
+<img src="images/prompts/50.jpg" alt="Subway candid phone portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1511,13 +1643,13 @@ Get your first try free ⬇️
 
 </details>
 
-👤 [@gh-AntCaveClub](https://x.com/gh-AntCaveClub) · [Source tweet](https://x.com/AntCaveClub/status/2047136306485133428) · Tags: `branding`
+👤 [@gh-AntCaveClub](https://x.com/gh-AntCaveClub) · [Source](https://x.com/AntCaveClub/status/2047136306485133428) · Tags: `branding`
 
 ---
 
 #### 51. Lu Xun Dawn Blossoms scene
 
-<img src="images/awesome-gpt2/comparison/55.jpg" alt="Lu Xun Dawn Blossoms scene" width="560">
+<img src="images/prompts/51.jpg" alt="Lu Xun Dawn Blossoms scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1527,13 +1659,13 @@ Combining content from Lu Xun's 'Dawn Blossoms Plucked at Dusk,' generate an ima
 
 </details>
 
-👤 [@gh-Aurora_62340](https://x.com/gh-Aurora_62340) · [Source tweet](https://x.com/Aurora_62340/status/2047139992355680530)
+👤 [@gh-Aurora_62340](https://x.com/gh-Aurora_62340) · [Source](https://x.com/Aurora_62340/status/2047139992355680530)
 
 ---
 
 #### 52. Su Daji ancient-style portrait
 
-<img src="images/awesome-gpt2/comparison/54.jpg" alt="Su Daji ancient-style portrait" width="560">
+<img src="images/prompts/52.jpg" alt="Su Daji ancient-style portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1543,13 +1675,13 @@ Su Daji ancient-style portrait — semi-transparent red gauze robe, fox ears fai
 
 </details>
 
-👤 [@gh-nidiedeba](https://x.com/gh-nidiedeba) · [Source tweet](https://x.com/nidiedeba/status/2047147223281270878) · Tags: `character`
+👤 [@gh-nidiedeba](https://x.com/gh-nidiedeba) · [Source](https://x.com/nidiedeba/status/2047147223281270878) · Tags: `character`
 
 ---
 
 #### 53. Neo-Chinese 'one flower' visual
 
-<img src="images/awesome-gpt2/comparison/53.jpg" alt="Neo-Chinese 'one flower' visual" width="560">
+<img src="images/prompts/53.jpg" alt="Neo-Chinese 'one flower' visual" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1577,13 +1709,13 @@ Overall lighting translucent, clean, layered, no gray fog, no flatness. Premium 
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2047180347448914195) · Tags: `branding` `illustration`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2047180347448914195) · Tags: `branding`
 
 ---
 
 #### 54. Douyin livestream UI mockup
 
-<img src="images/awesome-gpt2/comparison/49.jpg" alt="Douyin livestream UI mockup" width="560">
+<img src="images/prompts/54.jpg" alt="Douyin livestream UI mockup" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1593,13 +1725,13 @@ Generate a Douyin livestream screenshot showing a pretty girl streaming, selling
 
 </details>
 
-👤 [@gh-laogeai](https://x.com/gh-laogeai) · [Source tweet](https://x.com/laogeai/status/2047228458351120625) · Tags: `branding` `infographic`
+👤 [@gh-laogeai](https://x.com/gh-laogeai) · [Source](https://x.com/laogeai/status/2047228458351120625) · Tags: `branding`
 
 ---
 
 #### 55. Most significant 2001 event
 
-<img src="images/awesome-gpt2/comparison/43.jpg" alt="Most significant 2001 event" width="560">
+<img src="images/prompts/55.jpg" alt="Most significant 2001 event" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1609,13 +1741,13 @@ Generate an image of the most significant event of 2001
 
 </details>
 
-👤 [@gh-Rufus87078959](https://x.com/gh-Rufus87078959) · [Source tweet](https://x.com/Rufus87078959/status/2047210051216011682)
+👤 [@gh-Rufus87078959](https://x.com/gh-Rufus87078959) · [Source](https://x.com/Rufus87078959/status/2047210051216011682)
 
 ---
 
 #### 56. Edit coin stacks to 244.5 baht
 
-<img src="images/awesome-gpt2/comparison/42.jpg" alt="Edit coin stacks to 244.5 baht" width="560">
+<img src="images/prompts/56.jpg" alt="Edit coin stacks to 244.5 baht" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1625,13 +1757,13 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 </details>
 
-👤 [@gh-elliscrosby](https://x.com/gh-elliscrosby) · [Source tweet](https://x.com/elliscrosby/status/2047211507596071235) · Tags: `product`
+👤 [@gh-elliscrosby](https://x.com/gh-elliscrosby) · [Source](https://x.com/elliscrosby/status/2047211507596071235) · Tags: `product`
 
 ---
 
 #### 57. Most significant 2020 event
 
-<img src="images/awesome-gpt2/comparison/41.jpg" alt="Most significant 2020 event" width="560">
+<img src="images/prompts/57.jpg" alt="Most significant 2020 event" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1641,13 +1773,13 @@ Generate an image of the most significant event of 2020
 
 </details>
 
-👤 [@gh-Rufus87078959](https://x.com/gh-Rufus87078959) · [Source tweet](https://x.com/Rufus87078959/status/2047211900769878234)
+👤 [@gh-Rufus87078959](https://x.com/gh-Rufus87078959) · [Source](https://x.com/Rufus87078959/status/2047211900769878234)
 
 ---
 
 #### 58. Sam Altman as MLB batter
 
-<img src="images/awesome-gpt2/comparison/39.jpg" alt="Sam Altman as MLB batter" width="560">
+<img src="images/prompts/58.jpg" alt="Sam Altman as MLB batter" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1657,13 +1789,13 @@ Sam Altman as a Major League baseball player holding a bat at the ready, in the 
 
 </details>
 
-👤 [@gh-16kthir0GRXgNqn](https://x.com/gh-16kthir0GRXgNqn) · [Source tweet](https://x.com/16kthir0GRXgNqn/status/2046507362266259832) · Tags: `character`
+👤 [@gh-16kthir0GRXgNqn](https://x.com/gh-16kthir0GRXgNqn) · [Source](https://x.com/16kthir0GRXgNqn/status/2046507362266259832) · Tags: `character`
 
 ---
 
 #### 59. Sam Altman selfie riding a bear
 
-<img src="images/awesome-gpt2/comparison/35.jpg" alt="Sam Altman selfie riding a bear" width="560">
+<img src="images/prompts/59.jpg" alt="Sam Altman selfie riding a bear" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1675,13 +1807,13 @@ Edit prompt: Remove the background make it transparent
 
 </details>
 
-👤 [@gh-JustinGorya](https://x.com/gh-JustinGorya) · [Source tweet](https://x.com/JustinGorya/status/2046510831832006970) · Tags: `character`
+👤 [@gh-JustinGorya](https://x.com/gh-JustinGorya) · [Source](https://x.com/JustinGorya/status/2046510831832006970) · Tags: `character`
 
 ---
 
 #### 60. Authentic photo of any subject
 
-<img src="images/awesome-gpt2/comparison/32.jpg" alt="Authentic photo of any subject" width="560">
+<img src="images/prompts/60.jpg" alt="Authentic photo of any subject" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1691,13 +1823,13 @@ Help me generate an authentic image of xxxx.
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2046201836525302032)
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2046201836525302032)
 
 ---
 
 #### 61. Portrait
 
-<img src="images/awesome-gpt2/ui/118.jpg" alt="Portrait" width="560">
+<img src="images/prompts/61.jpg" alt="Portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1707,13 +1839,13 @@ Help me generate an authentic image of xxxx.
 
 </details>
 
-👤 [@gh-zenkaiAI](https://x.com/gh-zenkaiAI) · [Source tweet](https://x.com/zenkaiAI/status/2048051889460437351) · Tags: `comparison`
+👤 [@gh-zenkaiAI](https://x.com/gh-zenkaiAI) · [Source](https://x.com/zenkaiAI/status/2048051889460437351) · Tags: `comparison`
 
 ---
 
 #### 62. Cinematic lighting car
 
-<img src="images/awesome-gpt2/ui/109.jpg" alt="Cinematic lighting car" width="560">
+<img src="images/prompts/62.jpg" alt="Cinematic lighting car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1723,13 +1855,13 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 </details>
 
-👤 [@gh-Just_sharon7](https://x.com/gh-Just_sharon7) · [Source tweet](https://x.com/Just_sharon7/status/2048095904138485962) · Tags: `character`
+👤 [@gh-Just_sharon7](https://x.com/gh-Just_sharon7) · [Source](https://x.com/Just_sharon7/status/2048095904138485962) · Tags: `character`
 
 ---
 
 #### 63. Photorealistic cat
 
-<img src="images/awesome-gpt2/ui/104.jpg" alt="Photorealistic cat" width="560">
+<img src="images/prompts/63.jpg" alt="Photorealistic cat" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1739,13 +1871,13 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 </details>
 
-👤 [@gh-FernandesK47117](https://x.com/gh-FernandesK47117) · [Source tweet](https://x.com/FernandesK47117/status/2048183925294371147) · Tags: `product`
+👤 [@gh-FernandesK47117](https://x.com/gh-FernandesK47117) · [Source](https://x.com/FernandesK47117/status/2048183925294371147) · Tags: `product`
 
 ---
 
 #### 64. Landscape
 
-<img src="images/awesome-gpt2/ui/91.jpg" alt="Landscape" width="560">
+<img src="images/prompts/64.jpg" alt="Landscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1755,13 +1887,13 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 </details>
 
-👤 [@gh-S0N_IA_](https://x.com/gh-S0N_IA_) · [Source tweet](https://x.com/S0N_IA_/status/2047414367243657296) · Tags: `character` `branding`
+👤 [@gh-S0N_IA_](https://x.com/gh-S0N_IA_) · [Source](https://x.com/S0N_IA_/status/2047414367243657296) · Tags: `character`
 
 ---
 
 #### 65. Iphone v2
 
-<img src="images/awesome-gpt2/ui/3.jpg" alt="Iphone v2" width="560">
+<img src="images/prompts/65.jpg" alt="Iphone v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1771,13 +1903,13 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 </details>
 
-👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source tweet](https://x.com/patrickassale/status/2044569086013718958) · Tags: `illustration` `infographic`
+👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source](https://x.com/patrickassale/status/2044569086013718958) · Tags: `illustration`
 
 ---
 
 #### 66. Iphone
 
-<img src="images/awesome-gpt2/ui/2.jpg" alt="Iphone" width="560">
+<img src="images/prompts/66.jpg" alt="Iphone" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1787,13 +1919,13 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 </details>
 
-👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source tweet](https://x.com/patrickassale/status/2044687244368441742) · Tags: `infographic`
+👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source](https://x.com/patrickassale/status/2044687244368441742) · Tags: `infographic`
 
 ---
 
 #### 67. Photorealistic portrait
 
-<img src="images/awesome-gpt2/poster/172.jpg" alt="Photorealistic portrait" width="560">
+<img src="images/prompts/67.jpg" alt="Photorealistic portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1816,13 +1948,13 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 </details>
 
-👤 [@gh-sha_zdiii](https://x.com/gh-sha_zdiii) · [Source tweet](https://x.com/sha_zdiii/status/2049088961008848905) · Tags: `poster`
+👤 [@gh-sha_zdiii](https://x.com/gh-sha_zdiii) · [Source](https://x.com/sha_zdiii/status/2049088961008848905) · Tags: `poster`
 
 ---
 
 #### 68. Photorealistic car
 
-<img src="images/awesome-gpt2/poster/165.jpg" alt="Photorealistic car" width="560">
+<img src="images/prompts/68.jpg" alt="Photorealistic car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1832,13 +1964,13 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 </details>
 
-👤 [@gh-Gerry](https://x.com/gh-Gerry) · [Source tweet](https://x.com/Gerry/status/2048303505702629537)
+👤 [@gh-Gerry](https://x.com/gh-Gerry) · [Source](https://x.com/Gerry/status/2048303505702629537)
 
 ---
 
 #### 69. Cyberpunk building
 
-<img src="images/awesome-gpt2/poster/139.jpg" alt="Cyberpunk building" width="560">
+<img src="images/prompts/69.jpg" alt="Cyberpunk building" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1867,13 +1999,13 @@ Generate image using uploaded image as reference
 
 </details>
 
-👤 [@gh-Professor_134](https://x.com/gh-Professor_134) · [Source tweet](https://x.com/Professor_134/status/2048066672398102896) · Tags: `character`
+👤 [@gh-Professor_134](https://x.com/gh-Professor_134) · [Source](https://x.com/Professor_134/status/2048066672398102896) · Tags: `character`
 
 ---
 
 #### 70. Chen Uen tribute editorial poster
 
-<img src="images/awesome-gpt2/poster/122.jpg" alt="Chen Uen tribute editorial poster" width="560">
+<img src="images/prompts/70.jpg" alt="Chen Uen tribute editorial poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1883,13 +2015,13 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 </details>
 
-👤 [@gh-mob_17](https://x.com/gh-mob_17) · [Source tweet](https://x.com/mob_17/status/2048118645017219381) · Tags: `poster` `illustration`
+👤 [@gh-mob_17](https://x.com/gh-mob_17) · [Source](https://x.com/mob_17/status/2048118645017219381) · Tags: `poster`
 
 ---
 
 #### 71. Magazine cover portrait
 
-<img src="images/awesome-gpt2/poster/77.jpg" alt="Magazine cover portrait" width="560">
+<img src="images/prompts/71.jpg" alt="Magazine cover portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1901,13 +2033,13 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 </details>
 
-👤 [@gh-iamrealsnow](https://x.com/gh-iamrealsnow) · [Source tweet](https://x.com/iamrealsnow/status/2047883187527856345) · Tags: `poster`
+👤 [@gh-iamrealsnow](https://x.com/gh-iamrealsnow) · [Source](https://x.com/iamrealsnow/status/2047883187527856345) · Tags: `poster`
 
 ---
 
 #### 72. Photorealistic magazine
 
-<img src="images/awesome-gpt2/poster/62.jpg" alt="Photorealistic magazine" width="560">
+<img src="images/prompts/72.jpg" alt="Photorealistic magazine" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1953,13 +2085,13 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 </details>
 
-👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source tweet](https://x.com/GeekCatX/status/2047220831491858766) · Tags: `poster`
+👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source](https://x.com/GeekCatX/status/2047220831491858766) · Tags: `poster`
 
 ---
 
 #### 73. Building
 
-<img src="images/awesome-gpt2/poster/58.jpg" alt="Building" width="560">
+<img src="images/prompts/73.jpg" alt="Building" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1969,13 +2101,13 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 </details>
 
-👤 [@gh-AIwithSarah_](https://x.com/gh-AIwithSarah_) · [Source tweet](https://x.com/AIwithSarah_/status/2047234995627172229) · Tags: `character`
+👤 [@gh-AIwithSarah_](https://x.com/gh-AIwithSarah_) · [Source](https://x.com/AIwithSarah_/status/2047234995627172229) · Tags: `character`
 
 ---
 
 #### 74. Equirectangular image
 
-<img src="images/awesome-gpt2/poster/54.jpg" alt="Equirectangular image" width="560">
+<img src="images/prompts/74.jpg" alt="Equirectangular image" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -1985,13 +2117,13 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 </details>
 
-👤 [@gh-ai_gezgini](https://x.com/gh-ai_gezgini) · [Source tweet](https://x.com/ai_gezgini/status/2046903631509705030)
+👤 [@gh-ai_gezgini](https://x.com/gh-ai_gezgini) · [Source](https://x.com/ai_gezgini/status/2046903631509705030)
 
 ---
 
 #### 75. Golden hour car
 
-<img src="images/awesome-gpt2/poster/52.jpg" alt="Golden hour car" width="560">
+<img src="images/prompts/75.jpg" alt="Golden hour car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2001,13 +2133,13 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 </details>
 
-👤 [@gh-anacoding](https://x.com/gh-anacoding) · [Source tweet](https://x.com/anacoding/status/2046904999045628114) · Tags: `character`
+👤 [@gh-anacoding](https://x.com/gh-anacoding) · [Source](https://x.com/anacoding/status/2046904999045628114) · Tags: `character`
 
 ---
 
 #### 76. Retro poster
 
-<img src="images/awesome-gpt2/poster/2.jpg" alt="Retro poster" width="560">
+<img src="images/prompts/76.jpg" alt="Retro poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2017,13 +2149,13 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 </details>
 
-👤 [@gh-WolfRiccardo](https://x.com/gh-WolfRiccardo) · [Source tweet](https://x.com/WolfRiccardo/status/2044562722491121718) · Tags: `poster`
+👤 [@gh-WolfRiccardo](https://x.com/gh-WolfRiccardo) · [Source](https://x.com/WolfRiccardo/status/2044562722491121718) · Tags: `poster`
 
 ---
 
 #### 77. Boston Spring 2026 city poster
 
-<img src="images/awesome-gpt2/poster/1.jpg" alt="Boston Spring 2026 city poster" width="560">
+<img src="images/prompts/77.jpg" alt="Boston Spring 2026 city poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2033,13 +2165,13 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2045358053831172358) · Tags: `poster` `branding`
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2045358053831172358) · Tags: `poster`
 
 ---
 
 #### 78. Rainy bus stop burger portrait
 
-<img src="images/awesome-gpt2/portrait/103.jpg" alt="Rainy bus stop burger portrait" width="560">
+<img src="images/prompts/78.jpg" alt="Rainy bus stop burger portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2055,13 +2187,13 @@ pants. Moody, dark, atmospheric street photography.
 
 </details>
 
-👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source tweet](https://x.com/harboriis/status/2049081194156020046)
+👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source](https://x.com/harboriis/status/2049081194156020046)
 
 ---
 
 #### 79. Japanese classroom schoolgirl
 
-<img src="images/awesome-gpt2/portrait/100.jpg" alt="Japanese classroom schoolgirl" width="560">
+<img src="images/prompts/79.jpg" alt="Japanese classroom schoolgirl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2071,13 +2203,13 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 
 </details>
 
-👤 [@gh-Hair_Hair55](https://x.com/gh-Hair_Hair55) · [Source tweet](https://x.com/Hair_Hair55/status/2047963832732221723) · Tags: `character`
+👤 [@gh-Hair_Hair55](https://x.com/gh-Hair_Hair55) · [Source](https://x.com/Hair_Hair55/status/2047963832732221723) · Tags: `character`
 
 ---
 
 #### 80. Underwater dreamy
 
-<img src="images/awesome-gpt2/portrait/99.jpg" alt="Underwater dreamy" width="560">
+<img src="images/prompts/80.jpg" alt="Underwater dreamy" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2087,13 +2219,13 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 
 </details>
 
-👤 [@gh-kotobukigraphic](https://x.com/gh-kotobukigraphic) · [Source tweet](https://x.com/kotobukigraphic/status/2047967522453123255) · Tags: `character`
+👤 [@gh-kotobukigraphic](https://x.com/gh-kotobukigraphic) · [Source](https://x.com/kotobukigraphic/status/2047967522453123255) · Tags: `character`
 
 ---
 
 #### 81. Photobook portrait of glasses
 
-<img src="images/awesome-gpt2/portrait/98.jpg" alt="Photobook portrait of glasses" width="560">
+<img src="images/prompts/81.jpg" alt="Photobook portrait of glasses" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2103,13 +2235,13 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 
 </details>
 
-👤 [@gh-megane_onesan](https://x.com/gh-megane_onesan) · [Source tweet](https://x.com/megane_onesan/status/2047989490153926848) · Tags: `character`
+👤 [@gh-megane_onesan](https://x.com/gh-megane_onesan) · [Source](https://x.com/megane_onesan/status/2047989490153926848) · Tags: `character`
 
 ---
 
 #### 82. Sports drink athlete portrait
 
-<img src="images/awesome-gpt2/portrait/97.jpg" alt="Sports drink athlete portrait" width="560">
+<img src="images/prompts/82.jpg" alt="Sports drink athlete portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2119,13 +2251,13 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 </details>
 
-👤 [@gh-jeremydevz](https://x.com/gh-jeremydevz) · [Source tweet](https://x.com/jeremydevz/status/2048026214812561683) · Tags: `character` `branding`
+👤 [@gh-jeremydevz](https://x.com/gh-jeremydevz) · [Source](https://x.com/jeremydevz/status/2048026214812561683) · Tags: `character`
 
 ---
 
 #### 83. Dreamy Oriental close-up portrait
 
-<img src="images/awesome-gpt2/portrait/91.jpg" alt="Dreamy Oriental close-up portrait" width="560">
+<img src="images/prompts/83.jpg" alt="Dreamy Oriental close-up portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2135,13 +2267,13 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2048046253842559183) · Tags: `character`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2048046253842559183) · Tags: `character`
 
 ---
 
 #### 84. Desert snap to luxury studio
 
-<img src="images/awesome-gpt2/portrait/89.jpg" alt="Desert snap to luxury studio" width="560">
+<img src="images/prompts/84.jpg" alt="Desert snap to luxury studio" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2151,13 +2283,13 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 
 </details>
 
-👤 [@gh-Abdullah__Ai7](https://x.com/gh-Abdullah__Ai7) · [Source tweet](https://x.com/Abdullah__Ai7/status/2048083022315159595) · Tags: `character`
+👤 [@gh-Abdullah__Ai7](https://x.com/gh-Abdullah__Ai7) · [Source](https://x.com/Abdullah__Ai7/status/2048083022315159595) · Tags: `character`
 
 ---
 
 #### 85. Silver dress staircase portrait
 
-<img src="images/awesome-gpt2/portrait/88.jpg" alt="Silver dress staircase portrait" width="560">
+<img src="images/prompts/85.jpg" alt="Silver dress staircase portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2167,13 +2299,13 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 
 </details>
 
-👤 [@gh-XSydneyFan](https://x.com/gh-XSydneyFan) · [Source tweet](https://x.com/XSydneyFan/status/2048114180906217566) · Tags: `character`
+👤 [@gh-XSydneyFan](https://x.com/gh-XSydneyFan) · [Source](https://x.com/XSydneyFan/status/2048114180906217566) · Tags: `character`
 
 ---
 
 #### 86. 3D CGI cartoon caricature
 
-<img src="images/awesome-gpt2/portrait/87.jpg" alt="3D CGI cartoon caricature" width="560">
+<img src="images/prompts/86.jpg" alt="3D CGI cartoon caricature" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2183,13 +2315,13 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 </details>
 
-👤 [@gh-Inshrah_ali_](https://x.com/gh-Inshrah_ali_) · [Source tweet](https://x.com/Inshrah_ali_/status/2048121503367995753) · Tags: `character` `illustration`
+👤 [@gh-Inshrah_ali_](https://x.com/gh-Inshrah_ali_) · [Source](https://x.com/Inshrah_ali_/status/2048121503367995753) · Tags: `character`
 
 ---
 
 #### 87. Engraved hooded bearded portrait
 
-<img src="images/awesome-gpt2/portrait/85.jpg" alt="Engraved hooded bearded portrait" width="560">
+<img src="images/prompts/87.jpg" alt="Engraved hooded bearded portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2199,13 +2331,13 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 
 </details>
 
-👤 [@gh-gdb](https://x.com/gh-gdb) · [Source tweet](https://x.com/gdb/status/2048184698195870102) · Tags: `character` `illustration`
+👤 [@gh-gdb](https://x.com/gh-gdb) · [Source](https://x.com/gdb/status/2048184698195870102) · Tags: `character`
 
 ---
 
 #### 88. Pen-and-ink family portrait
 
-<img src="images/awesome-gpt2/portrait/84.jpg" alt="Pen-and-ink family portrait" width="560">
+<img src="images/prompts/88.jpg" alt="Pen-and-ink family portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2215,13 +2347,13 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 
 </details>
 
-👤 [@gh-gdb](https://x.com/gh-gdb) · [Source tweet](https://x.com/gdb/status/2048184698195870102) · Tags: `character` `illustration`
+👤 [@gh-gdb](https://x.com/gh-gdb) · [Source](https://x.com/gdb/status/2048184698195870102) · Tags: `character`
 
 ---
 
 #### 89. Bedroom phone close selfie
 
-<img src="images/awesome-gpt2/portrait/30.jpg" alt="Bedroom phone close selfie" width="560">
+<img src="images/prompts/89.jpg" alt="Bedroom phone close selfie" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2245,13 +2377,13 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 
 </details>
 
-👤 [@gh-ChillaiKalan__](https://x.com/gh-ChillaiKalan__) · [Source tweet](https://x.com/ChillaiKalan__/status/2047862141894681076) · Tags: `branding`
+👤 [@gh-ChillaiKalan__](https://x.com/gh-ChillaiKalan__) · [Source](https://x.com/ChillaiKalan__/status/2047862141894681076) · Tags: `branding`
 
 ---
 
 #### 90. Rugged man side-profile
 
-<img src="images/awesome-gpt2/portrait/29.jpg" alt="Rugged man side-profile" width="560">
+<img src="images/prompts/90.jpg" alt="Rugged man side-profile" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2261,13 +2393,13 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 
 </details>
 
-👤 [@gh-iamsofiaijaz](https://x.com/gh-iamsofiaijaz) · [Source tweet](https://x.com/iamsofiaijaz/status/2047882171336253928) · Tags: `character`
+👤 [@gh-iamsofiaijaz](https://x.com/gh-iamsofiaijaz) · [Source](https://x.com/iamsofiaijaz/status/2047882171336253928) · Tags: `character`
 
 ---
 
 #### 91. Old Delhi sweet shop
 
-<img src="images/awesome-gpt2/portrait/28.jpg" alt="Old Delhi sweet shop" width="560">
+<img src="images/prompts/91.jpg" alt="Old Delhi sweet shop" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2277,13 +2409,13 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 
 </details>
 
-👤 [@gh-commanderdgr8](https://x.com/gh-commanderdgr8) · [Source tweet](https://x.com/commanderdgr8/status/2047889839123521635)
+👤 [@gh-commanderdgr8](https://x.com/gh-commanderdgr8) · [Source](https://x.com/commanderdgr8/status/2047889839123521635)
 
 ---
 
 #### 92. Musician at a downtown bodega
 
-<img src="images/awesome-gpt2/portrait/27.jpg" alt="Musician at a downtown bodega" width="560">
+<img src="images/prompts/92.jpg" alt="Musician at a downtown bodega" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2293,13 +2425,13 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 
 </details>
 
-👤 [@gh-commanderdgr8](https://x.com/gh-commanderdgr8) · [Source tweet](https://x.com/commanderdgr8/status/2047934886124867684)
+👤 [@gh-commanderdgr8](https://x.com/gh-commanderdgr8) · [Source](https://x.com/commanderdgr8/status/2047934886124867684)
 
 ---
 
 #### 93. Honey-blonde candid selfie
 
-<img src="images/awesome-gpt2/portrait/26.jpg" alt="Honey-blonde candid selfie" width="560">
+<img src="images/prompts/93.jpg" alt="Honey-blonde candid selfie" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2309,13 +2441,13 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 
 </details>
 
-👤 [@gh-charliejhills](https://x.com/gh-charliejhills) · [Source tweet](https://x.com/charliejhills/status/2047969988368314526) · Tags: `branding`
+👤 [@gh-charliejhills](https://x.com/gh-charliejhills) · [Source](https://x.com/charliejhills/status/2047969988368314526) · Tags: `branding`
 
 ---
 
 #### 94. Slim man with blue 2017 Mustang
 
-<img src="images/awesome-gpt2/portrait/25.jpg" alt="Slim man with blue 2017 Mustang" width="560">
+<img src="images/prompts/94.jpg" alt="Slim man with blue 2017 Mustang" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2335,13 +2467,13 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 </details>
 
-👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source tweet](https://x.com/harboriis/status/2047175250761433416)
+👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source](https://x.com/harboriis/status/2047175250761433416)
 
 ---
 
 #### 95. Vintage newspaper front page
 
-<img src="images/awesome-gpt2/portrait/19.jpg" alt="Vintage newspaper front page" width="560">
+<img src="images/prompts/95.jpg" alt="Vintage newspaper front page" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2368,13 +2500,13 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 </details>
 
-👤 [@gh-Naiknelofar788](https://x.com/gh-Naiknelofar788) · [Source tweet](https://x.com/Naiknelofar788/status/2047207812800147647) · Tags: `poster`
+👤 [@gh-Naiknelofar788](https://x.com/gh-Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2047207812800147647) · Tags: `poster`
 
 ---
 
 #### 96. 'The me you know' portrait
 
-<img src="images/awesome-gpt2/portrait/18.jpg" alt="'The me you know' portrait" width="560">
+<img src="images/prompts/96.jpg" alt="'The me you know' portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2384,13 +2516,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-80vul](https://x.com/gh-80vul) · [Source tweet](https://x.com/80vul/status/2046218165961753047) · Tags: `illustration`
+👤 [@gh-80vul](https://x.com/gh-80vul) · [Source](https://x.com/80vul/status/2046218165961753047) · Tags: `illustration`
 
 ---
 
 #### 97. Fuji film couple portrait 9:16
 
-<img src="images/awesome-gpt2/portrait/17.jpg" alt="Fuji film couple portrait 9:16" width="560">
+<img src="images/prompts/97.jpg" alt="Fuji film couple portrait 9:16" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2400,13 +2532,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046502288102170757)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046502288102170757)
 
 ---
 
 #### 98. Korean idol mist filter
 
-<img src="images/awesome-gpt2/portrait/16.jpg" alt="Korean idol mist filter" width="560">
+<img src="images/prompts/98.jpg" alt="Korean idol mist filter" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2416,13 +2548,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046518189509734903)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046518189509734903)
 
 ---
 
 #### 99. Fuji film Japanese portrait
 
-<img src="images/awesome-gpt2/portrait/15.jpg" alt="Fuji film Japanese portrait" width="560">
+<img src="images/prompts/99.jpg" alt="Fuji film Japanese portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2432,13 +2564,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046483268019884384)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046483268019884384)
 
 ---
 
 #### 100. Editorial misty Korean portrait
 
-<img src="images/awesome-gpt2/portrait/14.jpg" alt="Editorial misty Korean portrait" width="560">
+<img src="images/prompts/100.jpg" alt="Editorial misty Korean portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2448,13 +2580,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046434670724907395)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046434670724907395)
 
 ---
 
 #### 101. Korean idol 3x3 photoshoot
 
-<img src="images/awesome-gpt2/portrait/13.jpg" alt="Korean idol 3x3 photoshoot" width="560">
+<img src="images/prompts/101.jpg" alt="Korean idol 3x3 photoshoot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2464,13 +2596,13 @@ Based on what you know about me, generate an image of 'the me you know.'
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046151898621993364) · Tags: `comparison`
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046151898621993364) · Tags: `comparison`
 
 ---
 
 #### 102. CCD flash Korean idol snapshot
 
-<img src="images/awesome-gpt2/portrait/12.jpg" alt="CCD flash Korean idol snapshot" width="560">
+<img src="images/prompts/102.jpg" alt="CCD flash Korean idol snapshot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2480,13 +2612,13 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046190539213885806) · Tags: `branding`
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046190539213885806) · Tags: `branding`
 
 ---
 
 #### 103. 3x3 Korean idol grid 9:16
 
-<img src="images/awesome-gpt2/portrait/11.jpg" alt="3x3 Korean idol grid 9:16" width="560">
+<img src="images/prompts/103.jpg" alt="3x3 Korean idol grid 9:16" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2496,13 +2628,13 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046268941941850575) · Tags: `comparison`
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046268941941850575) · Tags: `comparison`
 
 ---
 
 #### 104. Sam Altman skatepark photo
 
-<img src="images/awesome-gpt2/portrait/10.jpg" alt="Sam Altman skatepark photo" width="560">
+<img src="images/prompts/104.jpg" alt="Sam Altman skatepark photo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2512,13 +2644,13 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 </details>
 
-👤 [@gh-Malek1173989](https://x.com/gh-Malek1173989) · [Source tweet](https://x.com/Malek1173989/status/2045836887684694395) · Tags: `character`
+👤 [@gh-Malek1173989](https://x.com/gh-Malek1173989) · [Source](https://x.com/Malek1173989/status/2045836887684694395) · Tags: `character`
 
 ---
 
 #### 105. 7/10 body young woman portrait
 
-<img src="images/awesome-gpt2/portrait/9.jpg" alt="7/10 body young woman portrait" width="560">
+<img src="images/prompts/105.jpg" alt="7/10 body young woman portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2528,13 +2660,13 @@ The image is a medium close-up shot at eye level, focused on a young woman. She 
 
 </details>
 
-👤 [@gh-Tz_2022](https://x.com/gh-Tz_2022) · [Source tweet](https://x.com/Tz_2022/status/2045892003775361198) · Tags: `character`
+👤 [@gh-Tz_2022](https://x.com/gh-Tz_2022) · [Source](https://x.com/Tz_2022/status/2045892003775361198) · Tags: `character`
 
 ---
 
 #### 106. Anime cosplayer phone screenshot
 
-<img src="images/awesome-gpt2/portrait/8.jpg" alt="Anime cosplayer phone screenshot" width="560">
+<img src="images/prompts/106.jpg" alt="Anime cosplayer phone screenshot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2544,13 +2676,13 @@ Generate an image styled like a vertical phone screenshot, with overall ratio cl
 
 </details>
 
-👤 [@gh-Zoulinshen](https://x.com/gh-Zoulinshen) · [Source tweet](https://x.com/Zoulinshen/status/2045082518089810073) · Tags: `character` `infographic`
+👤 [@gh-Zoulinshen](https://x.com/gh-Zoulinshen) · [Source](https://x.com/Zoulinshen/status/2045082518089810073) · Tags: `character`
 
 ---
 
 #### 107. Luxury glam Black woman
 
-<img src="images/awesome-gpt2/portrait/7.jpg" alt="Luxury glam Black woman" width="560">
+<img src="images/prompts/107.jpg" alt="Luxury glam Black woman" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2560,13 +2692,13 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 </details>
 
-👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source tweet](https://x.com/patrickassale/status/2044581766309060765) · Tags: `character`
+👤 [@gh-patrickassale](https://x.com/gh-patrickassale) · [Source](https://x.com/patrickassale/status/2044581766309060765) · Tags: `character`
 
 ---
 
 #### 108. Japanese airy 35mm portrait
 
-<img src="images/awesome-gpt2/portrait/6.jpg" alt="Japanese airy 35mm portrait" width="560">
+<img src="images/prompts/108.jpg" alt="Japanese airy 35mm portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2576,13 +2708,13 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2046115431144902732) · Tags: `character`
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2046115431144902732) · Tags: `character`
 
 ---
 
 #### 109. Chinese girl mirror selfie
 
-<img src="images/awesome-gpt2/portrait/5.jpg" alt="Chinese girl mirror selfie" width="560">
+<img src="images/prompts/109.jpg" alt="Chinese girl mirror selfie" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2593,13 +2725,13 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 </details>
 
-👤 [@gh-Shinning1010](https://x.com/gh-Shinning1010) · [Source tweet](https://x.com/Shinning1010/status/2045002808903020962) · Tags: `branding`
+👤 [@gh-Shinning1010](https://x.com/gh-Shinning1010) · [Source](https://x.com/Shinning1010/status/2045002808903020962) · Tags: `branding`
 
 ---
 
 #### 110. 35mm direct flash portrait
 
-<img src="images/awesome-gpt2/portrait/4.jpg" alt="35mm direct flash portrait" width="560">
+<img src="images/prompts/110.jpg" alt="35mm direct flash portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2609,13 +2741,13 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2045052982728016131)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2045052982728016131)
 
 ---
 
 #### 111. Onsen ryokan 35mm portrait
 
-<img src="images/awesome-gpt2/portrait/3.jpg" alt="Onsen ryokan 35mm portrait" width="560">
+<img src="images/prompts/111.jpg" alt="Onsen ryokan 35mm portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2625,13 +2757,13 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2045092449803284923)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2045092449803284923)
 
 ---
 
 #### 112. Solitary man in red gradient
 
-<img src="images/awesome-gpt2/portrait/2.jpg" alt="Solitary man in red gradient" width="560">
+<img src="images/prompts/112.jpg" alt="Solitary man in red gradient" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2641,13 +2773,13 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 </details>
 
-👤 [@gh-iam_miharbi](https://x.com/gh-iam_miharbi) · [Source tweet](https://x.com/iam_miharbi/status/2045151354679665101)
+👤 [@gh-iam_miharbi](https://x.com/gh-iam_miharbi) · [Source](https://x.com/iam_miharbi/status/2045151354679665101)
 
 ---
 
 #### 113. Convenience store 35mm portrait
 
-<img src="images/awesome-gpt2/portrait/1.jpg" alt="Convenience store 35mm portrait" width="560">
+<img src="images/prompts/113.jpg" alt="Convenience store 35mm portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2657,13 +2789,13 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 </details>
 
-👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source tweet](https://x.com/BubbleBrain/status/2045167461147042202)
+👤 [@gh-BubbleBrain](https://x.com/gh-BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2045167461147042202)
 
 ---
 
 #### 114. Elon livestream UI mockup
 
-<img src="images/awesome-gpt2/ecommerce/89.jpg" alt="Elon livestream UI mockup" width="560">
+<img src="images/prompts/114.jpg" alt="Elon livestream UI mockup" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2719,7 +2851,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 </details>
 
-👤 [@gh-sjbbxhz](https://x.com/gh-sjbbxhz) · [Source tweet](https://x.com/sjbbxhz/status/2045684734714380687) · Tags: `product` `branding`
+👤 [@gh-sjbbxhz](https://x.com/gh-sjbbxhz) · [Source](https://x.com/sjbbxhz/status/2045684734714380687) · Tags: `product`
 
 ---
 
@@ -2735,13 +2867,7 @@ Blurry amateur Asian super model in the middle of Taiwan old street at night ful
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049180168623661379-1.jpg" width="320">
-
-</details>
-
-👤 [@DanjiTosaka](https://x.com/DanjiTosaka) · [Source tweet](https://x.com/DanjiTosaka/status/2049180168623661379) · Tags: `character`
+👤 [@DanjiTosaka](https://x.com/DanjiTosaka) · [Source](https://x.com/DanjiTosaka/status/2049180168623661379) · Tags: `character`
 
 ---
 
@@ -2778,15 +2904,7 @@ Cheat Sheet
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049059204632080436-1.jpg" width="320">
-<img src="images/prompts/2049059204632080436-2.jpg" width="320">
-<img src="images/prompts/2049059204632080436-3.jpg" width="320">
-
-</details>
-
-👤 [@yourPlugAI](https://x.com/yourPlugAI) · Tags: `product` `branding`
+👤 [@yourPlugAI](https://x.com/yourPlugAI) · Tags: `product`
 
 ---
 
@@ -2807,13 +2925,13 @@ High contrast, HDR lighting, sharp focus, fashion editorial motorsport compositi
 
 </details>
 
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `character` `comparison`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `character`
 
 ---
 
 #### 118. Queen of Spades sorcerer poster
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048805574176112646/0.jpg" alt="Queen of Spades sorcerer poster" width="560">
+<img src="images/prompts/2048805574176112646.jpg" alt="Queen of Spades sorcerer poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -2828,7 +2946,7 @@ Photorealistic face, epic fantasy realism, movie poster composition, high contra
 
 </details>
 
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `poster`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
@@ -2977,14 +3095,6 @@ Emotion name: [name]
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048798194348515567-1.jpg" width="320">
-<img src="images/prompts/2048798194348515567-2.jpg" width="320">
-<img src="images/prompts/2048798194348515567-3.jpg" width="320">
-
-</details>
-
 👤 [@liyue_ai](https://x.com/liyue_ai) · Tags: `poster`
 
 ---
@@ -3001,7 +3111,7 @@ Low-angle fashion campaign photograph of a confident model holding a large [prod
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product` `branding`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product`
 
 ---
 
@@ -3085,7 +3195,7 @@ High resolution, commercial-level quality
 
 </details>
 
-👤 [@konmari_tweet](https://x.com/konmari_tweet) · Tags: `poster` `comparison`
+👤 [@konmari_tweet](https://x.com/konmari_tweet) · Tags: `poster`
 
 ---
 
@@ -3138,15 +3248,7 @@ Hip-hop fashion model standing full-frame, clothing distorted into stretched str
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048599189681291673-1.jpg" width="320">
-<img src="images/prompts/2048599189681291673-2.jpg" width="320">
-<img src="images/prompts/2048599189681291673-3.jpg" width="320">
-
-</details>
-
-👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · Tags: `character` `poster`
+👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · Tags: `character`
 
 ---
 
@@ -3162,7 +3264,7 @@ Create a dark, high‑contrast poster with a moody, underground club aesthetic. 
 
 </details>
 
-👤 [@SyntheSarah](https://x.com/SyntheSarah) · Tags: `character` `poster`
+👤 [@SyntheSarah](https://x.com/SyntheSarah) · Tags: `character`
 
 ---
 
@@ -3224,15 +3326,7 @@ Output: 4K, high detail, commercial advertising quality
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048032278660477297-1.jpg" width="320">
-<img src="images/prompts/2048032278660477297-2.jpg" width="320">
-<img src="images/prompts/2048032278660477297-3.jpg" width="320">
-
-</details>
-
-👤 [@yamayamajobrock](https://x.com/yamayamajobrock) · [Source tweet](https://x.com/yamayamajobrock/status/2048032278660477297) · Tags: `product` `poster`
+👤 [@yamayamajobrock](https://x.com/yamayamajobrock) · [Source](https://x.com/yamayamajobrock/status/2048032278660477297) · Tags: `product`
 
 ---
 
@@ -3248,15 +3342,7 @@ Boyfriend's perspective: Waking up in the morning, a Korean cosplayer dressed as
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048018805729992820-1.jpg" width="320">
-<img src="images/prompts/2048018805729992820-2.jpg" width="320">
-<img src="images/prompts/2048018805729992820-3.jpg" width="320">
-
-</details>
-
-👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source tweet](https://x.com/underwoodxie96/status/2048018805729992820) · Tags: `character`
+👤 [@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2048018805729992820) · Tags: `character`
 
 ---
 
@@ -3286,7 +3372,7 @@ High contrast, HDR lighting, sharp focus, fashion editorial composition, surreal
 
 </details>
 
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `character` `comparison`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `character`
 
 ---
 
@@ -3324,21 +3410,13 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 
 #### 132. Editorial style creative scene v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047631914769756180/0.jpg" alt="Editorial style creative scene v2" width="560">
+<img src="images/prompts/2047631914769756180.jpg" alt="Editorial style creative scene v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
 A soft-focus dream photograph of a [subject] in a [setting], seen through translucent fabric and [atmospheric element], delicate silhouettes, desaturated [color1] and [color2] palette, diffused light, intimate mood, ethereal editorial atmosphere
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047631914769756180/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047631914769756180/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047631914769756180/3.jpg" width="320">
 
 </details>
 
@@ -3364,7 +3442,7 @@ Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, s
 
 #### 134. Editorial style king v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047550158427259188/0.jpg" alt="Editorial style king v2" width="560">
+<img src="images/prompts/2047550158427259188.jpg" alt="Editorial style king v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3377,13 +3455,13 @@ No text, no typography, no logos, no brand names, no product bottles, no packagi
 
 </details>
 
-👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character` `branding`
+👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character`
 
 ---
 
 #### 135. Cinematic lighting king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047541284005453933/0.jpg" alt="Cinematic lighting king" width="560">
+<img src="images/prompts/2047541284005453933.jpg" alt="Cinematic lighting king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3400,13 +3478,13 @@ Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic colo
 
 </details>
 
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `character` `poster`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `character`
 
 ---
 
 #### 136. Cinematic lighting portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047325329052823996/0.jpg" alt="Cinematic lighting portrait" width="560">
+<img src="images/prompts/2047325329052823996.jpg" alt="Cinematic lighting portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3416,19 +3494,13 @@ Cinematic portrait of [Athlete Name] showing his/her journey, with bold text of 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047325329052823996/1.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `character`
 
 ---
 
 #### 137. Cinematic lighting king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047276802620411960/0.jpg" alt="Cinematic lighting king" width="560">
+<img src="images/prompts/2047276802620411960.jpg" alt="Cinematic lighting king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3445,7 +3517,7 @@ negative prompt: distorted face, changed identity, altered hairstyle, flat light
 
 #### 138. Editorial style character desi
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047207812800147647/0.jpg" alt="Editorial style character desi" width="560">
+<img src="images/prompts/2047207812800147647.jpg" alt="Editorial style character desi" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3472,21 +3544,13 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047207812800147647/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047207812800147647/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047207812800147647/3.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `poster`
 
 ---
 
 #### 139. Editorial style woman portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047178898375426212/0.jpg" alt="Editorial style woman portrait" width="560">
+<img src="images/prompts/2047178898375426212.jpg" alt="Editorial style woman portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -3506,25 +3570,19 @@ Ultra photorealistic, 8K, real magazine cover quality, perfect typography placem
 
 </details>
 
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `character` `poster`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `character`
 
 ---
 
 #### 140. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046924538643107922/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2046924538643107922.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
 Photo shoot of the Green Snake (Xiao Qing): green skin-tight scale-pattern dress, wet hair and red lips, alluring and seductive.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046924538643107922/1.jpg" width="320">
 
 </details>
 
@@ -3576,13 +3634,6 @@ Photorealistic iPhone candid of a woman on an escalator, using the exact face an
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045753728897331649-1.jpg" width="320">
-<img src="images/prompts/2045753728897331649-2.jpg" width="320">
-
-</details>
-
 👤 [@Ciri_ai](https://x.com/Ciri_ai) · Tags: `character`
 
 ---
@@ -3615,12 +3666,6 @@ A striking editorial portrait photograph of a person wearing a red blazer, shot 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045689019007426749-1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
@@ -3634,12 +3679,6 @@ A striking editorial portrait photograph of a person wearing a red blazer, shot 
 ```text
 Photorealistic printed portrait of a young woman using the exact same face from the reference image. Centered head-and-shoulders composition like a school ID photo. She wears a navy blazer, white shirt and tie. Direct flash lighting creates even exposure and bright eye reflections. Subtle semi-gloss print shine with mild glare and fine paper grain. Cool blue backdrop, slight ink warmth, realistic scanned photo look.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045554188877524994-1.jpg" width="320">
 
 </details>
 
@@ -3659,14 +3698,6 @@ Create a digital modern maximalism style sports collage of [TEAm Name] [Player n
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045387100842070500-1.jpg" width="320">
-<img src="images/prompts/2045387100842070500-2.jpg" width="320">
-<img src="images/prompts/2045387100842070500-3.jpg" width="320">
-
-</details>
-
 👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · Tags: `poster`
 
 ---
@@ -3680,12 +3711,6 @@ Create a digital modern maximalism style sports collage of [TEAm Name] [Player n
 ```text
 Photorealistic editorial portrait of a smiling woman using the exact same face from the reference image. She wears oversized black sunglasses with orange lenses and small gold earrings. Slightly leaning forward in a close wide-angle perspective, with a playful, mischievous expression and subtle smirk. Clean blue studio background with soft gradient. Bright soft lighting with gentle contrast, sharp focus, minimal high-fashion mood.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045337223638515794-1.jpg" width="320">
 
 </details>
 
@@ -3709,7 +3734,7 @@ Lighting & Format: Natural light, aspect ratio 1080:1350 (4:5).
 
 </details>
 
-👤 [@ZaraIrahh](https://x.com/ZaraIrahh) · Tags: `character` `branding`
+👤 [@ZaraIrahh](https://x.com/ZaraIrahh) · Tags: `character`
 
 ---
 
@@ -3722,12 +3747,6 @@ Lighting & Format: Natural light, aspect ratio 1080:1350 (4:5).
 ```text
 Close-up portrait of a woman (Same face as reference image)looking directly at the camera. Her face and neck are mostly obscured by deep shadow. A single, narrow horizontal band of light cuts across her face, illuminating only her eyes and the bridge of his nose. He has a strong, defined jawline and short, textured hair. She is wearing a simple black shirt. The background is a plain, overcast grayish-blue sky. Dramatic, high-contrast lighting creates a moody, cinematic atmosphere.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044775603145224640-1.jpg" width="320">
 
 </details>
 
@@ -3800,13 +3819,6 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044511721205993480-1.jpg" width="320">
-<img src="images/prompts/2044511721205993480-2.jpg" width="320">
-
-</details>
-
 👤 [@GlenaJenne](https://x.com/GlenaJenne) · Tags: `character`
 
 ---
@@ -3844,14 +3856,6 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044495725053284467-1.jpg" width="320">
-<img src="images/prompts/2044495725053284467-2.jpg" width="320">
-<img src="images/prompts/2044495725053284467-3.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman) · Tags: `character`
 
 ---
@@ -3865,12 +3869,6 @@ Cinematic street portrait of a young woman walking through a busy shopping stree
 ```text
 Ultra wide-angle low-angle portrait shot from ground perspective, young woman leaning over camera, hands reaching toward lens creating foreground distortion, bright midday sun with strong lens flare, clear blue sky background, wind-blown messy hair glowing in backlight, soft freckles and natural skin texture, wearing cozy cream knit sweater and mustard wide-leg pants, cinematic lighting, shallow depth of field, high detail, 35mm fisheye look, vibrant colors, fashion editorial style
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044411171433075106-1.jpg" width="320">
 
 </details>
 
@@ -3890,7 +3888,7 @@ Ultra wide-angle low-angle portrait shot from ground perspective, young woman le
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character` `3d-render`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character`
 
 ---
 
@@ -3912,14 +3910,6 @@ The overall mood should feel cinematic, mysterious, moody, aesthetic, and intima
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2043677756467319089-1.jpg" width="320">
-<img src="images/prompts/2043677756467319089-2.jpg" width="320">
-<img src="images/prompts/2043677756467319089-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character`
 
 ---
@@ -3933,13 +3923,6 @@ The overall mood should feel cinematic, mysterious, moody, aesthetic, and intima
 ```text
 {   "subject": {     "description": "Young Asian woman playfully posing in a bathtub",     "mirror_rules": "",     "age": "early 20s",     "expression": {       "eyes": {         "look": "playful",         "energy": "bright",         "direction": "off-camera right"       },       "mouth": {         "position": "gentle smile",         "energy": "cute"       },       "overall": "cheerful and relaxed"     },     "face": {       "preserve_original": "true",       "makeup": "soft pink blush, glossy lips, Japanese idol style"     }   },   "hair": {     "color": "dark brown",     "style": "messy high top knot, wispy bangs",     "effect": "wet roots, patches of white bath foam stuck to hair"   },   "body": {     "frame": "petite",     "waist": "hidden",     "chest": "heavy cleavage resting on the tub edge",     "legs": "hidden",     "skin": {       "visible_areas": "shoulders, arms, upper chest, face",       "tone": "fair, pale",       "texture": "smooth, wet, soapy",       "lighting_effect": "soft diffused highlights bouncing off the white tub onto the chest"     }   },   "pose": {     "position": "leaning forward",     "base": "forearms and chest supported by the bathtub rim",     "overall": "hands gently framing the face, fingers touching cheeks casually"   },   "clothing": {     "top": {       "type": "none, bare skin covered in bath foam",       "color": "white",       "details": "sudsy foam patches",       "effect": "clinging to wet skin"     },     "bottom": {       "type": "hidden",       "color": "",       "details": ""     }   },   "photography": {     "camera_style": "smartphone casual portrait",     "angle": "high angle, slightly tilted down",     "shot_type": "medium close-up",     "aspect_ratio": "4:3",     "texture": "slight digital noise, snapshot feel",     "lighting": "bright, soft diffused ambient bathroom light",     "depth_of_field": "shallow, background gently blurred"   },   "background": {     "setting": "modern bathroom with a small indoor garden",     "wall_color": "grey stone tiles",     "elements": [       "white bathtub rim",       "green potted plants",       "hanging vines",       "frosted glass pane"     ],     "atmosphere": "fresh, humid",     "lighting": "bright ambient daylight filtering in"   },   "the_vibe": {     "energy": "bubbly, flirtatious",     "mood": "playful",     "aesthetic": "Japanese gravure, soft girl",     "authenticity": "casual everyday snap, unposed feel",     "intimacy": "high, girlfriend perspective",     "story": "was playing with bubbles during a bath",     "caption_energy": "bath time fun"   },   "constraints": {     "must_keep": [       "foam on nose",       "foam in hair",       "chest heavily resting on tub rim",       "hands touching face"     ],     "avoid": [       "overly polished studio look",       "stiff posing",       "full nudity without foam covering",       "harsh shadows"     ]   },   "negative_prompt": [     "nsfw",     "fully nude",     "harsh shadows",     "stiff pose",     "studio lighting",     "heavy makeup",     "perfect symmetry",     "dry skin"   ] }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2043565528615371229-1.jpg" width="320">
-<img src="images/prompts/2043565528615371229-2.jpg" width="320">
 
 </details>
 
@@ -4043,13 +4026,6 @@ Captured with an 85mm lens in a medium close-up composition, with a shallow dept
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2043449707314487616-1.jpg" width="320">
-<img src="images/prompts/2043449707314487616-2.jpg" width="320">
 
 </details>
 
@@ -4178,12 +4154,6 @@ Captured with an 85mm lens in a medium close-up composition, with a shallow dept
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2043272414918771047-1.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -4200,7 +4170,7 @@ Transform the person from the attached photo into a smooth stylized 3D cartoon c
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -4272,12 +4242,6 @@ Transform the person from the attached photo into a smooth stylized 3D cartoon c
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042910026658930983-1.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -4298,14 +4262,7 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042785774245154868-1.jpg" width="320">
-<img src="images/prompts/2042785774245154868-2.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product` `illustration`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
@@ -4356,14 +4313,6 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042663199892488585-1.jpg" width="320">
-<img src="images/prompts/2042663199892488585-2.jpg" width="320">
-<img src="images/prompts/2042663199892488585-3.jpg" width="320">
-
-</details>
-
 👤 [@GlenaJenne](https://x.com/GlenaJenne)
 
 ---
@@ -4382,14 +4331,6 @@ The visual style combines crisp, clean line art with vibrant flat colors and sof
 Lighting is bright, even, and diffused across the entire scene, minimizing harsh shadows while maximizing clarity and detail.
 Ultra-detailed, sharp focus, 8K resolution, vertical composition
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042609010659201189-1.jpg" width="320">
-<img src="images/prompts/2042609010659201189-2.jpg" width="320">
-<img src="images/prompts/2042609010659201189-3.jpg" width="320">
 
 </details>
 
@@ -4618,14 +4559,6 @@ She poses as if holding a white paper cup to her ear, listening. Her expression 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041689986781868223-1.jpg" width="320">
-<img src="images/prompts/2041689986781868223-2.jpg" width="320">
-<img src="images/prompts/2041689986781868223-3.jpg" width="320">
-
-</details>
-
 👤 [@sumiturkude007](https://x.com/sumiturkude007)
 
 ---
@@ -4639,13 +4572,6 @@ She poses as if holding a white paper cup to her ear, listening. Her expression 
 ```text
 A minimalist black and white cinematic portrait featuring two individuals (male and female) in strict side profile, both facing the same direction with calm, introspective expressions, wearing elegant black turtlenecks. The scene is set against a pure black background with dramatic rim lighting outlining their facial contours and hair strands. High contrast lighting creates deep shadows and soft highlights, emphasizing sharp facial structure and texture. Fine art editorial photography style, ultra-realistic, clean composition, subtle film grain, 8K resolution.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041463539047735472-1.jpg" width="320">
-<img src="images/prompts/2041463539047735472-2.jpg" width="320">
 
 </details>
 
@@ -4665,13 +4591,6 @@ A minimalist black and white cinematic portrait featuring two individuals (male 
   "text": "Ultra-realistic 9:16 portrait in a vintage, high-contrast editorial style. The subject is Jisoo of BLACKPINK, featuring her elegant heart-shaped lips, double eyelids, and sophisticated, symmetrical facial features with a porcelain skin tone and dark expressive eyes. She is standing and leaning back against an ornate grand piano, with both arms spread and resting along the piano edge. Her head is slightly tilted back, with a relaxed, sultry pose and parted lips. She is wearing a deep red satin corset top with a low sweetheart neckline and front hook-and-eye closures, paired with black leather pants. Accessories include gold hoop earrings, layered thin gold necklaces with a dark cross pendant, and a thin gold bracelet. The setting is an ornate vintage-style room with a warm, dim ambiance. The piano is black with twisted gold-leaf legs and gold panel detailing. The background features a textured terracotta wall, a framed landscape painting in a heavy gold frame, and faint microphone stands visible on the right. Lighting is direct front flash, creating high contrast with strong shadows cast onto the back wall. High detail, sharp textures, cinematic editorial photography style, shallow depth of field, crisp focus on the subject. --ar 9:16"
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041413918019780792-1.jpg" width="320">
-<img src="images/prompts/2041413918019780792-2.jpg" width="320">
 
 </details>
 
@@ -4729,14 +4648,6 @@ Face reference: soft oval face, smooth glowing skin, symmetrical features, natur
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041238850962382939-1.jpg" width="320">
-<img src="images/prompts/2041238850962382939-2.jpg" width="320">
-<img src="images/prompts/2041238850962382939-3.jpg" width="320">
-
-</details>
-
 👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding`
 
 ---
@@ -4780,7 +4691,7 @@ No text, no logos, no typography anywhere in the image.
 
 </details>
 
-👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character` `branding`
+👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character`
 
 ---
 
@@ -4891,12 +4802,6 @@ Color Grade: Desaturated cool tones with high contrast. High-resolution digital 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041020925706117267-1.jpg" width="320">
-
-</details>
-
 👤 [@rovvmut_](https://x.com/rovvmut_)
 
 ---
@@ -4910,12 +4815,6 @@ Color Grade: Desaturated cool tones with high contrast. High-resolution digital 
 ```text
 {   "subject": {     "description": "Extreme close-up profile portrait of a young woman resting.",     "mirror_rules": null,     "age": "Early 20s",     "expression": {       "eyes": {         "look": "closed",         "energy": "peaceful, resting",         "direction": "downward/closed"       },       "mouth": {         "position": "slightly parted, relaxed",         "energy": "vulnerable, natural"       },       "overall": "serene and defenseless"     },     "face": {       "preserve_original": true,       "makeup": "Clean, dewy 'no-makeup' style popular in Asian beauty aesthetics. Soft pink blush, natural brushed brows, glossy hydrated lip tint."     }   },   "hair": {     "color": "Dark brown",     "style": "Tucked behind the ear, casual",     "effect": "Fine, messy stray strands casually falling across the cheek and forehead, adding realism."   },   "body": {     "frame": "Slender neck and delicate facial structure",     "waist": null,     "chest": null,     "legs": null,     "skin": {       "visible_areas": "Face, neck, collarbone, bare shoulder, and the hand/forearm supporting the head.",       "tone": "Fair, pale with subtle warm undertones",       "texture": "Dewy, smooth, feeling soft like velvet or hydrated silk.",       "lighting_effect": "Soft specular highlights physically reflecting off the nose tip, cheekbone, and lower lip."     }   },   "pose": {     "position": "Lying sideways",     "base": "Head resting on a textured fabric cushion and her own folded arm",     "overall": "Relaxed, heavy with sleep, passive"   },   "clothing": {     "top": {       "type": "Bare shoulder visible, implying a tank top or nothing",       "color": "N/A",       "details": "N/A",       "effect": "N/A"     },     "bottom": {       "type": null,       "color": null,       "details": null     }   },   "accessories": {     "headwear": null,     "jewelry": "Tiny silver star-shaped earring, very delicate thin chain necklace.",     "device": null,     "prop": null   },   "photography": {     "camera_style": "Intimate candid snapshot, slightly tilted perspective",     "angle": "Extreme close-up, slightly high angle looking down at the resting face",     "shot_type": "Macro portrait",     "aspect_ratio": "2:3",     "texture": "Slight film grain, soft focus, organic",     "lighting": "Soft, diffused directional light, likely from a nearby window, no harsh shadows.",     "depth_of_field": "Extremely shallow (f/1.4 to f/1.8), blurring out the neck, ear, and background completely."   },   "background": {     "setting": "Indoor bedroom or living space",     "wall_color": "Warm beige/cream",     "elements": [       "Textured gray-brown cushion foreground",       "Blurred architectural lines in the distance (doorframe/wall)"     ],     "atmosphere": "Quiet, isolated, warm",     "lighting": "Ambient room light"   },   "the_vibe": {     "energy": "Tranquil",     "mood": "Intimate and vulnerable",     "aesthetic": "Soft minimalism, delicate femininity",     "authenticity": "High; feels like a stolen, private moment rather than a posed shoot. Stray hairs and skewed framing enhance realism.",     "intimacy": "Extremely high, inside personal space",     "story": "She had fallen into a deep afternoon nap.",     "caption_energy": "Quiet moments."   },   "constraints": {     "must_keep": [       "Closed eyes with visible lashes",       "Slightly parted glossy lips",       "Stray hairs across face",       "Dewy skin highlights",       "Shallow depth of field"     ],     "avoid": [       "Open eyes",       "Harsh studio lighting",       "Matte skin",       "Heavy makeup",       "Perfectly styled hair",       "Sharp background"     ]   },   "negative_prompt": [     "open eyes",     "looking at camera",     "heavy makeup",     "matte skin",     "harsh shadows",     "flash lighting",     "sharp background",     "stiff pose",     "overexposed",     "plastic skin"   ] }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041002026616905820-1.jpg" width="320">
 
 </details>
 
@@ -4948,12 +4847,6 @@ cartoon, painting, sketch, 3D render, CGI, plastic skin, blurry, low quality, fe
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041000388133106148-1.jpg" width="320">
-
-</details>
-
 👤 [@imGopalTiwari](https://x.com/imGopalTiwari)
 
 ---
@@ -4970,13 +4863,7 @@ A highly detailed 3D caricature of a cheerful man with an oversized head, a big 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040971582303318487-1.jpg" width="320">
-
-</details>
-
-👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `character` `illustration`
+👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `character`
 
 ---
 
@@ -5068,14 +4955,6 @@ A [subject] photographed from a 35-degree overhead angle, standing alone in an o
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040745533858574471-1.jpg" width="320">
-<img src="images/prompts/2040745533858574471-2.jpg" width="320">
-<img src="images/prompts/2040745533858574471-3.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai)
 
 ---
@@ -5092,15 +4971,7 @@ Create a head-and-shoulders Pixar-style 3D avatar of an edgy person based on the
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040691670384366063-1.jpg" width="320">
-<img src="images/prompts/2040691670384366063-2.jpg" width="320">
-<img src="images/prompts/2040691670384366063-3.jpg" width="320">
-
-</details>
-
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character` `3d-render`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character`
 
 ---
 
@@ -5144,14 +5015,6 @@ photorealistic, no artifacts, no watermark --ar 9:16
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040553750755172616-1.jpg" width="320">
-<img src="images/prompts/2040553750755172616-2.jpg" width="320">
-<img src="images/prompts/2040553750755172616-3.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -5189,12 +5052,6 @@ Technical Specifications
 
 Lighting: Soft, even studio lighting with minimal shadows to create a clean, high-end commercial look.Background: A solid, minimalist light grey or off-white seamless studio backdrop.Composition: Vertical full-body shot, eye-level perspective, sharp focus, 8k https://t.co/rmgp3uk67G: Contemporary K-fashion editorial, soft color palette, polished and airy aesthetic.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040029384518901953-1.jpg" width="320">
 
 </details>
 
@@ -5322,13 +5179,6 @@ Lighting: Soft, even studio lighting with minimal shadows to create a clean, hig
   ]
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039986009476411400-1.jpg" width="320">
-<img src="images/prompts/2039986009476411400-2.jpg" width="320">
 
 </details>
 
@@ -5650,14 +5500,7 @@ A cinematic portrait of an Asian woman standing in a quiet forest, captured in a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039554164267610221-1.jpg" width="320">
-<img src="images/prompts/2039554164267610221-2.jpg" width="320">
-
-</details>
-
-👤 [@youngcatwoman](https://x.com/youngcatwoman) · Tags: `character` `illustration`
+👤 [@youngcatwoman](https://x.com/youngcatwoman) · Tags: `character`
 
 ---
 
@@ -5670,12 +5513,6 @@ A cinematic portrait of an Asian woman standing in a quiet forest, captured in a
 ```text
 Ultra-realistic portrait of a woman (from uploaded image), messy hair slightly windswept, wearing a worn leather jacket. Bright white car light sweeping across the face from one side to the other, freezing a moment of illumination while the rest fades into shadow. Night street environment, cinematic motion feel.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039207783384613057-1.jpg" width="320">
 
 </details>
 
@@ -5712,7 +5549,7 @@ Style: Clean sketchbook + graffiti undertone, realistic + pencil hybrid, ultra-d
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product` `infographic`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
@@ -5726,12 +5563,6 @@ Style: Clean sketchbook + graffiti undertone, realistic + pencil hybrid, ultra-d
 Create a 3:4 cinematic, atmospheric editorial portrait using the attached photo as the exact face and identity reference. A solitary man/woman stands alone in the middle of vast, wind-swept sage green grass fields. Tall grass surrounds the subject completely, flowing in strong currents like ocean waves, partially obscuring the body and creating motion,depth, and solitude. The subject wears a simple, loose white shirt that softly contrasts with the rich green landscape.
 Dark hair is slightly messy, with natural strands moving in the wind. The head is gently tilted downward, eyes cast toward the ground, conveying a quiet, introspective, melancholic mood. Expression is calm, distant, and emotionally restrained. Compose the frame slightly off-center, from a subtle elevated angle. No visible horizon, the frame is fully immersed in grass texture. Use a muted natural palette of sage green, deep olive, and soft off-white. Shoot vertical 3:4, telephoto perspective, shallow depth of field, cinematic framing. Film photography aesthetic with visible grain, soft edge falloff, atmospheric light, wind-driven motion blur in the grass. Quiet, poetic storytelling; ultra-detailed yet natural, magazine-cover editorial quality. No text, no watermark.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038617381388583283-1.jpg" width="320">
 
 </details>
 
@@ -5791,13 +5622,7 @@ Style: 3D cartoon realism, cinematic lighting, shallow depth of field, ultra-det
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038172237560439254-1.jpg" width="320">
-
-</details>
-
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `illustration` `3d-render`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `illustration`
 
 ---
 
@@ -5878,12 +5703,6 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
   "style": "photorealistic, high detail, editorial fashion photography"
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2037660838149210608-1.jpg" width="320">
 
 </details>
 
@@ -5978,13 +5797,6 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2037653892843114830-1.jpg" width="320">
-<img src="images/prompts/2037653892843114830-2.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -6001,7 +5813,7 @@ A hyper-realistic 3D photo concept showing a hand holding a square polaroid phot
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
@@ -6017,7 +5829,7 @@ Mixed-media portrait of [SUBJECT], [EXPRESSION], [GAZE DIRECTION], with [ACCESSO
 
 </details>
 
-👤 [@MayorKingAI](https://x.com/MayorKingAI) · Tags: `poster` `illustration`
+👤 [@MayorKingAI](https://x.com/MayorKingAI) · Tags: `poster`
 
 ---
 
@@ -6222,13 +6034,7 @@ Prompt(right):
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2036433262583628096-1.jpg" width="320">
-
-</details>
-
-👤 [@astronomerozge1](https://x.com/astronomerozge1) · Tags: `branding` `comparison`
+👤 [@astronomerozge1](https://x.com/astronomerozge1) · Tags: `branding`
 
 ---
 
@@ -6257,13 +6063,6 @@ Create a highly cinematic, realistic photo of a person using the face from the u
 ```text
 Photorealistic full body shot of BLACKPINK Rosé sitting sideways on an ancient stone ledge of a coastal cliffside overlooking the Mediterranean Sea. Rosé is instantly recognizable with her ethereal features, slim V-shaped face, and signature long strawberry-blonde hair. She has a very slender, delicate hourglass physique and porcelain fair skin reflecting the golden hour light. She wears a sleeveless baby blue satin co-ord set with elegant wide-leg trousers. Accessories include small gold hoop earrings, a thin gold bracelet on her left wrist, gold statement rings, and a structured dark brown leather crossbody bag. Sitting with her torso turned toward the camera, her left hand rests on the ledge for support. She maintains a relaxed, graceful expression with a soft smile. The background is a vibrant mix of blue sea, stone architecture with vines, and red European buildings. High resolution, 8k, quiet luxury style. --ar 9:16
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2036026418581172621-1.jpg" width="320">
-<img src="images/prompts/2036026418581172621-2.jpg" width="320">
 
 </details>
 
@@ -6310,7 +6109,7 @@ High contrast, clean 2D vector graphics.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character` `illustration`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character`
 
 ---
 
@@ -6341,13 +6140,6 @@ A highly detailed, photorealistic portrait of An Yujin from IVE, lying on her st
 
 A highly detailed, photorealistic portrait of Naoi Rei from IVE, lying on her stomach on a soft white bed. Naoi Rei has her adorable signature full cheeks, sharp cat-like eyes, porcelain skin, full lips, and straight dark hair with blunt bangs. She has her legs bent upwards at the knees with bare feet in the air behind her. She is reading a black-and-white manga comic book laid open in front of her, gently pointing at a panel with her index finger. She is wearing a loose-fitting, off-the-shoulder light lavender t-shirt that slips down one shoulder to reveal a delicate matching lace bralette underneath. The setting is a bright, sunlit bedroom with soft white sheets and natural window lighting. Soft glowing skin, shallow depth of field, blurred background, highly detailed face, cinematic lighting, 8k resolution --ar 9:16
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2035194436662305239-1.jpg" width="320">
-<img src="images/prompts/2035194436662305239-2.jpg" width="320">
 
 </details>
 
@@ -6385,7 +6177,7 @@ Respect reference face 100%.Respect all head accessories and hair exactly. Only 
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -6493,13 +6285,6 @@ mobile phone photo, CCD camera aesthetic, on-camera flash photography,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034704709647564838-1.jpg" width="320">
-<img src="images/prompts/2034704709647564838-2.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -6556,13 +6341,6 @@ mobile phone photo, CCD camera aesthetic, on-camera flash photography,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034035802142052381-1.jpg" width="320">
-<img src="images/prompts/2034035802142052381-2.jpg" width="320">
-
-</details>
-
 👤 [@youngcatwoman](https://x.com/youngcatwoman)
 
 ---
@@ -6580,13 +6358,6 @@ Image 2: Mid-shot — Kim Chaewon tilts her head slightly, the lollipop resting 
 Image 3: Side profile pose — Kim Chaewon looks over her shoulder while holding the lollipop near her chin, her distinctive profile on display with a confident and flirty expression. The texture of the red latex dress is visible. Soft studio lighting, blurred background, high-fashion editorial style.
 Overall Style: High-resolution, glossy magazine editorial look, soft glam makeup, cherry-red color theme, smooth skin retouching, aesthetic Instagram collage layout, clean white borders between images.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034002331340320770-1.jpg" width="320">
-<img src="images/prompts/2034002331340320770-2.jpg" width="320">
 
 </details>
 
@@ -6626,7 +6397,7 @@ Goal: Generate a cinematic, dreamlike AR (Augmented Reality) visual featuring [P
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `infographic`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -6672,7 +6443,7 @@ Technical: 8k, ray-traced reflections, professional grading, global illumination
 
 </details>
 
-👤 [@firatbilal](https://x.com/firatbilal) · Tags: `product` `branding`
+👤 [@firatbilal](https://x.com/firatbilal) · Tags: `product`
 
 ---
 
@@ -6823,12 +6594,6 @@ Convert uploaded photo into ultra-wide 10mm fisheye portrait from dramatic high 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2033570946985144647-1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `comparison`
 
 ---
@@ -6845,7 +6610,7 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, three
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -6858,12 +6623,6 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, three
 ```text
 Artistic portrait of an elegant Asian woman wearing a black silk cheongsam (qipao), standing among red camellia flowers and delicate branches, soft natural sunlight filtering through leaves creating beautiful shadow patterns across her face, short slightly messy bob haircut, natural freckles and minimal makeup, calm thoughtful expression, cinematic shallow depth of field, dreamy garden atmosphere, warm golden hour lighting, soft bokeh background, fine art photography style, ultra-realistic skin texture, high detail, 85mm lens, 8K.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2033544696119853426-1.jpg" width="320">
 
 </details>
 
@@ -7030,14 +6789,6 @@ Ultra realistic cinematic portrait of a 32-year-old young woman standing in heav
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2033430945877930237-1.jpg" width="320">
-<img src="images/prompts/2033430945877930237-2.jpg" width="320">
-<img src="images/prompts/2033430945877930237-3.jpg" width="320">
-
-</details>
-
 👤 [@JustBethanyai](https://x.com/JustBethanyai) · Tags: `character`
 
 ---
@@ -7079,12 +6830,6 @@ Optional parameters
 •Lighting: studio softbox lighting
 •Style keywords: photorealistic, beverage advertising, macro texture
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2033341324305608968-1.jpg" width="320">
 
 </details>
 
@@ -7190,7 +6935,7 @@ Constraint: NO TEXT inside or immediately near the central moss icon. Only the b
 
 </details>
 
-👤 [@bananababydoll](https://x.com/bananababydoll) · Tags: `character` `branding`
+👤 [@bananababydoll](https://x.com/bananababydoll) · Tags: `character`
 
 ---
 
@@ -7203,12 +6948,6 @@ Constraint: NO TEXT inside or immediately near the central moss icon. Only the b
 ```text
 A cute stylized 3D collectible figurine inspired by Cristiano Ronaldo, with short styled hair and an athletic build, wearing a modern football kit and standing confidently with hands on hips. Next to him is a large Kinder Joy egg featuring a cartoon avatar of the same football star printed on the shell. The scene is placed on a wooden table with soft natural lighting, shallow depth of field, cozy indoor background with blurred plants, highly detailed Pixar-style 3D render, glossy toy texture, cinematic lighting, ultra-detailed product photography, designer toy aesthetic. ⚽🥚
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032973567760232717-1.jpg" width="320">
 
 </details>
 
@@ -7275,13 +7014,6 @@ A cute stylized 3D collectible figurine inspired by Cristiano Ronaldo, with shor
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032829615828283545-1.jpg" width="320">
-<img src="images/prompts/2032829615828283545-2.jpg" width="320">
-
-</details>
-
 👤 [@Artist04048661](https://x.com/Artist04048661) · Tags: `character`
 
 ---
@@ -7306,14 +7038,6 @@ The color palette highlights the bright yellow tiles, the white foam, the blonde
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032817549813969039-1.jpg" width="320">
-<img src="images/prompts/2032817549813969039-2.jpg" width="320">
-<img src="images/prompts/2032817549813969039-3.jpg" width="320">
-
-</details>
-
 👤 [@Giulia_4i](https://x.com/Giulia_4i) · Tags: `character`
 
 ---
@@ -7330,15 +7054,7 @@ Cinematic mirror selfie scene inspired by a retro 80s sci-fi horror vibe, a grou
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032770762525065405-1.jpg" width="320">
-<img src="images/prompts/2032770762525065405-2.jpg" width="320">
-<img src="images/prompts/2032770762525065405-3.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character` `poster`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character`
 
 ---
 
@@ -7467,12 +7183,6 @@ Important rules: • Do NOT add any website URLs
 }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032603866433466598-1.jpg" width="320">
 
 </details>
 
@@ -7610,7 +7320,7 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the m
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · Tags: `character` `illustration`
+👤 [@harboriis](https://x.com/harboriis) · Tags: `character`
 
 ---
 
@@ -7654,15 +7364,7 @@ Aspect ratio 4:5.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032256273782358153-1.jpg" width="320">
-<img src="images/prompts/2032256273782358153-2.jpg" width="320">
-<img src="images/prompts/2032256273782358153-3.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `illustration`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -7702,7 +7404,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `3d-render`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -7718,15 +7420,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2031843569942622631-1.jpg" width="320">
-<img src="images/prompts/2031843569942622631-2.jpg" width="320">
-<img src="images/prompts/2031843569942622631-3.jpg" width="320">
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character` `poster`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character`
 
 ---
 
@@ -7742,7 +7436,7 @@ Create a high-detail 3D semi-realistic chibi character with slightly exaggerated
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `3d-render`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -7770,13 +7464,7 @@ Create a high-detail 3D semi-realistic chibi character with slightly exaggerated
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2031735211772317828-1.jpg" width="320">
-
-</details>
-
-👤 [@Xaroon_x](https://x.com/Xaroon_x) · Tags: `character` `3d-render`
+👤 [@Xaroon_x](https://x.com/Xaroon_x) · Tags: `character`
 
 ---
 
@@ -7798,7 +7486,7 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 </details>
 
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character` `poster`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character`
 
 ---
 
@@ -7822,12 +7510,6 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
   "quality": "high detail, sharp focus, 4k"
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2031395548436246618-1.jpg" width="320">
 
 </details>
 
@@ -7877,12 +7559,6 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2031369659350679749-1.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai) · Tags: `character`
 
 ---
@@ -7917,7 +7593,7 @@ A man with short curly hair and light facial hair sitting on a tall black stool,
 
 </details>
 
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `poster`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
@@ -7943,7 +7619,7 @@ Highly detailed, fashion catalog quality, DSLR photography style, 8k resolution,
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character` `poster`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character`
 
 ---
 
@@ -7993,15 +7669,7 @@ Check ALTs for ideas 👇 @AdobeFirefly
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2030670376104087834-1.jpg" width="320">
-<img src="images/prompts/2030670376104087834-2.jpg" width="320">
-<img src="images/prompts/2030670376104087834-3.jpg" width="320">
-
-</details>
-
-👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `product` `branding`
+👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `product`
 
 ---
 
@@ -8039,7 +7707,7 @@ Keep the original face, body shape, and proportions of the main subject unchange
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `illustration`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -8055,14 +7723,7 @@ A cute young girl with short black hair and bangs smiling while holding a red Ki
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2030089473577693629-1.jpg" width="320">
-<img src="images/prompts/2030089473577693629-2.jpg" width="320">
-
-</details>
-
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character` `branding`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character`
 
 ---
 
@@ -8118,7 +7779,7 @@ PHASE 5: TECH SPECS
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -8134,13 +7795,7 @@ PHASE 5: TECH SPECS
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029817553288319295-1.jpg" width="320">
-
-</details>
-
-👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character` `illustration`
+👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character`
 
 ---
 
@@ -8188,13 +7843,7 @@ Cute stylized 3D animated boy with messy fluffy blue hair and big expressive eye
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029567508244750343-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character` `illustration`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character`
 
 ---
 
@@ -8250,7 +7899,7 @@ Lips slightly curved downward
 
 </details>
 
-👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character` `illustration`
+👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character`
 
 ---
 
@@ -8359,7 +8008,7 @@ PHASE 4: TECH SPECS
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -8425,13 +8074,6 @@ PHASE 4: TECH SPECS
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029294271879168502-1.jpg" width="320">
-<img src="images/prompts/2029294271879168502-2.jpg" width="320">
-
-</details>
-
 👤 [@Artist04048661](https://x.com/Artist04048661) · Tags: `character`
 
 ---
@@ -8487,7 +8129,7 @@ DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to 
 
 </details>
 
-👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character` `3d-render`
+👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `character`
 
 ---
 
@@ -8503,13 +8145,7 @@ DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029107310187237797-1.jpg" width="320">
-
-</details>
-
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character` `3d-render`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `character`
 
 ---
 
@@ -8522,14 +8158,6 @@ DO NOT change the pose, reaction, clothing, or proportions. Strict adherence to 
 ```text
 Editorial photography, a woman wearing a structured deep teal blazer standing against a pale blue sky. A bird in heavy motion blur is flying across her face, obscuring her features, surrealist style. High-grain paper texture, cinematic soft lighting, minimalist composition. Magazine cover aesthetic with a clean white vertical sidebar on the left containing bold black typography. Muted cool tones, artistic blur, 35mm film aesthetic, avant-garde fashion vibe
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029072361669181640-1.jpg" width="320">
-<img src="images/prompts/2029072361669181640-2.jpg" width="320">
-<img src="images/prompts/2029072361669181640-3.jpg" width="320">
 
 </details>
 
@@ -8619,7 +8247,7 @@ Editorial photography, a woman wearing a structured deep teal blazer standing ag
 
 </details>
 
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `character` `illustration`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `character`
 
 ---
 
@@ -8670,7 +8298,7 @@ Ultra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI re
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `illustration`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -8708,12 +8336,6 @@ Create a high-contrast black and white portrait in a quiet classroom.Use uploade
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028623800313798810-1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
@@ -8746,7 +8368,7 @@ A highly detailed, cinematic portrait of Tom Cruise, featuring a gritty, industr
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character` `branding`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character`
 
 ---
 
@@ -8787,7 +8409,7 @@ PHASE 5: TECH SPECS
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -8803,15 +8425,7 @@ A creative 3D illusion artwork of a cute young girl stepping out of a spiral not
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028389324677611935-1.jpg" width="320">
-<img src="images/prompts/2028389324677611935-2.jpg" width="320">
-<img src="images/prompts/2028389324677611935-3.jpg" width="320">
-
-</details>
-
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character` `illustration`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character`
 
 ---
 
@@ -8843,7 +8457,7 @@ Luxury product photography of a green translucent bath and shower gel bottle hel
 
 </details>
 
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `product` `branding`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `product`
 
 ---
 
@@ -8895,7 +8509,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character` `poster`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character`
 
 ---
 
@@ -8945,7 +8559,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -8983,7 +8597,7 @@ High detail, High Quality, Photorealism Style, cinematic composition, cohesive i
 
 </details>
 
-👤 [@kaanakz](https://x.com/kaanakz) · Tags: `character` `comparison`
+👤 [@kaanakz](https://x.com/kaanakz) · Tags: `character`
 
 ---
 
@@ -9033,7 +8647,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -9071,7 +8685,7 @@ TECHNICAL SPECS: Hyper-realistic 3D render, cinematic quality, Octane Render sty
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -9111,13 +8725,6 @@ TECHNICAL SPECS: Hyper-realistic 3D render, cinematic quality, Octane Render sty
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027114611636572306-1.jpg" width="320">
-<img src="images/prompts/2027114611636572306-2.jpg" width="320">
-
-</details>
-
 👤 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab) · Tags: `character`
 
 ---
@@ -9140,7 +8747,7 @@ A heartwarming studio portrait of a young woman holding a cute orange tabby cat 
 
 #### 297. Creative scene v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2026703924888219706/0.jpg" alt="Creative scene v2" width="560">
+<img src="images/prompts/2026703924888219706.jpg" alt="Creative scene v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -9150,7 +8757,7 @@ Create an Ultra-realistic photo composite of uploaded person breaking out of an 
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `branding`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -9163,12 +8770,6 @@ Create an Ultra-realistic photo composite of uploaded person breaking out of an 
 ```text
 Ultra-realistic cinematic studio portrait using provided person only. Subject wears black cyberpunk hoodie fully covered in bright glowing neon-orange circuit lines and illuminated zipper, hood up, hands in pockets, three-quarter pose facing right, head slightly down. Round shutter glasses with glowing orange bars. Dramatic studio lighting, glow casting light spill. Smooth dark-to-burnt orange gradient background. Style locked.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026603084760363062-1.jpg" width="320">
 
 </details>
 
@@ -9229,14 +8830,6 @@ Ultra-realistic studio portrait of a man, close-up headshot, centered compositio
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026214554083242053-1.jpg" width="320">
-<img src="images/prompts/2026214554083242053-2.jpg" width="320">
-<img src="images/prompts/2026214554083242053-3.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `character`
 
 ---
@@ -9250,12 +8843,6 @@ Ultra-realistic studio portrait of a man, close-up headshot, centered compositio
 ```text
 Ultra-realistic cinematic portrait of a young woman with soft brown hair, centered composition, dark moody background, dramatic horizontal strip of warm golden sunlight cutting across her eyes, teal and orange color grading, half of the face in deep shadow, intense eye contact, sharp facial details, soft skin texture, high contrast lighting, volumetric light beam effect, shallow depth of field, 85mm lens, f/1.8, studio quality, symmetrical framing, mysterious atmosphere, 4K, hyper-detailed.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026212158548369776-1.jpg" width="320">
 
 </details>
 
@@ -9287,13 +8874,6 @@ Aspect ratio 4:5.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026207647968743551-1.jpg" width="320">
-<img src="images/prompts/2026207647968743551-2.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
@@ -9307,13 +8887,6 @@ Aspect ratio 4:5.
 ```text
 Ultra-realistic cinematic street portrait of a young woman in a bright blue puffer jacket standing still in the middle of a busy city crowd, intense eye contact with camera, shallow depth of field, motion-blurred pedestrians rushing around her, urban background with traffic lights and tall buildings, cool color grading, natural skin tones, soft overcast lighting, 85mm lens, f/1.8, high detail, sharp focus on subject, dynamic motion blur, editorial photography, 8k.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026100670500339830-1.jpg" width="320">
-<img src="images/prompts/2026100670500339830-2.jpg" width="320">
 
 </details>
 
@@ -9373,7 +8946,7 @@ TECHNICAL FINISH:
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
@@ -9398,7 +8971,7 @@ All annotations are in refined, elegant handwritten cursive. Ray-traced ambient 
 
 </details>
 
-👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character` `comparison`
+👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character`
 
 ---
 
@@ -9503,7 +9076,7 @@ Typography (Overlay): Large, bold white "GQ Style" logo across the top in a clas
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character` `poster`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character`
 
 ---
 
@@ -9605,12 +9178,6 @@ Typography (Overlay): Large, bold white "GQ Style" logo across the top in a clas
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2024892734062911621-1.jpg" width="320">
-
-</details>
-
 👤 [@PinodiArt](https://x.com/PinodiArt) · Tags: `character`
 
 ---
@@ -9661,7 +9228,7 @@ A hyper-stylized, dynamic 3D head portrait floats against a vivid red background
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -9693,7 +9260,7 @@ Create an exaggerated stylized 3D caricature character portrait with strong inte
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -9735,7 +9302,7 @@ unlimited nano banana pro, AI photo collage, vintage film look, black and white 
 
 </details>
 
-👤 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · Tags: `character` `comparison`
+👤 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · Tags: `character`
 
 ---
 
@@ -9842,13 +9409,6 @@ A double exposure, long exposure editorial photograph of a man Use image for fac
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2023548369269108754-1.jpg" width="320">
-<img src="images/prompts/2023548369269108754-2.jpg" width="320">
-
-</details>
-
 👤 [@AnkitMi16412441](https://x.com/AnkitMi16412441) · Tags: `character`
 
 ---
@@ -9865,7 +9425,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · Tags: `character` `comparison`
+👤 [@harboriis](https://x.com/harboriis) · Tags: `character`
 
 ---
 
@@ -9943,7 +9503,7 @@ TECH SPECS:
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character`
 
 ---
 
@@ -10097,12 +9657,6 @@ The skin is slightly subtle oiled or wet from sea drops
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2023029989336301608-1.jpg" width="320">
-
-</details>
-
 👤 [@DanjiTosaka](https://x.com/DanjiTosaka) · Tags: `character`
 
 ---
@@ -10119,7 +9673,7 @@ Create a typographic art portrait using the uploaded photo of a person as refere
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `branding`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -10161,7 +9715,7 @@ TECH SPECS:
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `comparison` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `comparison`
 
 ---
 
@@ -10177,7 +9731,7 @@ A soft-focus, cinematic portrait of a young woman with delicate facial features 
 
 </details>
 
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character` `illustration`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character`
 
 ---
 
@@ -10190,14 +9744,6 @@ A soft-focus, cinematic portrait of a young woman with delicate facial features 
 ```text
 Photorealistic cinematic portrait of a young East Asian woman standing outdoors at sunset, side-profile close-up, looking thoughtfully into the distance. Soft golden hour lighting illuminating one side of her face, warm orange and teal color grading. She wears a black coat and dark scarf, hair loosely tied back with soft natural strands around her face. Natural skin texture, realistic facial details, minimal makeup. Shallow depth of field with blurred landscape background, smooth bokeh, dramatic atmospheric mood, soft gradient sky transitioning from warm orange to cool green tones. Shot on 85mm lens, f/1.8, ultra-realistic, high dynamic range, cinematic composition, moody, film still aesthetic.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022635065910464957-1.jpg" width="320">
-<img src="images/prompts/2022635065910464957-2.jpg" width="320">
-<img src="images/prompts/2022635065910464957-3.jpg" width="320">
 
 </details>
 
@@ -10214,14 +9760,6 @@ Photorealistic cinematic portrait of a young East Asian woman standing outdoors 
 ```text
 Full-body 3D stylized anthropomorphic cartoon dog character wearing modern streetwear, oversized neon green hoodie, cargo pants, chunky sneakers, reflective sunglasses, silver chain necklace. Confident relaxed pose with hands in pockets. Minimal studio background in solid lime green. Soft studio lighting, smooth shadows, high detail fabric texture, Pixar-quality 3D render, ultra-clean composition, centered framing, fashion editorial character design, 8K resolution.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022179786580537521-1.jpg" width="320">
-<img src="images/prompts/2022179786580537521-2.jpg" width="320">
-<img src="images/prompts/2022179786580537521-3.jpg" width="320">
 
 </details>
 
@@ -10330,13 +9868,6 @@ Full-body 3D stylized anthropomorphic cartoon dog character wearing modern stree
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021979175113081029-1.jpg" width="320">
-<img src="images/prompts/2021979175113081029-2.jpg" width="320">
-
-</details>
-
 👤 [@Shreyayadav](https://x.com/Shreyayadav) · Tags: `character`
 
 ---
@@ -10350,12 +9881,6 @@ Full-body 3D stylized anthropomorphic cartoon dog character wearing modern stree
 ```text
 Cinematic portrait of a stylish young person wearing round glasses, standing beside a wall illuminated by bold geometric window light. Strong red, orange, and teal color contrast casting dramatic shadows across the face. Side profile pose, soft contemplative expression, sharp focus on facial features. High contrast lighting with hard-edged rectangular light shapes in the background. Moody atmosphere, artistic color blocking, modern editorial photography style. Shot on 85mm lens, f/1.8, ultra-detailed skin texture, shallow depth of field, dramatic rim lighting, 8K resolution.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021933979398492325-1.jpg" width="320">
 
 </details>
 
@@ -10375,7 +9900,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character` `comparison`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
 
@@ -10388,12 +9913,6 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 ```text
 Cinematic portrait of a young person standing still in the middle of a busy crowd, sharp focus on the subject while people move rapidly around them creating strong motion blur. The subject looks directly at the camera with a calm, introspective expression. Soft natural lighting, shallow depth of field, dreamy atmosphere. Crowd blurred using long exposure effect, dynamic movement streaks surrounding the subject. Neutral pastel background tones, subtle color grading, emotional storytelling composition. Shot on 85mm lens, f/1.8, long shutter speed, ultra-realistic skin texture, cinematic photography, 8K resolution.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021859477130293356-1.jpg" width="320">
 
 </details>
 
@@ -10473,13 +9992,6 @@ Overlay the image with vibrant hand drawn doodle effects, white drawn outlines a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021695937878667352-1.jpg" width="320">
-<img src="images/prompts/2021695937878667352-2.jpg" width="320">
-
-</details>
-
 👤 [@JustBethanyai](https://x.com/JustBethanyai) · Tags: `character`
 
 ---
@@ -10493,12 +10005,6 @@ Overlay the image with vibrant hand drawn doodle effects, white drawn outlines a
 ```text
 A close-up, high-fashion cinematic portrait of a beautiful South Asian woman with defined features, dark brown eyes, and dark wavy hair styled loosely. She is glancing back over her shoulder toward the camera with a confident, captivating expression. She is wearing a rich crimson blouse adorned with intricate mirror work that subtly reflects the warm, ambient lighting. The blouse features an elegant open-back style with delicate string ties and tassels. She is wearing large, ornate traditional chandelier earrings embellished with red and white stones. The background is a soft-focus, vibrant celebratory setting with colorful bokeh lights, suggesting a festive event. Shot on a 35mm lens for a flattering portrait perspective, high resolution, photorealistic, cinematic color grading with rich contrast, ultra-detailed."
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021596118635696437-1.jpg" width="320">
 
 </details>
 
@@ -10602,14 +10108,6 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021560192530354188-1.jpg" width="320">
-<img src="images/prompts/2021560192530354188-2.jpg" width="320">
-<img src="images/prompts/2021560192530354188-3.jpg" width="320">
-
-</details>
-
 👤 [@manolyaai](https://x.com/manolyaai) · Tags: `character`
 
 ---
@@ -10675,13 +10173,6 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021451045273219457-1.jpg" width="320">
-<img src="images/prompts/2021451045273219457-2.jpg" width="320">
-
-</details>
-
 👤 [@AnkitMi16412441](https://x.com/AnkitMi16412441) · Tags: `character`
 
 ---
@@ -10695,14 +10186,6 @@ A close-up, high-fashion cinematic portrait of a beautiful South Asian woman wit
 ```text
 A detailed, high-fashion studio photograph of a woman posing gracefully, wearing a luxurious olive green velvet saree draped elegantly over her shoulder, paired with a matching heavily embroidered sleeveless blouse that highlights her midriff. The lighting is moody and dramatic, accentuating the rich texture of the velvet and giving her skin a subtle, dewy sheen. Her hands are adorned with intricate, dark henna (mehndi) designs, and she is wearing traditional gold  earrings, looking directly into the camera with a confident expression.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021300975248736723-1.jpg" width="320">
-<img src="images/prompts/2021300975248736723-2.jpg" width="320">
-<img src="images/prompts/2021300975248736723-3.jpg" width="320">
 
 </details>
 
@@ -10746,12 +10229,6 @@ no illustration, no CGI look, no anime, no painterly texture, no extra typograph
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021083866258342114-1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `character`
 
 ---
@@ -10765,12 +10242,6 @@ no illustration, no CGI look, no anime, no painterly texture, no extra typograph
 ```text
 A hyperrealistic 8K black and white extreme close-up portrait of a young man's face, focusing tightly on his eye, cheekbone, and lips. Bright sunlight breaks into soft, wavy luminous lines that ripple across his skin like underwater reflections. The light flows diagonally, wrapping around the contours of his face in surreal patterns, while the shadows dissolve into smooth mid-gray tones instead of deep black. The skin is rendered in lifelike detail-visible pores, faint freckles, subtle stubble, and natural imperfections catch the glowing light realistically. The lips are softly highlighted, and the eye reflects fragments of the luminous waves, adding depth and emotion without artificial glow. The camera framing feels macro, pressed close to the face, with razor-thin depth of field: one illuminated ridge of skin is perfectly sharp, while the rest melts into velvety blur. The glassy, fluid quality of the light lines gives the portrait a surreal dreamlike aesthetic while remaining grounded in photographic realism. The background disappears into soft gray gradients, leaving only the interplay of skin texture and luminous wave-like rays. Fine cinematic grain overlays the frame, enhancing the tactile analog feel. The overall mood is intimate, surreal, and emotionally evocative - a monochrome portrait.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021058505885745401-1.jpg" width="320">
 
 </details>
 
@@ -10862,14 +10333,7 @@ A hyperrealistic 8K black and white extreme close-up portrait of a young man's f
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020856678351065532-1.jpg" width="320">
-<img src="images/prompts/2020856678351065532-2.jpg" width="320">
-
-</details>
-
-👤 [@firatbilal](https://x.com/firatbilal) · Tags: `character` `illustration`
+👤 [@firatbilal](https://x.com/firatbilal) · Tags: `character`
 
 ---
 
@@ -10893,7 +10357,7 @@ The camera should feel front-facing with a medium close-up framing, similar to a
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -10916,15 +10380,7 @@ Use clean, simple linework and a limited color palette of [PRIMARY COLORS], keep
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020791306197561403-1.jpg" width="320">
-<img src="images/prompts/2020791306197561403-2.jpg" width="320">
-<img src="images/prompts/2020791306197561403-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `character` `illustration`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `character`
 
 ---
 
@@ -10940,13 +10396,7 @@ Ultra-realistic fine-art portrait of a young woman with soft natural features, m
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020780086363054275-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character` `illustration`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character`
 
 ---
 
@@ -10978,7 +10428,7 @@ A high fashion magazine pictorial of an Alpine-looking woman in her early 20s wh
 
 </details>
 
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character` `poster`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `character`
 
 ---
 
@@ -11101,7 +10551,7 @@ A high fashion magazine pictorial of an Alpine-looking woman in her early 20s wh
 
 </details>
 
-👤 [@sumiturkude007](https://x.com/sumiturkude007) · Tags: `comparison` `character`
+👤 [@sumiturkude007](https://x.com/sumiturkude007) · Tags: `comparison`
 
 ---
 
@@ -11117,7 +10567,7 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 </details>
 
-👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `character` `comparison`
+👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `character`
 
 ---
 
@@ -11152,13 +10602,6 @@ Editorial 3x3 photo grid in a clean soft beige studio. Character (matches refere
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020152101528301587-1.jpg" width="320">
-<img src="images/prompts/2020152101528301587-2.jpg" width="320">
-
-</details>
-
 👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · Tags: `character`
 
 ---
@@ -11175,7 +10618,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 </details>
 
-👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · Tags: `character` `comparison`
+👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · Tags: `character`
 
 ---
 
@@ -11342,7 +10785,7 @@ A minimalist cinematic colored poster featuring a [Character Name]’s portrait 
 
 </details>
 
-👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character` `poster`
+👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character`
 
 ---
 
@@ -11359,12 +10802,6 @@ Lighting is soft frontal studio light with gentle shadows, even skin tones, cine
 
 Style: editorial luxury fashion portrait, photorealistic, professional studio photography, no illustration, no painterly effects.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018707915008618763-1.jpg" width="320">
 
 </details>
 
@@ -11438,7 +10875,7 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `branding`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -11523,12 +10960,6 @@ Ultra-realistic 8K full body portrait of [PERSON’S FULL NAME], wearing a clean
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018342372141400340-1.jpg" width="320">
 
 </details>
 
@@ -11706,12 +11137,6 @@ High-fashion cinematic surrealism. A top-down, 90-degree overhead shot of the wo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018150642045637076-1.jpg" width="320">
-
-</details>
-
 👤 [@Adam38363368936](https://x.com/Adam38363368936) · Tags: `character`
 
 ---
@@ -11811,13 +11236,6 @@ High-fashion cinematic surrealism. A top-down, 90-degree overhead shot of the wo
   ]
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018116329711218781-1.jpg" width="320">
-<img src="images/prompts/2018116329711218781-2.jpg" width="320">
 
 </details>
 
@@ -11925,20 +11343,13 @@ Ultra-realistic fashion black and white portrait of a man with short light hair,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017635765488898309-1.jpg" width="320">
-<img src="images/prompts/2017635765488898309-2.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `character`
 
 ---
 
 #### 365. Color box fashion portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017598696678895882/0.jpg" alt="Color box fashion portrait" width="560">
+<img src="images/prompts/2017598696678895882.jpg" alt="Color box fashion portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -12008,7 +11419,7 @@ A high-definition, professional fashion editorial photograph of a sophisticated 
 
 </details>
 
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `poster`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
@@ -12041,7 +11452,7 @@ The eyes look fierce, emotional, and determined, with slightly messy hair. Use t
 
 </details>
 
-👤 [@Abhiew_](https://x.com/Abhiew_) · Tags: `character` `poster`
+👤 [@Abhiew_](https://x.com/Abhiew_) · Tags: `character`
 
 ---
 
@@ -12112,7 +11523,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 </details>
 
-👤 [@wanerfu](https://x.com/wanerfu) · Tags: `character` `comparison`
+👤 [@wanerfu](https://x.com/wanerfu) · Tags: `character`
 
 ---
 
@@ -12157,7 +11568,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 </details>
 
-👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding` `product`
+👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding`
 
 ---
 
@@ -12306,7 +11717,7 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 </details>
 
-👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character` `branding`
+👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character`
 
 ---
 
@@ -12472,12 +11883,6 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016189962090381695-1.jpg" width="320">
-
-</details>
-
 👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · Tags: `character`
 
 ---
@@ -12535,19 +11940,13 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016088856077205937-1.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `comparison` `poster`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `comparison`
 
 ---
 
 #### 380. Glitch cyber head portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2016088197714084320/0.jpg" alt="Glitch cyber head portrait" width="560">
+<img src="images/prompts/2016088197714084320.jpg" alt="Glitch cyber head portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -12577,12 +11976,6 @@ Overall style is futuristic, cyber-inspired, high-detail, and photorealistic.
 ```text
 Create a melancholic and cinematic portrait photography. A young woman with clear, fair skin and light makeup. Warm, natural lip color. Deep brown hair with a fluffy texture. A calm and confident expression. Wearing a wine-red top to showcase elegance. A dark, minimalist background fading to black. Soft, diffused front lighting, gentle shadows, subtle film grain, organic color grading, shallow depth of field, and high-end editing texture. Use the facial features of the reference subject without any alterations.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016087801759203335-1.jpg" width="320">
 
 </details>
 
@@ -13169,13 +12562,7 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016070222038602112-1.jpg" width="320">
-
-</details>
-
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character` `comparison`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `character`
 
 ---
 
@@ -13208,12 +12595,6 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 ```text
 { "scene_type": "outdoor urban street portrait", "composition": { "framing": "vertical portrait orientation", "shot_type": "mid-length shot from head to mid-thigh", "camera_angle": "eye-level", "subject_position": "centered with slight rightward offset", "leading_lines": "sidewalk and building facade create linear depth", "depth_of_field": "moderate depth, background softly detailed but not blurred", "balance": "subject balanced against architectural mass on left and greenery on right" }, "subject": { "gender_presentation": "female-presenting", "pose": "relaxed standing pose, one hand in pocket, one arm relaxed", "expression": "neutral to confident with subtle smile", "gaze": "looking directly at camera", "hair": { "style": "long, loose waves", "part": "side-parted", "color": "dark brown with warm undertones", "texture": "soft, voluminous" }, "accessories": [ "round metal-frame sunglasses with dark lenses", "small hoop earrings", "wristwatch with metallic band", "brown leather shoulder bag" ] }, "clothing": { "top": { "type": "sleeveless fitted tank top", "color": "warm beige", "pattern": "thin horizontal white stripes", "fit": "form-fitting" }, "bottom": { "type": baggy pant", "color": "off-white / cream", "fabric_appearance": "structured cotton or linen blend" }, "belt": { "color": "light brown", "buckle": "gold-toned minimalist buckle" } }, "environment": { "location_type": "historic city street", "architecture": { "style": "classical or colonial stone facade", "features": "arched windows, ornate stone detailing, balconies" }, "natural_elements": "trees and shrubs lining the sidewalk", "ground": "concrete sidewalk with adjacent landscaped soil area", "background_activity": "parked cars partially visible, quiet street ambiance" }, "lighting": { "source": "natural sunlight", "time_of_day": "late morning or afternoon", "quality": "soft directional light", "shadows": "gentle shadows cast by trees and buildings", "skin_tone_rendering": "warm and even" }, "color_palette": { "dominant_colors": ["beige", "cream", "brown", "stone gray", "green"], "overall_tone": "warm, natural, lifestyle aesthetic", "contrast": "moderate contrast between subject and background" }, "camera_characteristics": { "lens_look": "standard to short telephoto perspective", "distortion": "minimal distortion", "sharpness": "sharp focus on subject with clear texture detail", "noise": "low noise, clean image" }, "artistic_style": { "genre": "fashion lifestyle photography", "mood": "casual elegance, confident, relaxed", "styling_influence": "modern minimalist with classic elements", "social_media_aesthetic": "Instagram-style street fashion portrait" }, "post_processing": { "color_grading": "warm tones with natural saturation", "contrast_adjustment": "slightly enhanced", "retouching": "minimal, natural skin texture preserved", "overall_finish": "clean and polished" }, "typography": { "present": false } }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015953469547675874-1.jpg" width="320">
 
 </details>
 
@@ -13270,12 +12651,6 @@ Create a melancholic and cinematic portrait photography. A young woman with clea
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015757888283652351-1.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7)
 
 ---
@@ -13291,14 +12666,6 @@ First-person perspective inside a brightly lit supermarket aisle. Realistic huma
 The UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where Fanta is highlighted as the currently active selection.
 Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015451528929464593-1.jpg" width="320">
-<img src="images/prompts/2015451528929464593-2.jpg" width="320">
-<img src="images/prompts/2015451528929464593-3.jpg" width="320">
 
 </details>
 
@@ -13521,13 +12888,6 @@ Mood: Emotional, reflective and beautifully sad
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013557142402277695-1.jpg" width="320">
-<img src="images/prompts/2013557142402277695-2.jpg" width="320">
 
 </details>
 
@@ -13862,14 +13222,6 @@ Moody cinematic portrait of a young woman with clear fair skin and barely-there 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013234871238598793-1.jpg" width="320">
-<img src="images/prompts/2013234871238598793-2.jpg" width="320">
-<img src="images/prompts/2013234871238598793-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0)
 
 ---
@@ -13985,12 +13337,6 @@ Use the uploaded photo as the main face referenc. Preserve the exact facial stru
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012944621815386617-1.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212)
 
 ---
@@ -14045,12 +13391,6 @@ Use the uploaded photo as the main face referenc. Preserve the exact facial stru
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012936215176073501-1.jpg" width="320">
 
 </details>
 
@@ -14190,7 +13530,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 </details>
 
-👤 [@2abhisheknaks](https://x.com/2abhisheknaks) · Tags: `product` `branding`
+👤 [@2abhisheknaks](https://x.com/2abhisheknaks) · Tags: `product`
 
 ---
 
@@ -14246,13 +13586,13 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 </details>
 
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `branding` `comparison`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `branding`
 
 ---
 
 #### 410. 3D cartoon female triptych
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2012437899955097836/0.jpg" alt="3D cartoon female triptych" width="560">
+<img src="images/prompts/2012437899955097836.jpg" alt="3D cartoon female triptych" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -14378,15 +13718,7 @@ Extreme close-up cinematic portrait of a young man with dark, messy, tousled hai
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2012437899955097836/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2012437899955097836/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2012437899955097836/3.jpg" width="320">
-
-</details>
-
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `illustration` `3d-render`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `illustration`
 
 ---
 
@@ -14752,12 +14084,6 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012216058770247872-1.jpg" width="320">
-
-</details>
-
 👤 [@milaraeai](https://x.com/milaraeai)
 
 ---
@@ -14828,13 +14154,6 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
     }
   }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012212911637217522-1.jpg" width="320">
-<img src="images/prompts/2012212911637217522-2.jpg" width="320">
 
 </details>
 
@@ -15851,12 +15170,6 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011810184612757973-1.jpg" width="320">
-
-</details>
-
 👤 [@xIrissy](https://x.com/xIrissy)
 
 ---
@@ -16144,12 +15457,6 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011714932211908616-1.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212)
 
 ---
@@ -16372,13 +15679,6 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011656328620503227-1.jpg" width="320">
-<img src="images/prompts/2011656328620503227-2.jpg" width="320">
-
-</details>
-
 👤 [@lilzula_009_me](https://x.com/lilzula_009_me)
 
 ---
@@ -16392,12 +15692,6 @@ A cinematic winter portrait of a handsome man standing in a snowy pine forest at
 ```text
 Ultra realistic professional business portrait based on the attached image. Keep the subject’s facial structure, skin tone, hairstyle, and expression accurate. Dress the subject in clean, modern professional attire suitable for executives. Use a soft, minimal, premium gradient background with smooth lighting transitions
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011653000000127336-1.jpg" width="320">
 
 </details>
 
@@ -16497,13 +15791,6 @@ Ultra realistic professional business portrait based on the attached image. Keep
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011649686797688977-1.jpg" width="320">
-<img src="images/prompts/2011649686797688977-2.jpg" width="320">
-
-</details>
-
 👤 [@john_my07](https://x.com/john_my07)
 
 ---
@@ -16520,19 +15807,13 @@ Ultra-realistic studio portrait of a young woman, front-facing, centered composi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011645375460057533-1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `branding`
 
 ---
 
 #### 439. Felt wool celebrity doll diorama
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011634592810438835/0.jpg" alt="Felt wool celebrity doll diorama" width="560">
+<img src="images/prompts/2011634592810438835.jpg" alt="Felt wool celebrity doll diorama" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -16542,15 +15823,7 @@ A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011634592810438835/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011634592810438835/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011634592810438835/3.jpg" width="320">
-
-</details>
-
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product` `branding`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product`
 
 ---
 
@@ -16573,14 +15846,6 @@ A handcrafted felt miniature illustration of [Celebrity] reimagined as a soft wo
   "mood": "calm, timeless, elegant, introspective"
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011598044152938767-1.jpg" width="320">
-<img src="images/prompts/2011598044152938767-2.jpg" width="320">
-<img src="images/prompts/2011598044152938767-3.jpg" width="320">
 
 </details>
 
@@ -16790,14 +16055,6 @@ Using the uploaded reference image STRICTLY, preserve the same woman’s face, i
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011444759605510287-1.jpg" width="320">
-<img src="images/prompts/2011444759605510287-2.jpg" width="320">
-<img src="images/prompts/2011444759605510287-3.jpg" width="320">
-
-</details>
-
 👤 [@me_Aarvi](https://x.com/me_Aarvi)
 
 ---
@@ -16933,12 +16190,6 @@ Negative Prompt: exaggerated anatomy, glossy commercial lighting, heavy retouchi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011395626504966335-1.jpg" width="320">
-
-</details>
-
 👤 [@Taaruk_](https://x.com/Taaruk_)
 
 ---
@@ -17005,12 +16256,6 @@ Young beautiful woman with long wavy hair, elegant sleeveless polka dot midi dre
 
 Use my uploaded face image as the ONLY facial and identity reference. No other faces, models, datasets, or references are allowed.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011378277001363610-1.jpg" width="320">
 
 </details>
 
@@ -17084,12 +16329,6 @@ Use my uploaded face image as the ONLY facial and identity reference. No other f
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011356173572902941-1.jpg" width="320">
-
-</details>
-
 👤 [@Adam38363368936](https://x.com/Adam38363368936)
 
 ---
@@ -17144,13 +16383,6 @@ Maintain 100% facial accuracy at all times, including:
 Face must remain perfectly consistent from every angle
 (front view, ¾ view, side profile, seated pose, slight head tilt, full-body framing)
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011355651382104115-1.jpg" width="320">
-<img src="images/prompts/2011355651382104115-2.jpg" width="320">
 
 </details>
 
@@ -17287,14 +16519,6 @@ Quality: “sharp focus on face, background heavily blurred and streaked”
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011304086847832089-1.jpg" width="320">
-<img src="images/prompts/2011304086847832089-2.jpg" width="320">
-<img src="images/prompts/2011304086847832089-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0)
 
 ---
@@ -17345,7 +16569,7 @@ Use my uploaded face image as the  facial and identity reference.
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product` `branding`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
@@ -17362,12 +16586,6 @@ Surrounding him in a dynamic, floating arrangement are masculine graphic design 
 
 The scene features a vibrant blue and orange color scheme with dynamic lighting. Cyberpunk aesthetic, neon accents, particle effects. Style is a blend of 3D animation and tech photography. Sharp focus, cinematic lighting, 8k resolution.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011268158855000473-1.jpg" width="320">
 
 </details>
 
@@ -17425,7 +16643,7 @@ The scene features a vibrant blue and orange color scheme with dynamic lighting.
 
 </details>
 
-👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · Tags: `product` `branding`
+👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · Tags: `product`
 
 ---
 
@@ -17585,14 +16803,6 @@ Add very small, microscopic functional text in the extreme corners (e.g., "poste
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011084512617246917-1.jpg" width="320">
-<img src="images/prompts/2011084512617246917-2.jpg" width="320">
-<img src="images/prompts/2011084512617246917-3.jpg" width="320">
-
-</details>
-
 👤 [@xmliisu](https://x.com/xmliisu)
 
 ---
@@ -17628,12 +16838,6 @@ Mood: Elegant, serene, natural
 Image size 2:3, camera angle: Full body shot, high angle.
 Do not alter her face from the image 100%.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011074680808227128-1.jpg" width="320">
 
 </details>
 
@@ -17715,7 +16919,7 @@ High-contrast black and white photo taken with a 1990s disposable camera at a da
 
 </details>
 
-👤 [@IqraSaifiii](https://x.com/IqraSaifiii) · Tags: `illustration` `3d-render`
+👤 [@IqraSaifiii](https://x.com/IqraSaifiii) · Tags: `illustration`
 
 ---
 
@@ -17882,12 +17086,6 @@ A young woman is sitting casually on a white wooden bench, positioned slightly o
   ]
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010784341975318837-1.jpg" width="320">
 
 </details>
 
@@ -18192,12 +17390,6 @@ Ultra-high resolution 8K, with no AI-generated look.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010559842365386883-1.jpg" width="320">
-
-</details>
-
 👤 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab) · Tags: `character`
 
 ---
@@ -18342,13 +17534,6 @@ Use 100% of the uploaded reference image for the exact face, identity, and facia
 - 镜头与渲染: 50mm lens
 - 构图指令: --ar 4:5
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010130164169007195-1.jpg" width="320">
-<img src="images/prompts/2010130164169007195-2.jpg" width="320">
 
 </details>
 
@@ -18527,13 +17712,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009946159532662792-1.jpg" width="320">
-
-</details>
-
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `character` `comparison`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `character`
 
 ---
 
@@ -18759,15 +17938,7 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009911679728206114-1.jpg" width="320">
-<img src="images/prompts/2009911679728206114-2.jpg" width="320">
-<img src="images/prompts/2009911679728206114-3.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character` `comparison`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character`
 
 ---
 
@@ -18780,12 +17951,6 @@ Vibrant expressive portrait of a man looking upwards with wonder, wearing oversi
 ```text
 Beard. Makeup is minimal and natural, emphasizing clear skin and subtle lip color. The outfit is contemporary high-fashion streetwear with a Y2K and avant-garde influence. The model wears an oversized, light-wash distressed denim jacket draped loosely over the shoulders, layered over a white graphic T-shirt with bold black text reading "ZarOon". The jeans are extremely oversized, low-rise, acid-wash denim with exaggerated wide legs, heavy structure, decorative.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009891192524419457-1.jpg" width="320">
 
 </details>
 
@@ -18880,7 +18045,7 @@ A cinematic fashion portrait of a young woman with a short wavy bob haircut and 
 
 #### 487. 9:16 identity-lock selfie
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009834337043394622/0.jpg" alt="9:16 identity-lock selfie" width="560">
+<img src="images/prompts/2009834337043394622.jpg" alt="9:16 identity-lock selfie" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -19224,13 +18389,7 @@ Cluttered layout, oversized text, flashy logos, mannequins, people on left side,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009632266927079556-1.jpg" width="320">
-
-</details>
-
-👤 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab) · Tags: `character` `branding`
+👤 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab) · Tags: `character`
 
 ---
 
@@ -19329,7 +18488,7 @@ Close-up black and white portrait of a man use image face reference with messy h
 
 </details>
 
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character` `branding`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `character`
 
 ---
 
@@ -19537,7 +18696,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `poster`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
@@ -19707,12 +18866,6 @@ Create an eye-catching outdoor fashion portrait in a lively flower meadow under 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009225482382762410-1.jpg" width="320">
-
-</details>
-
 👤 [@astronomerozge1](https://x.com/astronomerozge1) · Tags: `character`
 
 ---
@@ -19848,12 +19001,6 @@ Create an eye-catching outdoor fashion portrait in a lively flower meadow under 
 ```text
 The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent. Her exquisite face is blurred with motion, the outline of her figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, her long, backlit hair glowing with a soft glow, the messy strands sweeping wildly across her jawline, the details concealing a captivating yet dangerous allure. Cute movements add dynamism, the motion blur blending with the film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewitching and sweetness.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009214441083019511-1.jpg" width="320">
 
 </details>
 
@@ -20044,12 +19191,6 @@ Use this photo attached to create a striking outdoor fashion portrait set in a v
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009073223758238007-1.jpg" width="320">
-
-</details>
-
 👤 [@ZaraIrahh](https://x.com/ZaraIrahh)
 
 ---
@@ -20086,7 +19227,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character` `poster`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `character`
 
 ---
 
@@ -20437,14 +19578,6 @@ No text, no logos, no watermarks, no extra accessories, no hats, no sunglasses, 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008770294253842780-1.jpg" width="320">
-<img src="images/prompts/2008770294253842780-2.jpg" width="320">
-<img src="images/prompts/2008770294253842780-3.jpg" width="320">
-
-</details>
-
 👤 [@r4jjesh](https://x.com/r4jjesh)
 
 ---
@@ -20545,12 +19678,6 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008687707946709129-1.jpg" width="320">
-
-</details>
-
 👤 [@me_Aarvi](https://x.com/me_Aarvi)
 
 ---
@@ -20589,15 +19716,7 @@ The background features an autumn café street with scattered fallen leaves, glo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008633447095349411-1.jpg" width="320">
-<img src="images/prompts/2008633447095349411-2.jpg" width="320">
-<img src="images/prompts/2008633447095349411-3.jpg" width="320">
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding` `comparison`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding`
 
 ---
 
@@ -20701,12 +19820,6 @@ Aesthetic 1970s-inspired fashion portrait of a stylish young woman sitting on ou
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008537400083939763-1.jpg" width="320">
-
-</details>
-
 👤 [@2abhisheknaks](https://x.com/2abhisheknaks)
 
 ---
@@ -20724,13 +19837,6 @@ I’m proud I can hit this level in MidJourney without --sref or --P-code.
 
 Two years of practice, and a prompt-writing methodology I built to reliably steer into specific latent-space regions. https://t.co/3RUx8AAIhH
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008523952201863565-1.jpg" width="320">
-<img src="images/prompts/2008523952201863565-2.jpg" width="320">
 
 </details>
 
@@ -20779,12 +19885,6 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008519233072931237-1.jpg" width="320">
 
 </details>
 
@@ -20865,7 +19965,7 @@ Two years of practice, and a prompt-writing methodology I built to reliably stee
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · Tags: `character` `comparison`
+👤 [@harboriis](https://x.com/harboriis) · Tags: `character`
 
 ---
 
@@ -21002,13 +20102,7 @@ A hyper-realistic studio photograph of a male athlete mid-air as if running or j
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008434033701879836-1.jpg" width="320">
-
-</details>
-
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `branding`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
@@ -21024,15 +20118,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008431391235862892-1.jpg" width="320">
-<img src="images/prompts/2008431391235862892-2.jpg" width="320">
-<img src="images/prompts/2008431391235862892-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `character` `illustration`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `character`
 
 ---
 
@@ -21128,7 +20214,7 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 </details>
 
-👤 [@wanerfu](https://x.com/wanerfu) · Tags: `character` `comparison`
+👤 [@wanerfu](https://x.com/wanerfu) · Tags: `character`
 
 ---
 
@@ -21261,12 +20347,6 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
   }
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008420516919468535-1.jpg" width="320">
 
 </details>
 
@@ -21456,12 +20536,6 @@ A high-contrast ink noir portrait of [SUBJECT], illustrated entirely with expres
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008370131815342380-1.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `character`
 
 ---
@@ -21478,13 +20552,7 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008359111650312559-1.jpg" width="320">
-
-</details>
-
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `illustration`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
@@ -21582,12 +20650,6 @@ A cute 3D Pixar-style character portrait of a little girl with big expressive ey
 ```text
 The scene is lit by warm golden hour sunlight, with glowing dust particles floating in the air, creating a soft magical atmosphere. Background is a rustic wooden village setting, softly blurred with shallow depth of field. Cinematic lighting, soft rim light on hair, volumetric light rays, ultra-detailed, high quality, Pixar / Disney-style 3D render, cute, cozy, whimsical, warm color palette, 4k, bokeh, soft focus.
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2007634587166630152-1.jpg" width="320">
 
 </details>
 
@@ -21996,12 +21058,6 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
   "negative_prompt": ["blur", "low resolution", "flat lighting", "overexposed highlights", "plastic skin", "extra limbs", "distorted anatomy", "noise", "grain"]
 }
 ```
-
-</details>
-
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2004456695301566748-1.jpg" width="320">
 
 </details>
 
@@ -22519,12 +21575,6 @@ The scene is lit by warm golden hour sunlight, with glowing dust particles float
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2001888275724984383-1.jpg" width="320">
-
-</details>
-
 👤 [@john_my07](https://x.com/john_my07) · Tags: `character`
 
 ---
@@ -22596,26 +21646,11 @@ The scene is illuminated by intense, warm golden hour sunlight striking from the
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2001428766921208194-1.jpg" width="320">
-
-</details>
-
 👤 [@369labsx](https://x.com/369labsx) · Tags: `character`
-
 
 ---
 
-<a id="cat-product"></a>
-
-### 🛍️ Product & E-commerce
-
-> Product shots, packaging, detail pages, and commerce visuals.
-
-**206 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Photorealistic French ID card mockup
+#### 552. Photorealistic French ID card mockup
 
 <img src="images/prompts/2051146058147963020.jpg" alt="Photorealistic French ID card mockup" width="560">
 
@@ -22658,17 +21693,11 @@ Style: ultra-detailed, photorealistic, 8K resolution, macro clarity, professiona
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2051146058147963020-1.jpg" width="320">
-
-</details>
-
-👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · [Source tweet](https://x.com/Ankit_patel211/status/2051146058147963020) · Tags: `infographic`
+👤 [@Ankit_patel211](https://x.com/Ankit_patel211) · [Source](https://x.com/Ankit_patel211/status/2051146058147963020) · Tags: `infographic`
 
 ---
 
-#### 2. Exploding food product ad
+#### 553. Exploding food product ad
 
 <img src="images/prompts/2049806236556964092.jpg" alt="Exploding food product ad" width="560">
 
@@ -22680,21 +21709,13 @@ Exploding [food item] with [filling], broken into two pieces with [filling actio
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049806236556964092-1.jpg" width="320">
-<img src="images/prompts/2049806236556964092-2.jpg" width="320">
-<img src="images/prompts/2049806236556964092-3.jpg" width="320">
-
-</details>
-
-👤 [@azed_ai](https://x.com/azed_ai) · [Source tweet](https://x.com/azed_ai/status/2049806236556964092) · Tags: `portrait` `branding`
+👤 [@azed_ai](https://x.com/azed_ai) · [Source](https://x.com/azed_ai/status/2049806236556964092) · Tags: `portrait`
 
 ---
 
-#### 3. Wooden bookshelf with 1-3-7 books
+#### 554. Wooden bookshelf with 1-3-7 books
 
-<img src="images/awesome-gpt2/comparison/5.jpg" alt="Wooden bookshelf with 1-3-7 books" width="560">
+<img src="images/prompts/554.jpg" alt="Wooden bookshelf with 1-3-7 books" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22704,13 +21725,13 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 </details>
 
-👤 [@gh-chetaslua](https://x.com/gh-chetaslua) · [Source tweet](https://x.com/chetaslua/status/2044331451077013749)
+👤 [@gh-chetaslua](https://x.com/gh-chetaslua) · [Source](https://x.com/chetaslua/status/2044331451077013749)
 
 ---
 
-#### 4. Logo
+#### 555. Logo
 
-<img src="images/awesome-gpt2/ui/117.jpg" alt="Logo" width="560">
+<img src="images/prompts/555.jpg" alt="Logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22720,13 +21741,13 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 </details>
 
-👤 [@gh-Diplomeme](https://x.com/gh-Diplomeme) · [Source tweet](https://x.com/Diplomeme/status/2048060325925470358) · Tags: `branding` `poster`
+👤 [@gh-Diplomeme](https://x.com/gh-Diplomeme) · [Source](https://x.com/Diplomeme/status/2048060325925470358) · Tags: `branding`
 
 ---
 
-#### 5. Vibrant pixel
+#### 556. Vibrant pixel
 
-<img src="images/awesome-gpt2/ui/103.jpg" alt="Vibrant pixel" width="560">
+<img src="images/prompts/556.jpg" alt="Vibrant pixel" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22736,13 +21757,13 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 </details>
 
-👤 [@gh-erikmackinnon](https://x.com/gh-erikmackinnon) · [Source tweet](https://x.com/erikmackinnon/status/2048190288179675290) · Tags: `illustration`
+👤 [@gh-erikmackinnon](https://x.com/gh-erikmackinnon) · [Source](https://x.com/erikmackinnon/status/2048190288179675290) · Tags: `illustration`
 
 ---
 
-#### 6. Infographic commerce infographic
+#### 557. Infographic commerce infographic
 
-<img src="images/awesome-gpt2/ui/45.jpg" alt="Infographic commerce infographic" width="560">
+<img src="images/prompts/557.jpg" alt="Infographic commerce infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22752,13 +21773,13 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 
 </details>
 
-👤 [@gh-rovvmut_](https://x.com/gh-rovvmut_) · [Source tweet](https://x.com/rovvmut_/status/2047912710365761828) · Tags: `branding` `infographic`
+👤 [@gh-rovvmut_](https://x.com/gh-rovvmut_) · [Source](https://x.com/rovvmut_/status/2047912710365761828) · Tags: `branding`
 
 ---
 
-#### 7. Studio lighting icon
+#### 558. Studio lighting icon
 
-<img src="images/awesome-gpt2/ui/44.jpg" alt="Studio lighting icon" width="560">
+<img src="images/prompts/558.jpg" alt="Studio lighting icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22859,13 +21880,13 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 </details>
 
-👤 [@gh-meng_dagg695](https://x.com/gh-meng_dagg695) · [Source tweet](https://x.com/meng_dagg695/status/2047935217231663186) · Tags: `character` `branding`
+👤 [@gh-meng_dagg695](https://x.com/gh-meng_dagg695) · [Source](https://x.com/meng_dagg695/status/2047935217231663186) · Tags: `character`
 
 ---
 
-#### 8. Minimalist portrait
+#### 559. Minimalist portrait
 
-<img src="images/awesome-gpt2/poster/171.jpg" alt="Minimalist portrait" width="560">
+<img src="images/prompts/559.jpg" alt="Minimalist portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22902,13 +21923,13 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 </details>
 
-👤 [@gh-cellinlab](https://x.com/gh-cellinlab) · [Source tweet](https://x.com/cellinlab/status/2049073530738754042) · Tags: `portrait` `infographic`
+👤 [@gh-cellinlab](https://x.com/gh-cellinlab) · [Source](https://x.com/cellinlab/status/2049073530738754042) · Tags: `portrait`
 
 ---
 
-#### 9. Minimalist cat
+#### 560. Minimalist cat
 
-<img src="images/awesome-gpt2/poster/170.jpg" alt="Minimalist cat" width="560">
+<img src="images/prompts/560.jpg" alt="Minimalist cat" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22937,13 +21958,13 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 </details>
 
-👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source tweet](https://x.com/Strength04_X/status/2049082049995362785) · Tags: `branding` `infographic`
+👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source](https://x.com/Strength04_X/status/2049082049995362785) · Tags: `branding`
 
 ---
 
-#### 10. PRS guitar lineup vintage
+#### 561. PRS guitar lineup vintage
 
-<img src="images/awesome-gpt2/poster/128.jpg" alt="PRS guitar lineup vintage" width="560">
+<img src="images/prompts/561.jpg" alt="PRS guitar lineup vintage" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22953,13 +21974,13 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 </details>
 
-👤 [@gh-GlennHasABeard](https://x.com/gh-GlennHasABeard) · [Source tweet](https://x.com/GlennHasABeard/status/2048087784141857235) · Tags: `poster` `infographic`
+👤 [@gh-GlennHasABeard](https://x.com/gh-GlennHasABeard) · [Source](https://x.com/GlennHasABeard/status/2048087784141857235) · Tags: `poster`
 
 ---
 
-#### 11. Ethnographic Tibetan hat plate
+#### 562. Ethnographic Tibetan hat plate
 
-<img src="images/awesome-gpt2/poster/127.jpg" alt="Ethnographic Tibetan hat plate" width="560">
+<img src="images/prompts/562.jpg" alt="Ethnographic Tibetan hat plate" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22969,13 +21990,13 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 </details>
 
-👤 [@gh-degewa](https://x.com/gh-degewa) · [Source tweet](https://x.com/degewa/status/2048104569037783226) · Tags: `infographic`
+👤 [@gh-degewa](https://x.com/gh-degewa) · [Source](https://x.com/degewa/status/2048104569037783226) · Tags: `infographic`
 
 ---
 
-#### 12. Biomimetic aerospace concept
+#### 563. Biomimetic aerospace concept
 
-<img src="images/awesome-gpt2/poster/119.jpg" alt="Biomimetic aerospace concept" width="560">
+<img src="images/prompts/563.jpg" alt="Biomimetic aerospace concept" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -22985,13 +22006,13 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 </details>
 
-👤 [@gh-_simonsmith](https://x.com/gh-_simonsmith) · [Source tweet](https://x.com/_simonsmith/status/2048172203946996041) · Tags: `poster` `3d-render`
+👤 [@gh-_simonsmith](https://x.com/gh-_simonsmith) · [Source](https://x.com/_simonsmith/status/2048172203946996041) · Tags: `poster`
 
 ---
 
-#### 13. Poster
+#### 564. Poster
 
-<img src="images/awesome-gpt2/poster/76.jpg" alt="Poster" width="560">
+<img src="images/prompts/564.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23002,13 +22023,13 @@ Create a premium food preparation poster for
 
 </details>
 
-👤 [@gh-Preda2005](https://x.com/gh-Preda2005) · [Source tweet](https://x.com/Preda2005/status/2047883394152088004) · Tags: `poster` `branding`
+👤 [@gh-Preda2005](https://x.com/gh-Preda2005) · [Source](https://x.com/Preda2005/status/2047883394152088004) · Tags: `poster`
 
 ---
 
-#### 14. Poster
+#### 565. Poster
 
-<img src="images/awesome-gpt2/poster/68.jpg" alt="Poster" width="560">
+<img src="images/prompts/565.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23018,13 +22039,13 @@ generate an image of a racing car poster with its spec and pricing
 
 </details>
 
-👤 [@gh-verysmallwoods](https://x.com/gh-verysmallwoods) · [Source tweet](https://x.com/verysmallwoods/status/2047033599229137126) · Tags: `poster` `branding`
+👤 [@gh-verysmallwoods](https://x.com/gh-verysmallwoods) · [Source](https://x.com/verysmallwoods/status/2047033599229137126) · Tags: `poster`
 
 ---
 
-#### 15. Studio lighting cat
+#### 566. Studio lighting cat
 
-<img src="images/awesome-gpt2/poster/59.jpg" alt="Studio lighting cat" width="560">
+<img src="images/prompts/566.jpg" alt="Studio lighting cat" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23048,13 +22069,13 @@ Commercial product photography, ultra-detailed, 8K.
 
 </details>
 
-👤 [@gh-meng_dagg695](https://x.com/gh-meng_dagg695) · [Source tweet](https://x.com/meng_dagg695/status/2047227172486824002) · Tags: `branding`
+👤 [@gh-meng_dagg695](https://x.com/gh-meng_dagg695) · [Source](https://x.com/meng_dagg695/status/2047227172486824002) · Tags: `branding`
 
 ---
 
-#### 16. Professional designer
+#### 567. Professional designer
 
-<img src="images/awesome-gpt2/poster/41.jpg" alt="Professional designer" width="560">
+<img src="images/prompts/567.jpg" alt="Professional designer" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23064,13 +22085,13 @@ Redesign this product ad from a professional designer's perspective. Use a refin
 
 </details>
 
-👤 [@gh-genel_ai](https://x.com/gh-genel_ai) · [Source tweet](https://x.com/genel_ai/status/2046498264774791514) · Tags: `branding`
+👤 [@gh-genel_ai](https://x.com/gh-genel_ai) · [Source](https://x.com/genel_ai/status/2046498264774791514) · Tags: `branding`
 
 ---
 
-#### 17. Strawberry soft-serve product
+#### 568. Strawberry soft-serve product
 
-<img src="images/awesome-gpt2/portrait/23.jpg" alt="Strawberry soft-serve product" width="560">
+<img src="images/prompts/568.jpg" alt="Strawberry soft-serve product" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23090,13 +22111,13 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 </details>
 
-👤 [@gh-ZaraIrahh](https://x.com/gh-ZaraIrahh) · [Source tweet](https://x.com/ZaraIrahh/status/2047179916161212542) · Tags: `portrait` `branding`
+👤 [@gh-ZaraIrahh](https://x.com/gh-ZaraIrahh) · [Source](https://x.com/ZaraIrahh/status/2047179916161212542) · Tags: `portrait`
 
 ---
 
-#### 18. Green tea film kit packaging
+#### 569. Green tea film kit packaging
 
-<img src="images/awesome-gpt2/portrait/22.jpg" alt="Green tea film kit packaging" width="560">
+<img src="images/prompts/569.jpg" alt="Green tea film kit packaging" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23106,13 +22127,13 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 </details>
 
-👤 [@gh-ZaraIrahh](https://x.com/gh-ZaraIrahh) · [Source tweet](https://x.com/ZaraIrahh/status/2047180061657452601) · Tags: `branding`
+👤 [@gh-ZaraIrahh](https://x.com/gh-ZaraIrahh) · [Source](https://x.com/ZaraIrahh/status/2047180061657452601) · Tags: `branding`
 
 ---
 
-#### 19. Exploded VR headset diagram
+#### 570. Exploded VR headset diagram
 
-<img src="images/awesome-gpt2/ad/109.jpg" alt="Exploded VR headset diagram" width="560">
+<img src="images/prompts/570.jpg" alt="Exploded VR headset diagram" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23156,13 +22177,13 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 </details>
 
-👤 [@gh-wory37303852](https://x.com/gh-wory37303852) · [Source tweet](https://x.com/wory37303852/status/2045925660401795478) · Tags: `poster` `3d-render`
+👤 [@gh-wory37303852](https://x.com/gh-wory37303852) · [Source](https://x.com/wory37303852/status/2045925660401795478) · Tags: `poster`
 
 ---
 
-#### 20. Four Loko parody ecommerce ad
+#### 571. Four Loko parody ecommerce ad
 
-<img src="images/awesome-gpt2/ad/131.jpg" alt="Four Loko parody ecommerce ad" width="560">
+<img src="images/prompts/571.jpg" alt="Four Loko parody ecommerce ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23172,13 +22193,13 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 </details>
 
-👤 [@gh-tonysimons_](https://x.com/gh-tonysimons_) · [Source tweet](https://x.com/tonysimons_/status/2048057490940596595) · Tags: `branding` `infographic`
+👤 [@gh-tonysimons_](https://x.com/gh-tonysimons_) · [Source](https://x.com/tonysimons_/status/2048057490940596595) · Tags: `branding`
 
 ---
 
-#### 21. E-commerce TVC storyboard board
+#### 572. E-commerce TVC storyboard board
 
-<img src="images/awesome-gpt2/ecommerce/160.jpg" alt="E-commerce TVC storyboard board" width="560">
+<img src="images/prompts/572.jpg" alt="E-commerce TVC storyboard board" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23188,13 +22209,13 @@ Using the provided reference image, transform the single casual product photo in
 
 </details>
 
-👤 [@gh-Magncsans](https://x.com/gh-Magncsans) · [Source tweet](https://x.com/Magncsans/status/2047876253898903594) · Tags: `comparison` `branding`
+👤 [@gh-Magncsans](https://x.com/gh-Magncsans) · [Source](https://x.com/Magncsans/status/2047876253898903594) · Tags: `comparison`
 
 ---
 
-#### 22. Crocs pastel blue ad poster
+#### 573. Crocs pastel blue ad poster
 
-<img src="images/awesome-gpt2/ecommerce/159.jpg" alt="Crocs pastel blue ad poster" width="560">
+<img src="images/prompts/573.jpg" alt="Crocs pastel blue ad poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23204,13 +22225,13 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 </details>
 
-👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source tweet](https://x.com/SPEEDAI07/status/2047907058079650035) · Tags: `branding` `poster`
+👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source](https://x.com/SPEEDAI07/status/2047907058079650035) · Tags: `branding`
 
 ---
 
-#### 23. Fried chicken bucket podium ad
+#### 574. Fried chicken bucket podium ad
 
-<img src="images/awesome-gpt2/ecommerce/158.jpg" alt="Fried chicken bucket podium ad" width="560">
+<img src="images/prompts/574.jpg" alt="Fried chicken bucket podium ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23230,13 +22251,13 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 </details>
 
-👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source tweet](https://x.com/Strength04_X/status/2047917220165231011) · Tags: `branding`
+👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source](https://x.com/Strength04_X/status/2047917220165231011) · Tags: `branding`
 
 ---
 
-#### 24. Lipstick product reference
+#### 575. Lipstick product reference
 
-<img src="images/awesome-gpt2/ecommerce/157.jpg" alt="Lipstick product reference" width="560">
+<img src="images/prompts/575.jpg" alt="Lipstick product reference" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23246,13 +22267,13 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 </details>
 
-👤 [@gh-Adam38363368936](https://x.com/gh-Adam38363368936) · [Source tweet](https://x.com/Adam38363368936/status/2047917266361360682) · Tags: `poster` `branding`
+👤 [@gh-Adam38363368936](https://x.com/gh-Adam38363368936) · [Source](https://x.com/Adam38363368936/status/2047917266361360682) · Tags: `poster`
 
 ---
 
-#### 25. Eco crew T-shirt editorial
+#### 576. Eco crew T-shirt editorial
 
-<img src="images/awesome-gpt2/ecommerce/156.jpg" alt="Eco crew T-shirt editorial" width="560">
+<img src="images/prompts/576.jpg" alt="Eco crew T-shirt editorial" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23262,13 +22283,13 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 </details>
 
-👤 [@gh-Diplomeme](https://x.com/gh-Diplomeme) · [Source tweet](https://x.com/Diplomeme/status/2047957339974828092) · Tags: `branding` `portrait`
+👤 [@gh-Diplomeme](https://x.com/gh-Diplomeme) · [Source](https://x.com/Diplomeme/status/2047957339974828092) · Tags: `branding`
 
 ---
 
-#### 26. Apple Pods Pro 3 close-up ad
+#### 577. Apple Pods Pro 3 close-up ad
 
-<img src="images/awesome-gpt2/ecommerce/155.jpg" alt="Apple Pods Pro 3 close-up ad" width="560">
+<img src="images/prompts/577.jpg" alt="Apple Pods Pro 3 close-up ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23299,13 +22320,13 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 </details>
 
-👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source tweet](https://x.com/SPEEDAI07/status/2047981795552153860) · Tags: `branding` `infographic`
+👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source](https://x.com/SPEEDAI07/status/2047981795552153860) · Tags: `branding`
 
 ---
 
-#### 27. Wang Ximeng landscape scarf
+#### 578. Wang Ximeng landscape scarf
 
-<img src="images/awesome-gpt2/ecommerce/152.jpg" alt="Wang Ximeng landscape scarf" width="560">
+<img src="images/prompts/578.jpg" alt="Wang Ximeng landscape scarf" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23317,13 +22338,13 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2048046906585280977) · Tags: `portrait`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2048046906585280977) · Tags: `portrait`
 
 ---
 
-#### 28. Miniature diorama skincare ad
+#### 579. Miniature diorama skincare ad
 
-<img src="images/awesome-gpt2/ecommerce/151.jpg" alt="Miniature diorama skincare ad" width="560">
+<img src="images/prompts/579.jpg" alt="Miniature diorama skincare ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23333,13 +22354,13 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 </details>
 
-👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source tweet](https://x.com/Strength04_X/status/2048074514278563949) · Tags: `3d-render` `branding`
+👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source](https://x.com/Strength04_X/status/2048074514278563949) · Tags: `3d-render`
 
 ---
 
-#### 29. Luxury perfume on marble
+#### 580. Luxury perfume on marble
 
-<img src="images/awesome-gpt2/ecommerce/118.jpg" alt="Luxury perfume on marble" width="560">
+<img src="images/prompts/580.jpg" alt="Luxury perfume on marble" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23349,13 +22370,13 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 </details>
 
-👤 [@gh-MiguelMaestroIA](https://x.com/gh-MiguelMaestroIA) · [Source tweet](https://x.com/MiguelMaestroIA/status/2047555836252151831) · Tags: `portrait` `branding`
+👤 [@gh-MiguelMaestroIA](https://x.com/gh-MiguelMaestroIA) · [Source](https://x.com/MiguelMaestroIA/status/2047555836252151831) · Tags: `portrait`
 
 ---
 
-#### 30. Black backless loafers try-on
+#### 581. Black backless loafers try-on
 
-<img src="images/awesome-gpt2/ecommerce/117.jpg" alt="Black backless loafers try-on" width="560">
+<img src="images/prompts/581.jpg" alt="Black backless loafers try-on" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23365,13 +22386,13 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 </details>
 
-👤 [@gh-dynamicwangs](https://x.com/gh-dynamicwangs) · [Source tweet](https://x.com/dynamicwangs/status/2047580984342925545) · Tags: `portrait` `branding`
+👤 [@gh-dynamicwangs](https://x.com/gh-dynamicwangs) · [Source](https://x.com/dynamicwangs/status/2047580984342925545) · Tags: `portrait`
 
 ---
 
-#### 31. Locked reference product layout
+#### 582. Locked reference product layout
 
-<img src="images/awesome-gpt2/ecommerce/116.jpg" alt="Locked reference product layout" width="560">
+<img src="images/prompts/582.jpg" alt="Locked reference product layout" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23393,13 +22414,13 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 </details>
 
-👤 [@gh-ShamsAmin56](https://x.com/gh-ShamsAmin56) · [Source tweet](https://x.com/ShamsAmin56/status/2047627860752621647) · Tags: `infographic`
+👤 [@gh-ShamsAmin56](https://x.com/gh-ShamsAmin56) · [Source](https://x.com/ShamsAmin56/status/2047627860752621647) · Tags: `infographic`
 
 ---
 
-#### 32. Tropical citrus soda poster
+#### 583. Tropical citrus soda poster
 
-<img src="images/awesome-gpt2/ecommerce/115.jpg" alt="Tropical citrus soda poster" width="560">
+<img src="images/prompts/583.jpg" alt="Tropical citrus soda poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23409,13 +22430,13 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 </details>
 
-👤 [@gh-edimakorfr](https://x.com/gh-edimakorfr) · [Source tweet](https://x.com/edimakorfr/status/2047635133466124726) · Tags: `branding` `poster`
+👤 [@gh-edimakorfr](https://x.com/gh-edimakorfr) · [Source](https://x.com/edimakorfr/status/2047635133466124726) · Tags: `branding`
 
 ---
 
-#### 33. Pastel pump bottle on podium
+#### 584. Pastel pump bottle on podium
 
-<img src="images/awesome-gpt2/ecommerce/114.jpg" alt="Pastel pump bottle on podium" width="560">
+<img src="images/prompts/584.jpg" alt="Pastel pump bottle on podium" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23425,13 +22446,13 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 </details>
 
-👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source tweet](https://x.com/Strength04_X/status/2047636636847231222) · Tags: `portrait` `branding`
+👤 [@gh-Strength04_X](https://x.com/gh-Strength04_X) · [Source](https://x.com/Strength04_X/status/2047636636847231222) · Tags: `portrait`
 
 ---
 
-#### 34. Luxury rectangular perfume
+#### 585. Luxury rectangular perfume
 
-<img src="images/awesome-gpt2/ecommerce/113.jpg" alt="Luxury rectangular perfume" width="560">
+<img src="images/prompts/585.jpg" alt="Luxury rectangular perfume" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -23441,11 +22462,11 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 </details>
 
-👤 [@gh-Polanco_IA](https://x.com/gh-Polanco_IA) · [Source tweet](https://x.com/Polanco_IA/status/2047689647967609037) · Tags: `branding` `portrait`
+👤 [@gh-Polanco_IA](https://x.com/gh-Polanco_IA) · [Source](https://x.com/Polanco_IA/status/2047689647967609037) · Tags: `branding`
 
 ---
 
-#### 35. Mid-jump streetwear sneaker poster
+#### 586. Mid-jump streetwear sneaker poster
 
 <img src="images/prompts/2049022501850915160.jpg" alt="Mid-jump streetwear sneaker poster" width="560">
 
@@ -23470,11 +22491,11 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 </details>
 
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `poster` `branding`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `poster`
 
 ---
 
-#### 36. Sliced ingredient diorama 2x2 grid
+#### 587. Sliced ingredient diorama 2x2 grid
 
 <img src="images/prompts/2048964671852405035.jpg" alt="Sliced ingredient diorama 2x2 grid" width="560">
 
@@ -23490,7 +22511,7 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 ---
 
-#### 37. Cinematic luxury perfume shot
+#### 588. Cinematic luxury perfume shot
 
 <img src="images/prompts/2048956977250726018.jpg" alt="Cinematic luxury perfume shot" width="560">
 
@@ -23523,19 +22544,11 @@ Cheat Sheet
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048956977250726018-1.jpg" width="320">
-<img src="images/prompts/2048956977250726018-2.jpg" width="320">
-<img src="images/prompts/2048956977250726018-3.jpg" width="320">
-
-</details>
-
-👤 [@yourPlugAI](https://x.com/yourPlugAI) · Tags: `poster` `branding`
+👤 [@yourPlugAI](https://x.com/yourPlugAI) · Tags: `poster`
 
 ---
 
-#### 38. Adidas Aeroblade X drop poster
+#### 589. Adidas Aeroblade X drop poster
 
 <img src="images/prompts/2048773623297527836.jpg" alt="Adidas Aeroblade X drop poster" width="560">
 
@@ -23583,11 +22596,11 @@ Make the aspect ratio 9:16
 
 </details>
 
-👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `poster` `branding`
+👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `poster`
 
 ---
 
-#### 39. Controlled-unsealing object poster
+#### 590. Controlled-unsealing object poster
 
 <img src="images/prompts/2048765001817805295.jpg" alt="Controlled-unsealing object poster" width="560">
 
@@ -23762,11 +22775,11 @@ Power under control.
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 40. Premium automotive hero poster
+#### 591. Premium automotive hero poster
 
 <img src="images/prompts/2048752153343545390.jpg" alt="Premium automotive hero poster" width="560">
 
@@ -23791,11 +22804,11 @@ Clean composition, high-end automotive advertisement style, collector poster aes
 
 </details>
 
-👤 [@Preda2005](https://x.com/Preda2005) · Tags: `poster` `branding`
+👤 [@Preda2005](https://x.com/Preda2005) · Tags: `poster`
 
 ---
 
-#### 41. Cozy flat-lay doodle annotations
+#### 592. Cozy flat-lay doodle annotations
 
 <img src="images/prompts/2048725842096976020.jpg" alt="Cozy flat-lay doodle annotations" width="560">
 
@@ -23807,17 +22820,11 @@ Top-down flat lay on a rustic wooden table, cozy aesthetic, soft natural light. 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048725842096976020-1.jpg" width="320">
-
-</details>
-
 👤 [@Sairah_0](https://x.com/Sairah_0) · Tags: `branding`
 
 ---
 
-#### 42. Bird-nest sculptural lounge chair
+#### 593. Bird-nest sculptural lounge chair
 
 <img src="images/prompts/2048667175112802778.jpg" alt="Bird-nest sculptural lounge chair" width="560">
 
@@ -23831,11 +22838,11 @@ AR – 4:3
 
 </details>
 
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic` `comparison`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 43. Face wash watercolor poster
+#### 594. Face wash watercolor poster
 
 <img src="images/prompts/2048662802475409637.jpg" alt="Face wash watercolor poster" width="560">
 
@@ -23851,17 +22858,11 @@ Small illustrative bubbles, stars, and botanical accents float around the compos
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048662802475409637-1.jpg" width="320">
-
-</details>
-
-👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `poster` `branding`
+👤 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · Tags: `poster`
 
 ---
 
-#### 44. Gourmet bar food poster
+#### 595. Gourmet bar food poster
 
 <img src="images/prompts/2048659308645106081.jpg" alt="Gourmet bar food poster" width="560">
 
@@ -24077,11 +23078,11 @@ POSTPRODUCCIÓN:
 
 </details>
 
-👤 [@Ivangrisa](https://x.com/Ivangrisa) · Tags: `poster` `branding`
+👤 [@Ivangrisa](https://x.com/Ivangrisa) · Tags: `poster`
 
 ---
 
-#### 45. Oversized Apple smartwatch ad
+#### 596. Oversized Apple smartwatch ad
 
 <img src="images/prompts/2048643867222962518.jpg" alt="Oversized Apple smartwatch ad" width="560">
 
@@ -24093,11 +23094,11 @@ Minimalist commercial ad featuring oversized white smartwatch, ultra-clean desig
 
 </details>
 
-👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `poster` `branding`
+👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `poster`
 
 ---
 
-#### 46. Bolt earbuds 9:16 product ad
+#### 597. Bolt earbuds 9:16 product ad
 
 <img src="images/prompts/2048641686994407474.jpg" alt="Bolt earbuds 9:16 product ad" width="560">
 
@@ -24167,11 +23168,11 @@ Balanced composition with strong negative space
 
 </details>
 
-👤 [@john_my07](https://x.com/john_my07) · Tags: `branding` `infographic`
+👤 [@john_my07](https://x.com/john_my07) · Tags: `branding`
 
 ---
 
-#### 47. Instax Mini 11 ecommerce ad
+#### 598. Instax Mini 11 ecommerce ad
 
 <img src="images/prompts/2048636069349138568.jpg" alt="Instax Mini 11 ecommerce ad" width="560">
 
@@ -24183,11 +23184,11 @@ High-impact e-commerce infographic advertisement for "Fujifilm Instax Mini 11" b
 
 </details>
 
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding` `infographic`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 48. Restaurant brand mockup matrix
+#### 599. Restaurant brand mockup matrix
 
 <img src="images/prompts/2048360321379701233.jpg" alt="Restaurant brand mockup matrix" width="560">
 
@@ -24257,21 +23258,13 @@ Make the aspect ratio 9:16
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048360321379701233-1.jpg" width="320">
-<img src="images/prompts/2048360321379701233-2.jpg" width="320">
-<img src="images/prompts/2048360321379701233-3.jpg" width="320">
-
-</details>
-
-👤 [@MrLarus](https://x.com/MrLarus) · Tags: `branding` `infographic`
+👤 [@MrLarus](https://x.com/MrLarus) · Tags: `branding`
 
 ---
 
-#### 49. Hidden-gem food 2x2 diorama grid
+#### 600. Hidden-gem food 2x2 diorama grid
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048091166047158761/0.jpg" alt="Hidden-gem food 2x2 diorama grid" width="560">
+<img src="images/prompts/2048091166047158761.jpg" alt="Hidden-gem food 2x2 diorama grid" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24285,7 +23278,7 @@ Make the aspect ratio 9:16
 
 ---
 
-#### 50. Meal prep wellness poster
+#### 601. Meal prep wellness poster
 
 <img src="images/prompts/2048076798798217594.jpg" alt="Meal prep wellness poster" width="560">
 
@@ -24299,21 +23292,13 @@ Design a minimalist healthy meal prep poster for [MEAL PLAN], with clean contain
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048076798798217594-1.jpg" width="320">
-<img src="images/prompts/2048076798798217594-2.jpg" width="320">
-<img src="images/prompts/2048076798798217594-3.jpg" width="320">
-
-</details>
-
-👤 [@Dheepanratnam](https://x.com/Dheepanratnam) · Tags: `poster` `branding`
+👤 [@Dheepanratnam](https://x.com/Dheepanratnam) · Tags: `poster`
 
 ---
 
-#### 51. BMW M4 G82 blue poster
+#### 602. BMW M4 G82 blue poster
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048063332624843046/0.jpg" alt="BMW M4 G82 blue poster" width="560">
+<img src="images/prompts/2048063332624843046.jpg" alt="BMW M4 G82 blue poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24385,13 +23370,13 @@ Add Bottom-right watermark: harboriis , with small x and Instagram logo
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · Tags: `poster` `branding`
+👤 [@harboriis](https://x.com/harboriis) · Tags: `poster`
 
 ---
 
-#### 52. Selvedge denim editorial ad
+#### 603. Selvedge denim editorial ad
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048024788078350620/0.jpg" alt="Selvedge denim editorial ad" width="560">
+<img src="images/prompts/2048024788078350620.jpg" alt="Selvedge denim editorial ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24401,13 +23386,13 @@ A hyperrealistic premium denim advertisement shot in a dark, moody editorial sty
 
 </details>
 
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `poster` `branding`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `poster`
 
 ---
 
-#### 53. Nike sneaker dark editorial ad
+#### 604. Nike sneaker dark editorial ad
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048018776785064328/0.jpg" alt="Nike sneaker dark editorial ad" width="560">
+<img src="images/prompts/2048018776785064328.jpg" alt="Nike sneaker dark editorial ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24420,11 +23405,11 @@ Small yellow plus (+) symbols and diagonal arrows (↗) are scattered throughout
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `poster` `branding`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `poster`
 
 ---
 
-#### 54. Editorial style woman portrait
+#### 605. Editorial style woman portrait
 
 <img src="images/prompts/2047989228274118901.jpg" alt="Editorial style woman portrait" width="560">
 
@@ -24440,7 +23425,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 ---
 
-#### 55. Editorial style king v3
+#### 606. Editorial style king v3
 
 <img src="images/prompts/2047986905896427670.jpg" alt="Editorial style king v3" width="560">
 
@@ -24603,11 +23588,11 @@ Driver focus.
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 56. Editorial style woman portrait
+#### 607. Editorial style woman portrait
 
 <img src="images/prompts/2047935217231663186.jpg" alt="Editorial style woman portrait" width="560">
 
@@ -24710,13 +23695,13 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 </details>
 
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding` `infographic`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 57. Editorial style space scene
+#### 608. Editorial style space scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047729312384901449/0.jpg" alt="Editorial style space scene" width="560">
+<img src="images/prompts/2047729312384901449.jpg" alt="Editorial style space scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24736,13 +23721,13 @@ Style: ultra-clean, Apple-style minimalism meets fashion campaign, hyper-realist
 
 </details>
 
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `poster` `branding`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `poster`
 
 ---
 
-#### 58. Cinematic lighting ocean scene
+#### 609. Cinematic lighting ocean scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047711520059252891/0.jpg" alt="Cinematic lighting ocean scene" width="560">
+<img src="images/prompts/2047711520059252891.jpg" alt="Cinematic lighting ocean scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24876,21 +23861,13 @@ premium commercial finish
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047711520059252891/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047711520059252891/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047711520059252891/3.jpg" width="320">
-
-</details>
-
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 59. Editorial style creative scene
+#### 610. Editorial style creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047704906904330554/0.jpg" alt="Editorial style creative scene" width="560">
+<img src="images/prompts/2047704906904330554.jpg" alt="Editorial style creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24900,13 +23877,13 @@ Minimalist luxury watch campaign, oversized wristwatch positioned like modern sc
 
 </details>
 
-👤 [@AIwithkhan](https://x.com/AIwithkhan) · Tags: `poster` `branding`
+👤 [@AIwithkhan](https://x.com/AIwithkhan) · Tags: `poster`
 
 ---
 
-#### 60. Editorial style magazine cover
+#### 611. Editorial style magazine cover
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047700936605479334/0.jpg" alt="Editorial style magazine cover" width="560">
+<img src="images/prompts/2047700936605479334.jpg" alt="Editorial style magazine cover" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -24916,13 +23893,13 @@ Avant-garde fashion advertisement, oversized futuristic sunglasses positioned li
 
 </details>
 
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `poster` `branding`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `poster`
 
 ---
 
-#### 61. Editorial style king v2
+#### 612. Editorial style king v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047654588657156577/0.jpg" alt="Editorial style king v2" width="560">
+<img src="images/prompts/2047654588657156577.jpg" alt="Editorial style king v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25009,21 +23986,13 @@ documentary realism with fashion editorial polish.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047654588657156577/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047654588657156577/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047654588657156577/3.jpg" width="320">
-
-</details>
-
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 62. Editorial style creative scene
+#### 613. Editorial style creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047419255931748377/0.jpg" alt="Editorial style creative scene" width="560">
+<img src="images/prompts/2047419255931748377.jpg" alt="Editorial style creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25074,13 +24043,13 @@ Hyperreal, cinematic, polished, and aspirational
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `comparison`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 63. Photorealistic creative scene
+#### 614. Photorealistic creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047273916406677721/0.jpg" alt="Photorealistic creative scene" width="560">
+<img src="images/prompts/2047273916406677721.jpg" alt="Photorealistic creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25101,9 +24070,9 @@ Keep the layout simple, balanced, and premium with strong brand consistency.
 
 ---
 
-#### 64. Poster king
+#### 615. Poster king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047253028462317674/0.jpg" alt="Poster king" width="560">
+<img src="images/prompts/2047253028462317674.jpg" alt="Poster king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25133,21 +24102,13 @@ Please create a high-aesthetic, high-completion 'brand packaging system showcase
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047253028462317674/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047253028462317674/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047253028462317674/3.jpg" width="320">
-
-</details>
-
-👤 [@MrLarus](https://x.com/MrLarus) · Tags: `poster` `branding`
+👤 [@MrLarus](https://x.com/MrLarus) · Tags: `poster`
 
 ---
 
-#### 65. Cinematic lighting man portrait
+#### 616. Cinematic lighting man portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047226077760901445/0.jpg" alt="Cinematic lighting man portrait" width="560">
+<img src="images/prompts/2047226077760901445.jpg" alt="Cinematic lighting man portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25177,13 +24138,13 @@ Include:
 
 </details>
 
-👤 [@Preda2005](https://x.com/Preda2005) · Tags: `poster` `branding`
+👤 [@Preda2005](https://x.com/Preda2005) · Tags: `poster`
 
 ---
 
-#### 66. Dragon artwork v2
+#### 617. Dragon artwork v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047215501798244570/0.jpg" alt="Dragon artwork v2" width="560">
+<img src="images/prompts/2047215501798244570.jpg" alt="Dragon artwork v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25193,19 +24154,13 @@ Empress lingerie ad in the style of Wu Zetian — bright yellow base color with 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047215501798244570/1.jpg" width="320">
-
-</details>
-
-👤 [@songguoxiansen](https://x.com/songguoxiansen) · Tags: `poster` `branding`
+👤 [@songguoxiansen](https://x.com/songguoxiansen) · Tags: `poster`
 
 ---
 
-#### 67. Photorealistic king
+#### 618. Photorealistic king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047170094716051776/0.jpg" alt="Photorealistic king" width="560">
+<img src="images/prompts/2047170094716051776.jpg" alt="Photorealistic king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25323,13 +24278,13 @@ ultra-detailed modern finish
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 68. Poster food shot
+#### 619. Poster food shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046995536528445697/0.jpg" alt="Poster food shot" width="560">
+<img src="images/prompts/2046995536528445697.jpg" alt="Poster food shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25339,19 +24294,13 @@ Create a [food name] food preparation poster
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046995536528445697/1.jpg" width="320">
-
-</details>
-
-👤 [@johnAGI168](https://x.com/johnAGI168) · Tags: `poster` `branding`
+👤 [@johnAGI168](https://x.com/johnAGI168) · Tags: `poster`
 
 ---
 
-#### 69. Creative scene artwork
+#### 620. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046844986533056947/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2046844986533056947.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25361,20 +24310,13 @@ Zhao Feiyan-style 'Palm-Dance Solid Perfume' ad — gold-inlaid lotus-vine bronz
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046844986533056947/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046844986533056947/2.jpg" width="320">
-
-</details>
-
 👤 [@joshesye](https://x.com/joshesye) · Tags: `branding`
 
 ---
 
-#### 70. Dragon artwork
+#### 621. Dragon artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046766344163737788/0.jpg" alt="Dragon artwork" width="560">
+<img src="images/prompts/2046766344163737788.jpg" alt="Dragon artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25388,9 +24330,9 @@ Empress perfume ad in the style of Wu Zetian — gold bottle with dragon pattern
 
 ---
 
-#### 71. Packaging design creative scene
+#### 622. Packaging design creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046603938485637446/0.jpg" alt="Packaging design creative scene" width="560">
+<img src="images/prompts/2046603938485637446.jpg" alt="Packaging design creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25404,9 +24346,9 @@ Generate a complete high-end brand-marketing image. The product is a co-branded 
 
 ---
 
-#### 72. Creative scene artwork
+#### 623. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046498264774791514/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2046498264774791514.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25416,13 +24358,13 @@ Redesign this product ad from a professional designer's perspective. Use a refin
 
 </details>
 
-👤 [@genel_ai](https://x.com/genel_ai) · Tags: `branding` `comparison`
+👤 [@genel_ai](https://x.com/genel_ai) · Tags: `branding`
 
 ---
 
-#### 73. Car shot artwork
+#### 624. Car shot artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045852114673635507/0.jpg" alt="Car shot artwork" width="560">
+<img src="images/prompts/2045852114673635507.jpg" alt="Car shot artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25436,9 +24378,9 @@ Image generation: product advertising photo, seasonal product perfect for summer
 
 ---
 
-#### 74. Cinematic lighting forest scene
+#### 625. Cinematic lighting forest scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045830975318610408/0.jpg" alt="Cinematic lighting forest scene" width="560">
+<img src="images/prompts/2045830975318610408.jpg" alt="Cinematic lighting forest scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25473,11 +24415,11 @@ format: 1:1 square, ultra high resolution, print-ready billboard finish
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 75. Editorial style king
+#### 626. Editorial style king
 
 <img src="images/prompts/2044829425464656123.jpg" alt="Editorial style king" width="560">
 
@@ -25527,7 +24469,7 @@ Render: Octane Render or Redshift with fiber/textile displacement geometry. Thre
 
 ---
 
-#### 76. 3d render king
+#### 627. 3d render king
 
 <img src="images/prompts/2043013709615022434.jpg" alt="3d render king" width="560">
 
@@ -25574,7 +24516,7 @@ Output:
 
 ---
 
-#### 77. Photorealistic cityscape
+#### 628. Photorealistic cityscape
 
 <img src="images/prompts/2042058511937679439.jpg" alt="Photorealistic cityscape" width="560">
 
@@ -25586,19 +24528,11 @@ A hyper-realistic macro shot of a paintbrush creating a thick textured paint str
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042058511937679439-1.jpg" width="320">
-<img src="images/prompts/2042058511937679439-2.jpg" width="320">
-<img src="images/prompts/2042058511937679439-3.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `3d-render` `infographic`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `3d-render`
 
 ---
 
-#### 78. Photorealistic woman portrait
+#### 629. Photorealistic woman portrait
 
 <img src="images/prompts/2041761330806595879.jpg" alt="Photorealistic woman portrait" width="560">
 
@@ -25610,18 +24544,11 @@ Ultra-realistic beauty advertisement, close-up of a young woman with long wavy b
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041761330806595879-1.jpg" width="320">
-<img src="images/prompts/2041761330806595879-2.jpg" width="320">
-
-</details>
-
-👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `portrait` `branding`
+👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `portrait`
 
 ---
 
-#### 79. Photorealistic robot
+#### 630. Photorealistic robot
 
 <img src="images/prompts/2041516871133122581.jpg" alt="Photorealistic robot" width="560">
 
@@ -25633,11 +24560,11 @@ Ultra-realistic beauty advertisement, close-up of a young woman with long wavy b
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 80. Hyper-real automotive poster
+#### 631. Hyper-real automotive poster
 
 <img src="images/prompts/2041366564516368436.jpg" alt="Hyper-real automotive poster" width="560">
 
@@ -25651,13 +24578,13 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 81. Reverse disintegration product
+#### 632. Reverse disintegration product
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041263140340486503/0.jpg" alt="Reverse disintegration product" width="560">
+<img src="images/prompts/2041263140340486503.jpg" alt="Reverse disintegration product" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -25667,19 +24594,11 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041263140340486503/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041263140340486503/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041263140340486503/3.jpg" width="320">
-
-</details>
-
-👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `branding` `3d-render`
+👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `branding`
 
 ---
 
-#### 82. Starbucks frappuccino fisheye
+#### 633. Starbucks frappuccino fisheye
 
 <img src="images/prompts/2041163046874382357.jpg" alt="Starbucks frappuccino fisheye" width="560">
 
@@ -25704,17 +24623,11 @@ Lighting: [MAIN LIGHT SOURCE], strong specular on car panels, all brand lights i
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041163046874382357-1.jpg" width="320">
-
-</details>
-
 👤 [@VigoCreativeAI](https://x.com/VigoCreativeAI) · Tags: `branding`
 
 ---
 
-#### 83. 3x3 product campaign grid
+#### 634. 3x3 product campaign grid
 
 <img src="images/prompts/2041150657659384180.jpg" alt="3x3 product campaign grid" width="560">
 
@@ -25767,11 +24680,11 @@ Hyperreal, cinematic, polished, and aspirational
 
 </details>
 
-👤 [@arceyul](https://x.com/arceyul) · Tags: `branding` `comparison`
+👤 [@arceyul](https://x.com/arceyul) · Tags: `branding`
 
 ---
 
-#### 84. Minute Maid coastal campaign
+#### 635. Minute Maid coastal campaign
 
 <img src="images/prompts/2040646451425063037.jpg" alt="Minute Maid coastal campaign" width="560">
 
@@ -25789,11 +24702,11 @@ Lighting: soft cool overhead diffused studio light, clean marble reflection, zer
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 85. Brand resin magnet flatlay
+#### 636. Brand resin magnet flatlay
 
 <img src="images/prompts/2040498492347420883.jpg" alt="Brand resin magnet flatlay" width="560">
 
@@ -25805,11 +24718,11 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding`
 
 ---
 
-#### 86. Country magnet 9-piece flatlay
+#### 637. Country magnet 9-piece flatlay
 
 <img src="images/prompts/2040134478203416799.jpg" alt="Country magnet 9-piece flatlay" width="560">
 
@@ -25825,7 +24738,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 87. Country resin magnet flatlay
+#### 638. Country resin magnet flatlay
 
 <img src="images/prompts/2040075769448214791.jpg" alt="Country resin magnet flatlay" width="560">
 
@@ -25841,7 +24754,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 88. Split blueprint car render
+#### 639. Split blueprint car render
 
 <img src="images/prompts/2039777786639126806.jpg" alt="Split blueprint car render" width="560">
 
@@ -26028,7 +24941,7 @@ A flat-lay collection of exactly 9 hyper-realistic 3D resin fridge magnets arran
 
 ---
 
-#### 89. Frosted glass packaging render
+#### 640. Frosted glass packaging render
 
 <img src="images/prompts/2039704935194107907.jpg" alt="Frosted glass packaging render" width="560">
 
@@ -26044,7 +24957,7 @@ A hyper-detailed 3D frosted translucent glass version of the attached product pa
 
 ---
 
-#### 90. Honey jar wheat meadow
+#### 641. Honey jar wheat meadow
 
 <img src="images/prompts/2039694451552272532.jpg" alt="Honey jar wheat meadow" width="560">
 
@@ -26056,17 +24969,11 @@ Ultra-realistic cinematic product shot of a premium honey jar placed inside a sh
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039694451552272532-1.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `branding`
 
 ---
 
-#### 91. Industrial packaging design sheet
+#### 642. Industrial packaging design sheet
 
 <img src="images/prompts/2039679180775063573.jpg" alt="Industrial packaging design sheet" width="560">
 
@@ -26082,7 +24989,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ---
 
-#### 92. Forest moss perfume macro
+#### 643. Forest moss perfume macro
 
 <img src="images/prompts/2039312763491917901.jpg" alt="Forest moss perfume macro" width="560">
 
@@ -26094,17 +25001,11 @@ Ultra-realistic premium fragrance product shot of a perfume bottle (Forest Essen
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039312763491917901-1.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 93. Tiny product fingertip ad
+#### 644. Tiny product fingertip ad
 
 <img src="images/prompts/2038616252785303612.jpg" alt="Tiny product fingertip ad" width="560">
 
@@ -26116,11 +25017,11 @@ A high-resolution advertising photograph of a realistic, miniature product in th
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 94. Chilled Pepsi can ad
+#### 645. Chilled Pepsi can ad
 
 <img src="images/prompts/2038543008556015633.jpg" alt="Chilled Pepsi can ad" width="560">
 
@@ -26136,7 +25037,7 @@ High-quality professional product photography of a chilled Pepsi can with conden
 
 ---
 
-#### 95. Children's book seed scene
+#### 646. Children's book seed scene
 
 <img src="images/prompts/2038525426084323378.jpg" alt="Children's book seed scene" width="560">
 
@@ -26177,7 +25078,7 @@ High-quality professional product photography of a chilled Pepsi can with conden
 
 ---
 
-#### 96. Top-down chili tomato chutney
+#### 647. Top-down chili tomato chutney
 
 <img src="images/prompts/2038456800190808446.jpg" alt="Top-down chili tomato chutney" width="560">
 
@@ -26189,18 +25090,11 @@ Top-down premium food photography of a glass jar of chili tomato chutney placed 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038456800190808446-1.jpg" width="320">
-<img src="images/prompts/2038456800190808446-2.jpg" width="320">
-
-</details>
-
 👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `branding`
 
 ---
 
-#### 97. Industrial packaging sheet
+#### 648. Industrial packaging sheet
 
 <img src="images/prompts/2038342534024544736.jpg" alt="Industrial packaging sheet" width="560">
 
@@ -26212,19 +25106,11 @@ Using the attached image, create an illustration sheet of professional industria
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038342534024544736-1.jpg" width="320">
-<img src="images/prompts/2038342534024544736-2.jpg" width="320">
-<img src="images/prompts/2038342534024544736-3.jpg" width="320">
-
-</details>
-
 👤 [@gudanglifehack](https://x.com/gudanglifehack) · Tags: `infographic`
 
 ---
 
-#### 98. Matte chronograph rock macro
+#### 649. Matte chronograph rock macro
 
 <img src="images/prompts/2038224276835471420.jpg" alt="Matte chronograph rock macro" width="560">
 
@@ -26240,7 +25126,7 @@ A rugged, matte-black chronograph watch with bold orange accents is tightly fram
 
 ---
 
-#### 99. Luxury 9:16 ivory product visual
+#### 650. Luxury 9:16 ivory product visual
 
 <img src="images/prompts/2037967998565089736.jpg" alt="Luxury 9:16 ivory product visual" width="560">
 
@@ -26305,7 +25191,7 @@ Depth of Field: f/16 equivalent — everything in sharp focus. Zero bokeh. Tack-
 
 ---
 
-#### 100. Kinder Joy chibi packaging
+#### 651. Kinder Joy chibi packaging
 
 <img src="images/prompts/2037393068538679624.jpg" alt="Kinder Joy chibi packaging" width="560">
 
@@ -26317,19 +25203,11 @@ A hyper-realistic product photo of a Kinder Joy surprise egg sitting on a wooden
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2037393068538679624-1.jpg" width="320">
-<img src="images/prompts/2037393068538679624-2.jpg" width="320">
-<img src="images/prompts/2037393068538679624-3.jpg" width="320">
-
-</details>
-
 👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `comparison`
 
 ---
 
-#### 101. Caravaggio specimen cross-section
+#### 652. Caravaggio specimen cross-section
 
 <img src="images/prompts/2036472105223467305.jpg" alt="Caravaggio specimen cross-section" width="560">
 
@@ -26346,19 +25224,11 @@ Mood: Audubon illustration meets Caravaggio meets the most beautiful science pho
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2036472105223467305-1.jpg" width="320">
-<img src="images/prompts/2036472105223467305-2.jpg" width="320">
-<img src="images/prompts/2036472105223467305-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `infographic`
 
 ---
 
-#### 102. Premium minimal product shot
+#### 653. Premium minimal product shot
 
 <img src="images/prompts/2035672892294451691.jpg" alt="Premium minimal product shot" width="560">
 
@@ -26370,19 +25240,11 @@ studio shot of [PRODUCT], placed on a [background], surrounded by soft shadows a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2035672892294451691-1.jpg" width="320">
-<img src="images/prompts/2035672892294451691-2.jpg" width="320">
-<img src="images/prompts/2035672892294451691-3.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 103. Eco frosted skincare bottle
+#### 654. Eco frosted skincare bottle
 
 <img src="images/prompts/2035582838649827509.jpg" alt="Eco frosted skincare bottle" width="560">
 
@@ -26394,17 +25256,11 @@ Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glas
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2035582838649827509-1.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 104. Dutch Golden Age dish
+#### 655. Dutch Golden Age dish
 
 <img src="images/prompts/2035111136958587304.jpg" alt="Dutch Golden Age dish" width="560">
 
@@ -26416,19 +25272,11 @@ Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glas
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2035111136958587304-1.jpg" width="320">
-<img src="images/prompts/2035111136958587304-2.jpg" width="320">
-<img src="images/prompts/2035111136958587304-3.jpg" width="320">
-
-</details>
-
-👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `portrait` `infographic`
+👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `portrait`
 
 ---
 
-#### 105. Food packaging line illustration
+#### 656. Food packaging line illustration
 
 <img src="images/prompts/2034640645877321998.jpg" alt="Food packaging line illustration" width="560">
 
@@ -26440,18 +25288,11 @@ minimal studio shot on pure white background, real [Food Name] emerging from a p
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034640645877321998-1.jpg" width="320">
-<img src="images/prompts/2034640645877321998-2.jpg" width="320">
-
-</details>
-
 👤 [@egeberkina](https://x.com/egeberkina) · Tags: `branding`
 
 ---
 
-#### 106. Floating outfit invisible body
+#### 657. Floating outfit invisible body
 
 <img src="images/prompts/2034382842084708533.jpg" alt="Floating outfit invisible body" width="560">
 
@@ -26463,19 +25304,11 @@ Complete [STYLE] outfit floating in its exact worn position around  an invisible
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034382842084708533-1.jpg" width="320">
-<img src="images/prompts/2034382842084708533-2.jpg" width="320">
-<img src="images/prompts/2034382842084708533-3.jpg" width="320">
-
-</details>
-
-👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `portrait` `branding`
+👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `portrait`
 
 ---
 
-#### 107. Protein shake splash advert
+#### 658. Protein shake splash advert
 
 <img src="images/prompts/2034139605696712863.jpg" alt="Protein shake splash advert" width="560">
 
@@ -26487,18 +25320,11 @@ Hyper-realistic product advertisement of a protein shake can with yellow and cre
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034139605696712863-1.jpg" width="320">
-<img src="images/prompts/2034139605696712863-2.jpg" width="320">
-
-</details>
-
 👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `branding`
 
 ---
 
-#### 108. Frosted Apple organ render
+#### 659. Frosted Apple organ render
 
 <img src="images/prompts/2033543326444720272.jpg" alt="Frosted Apple organ render" width="560">
 
@@ -26510,11 +25336,11 @@ A hyper-realistic 3D anatomical human [organ] made from semi-translucent frosted
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `illustration`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 109. Subway suit thriller portrait
+#### 660. Subway suit thriller portrait
 
 <img src="images/prompts/2033407780640698583.jpg" alt="Subway suit thriller portrait" width="560">
 
@@ -26526,11 +25352,11 @@ Cinematic portrait of a stylish man standing on a busy subway platform, wearing 
 
 </details>
 
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `branding` `illustration`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `branding`
 
 ---
 
-#### 110. Snack technical infographic
+#### 661. Snack technical infographic
 
 <img src="images/prompts/2031795709243019280.jpg" alt="Snack technical infographic" width="560">
 
@@ -26564,7 +25390,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark
 
 ---
 
-#### 111. Beige flat lay outfit
+#### 662. Beige flat lay outfit
 
 <img src="images/prompts/2030807641187045608.jpg" alt="Beige flat lay outfit" width="560">
 
@@ -26604,11 +25430,11 @@ Important requirements: • No person
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait` `branding`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait`
 
 ---
 
-#### 112. Eco flower packaging sleeve
+#### 663. Eco flower packaging sleeve
 
 <img src="images/prompts/2030282080945647687.jpg" alt="Eco flower packaging sleeve" width="560">
 
@@ -26624,7 +25450,7 @@ Minimalist branded flower packaging design for [brand], eco-friendly cardboard s
 
 ---
 
-#### 113. LEGO Technic real car twin
+#### 664. LEGO Technic real car twin
 
 <img src="images/prompts/2030236225815416875.jpg" alt="LEGO Technic real car twin" width="560">
 
@@ -26644,17 +25470,11 @@ Aspect Ratio 9:16
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2030236225815416875-1.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `branding`
 
 ---
 
-#### 114. Vine Glow grape can
+#### 665. Vine Glow grape can
 
 <img src="images/prompts/2029476310125560281.jpg" alt="Vine Glow grape can" width="560">
 
@@ -26668,18 +25488,11 @@ Minimalist product photography of a 330ml aluminum can labeled “VINE GLOW – 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029476310125560281-1.jpg" width="320">
-<img src="images/prompts/2029476310125560281-2.jpg" width="320">
-
-</details>
-
 👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `branding`
 
 ---
 
-#### 115. Nutella ski diorama
+#### 666. Nutella ski diorama
 
 <img src="images/prompts/2029194313784016901.jpg" alt="Nutella ski diorama" width="560">
 
@@ -26703,7 +25516,7 @@ Minimalist product photography of a 330ml aluminum can labeled “VINE GLOW – 
 
 ---
 
-#### 116. Top-down orange jar zoom
+#### 667. Top-down orange jar zoom
 
 <img src="images/prompts/2029116168800485686.jpg" alt="Top-down orange jar zoom" width="560">
 
@@ -26726,11 +25539,11 @@ The jar remains perfectly still in the center of the frame.
 
 </details>
 
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding` `comparison`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 117. Floating product engineering
+#### 668. Floating product engineering
 
 <img src="images/prompts/2028956048531288229.jpg" alt="Floating product engineering" width="560">
 
@@ -26746,19 +25559,11 @@ Check ALTs for ideas 👇 @AdobeFirefly
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028956048531288229-1.jpg" width="320">
-<img src="images/prompts/2028956048531288229-2.jpg" width="320">
-<img src="images/prompts/2028956048531288229-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `branding`
 
 ---
 
-#### 118. Three hands clinking sodas
+#### 669. Three hands clinking sodas
 
 <img src="images/prompts/2028836648398778447.jpg" alt="Three hands clinking sodas" width="560">
 
@@ -26779,19 +25584,11 @@ Three hands holding glowing sports drink bottles stacked vertically, neon blue a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028836648398778447-1.jpg" width="320">
-<img src="images/prompts/2028836648398778447-2.jpg" width="320">
-<img src="images/prompts/2028836648398778447-3.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `branding` `comparison`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `branding`
 
 ---
 
-#### 119. Die-cut cartoon-face packaging
+#### 670. Die-cut cartoon-face packaging
 
 <img src="images/prompts/2027806040109289487.jpg" alt="Die-cut cartoon-face packaging" width="560">
 
@@ -26807,7 +25604,7 @@ Playful designer packaging for [product name], creative box shaped like the prod
 
 ---
 
-#### 120. Torn paper soda can shot
+#### 671. Torn paper soda can shot
 
 <img src="images/prompts/2027470188644626803.jpg" alt="Torn paper soda can shot" width="560">
 
@@ -26823,7 +25620,7 @@ A photorealistic, highly detailed commercial product photograph of a standard al
 
 ---
 
-#### 121. Floating football jersey lookbook
+#### 672. Floating football jersey lookbook
 
 <img src="images/prompts/2027393294469128313.jpg" alt="Floating football jersey lookbook" width="560">
 
@@ -26853,7 +25650,7 @@ Lighting: sophisticated studio lighting. Soft, diffused light that sculpts the f
 
 ---
 
-#### 122. Ghibli pizza recipe infographic
+#### 673. Ghibli pizza recipe infographic
 
 <img src="images/prompts/2027140890247246017.jpg" alt="Ghibli pizza recipe infographic" width="560">
 
@@ -26865,11 +25662,11 @@ margherita pizza recipe infographic, Studio Ghibli inspired illustration, tradit
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `illustration` `infographic`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `illustration`
 
 ---
 
-#### 123. 9-image Instagram product feed
+#### 674. 9-image Instagram product feed
 
 <img src="images/prompts/2027122256426521040.jpg" alt="9-image Instagram product feed" width="560">
 
@@ -26883,17 +25680,11 @@ with/without "same aesthetic"
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027122256426521040-1.jpg" width="320">
-
-</details>
-
-👤 [@gizakdag](https://x.com/gizakdag) · Tags: `branding` `comparison`
+👤 [@gizakdag](https://x.com/gizakdag) · Tags: `branding`
 
 ---
 
-#### 124. Skincare product shot v2
+#### 675. Skincare product shot v2
 
 <img src="images/prompts/2025391098437529837.jpg" alt="Skincare product shot v2" width="560">
 
@@ -26988,17 +25779,11 @@ with/without "same aesthetic"
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2025391098437529837-1.jpg" width="320">
-
-</details>
-
 👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding`
 
 ---
 
-#### 125. Creative scene
+#### 676. Creative scene
 
 <img src="images/prompts/2025073987521507338.jpg" alt="Creative scene" width="560">
 
@@ -27014,7 +25799,7 @@ A small chili plant with glossy green leaves and one tiny white flower bud formi
 
 ---
 
-#### 126. Skincare product shot
+#### 677. Skincare product shot
 
 <img src="images/prompts/2025013736139096574.jpg" alt="Skincare product shot" width="560">
 
@@ -27098,17 +25883,11 @@ A small chili plant with glossy green leaves and one tiny white flower bud formi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2025013736139096574-1.jpg" width="320">
-
-</details>
-
 👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding`
 
 ---
 
-#### 127. Product packaging shot v3
+#### 678. Product packaging shot v3
 
 <img src="images/prompts/2024758790038442001.jpg" alt="Product packaging shot v3" width="560">
 
@@ -27120,11 +25899,11 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 </details>
 
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `portrait` `infographic`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `portrait`
 
 ---
 
-#### 128. Skincare product shot
+#### 679. Skincare product shot
 
 <img src="images/prompts/2024104039827578910.jpg" alt="Skincare product shot" width="560">
 
@@ -27208,17 +25987,11 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2024104039827578910-1.jpg" width="320">
-
-</details>
-
 👤 [@j_smeaton99](https://x.com/j_smeaton99) · Tags: `branding`
 
 ---
 
-#### 129. Skincare product shot
+#### 680. Skincare product shot
 
 <img src="images/prompts/2023760359493194030.jpg" alt="Skincare product shot" width="560">
 
@@ -27234,7 +26007,7 @@ Ultra-clean modern recipe infographic. Showcase Pizza  in a visually appealing f
 
 ---
 
-#### 130. Creative scene
+#### 681. Creative scene
 
 <img src="images/prompts/2023170582796542373.jpg" alt="Creative scene" width="560">
 
@@ -27246,19 +26019,11 @@ macro photograph, minimalist advertising style, a hyper-realistic miniature [PRO
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2023170582796542373-1.jpg" width="320">
-<img src="images/prompts/2023170582796542373-2.jpg" width="320">
-<img src="images/prompts/2023170582796542373-3.jpg" width="320">
-
-</details>
-
 👤 [@icreatelife](https://x.com/icreatelife) · Tags: `branding`
 
 ---
 
-#### 131. Skincare product shot
+#### 682. Skincare product shot
 
 <img src="images/prompts/2022677800046797093.jpg" alt="Skincare product shot" width="560">
 
@@ -27270,18 +26035,11 @@ Ultra-realistic commercial product photography of a pastel peach-colored soda ca
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022677800046797093-1.jpg" width="320">
-<img src="images/prompts/2022677800046797093-2.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 132. Product packaging shot v2
+#### 683. Product packaging shot v2
 
 <img src="images/prompts/2022199501168038032.jpg" alt="Product packaging shot v2" width="560">
 
@@ -27301,7 +26059,7 @@ Features clever die-cut windows that reveal the actual [Actual Product Inside] s
 
 ---
 
-#### 133. Skincare product shot v3
+#### 684. Skincare product shot v3
 
 <img src="images/prompts/2021939791768826247.jpg" alt="Skincare product shot v3" width="560">
 
@@ -27323,19 +26081,11 @@ Style: high-end commercial fragrance advertising, macro lens, 85mm, f/2.0, shall
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021939791768826247-1.jpg" width="320">
-<img src="images/prompts/2021939791768826247-2.jpg" width="320">
-<img src="images/prompts/2021939791768826247-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 134. Skincare product shot v2
+#### 685. Skincare product shot v2
 
 <img src="images/prompts/2021835757183209806.jpg" alt="Skincare product shot v2" width="560">
 
@@ -27347,19 +26097,11 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021835757183209806-1.jpg" width="320">
-<img src="images/prompts/2021835757183209806-2.jpg" width="320">
-<img src="images/prompts/2021835757183209806-3.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `branding`
 
 ---
 
-#### 135. Editorial poster v2
+#### 686. Editorial poster v2
 
 <img src="images/prompts/2021462365146116101.jpg" alt="Editorial poster v2" width="560">
 
@@ -27447,18 +26189,11 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2021462365146116101-1.jpg" width="320">
-<img src="images/prompts/2021462365146116101-2.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 136. Product packaging shot
+#### 687. Product packaging shot
 
 <img src="images/prompts/2021205279933857921.jpg" alt="Product packaging shot" width="560">
 
@@ -27474,7 +26209,7 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 ---
 
-#### 137. Skincare product shot v2
+#### 688. Skincare product shot v2
 
 <img src="images/prompts/2020367995131105685.jpg" alt="Skincare product shot v2" width="560">
 
@@ -27583,21 +26318,13 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020367995131105685-1.jpg" width="320">
-<img src="images/prompts/2020367995131105685-2.jpg" width="320">
-<img src="images/prompts/2020367995131105685-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 138. Skincare product shot v2
+#### 689. Skincare product shot v2
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2020329970497999135/0.jpg" alt="Skincare product shot v2" width="560">
+<img src="images/prompts/2020329970497999135.jpg" alt="Skincare product shot v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -27733,18 +26460,11 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2020329970497999135/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2020329970497999135/2.jpg" width="320">
-
-</details>
-
-👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding` `infographic`
+👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 139. Logo design v2
+#### 690. Logo design v2
 
 <img src="images/prompts/2020134464349958346.jpg" alt="Logo design v2" width="560">
 
@@ -27756,11 +26476,11 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `character` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `character`
 
 ---
 
-#### 140. Skincare product shot
+#### 691. Skincare product shot
 
 <img src="images/prompts/2020094371107074147.jpg" alt="Skincare product shot" width="560">
 
@@ -27869,19 +26589,11 @@ Ultra-clean modern recipe infographic. Showcase Noodles  in a visually appealing
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020094371107074147-1.jpg" width="320">
-<img src="images/prompts/2020094371107074147-2.jpg" width="320">
-<img src="images/prompts/2020094371107074147-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 141. Product packaging shot
+#### 692. Product packaging shot
 
 <img src="images/prompts/2019847469165896077.jpg" alt="Product packaging shot" width="560">
 
@@ -27906,19 +26618,11 @@ Lighting & Background: Set against a pitch-black minimalist background. Cinemati
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019847469165896077-1.jpg" width="320">
-<img src="images/prompts/2019847469165896077-2.jpg" width="320">
-<img src="images/prompts/2019847469165896077-3.jpg" width="320">
-
-</details>
-
 👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `branding`
 
 ---
 
-#### 142. Skincare product shot
+#### 693. Skincare product shot
 
 <img src="images/prompts/2019637570133717072.jpg" alt="Skincare product shot" width="560">
 
@@ -27930,18 +26634,11 @@ A hyper-realistic beauty product photograph of a pink [LANEIGE Lip Sleeping Mask
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019637570133717072-1.jpg" width="320">
-<img src="images/prompts/2019637570133717072-2.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 143. Editorial poster
+#### 694. Editorial poster
 
 <img src="images/prompts/2019098547451568397.jpg" alt="Editorial poster" width="560">
 
@@ -27970,13 +26667,13 @@ Technical Specs
 
 </details>
 
-👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding` `3d-render`
+👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `branding`
 
 ---
 
-#### 144. Skincare product shot
+#### 695. Skincare product shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2018899983752380850/0.jpg" alt="Skincare product shot" width="560">
+<img src="images/prompts/2018899983752380850.jpg" alt="Skincare product shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -28084,19 +26781,11 @@ Technical Specs
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2018899983752380850/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2018899983752380850/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2018899983752380850/3.jpg" width="320">
-
-</details>
-
 👤 [@john_my07](https://x.com/john_my07) · Tags: `infographic`
 
 ---
 
-#### 145. Skincare product shot
+#### 696. Skincare product shot
 
 <img src="images/prompts/2018215856577360311.jpg" alt="Skincare product shot" width="560">
 
@@ -28112,7 +26801,7 @@ Commercial luxury product photography, photorealistic, ultra high detail, 8K qua
 
 ---
 
-#### 146. Skincare product shot
+#### 697. Skincare product shot
 
 <img src="images/prompts/2018191168451043584.jpg" alt="Skincare product shot" width="560">
 
@@ -28124,19 +26813,11 @@ Commercial luxury product photography, photorealistic, ultra high detail, 8K qua
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018191168451043584-1.jpg" width="320">
-<img src="images/prompts/2018191168451043584-2.jpg" width="320">
-<img src="images/prompts/2018191168451043584-3.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `branding`
 
 ---
 
-#### 147. Mango passionfruit scrub
+#### 698. Mango passionfruit scrub
 
 <img src="images/prompts/2017969858017931581.jpg" alt="Mango passionfruit scrub" width="560">
 
@@ -28162,7 +26843,7 @@ Subtle lens flare from warm golden light for cinematic luxury feel.
 
 ---
 
-#### 148. Skincare education poster
+#### 699. Skincare education poster
 
 <img src="images/prompts/2017961648213168490.jpg" alt="Skincare education poster" width="560">
 
@@ -28174,11 +26855,11 @@ Subtle lens flare from warm golden light for cinematic luxury feel.
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `poster` `branding`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `poster`
 
 ---
 
-#### 149. Red sparkling water can
+#### 700. Red sparkling water can
 
 <img src="images/prompts/2017622879190573425.jpg" alt="Red sparkling water can" width="560">
 
@@ -28190,19 +26871,11 @@ A premium studio product photograph of a tall, slim red aluminum sparkling water
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017622879190573425-1.jpg" width="320">
-<img src="images/prompts/2017622879190573425-2.jpg" width="320">
-<img src="images/prompts/2017622879190573425-3.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 150. Product spec sheet layout
+#### 701. Product spec sheet layout
 
 <img src="images/prompts/2017550187363750190.jpg" alt="Product spec sheet layout" width="560">
 
@@ -28332,11 +27005,11 @@ A premium studio product photograph of a tall, slim red aluminum sparkling water
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding` `comparison`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding`
 
 ---
 
-#### 151. Packaging design sheet
+#### 702. Packaging design sheet
 
 <img src="images/prompts/2017093337564746040.jpg" alt="Packaging design sheet" width="560">
 
@@ -28365,17 +27038,11 @@ Aspect Ratio: 3:4
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017093337564746040-1.jpg" width="320">
-
-</details>
-
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding` `3d-render`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 152. Chowmein recipe infographic
+#### 703. Chowmein recipe infographic
 
 <img src="images/prompts/2016502011278324039.jpg" alt="Chowmein recipe infographic" width="560">
 
@@ -28391,7 +27058,7 @@ Ultra-clean modern recipe infographic. Showcase chowmin in a visually appealing 
 
 ---
 
-#### 153. Floating quinoa burger
+#### 704. Floating quinoa burger
 
 <img src="images/prompts/2016340217146507313.jpg" alt="Floating quinoa burger" width="560">
 
@@ -28433,11 +27100,11 @@ Ultra-clean modern recipe infographic. Showcase chowmin in a visually appealing 
 
 </details>
 
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `branding` `3d-render`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `branding`
 
 ---
 
-#### 154. Botanical lotion shot
+#### 705. Botanical lotion shot
 
 <img src="images/prompts/2016138326571626611.jpg" alt="Botanical lotion shot" width="560">
 
@@ -28468,18 +27135,11 @@ photorealism.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016138326571626611-1.jpg" width="320">
-<img src="images/prompts/2016138326571626611-2.jpg" width="320">
-
-</details>
-
 👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `branding`
 
 ---
 
-#### 155. Pink dropper skincare lay
+#### 706. Pink dropper skincare lay
 
 <img src="images/prompts/2016131317759672439.jpg" alt="Pink dropper skincare lay" width="560">
 
@@ -28491,19 +27151,11 @@ Ultra-realistic minimalist studio product photography of a small transparent gla
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016131317759672439-1.jpg" width="320">
-<img src="images/prompts/2016131317759672439-2.jpg" width="320">
-<img src="images/prompts/2016131317759672439-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 156. Skincare splash flat-lay
+#### 707. Skincare splash flat-lay
 
 <img src="images/prompts/2016074622882742569.jpg" alt="Skincare splash flat-lay" width="560">
 
@@ -28515,19 +27167,11 @@ Ultra-realistic minimalist studio product photography of a small transparent gla
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016074622882742569-1.jpg" width="320">
-<img src="images/prompts/2016074622882742569-2.jpg" width="320">
-<img src="images/prompts/2016074622882742569-3.jpg" width="320">
-
-</details>
-
 👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `branding`
 
 ---
 
-#### 157. Creamy white-sauce penne
+#### 708. Creamy white-sauce penne
 
 <img src="images/prompts/2016073152820846633.jpg" alt="Creamy white-sauce penne" width="560">
 
@@ -28543,7 +27187,7 @@ Ultra-realistic food photography of a prepared creamy white sauce penne pasta se
 
 ---
 
-#### 158. Aesthetic flat-lay product
+#### 709. Aesthetic flat-lay product
 
 <img src="images/prompts/2015992913000595614.jpg" alt="Aesthetic flat-lay product" width="560">
 
@@ -28556,19 +27200,11 @@ Ultra-realistic macro product photography, 100mm lens look, f/8, sharp focus, cl
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015992913000595614-1.jpg" width="320">
-<img src="images/prompts/2015992913000595614-2.jpg" width="320">
-<img src="images/prompts/2015992913000595614-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 159. Brand merch drop poster
+#### 710. Brand merch drop poster
 
 <img src="images/prompts/2015869121058030001.jpg" alt="Brand merch drop poster" width="560">
 
@@ -28604,19 +27240,11 @@ Under the logo, small white text with the brand's official slogan.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015869121058030001-1.jpg" width="320">
-<img src="images/prompts/2015869121058030001-2.jpg" width="320">
-<img src="images/prompts/2015869121058030001-3.jpg" width="320">
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding` `portrait`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding`
 
 ---
 
-#### 160. Hypebeast merch rack shot
+#### 711. Hypebeast merch rack shot
 
 <img src="images/prompts/2015862641311219772.jpg" alt="Hypebeast merch rack shot" width="560">
 
@@ -28652,11 +27280,11 @@ Under the logo, small white text with the brand's official slogan.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `branding` `portrait`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `branding`
 
 ---
 
-#### 161. Living-moss product render
+#### 712. Living-moss product render
 
 <img src="images/prompts/2015443794217361458.jpg" alt="Living-moss product render" width="560">
 
@@ -28668,19 +27296,11 @@ A [PRODUCT] rendered as if entirely grown from living moss, perfectly maintainin
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015443794217361458-1.jpg" width="320">
-<img src="images/prompts/2015443794217361458-2.jpg" width="320">
-<img src="images/prompts/2015443794217361458-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling)
 
 ---
 
-#### 162. Skincare splash flat-lay
+#### 713. Skincare splash flat-lay
 
 <img src="images/prompts/2015423674061643925.jpg" alt="Skincare splash flat-lay" width="560">
 
@@ -28696,7 +27316,7 @@ A [PRODUCT] rendered as if entirely grown from living moss, perfectly maintainin
 
 ---
 
-#### 163. Levitating food triptych
+#### 714. Levitating food triptych
 
 <img src="images/prompts/2013488775356391702.jpg" alt="Levitating food triptych" width="560">
 
@@ -28708,18 +27328,11 @@ Professional studio food photography series featuring deconstructed dishes in hi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013488775356391702-1.jpg" width="320">
-<img src="images/prompts/2013488775356391702-2.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0)
 
 ---
 
-#### 164. Brand collab Crocs clog
+#### 715. Brand collab Crocs clog
 
 <img src="images/prompts/2013325907843219831.jpg" alt="Brand collab Crocs clog" width="560">
 
@@ -28771,7 +27384,7 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 ---
 
-#### 165. Mercedes flash glamour shot
+#### 716. Mercedes flash glamour shot
 
 <img src="images/prompts/2013259843688346087.jpg" alt="Mercedes flash glamour shot" width="560">
 
@@ -28807,7 +27420,7 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 ---
 
-#### 166. Golden-hour food hero
+#### 717. Golden-hour food hero
 
 <img src="images/prompts/2013251289254420955.jpg" alt="Golden-hour food hero" width="560">
 
@@ -28819,19 +27432,11 @@ Macro product photography, Phase One camera, 100mm lens, razor-sharp focus, 8k r
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013251289254420955-1.jpg" width="320">
-<img src="images/prompts/2013251289254420955-2.jpg" width="320">
-<img src="images/prompts/2013251289254420955-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir)
 
 ---
 
-#### 167. Editorial recipe infographic
+#### 718. Editorial recipe infographic
 
 <img src="images/prompts/2013233539706233086.jpg" alt="Editorial recipe infographic" width="560">
 
@@ -28843,17 +27448,11 @@ Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing f
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013233539706233086-1.jpg" width="320">
-
-</details>
-
 👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding`
 
 ---
 
-#### 168. Biryani recipe infographic
+#### 719. Biryani recipe infographic
 
 <img src="images/prompts/2013186574390046844.jpg" alt="Biryani recipe infographic" width="560">
 
@@ -28869,7 +27468,7 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 ---
 
-#### 169. 16:9 helicopter edge aerial portrait
+#### 720. 16:9 helicopter edge aerial portrait
 
 <img src="images/prompts/2012141043492545021.jpg" alt="16:9 helicopter edge aerial portrait" width="560">
 
@@ -28958,7 +27557,7 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 ---
 
-#### 170. Infinity Energy Drink headphones ad
+#### 721. Infinity Energy Drink headphones ad
 
 <img src="images/prompts/2012092187509768400.jpg" alt="Infinity Energy Drink headphones ad" width="560">
 
@@ -28970,21 +27569,13 @@ Ultra-cinematic product photography of a purple energy drink can labeled “INFI
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012092187509768400-1.jpg" width="320">
-<img src="images/prompts/2012092187509768400-2.jpg" width="320">
-<img src="images/prompts/2012092187509768400-3.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 171. 8K editorial food infographic
+#### 722. 8K editorial food infographic
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011994819124752631/0.jpg" alt="8K editorial food infographic" width="560">
+<img src="images/prompts/2011994819124752631.jpg" alt="8K editorial food infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -29085,19 +27676,11 @@ Ultra-cinematic product photography of a purple energy drink can labeled “INFI
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011994819124752631/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011994819124752631/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2011994819124752631/3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `infographic`
 
 ---
 
-#### 172. Volt Rush neon energy drink ad
+#### 723. Volt Rush neon energy drink ad
 
 <img src="images/prompts/2011981449688482135.jpg" alt="Volt Rush neon energy drink ad" width="560">
 
@@ -29109,19 +27692,11 @@ Ultra-cinematic product photography of a neon-green energy drink can labeled “
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011981449688482135-1.jpg" width="320">
-<img src="images/prompts/2011981449688482135-2.jpg" width="320">
-<img src="images/prompts/2011981449688482135-3.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X)
 
 ---
 
-#### 173. Stacked food magazine cover shot
+#### 724. Stacked food magazine cover shot
 
 <img src="images/prompts/2011829870893125708.jpg" alt="Stacked food magazine cover shot" width="560">
 
@@ -29133,17 +27708,11 @@ a stack of three [FOOD ITEM] with [LIQUID] dripping down, on a white background,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011829870893125708-1.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `poster`
 
 ---
 
-#### 174. Forced-perspective giant sneaker street
+#### 725. Forced-perspective giant sneaker street
 
 <img src="images/prompts/2011823507932659844.jpg" alt="Forced-perspective giant sneaker street" width="560">
 
@@ -29159,7 +27728,7 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 
 ---
 
-#### 175. Reference-faithful taco commercial close-up
+#### 726. Reference-faithful taco commercial close-up
 
 <img src="images/prompts/2011770206839062641.jpg" alt="Reference-faithful taco commercial close-up" width="560">
 
@@ -29215,7 +27784,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 176. Macro exploded mechanics product ad
+#### 727. Macro exploded mechanics product ad
 
 <img src="images/prompts/2011630600101429445.jpg" alt="Macro exploded mechanics product ad" width="560">
 
@@ -29231,7 +27800,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 177. Luxury packaging unboxing reveal
+#### 728. Luxury packaging unboxing reveal
 
 <img src="images/prompts/2011439171760767441.jpg" alt="Luxury packaging unboxing reveal" width="560">
 
@@ -29247,7 +27816,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-#### 178. Lime soda can mid-air explosion
+#### 729. Lime soda can mid-air explosion
 
 <img src="images/prompts/2011423604823720358.jpg" alt="Lime soda can mid-air explosion" width="560">
 
@@ -29259,18 +27828,11 @@ A hyper-realistic commercial product shot of a refreshing lime soda can explodin
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011423604823720358-1.jpg" width="320">
-<img src="images/prompts/2011423604823720358-2.jpg" width="320">
-
-</details>
-
 👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `branding`
 
 ---
 
-#### 179. Floating perfume bottle autumn leaves
+#### 730. Floating perfume bottle autumn leaves
 
 <img src="images/prompts/2011385771530592547.jpg" alt="Floating perfume bottle autumn leaves" width="560">
 
@@ -29282,17 +27844,11 @@ Ultra-realistic luxury perfume product shot (9: 16, 4K). A clear rectangular gla
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011385771530592547-1.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 180. Cinematic food production manifest
+#### 731. Cinematic food production manifest
 
 <img src="images/prompts/2011044123818549711.jpg" alt="Cinematic food production manifest" width="560">
 
@@ -29375,19 +27931,11 @@ Ultra-realistic luxury perfume product shot (9: 16, 4K). A clear rectangular gla
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011044123818549711-1.jpg" width="320">
-<img src="images/prompts/2011044123818549711-2.jpg" width="320">
-<img src="images/prompts/2011044123818549711-3.jpg" width="320">
-
-</details>
-
 👤 [@TheNewz_816](https://x.com/TheNewz_816) · Tags: `branding`
 
 ---
 
-#### 181. Chrome inflated product transformation
+#### 732. Chrome inflated product transformation
 
 <img src="images/prompts/2010733004423918031.jpg" alt="Chrome inflated product transformation" width="560">
 
@@ -29399,19 +27947,11 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010733004423918031-1.jpg" width="320">
-<img src="images/prompts/2010733004423918031-2.jpg" width="320">
-<img src="images/prompts/2010733004423918031-3.jpg" width="320">
-
-</details>
-
-👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `branding` `3d-render`
+👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `branding`
 
 ---
 
-#### 182. Macro exploded product advertising
+#### 733. Macro exploded product advertising
 
 <img src="images/prompts/2010665188731785382.jpg" alt="Macro exploded product advertising" width="560">
 
@@ -29423,11 +27963,11 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding`
 
 ---
 
-#### 183. Surreal product composition top-down
+#### 734. Surreal product composition top-down
 
 <img src="images/prompts/2010615081491677185.jpg" alt="Surreal product composition top-down" width="560">
 
@@ -29569,17 +28109,11 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010615081491677185-1.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 184. Strawberry juice box packaging design
+#### 735. Strawberry juice box packaging design
 
 <img src="images/prompts/2010381897730339152.jpg" alt="Strawberry juice box packaging design" width="560">
 
@@ -29668,19 +28202,11 @@ A [PRODUCT] in color-shifting chrome [COLOR to COLOR] captured mid-transformatio
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010381897730339152-1.jpg" width="320">
-<img src="images/prompts/2010381897730339152-2.jpg" width="320">
-<img src="images/prompts/2010381897730339152-3.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `branding`
 
 ---
 
-#### 185. Luxury serum bottle with driftwood
+#### 736. Luxury serum bottle with driftwood
 
 <img src="images/prompts/2010381168810799353.jpg" alt="Luxury serum bottle with driftwood" width="560">
 
@@ -29696,19 +28222,11 @@ ultra-high-definition realism.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010381168810799353-1.jpg" width="320">
-<img src="images/prompts/2010381168810799353-2.jpg" width="320">
-<img src="images/prompts/2010381168810799353-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 186. Exploded view product with mechanics
+#### 737. Exploded view product with mechanics
 
 <img src="images/prompts/2010350005870276897.jpg" alt="Exploded view product with mechanics" width="560">
 
@@ -29720,11 +28238,11 @@ Create an exploded products with inner mechanics [product], high-end product adv
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `branding`
 
 ---
 
-#### 187. Exploded vertical food infographic
+#### 738. Exploded vertical food infographic
 
 <img src="images/prompts/2010305720764551520.jpg" alt="Exploded vertical food infographic" width="560">
 
@@ -29742,11 +28260,11 @@ Pure white background, soft studio lighting, subtle shadows beneath each floatin
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding` `infographic`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `branding`
 
 ---
 
-#### 188. Editorial skincare product on stone slab
+#### 739. Editorial skincare product on stone slab
 
 <img src="images/prompts/2010275488703381858.jpg" alt="Editorial skincare product on stone slab" width="560">
 
@@ -29758,19 +28276,11 @@ A high-end editorial studio photograph of a (PRODUCT FORM, e.g. bottle, jar, tub
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010275488703381858-1.jpg" width="320">
-<img src="images/prompts/2010275488703381858-2.jpg" width="320">
-<img src="images/prompts/2010275488703381858-3.jpg" width="320">
-
-</details>
-
 👤 [@Kerroudjm](https://x.com/Kerroudjm) · Tags: `branding`
 
 ---
 
-#### 189. Premium beverage product close-up
+#### 740. Premium beverage product close-up
 
 <img src="images/prompts/2010210489813680211.jpg" alt="Premium beverage product close-up" width="560">
 
@@ -29788,19 +28298,11 @@ The background is a soft neutral [BACKGROUND COLOR TONE], studio-style, clean an
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010210489813680211-1.jpg" width="320">
-<img src="images/prompts/2010210489813680211-2.jpg" width="320">
-<img src="images/prompts/2010210489813680211-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 190. Sizzling gourmet cheeseburger
+#### 741. Sizzling gourmet cheeseburger
 
 <img src="images/prompts/2009984389481148510.jpg" alt="Sizzling gourmet cheeseburger" width="560">
 
@@ -29812,18 +28314,11 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009984389481148510-1.jpg" width="320">
-<img src="images/prompts/2009984389481148510-2.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0) · Tags: `branding`
 
 ---
 
-#### 191. Frontal product hero shot
+#### 742. Frontal product hero shot
 
 <img src="images/prompts/2009947657905811727.jpg" alt="Frontal product hero shot" width="560">
 
@@ -29938,19 +28433,11 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009947657905811727-1.jpg" width="320">
-<img src="images/prompts/2009947657905811727-2.jpg" width="320">
-<img src="images/prompts/2009947657905811727-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 192. Hyper-real street food char shot
+#### 743. Hyper-real street food char shot
 
 <img src="images/prompts/2009941784965853278.jpg" alt="Hyper-real street food char shot" width="560">
 
@@ -30148,7 +28635,7 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 ---
 
-#### 193. Martabak telur macro tear
+#### 744. Martabak telur macro tear
 
 <img src="images/prompts/2009937038670540843.jpg" alt="Martabak telur macro tear" width="560">
 
@@ -30160,21 +28647,13 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009937038670540843-1.jpg" width="320">
-<img src="images/prompts/2009937038670540843-2.jpg" width="320">
-<img src="images/prompts/2009937038670540843-3.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `branding`
 
 ---
 
-#### 194. Mid-air taco cinematic shot
+#### 745. Mid-air taco cinematic shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009887009591226787/0.jpg" alt="Mid-air taco cinematic shot" width="560">
+<img src="images/prompts/2009887009591226787.jpg" alt="Mid-air taco cinematic shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -30301,19 +28780,11 @@ A hyper-realistic, cinematic close-up of a sizzling gourmet cheeseburger. The th
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009887009591226787/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009887009591226787/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2009887009591226787/3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 195. Candy-shaped 3D word render
+#### 746. Candy-shaped 3D word render
 
 <img src="images/prompts/2009664169331839410.jpg" alt="Candy-shaped 3D word render" width="560">
 
@@ -30325,11 +28796,11 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 </details>
 
-👤 [@aziz4ai](https://x.com/aziz4ai) · Tags: `branding` `3d-render`
+👤 [@aziz4ai](https://x.com/aziz4ai) · Tags: `branding`
 
 ---
 
-#### 196. Floating beverage can hero shot
+#### 747. Floating beverage can hero shot
 
 <img src="images/prompts/2009519057717088345.jpg" alt="Floating beverage can hero shot" width="560">
 
@@ -30392,19 +28863,11 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009519057717088345-1.jpg" width="320">
-<img src="images/prompts/2009519057717088345-2.jpg" width="320">
-<img src="images/prompts/2009519057717088345-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 197. Studio commercial food close-up
+#### 748. Studio commercial food close-up
 
 <img src="images/prompts/2009446363331973461.jpg" alt="Studio commercial food close-up" width="560">
 
@@ -30507,19 +28970,11 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009446363331973461-1.jpg" width="320">
-<img src="images/prompts/2009446363331973461-2.jpg" width="320">
-<img src="images/prompts/2009446363331973461-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `branding`
 
 ---
 
-#### 198. Mid-air commercial dessert shot
+#### 749. Mid-air commercial dessert shot
 
 <img src="images/prompts/2009204329236828239.jpg" alt="Mid-air commercial dessert shot" width="560">
 
@@ -30642,7 +29097,7 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 ---
 
-#### 199. Chocolate coffee exploded shot
+#### 750. Chocolate coffee exploded shot
 
 <img src="images/prompts/2008986705962123774.jpg" alt="Chocolate coffee exploded shot" width="560">
 
@@ -30694,18 +29149,11 @@ A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delici
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008986705962123774-1.jpg" width="320">
-<img src="images/prompts/2008986705962123774-2.jpg" width="320">
-
-</details>
-
 👤 [@ttmouse](https://x.com/ttmouse) · Tags: `branding`
 
 ---
 
-#### 200. Plush fabric beverage can ad
+#### 751. Plush fabric beverage can ad
 
 <img src="images/prompts/2008753339966877924.jpg" alt="Plush fabric beverage can ad" width="560">
 
@@ -30723,19 +29171,11 @@ Sharp focus, high color saturation, smooth shadows, modern commercial product sh
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008753339966877924-1.jpg" width="320">
-<img src="images/prompts/2008753339966877924-2.jpg" width="320">
-<img src="images/prompts/2008753339966877924-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `branding`
 
 ---
 
-#### 201. Pizza cheese pull macro shot
+#### 752. Pizza cheese pull macro shot
 
 <img src="images/prompts/2008416515129999715.jpg" alt="Pizza cheese pull macro shot" width="560">
 
@@ -30755,7 +29195,7 @@ Warm studio lighting with natural highlights, rich colors, realistic shadows, pr
 
 ---
 
-#### 202. Pixelized 3D food fragmentation
+#### 753. Pixelized 3D food fragmentation
 
 <img src="images/prompts/2008127774750548155.jpg" alt="Pixelized 3D food fragmentation" width="560">
 
@@ -30771,7 +29211,7 @@ Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, ma
 
 ---
 
-#### 203. Origami paper food art
+#### 754. Origami paper food art
 
 <img src="images/prompts/2007809696334479420.jpg" alt="Origami paper food art" width="560">
 
@@ -30783,11 +29223,11 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration`
 
 ---
 
-#### 204. Phone screen hockey rink poster
+#### 755. Phone screen hockey rink poster
 
 <img src="images/prompts/2007711515458318421.jpg" alt="Phone screen hockey rink poster" width="560">
 
@@ -30803,7 +29243,7 @@ Create a hyper-realistic, stylish vertical poster featuring a smartphone lying o
 
 ---
 
-#### 205. Phone screen football stadium
+#### 756. Phone screen football stadium
 
 <img src="images/prompts/2006679801256656925.jpg" alt="Phone screen football stadium" width="560">
 
@@ -30858,7 +29298,7 @@ Create a hyper-realistic, stylish vertical poster featuring a smartphone lying o
 
 ---
 
-#### 206. Bitten dessert restaurant shot
+#### 757. Bitten dessert restaurant shot
 
 <img src="images/prompts/2003072041889800346.jpg" alt="Bitten dessert restaurant shot" width="560">
 
@@ -30872,18 +29312,9 @@ A bitten realistic classic [brand] product on the dish, revealed inner dessert l
 
 👤 [@hc_dsn](https://x.com/hc_dsn) · Tags: `branding`
 
-
 ---
 
-<a id="cat-branding"></a>
-
-### 🏷️ Brand & Logos
-
-> Logos, identity systems, and brand campaign visuals.
-
-**162 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. MS Paint scribble logo doodle
+#### 758. MS Paint scribble logo doodle
 
 <img src="images/prompts/2050923480422703191.jpg" alt="MS Paint scribble logo doodle" width="560">
 
@@ -30895,11 +29326,11 @@ A bitten realistic classic [brand] product on the dish, revealed inner dessert l
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · [Source tweet](https://x.com/azed_ai/status/2050923480422703191) · Tags: `illustration`
+👤 [@azed_ai](https://x.com/azed_ai) · [Source](https://x.com/azed_ai/status/2050923480422703191) · Tags: `illustration`
 
 ---
 
-#### 2. Giant lace bridal sandal scene
+#### 759. Giant lace bridal sandal scene
 
 <img src="images/prompts/2050576905431334949.jpg" alt="Giant lace bridal sandal scene" width="560">
 
@@ -30924,11 +29355,11 @@ A bitten realistic classic [brand] product on the dish, revealed inner dessert l
 
 </details>
 
-👤 [@Maercihh](https://x.com/Maercihh) · [Source tweet](https://x.com/Maercihh/status/2050576905431334949) · Tags: `portrait` `product`
+👤 [@Maercihh](https://x.com/Maercihh) · [Source](https://x.com/Maercihh/status/2050576905431334949) · Tags: `portrait`
 
 ---
 
-#### 3. Female mid-air sneaker ad
+#### 760. Female mid-air sneaker ad
 
 <img src="images/prompts/2050064844746027230.jpg" alt="Female mid-air sneaker ad" width="560">
 
@@ -30952,11 +29383,11 @@ Add subtle motion effects like dust particles or energy trails beneath the jumpi
 
 </details>
 
-👤 [@im_shahid7](https://x.com/im_shahid7) · [Source tweet](https://x.com/im_shahid7/status/2050064844746027230) · Tags: `portrait` `product`
+👤 [@im_shahid7](https://x.com/im_shahid7) · [Source](https://x.com/im_shahid7/status/2050064844746027230) · Tags: `portrait`
 
 ---
 
-#### 4. Jack Ryan Ghost War poster
+#### 761. Jack Ryan Ghost War poster
 
 <img src="images/prompts/2049907807122587943.jpg" alt="Jack Ryan Ghost War poster" width="560">
 
@@ -30984,11 +29415,11 @@ Highly detailed, epic composition, realistic, cinematic lighting, movie poster s
 
 </details>
 
-👤 [@jzaib4269](https://x.com/jzaib4269) · [Source tweet](https://x.com/jzaib4269/status/2049907807122587943) · Tags: `character` `poster`
+👤 [@jzaib4269](https://x.com/jzaib4269) · [Source](https://x.com/jzaib4269/status/2049907807122587943) · Tags: `character`
 
 ---
 
-#### 5. Samsung 8K TV breakthrough ad
+#### 762. Samsung 8K TV breakthrough ad
 
 <img src="images/prompts/2049535684403417294.jpg" alt="Samsung 8K TV breakthrough ad" width="560">
 
@@ -31035,11 +29466,11 @@ Ultra-realistic, cinematic interior luxury ad, refined reflections, premium prod
 
 </details>
 
-👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `product` `poster`
+👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `product`
 
 ---
 
-#### 6. Oversized KFC bucket ad
+#### 763. Oversized KFC bucket ad
 
 <img src="images/prompts/2049527944905982314.jpg" alt="Oversized KFC bucket ad" width="560">
 
@@ -31051,11 +29482,11 @@ Minimalist commercial ad featuring oversized KFC bucket, ultra-clean design. A y
 
 </details>
 
-👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `portrait` `poster`
+👤 [@MrDasOnX](https://x.com/MrDasOnX) · Tags: `portrait`
 
 ---
 
-#### 7. Dyson Gen5detect futuristic ad
+#### 764. Dyson Gen5detect futuristic ad
 
 <img src="images/prompts/2049490134966620280.jpg" alt="Dyson Gen5detect futuristic ad" width="560">
 
@@ -31099,11 +29530,11 @@ Hyper-detailed commercial product photography, cinematic premium lighting, elega
 
 </details>
 
-👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `product` `poster`
+👤 [@ertanlabs](https://x.com/ertanlabs) · Tags: `product`
 
 ---
 
-#### 8. Graffiti hallway juice bottle ad
+#### 765. Graffiti hallway juice bottle ad
 
 <img src="images/prompts/2049452842931630202.jpg" alt="Graffiti hallway juice bottle ad" width="560">
 
@@ -31115,11 +29546,11 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 
 </details>
 
-👤 [@AIwithSarah_](https://x.com/AIwithSarah_) · Tags: `portrait` `poster`
+👤 [@AIwithSarah_](https://x.com/AIwithSarah_) · Tags: `portrait`
 
 ---
 
-#### 9. K-pop drink sticker poster
+#### 766. K-pop drink sticker poster
 
 <img src="images/prompts/2049398853326049334.jpg" alt="K-pop drink sticker poster" width="560">
 
@@ -31131,13 +29562,13 @@ A high-quality, interactive Korean-style poster featuring a cheerful, expressive
 
 </details>
 
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `character` `poster`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `character`
 
 ---
 
-#### 10. Dating app match success
+#### 767. Dating app match success
 
-<img src="images/awesome-gpt2/comparison/50.jpg" alt="Dating app match success" width="560">
+<img src="images/prompts/767.jpg" alt="Dating app match success" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31147,13 +29578,13 @@ Social-app match-success screen — two user profile cards collide with a heart 
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047220490486612450) · Tags: `infographic`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047220490486612450) · Tags: `infographic`
 
 ---
 
-#### 11. YouTube thumbnail from video
+#### 768. YouTube thumbnail from video
 
-<img src="images/awesome-gpt2/comparison/40.jpg" alt="YouTube thumbnail from video" width="560">
+<img src="images/prompts/768.jpg" alt="YouTube thumbnail from video" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31163,13 +29594,13 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 </details>
 
-👤 [@gh-chatcutapp](https://x.com/gh-chatcutapp) · [Source tweet](https://x.com/chatcutapp/status/2047228386117128475) · Tags: `infographic`
+👤 [@gh-chatcutapp](https://x.com/gh-chatcutapp) · [Source](https://x.com/chatcutapp/status/2047228386117128475) · Tags: `infographic`
 
 ---
 
-#### 12. Studio lighting logo
+#### 769. Studio lighting logo
 
-<img src="images/awesome-gpt2/ui/116.jpg" alt="Studio lighting logo" width="560">
+<img src="images/prompts/769.jpg" alt="Studio lighting logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31179,13 +29610,13 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 </details>
 
-👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source tweet](https://x.com/harboriis/status/2048063332624843046) · Tags: `product` `poster`
+👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source](https://x.com/harboriis/status/2048063332624843046) · Tags: `product`
 
 ---
 
-#### 13. Resolution commercial
+#### 770. Resolution commercial
 
-<img src="images/awesome-gpt2/ui/46.jpg" alt="Resolution commercial" width="560">
+<img src="images/prompts/770.jpg" alt="Resolution commercial" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31195,13 +29626,13 @@ A high-resolution commercial marketing photograph features a young woman with sl
 
 </details>
 
-👤 [@gh-AIwithSarah_](https://x.com/gh-AIwithSarah_) · [Source tweet](https://x.com/AIwithSarah_/status/2047904483359760677) · Tags: `character` `product`
+👤 [@gh-AIwithSarah_](https://x.com/gh-AIwithSarah_) · [Source](https://x.com/AIwithSarah_/status/2047904483359760677) · Tags: `character`
 
 ---
 
-#### 14. Information about
+#### 771. Information about
 
-<img src="images/awesome-gpt2/ui/34.jpg" alt="Information about" width="560">
+<img src="images/prompts/771.jpg" alt="Information about" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31211,13 +29642,13 @@ Use GPT Image 2 to look up information about OpenClaw and generate an image styl
 
 </details>
 
-👤 [@gh-loglogrog](https://x.com/gh-loglogrog) · [Source tweet](https://x.com/loglogrog/status/2046437230127034774) · Tags: `poster`
+👤 [@gh-loglogrog](https://x.com/gh-loglogrog) · [Source](https://x.com/loglogrog/status/2046437230127034774) · Tags: `poster`
 
 ---
 
-#### 15. Retro poster
+#### 772. Retro poster
 
-<img src="images/awesome-gpt2/poster/173.jpg" alt="Retro poster" width="560">
+<img src="images/prompts/772.jpg" alt="Retro poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31227,13 +29658,13 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 </details>
 
-👤 [@gh-LoovaAI](https://x.com/gh-LoovaAI) · [Source tweet](https://x.com/LoovaAI/status/2049085173015425354) · Tags: `character` `poster`
+👤 [@gh-LoovaAI](https://x.com/gh-LoovaAI) · [Source](https://x.com/LoovaAI/status/2049085173015425354) · Tags: `character`
 
 ---
 
-#### 16. Car
+#### 773. Car
 
-<img src="images/awesome-gpt2/poster/169.jpg" alt="Car" width="560">
+<img src="images/prompts/773.jpg" alt="Car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31255,13 +29686,13 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 </details>
 
-👤 [@gh-madpencil_](https://x.com/gh-madpencil_) · [Source tweet](https://x.com/madpencil_/status/2049080259476349218) · Tags: `comparison`
+👤 [@gh-madpencil_](https://x.com/gh-madpencil_) · [Source](https://x.com/madpencil_/status/2049080259476349218) · Tags: `comparison`
 
 ---
 
-#### 17. Cinematic lighting poster
+#### 774. Cinematic lighting poster
 
-<img src="images/awesome-gpt2/poster/168.jpg" alt="Cinematic lighting poster" width="560">
+<img src="images/prompts/774.jpg" alt="Cinematic lighting poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31303,13 +29734,13 @@ Aspect ratio: 1:1 (square collage)
 
 </details>
 
-👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source tweet](https://x.com/SPEEDAI07/status/2049081198211736062) · Tags: `comparison` `poster`
+👤 [@gh-SPEEDAI07](https://x.com/gh-SPEEDAI07) · [Source](https://x.com/SPEEDAI07/status/2049081198211736062) · Tags: `comparison`
 
 ---
 
-#### 18. Photorealistic logo
+#### 775. Photorealistic logo
 
-<img src="images/awesome-gpt2/poster/80.jpg" alt="Photorealistic logo" width="560">
+<img src="images/prompts/775.jpg" alt="Photorealistic logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31324,13 +29755,13 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 </details>
 
-👤 [@gh-miratechtool](https://x.com/gh-miratechtool) · [Source tweet](https://x.com/miratechtool/status/2047780974709346606) · Tags: `portrait` `character`
+👤 [@gh-miratechtool](https://x.com/gh-miratechtool) · [Source](https://x.com/miratechtool/status/2047780974709346606) · Tags: `portrait`
 
 ---
 
-#### 19. Minimalist poster
+#### 776. Minimalist poster
 
-<img src="images/awesome-gpt2/poster/78.jpg" alt="Minimalist poster" width="560">
+<img src="images/prompts/776.jpg" alt="Minimalist poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31340,13 +29771,13 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 
 </details>
 
-👤 [@gh-Sheldon056](https://x.com/gh-Sheldon056) · [Source tweet](https://x.com/Sheldon056/status/2047873913049538927) · Tags: `character` `product`
+👤 [@gh-Sheldon056](https://x.com/gh-Sheldon056) · [Source](https://x.com/Sheldon056/status/2047873913049538927) · Tags: `character`
 
 ---
 
-#### 20. Minimalist publicitario surreali
+#### 777. Minimalist publicitario surreali
 
-<img src="images/awesome-gpt2/poster/75.jpg" alt="Minimalist publicitario surreali" width="560">
+<img src="images/prompts/777.jpg" alt="Minimalist publicitario surreali" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31361,13 +29792,13 @@ Establecer la relación de aspecto en 3:4.
 
 </details>
 
-👤 [@gh-hmontilla_](https://x.com/gh-hmontilla_) · [Source tweet](https://x.com/hmontilla_/status/2047884126343032995) · Tags: `character` `product`
+👤 [@gh-hmontilla_](https://x.com/gh-hmontilla_) · [Source](https://x.com/hmontilla_/status/2047884126343032995) · Tags: `character`
 
 ---
 
-#### 21. Cinematic lighting fashion
+#### 778. Cinematic lighting fashion
 
-<img src="images/awesome-gpt2/poster/74.jpg" alt="Cinematic lighting fashion" width="560">
+<img src="images/prompts/778.jpg" alt="Cinematic lighting fashion" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31377,13 +29808,13 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 </details>
 
-👤 [@gh-AIwithSynthia](https://x.com/gh-AIwithSynthia) · [Source tweet](https://x.com/AIwithSynthia/status/2047884609321619831) · Tags: `character`
+👤 [@gh-AIwithSynthia](https://x.com/gh-AIwithSynthia) · [Source](https://x.com/AIwithSynthia/status/2047884609321619831) · Tags: `character`
 
 ---
 
-#### 22. Cinematic lighting fashion
+#### 779. Cinematic lighting fashion
 
-<img src="images/awesome-gpt2/poster/73.jpg" alt="Cinematic lighting fashion" width="560">
+<img src="images/prompts/779.jpg" alt="Cinematic lighting fashion" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31393,13 +29824,13 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 
 </details>
 
-👤 [@gh-AIwithkhan](https://x.com/gh-AIwithkhan) · [Source tweet](https://x.com/AIwithkhan/status/2047886964037398989) · Tags: `character`
+👤 [@gh-AIwithkhan](https://x.com/gh-AIwithkhan) · [Source](https://x.com/AIwithkhan/status/2047886964037398989) · Tags: `character`
 
 ---
 
-#### 23. Cinematic lighting portrait
+#### 780. Cinematic lighting portrait
 
-<img src="images/awesome-gpt2/poster/71.jpg" alt="Cinematic lighting portrait" width="560">
+<img src="images/prompts/780.jpg" alt="Cinematic lighting portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31417,13 +29848,13 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 
 </details>
 
-👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source tweet](https://x.com/harboriis/status/2047921293123895520) · Tags: `portrait` `character`
+👤 [@gh-harboriis](https://x.com/gh-harboriis) · [Source](https://x.com/harboriis/status/2047921293123895520) · Tags: `portrait`
 
 ---
 
-#### 24. Studio lighting poster
+#### 781. Studio lighting poster
 
-<img src="images/awesome-gpt2/poster/70.jpg" alt="Studio lighting poster" width="560">
+<img src="images/prompts/781.jpg" alt="Studio lighting poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31443,13 +29874,13 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 
 </details>
 
-👤 [@gh-Shorelyn_](https://x.com/gh-Shorelyn_) · [Source tweet](https://x.com/Shorelyn_/status/2047949711181832558) · Tags: `portrait` `character`
+👤 [@gh-Shorelyn_](https://x.com/gh-Shorelyn_) · [Source](https://x.com/Shorelyn_/status/2047949711181832558) · Tags: `portrait`
 
 ---
 
-#### 25. Pilates studio
+#### 782. Pilates studio
 
-<img src="images/awesome-gpt2/poster/51.jpg" alt="Pilates studio" width="560">
+<img src="images/prompts/782.jpg" alt="Pilates studio" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31459,13 +29890,13 @@ I want to create an ad image for a Pilates studio. The text should be more entic
 
 </details>
 
-👤 [@gh-ck_igarashi](https://x.com/gh-ck_igarashi) · [Source tweet](https://x.com/ck_igarashi/status/2046528889124728993) · Tags: `character` `poster`
+👤 [@gh-ck_igarashi](https://x.com/gh-ck_igarashi) · [Source](https://x.com/ck_igarashi/status/2046528889124728993) · Tags: `character`
 
 ---
 
-#### 26. Feel more
+#### 783. Feel more
 
-<img src="images/awesome-gpt2/poster/46.jpg" alt="Feel more" width="560">
+<img src="images/prompts/783.jpg" alt="Feel more" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31475,13 +29906,13 @@ It's getting a bit hot now — I want to feel more strongly that refreshing, cri
 
 </details>
 
-👤 [@gh-genel_ai](https://x.com/gh-genel_ai) · [Source tweet](https://x.com/genel_ai/status/2046501692246470871) · Tags: `product`
+👤 [@gh-genel_ai](https://x.com/gh-genel_ai) · [Source](https://x.com/genel_ai/status/2046501692246470871) · Tags: `product`
 
 ---
 
-#### 27. Yue Super League invite poster
+#### 784. Yue Super League invite poster
 
-<img src="images/awesome-gpt2/poster/13.jpg" alt="Yue Super League invite poster" width="560">
+<img src="images/prompts/784.jpg" alt="Yue Super League invite poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31491,13 +29922,13 @@ Invitation poster design for the Guangdong City Football Super League (Yue Super
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045772039521542202) · Tags: `poster`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045772039521542202) · Tags: `poster`
 
 ---
 
-#### 28. 1:1 professional ad poster
+#### 785. 1:1 professional ad poster
 
-<img src="images/awesome-gpt2/poster/10.jpg" alt="1:1 professional ad poster" width="560">
+<img src="images/prompts/785.jpg" alt="1:1 professional ad poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31510,13 +29941,13 @@ As soon as you think of it, you can play with it. AI × browser game-making is g
 
 </details>
 
-👤 [@gh-llllegend0620](https://x.com/gh-llllegend0620) · [Source tweet](https://x.com/llllegend0620/status/2045963764466688065) · Tags: `poster`
+👤 [@gh-llllegend0620](https://x.com/gh-llllegend0620) · [Source](https://x.com/llllegend0620/status/2045963764466688065) · Tags: `poster`
 
 ---
 
-#### 29. Perfume bottle in golden faux fur
+#### 786. Perfume bottle in golden faux fur
 
-<img src="images/awesome-gpt2/ad/149.jpg" alt="Perfume bottle in golden faux fur" width="560">
+<img src="images/prompts/786.jpg" alt="Perfume bottle in golden faux fur" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31526,13 +29957,13 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 </details>
 
-👤 [@gh-Salmaaboukarr](https://x.com/gh-Salmaaboukarr) · [Source tweet](https://x.com/Salmaaboukarr/status/2048103506125463983) · Tags: `portrait` `product`
+👤 [@gh-Salmaaboukarr](https://x.com/gh-Salmaaboukarr) · [Source](https://x.com/Salmaaboukarr/status/2048103506125463983) · Tags: `portrait`
 
 ---
 
-#### 30. Byredo perfume driftwood still life
+#### 787. Byredo perfume driftwood still life
 
-<img src="images/awesome-gpt2/ad/148.jpg" alt="Byredo perfume driftwood still life" width="560">
+<img src="images/prompts/787.jpg" alt="Byredo perfume driftwood still life" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31542,13 +29973,13 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 
 </details>
 
-👤 [@gh-Salmaaboukarr](https://x.com/gh-Salmaaboukarr) · [Source tweet](https://x.com/Salmaaboukarr/status/2048103506125463983) · Tags: `portrait` `product`
+👤 [@gh-Salmaaboukarr](https://x.com/gh-Salmaaboukarr) · [Source](https://x.com/Salmaaboukarr/status/2048103506125463983) · Tags: `portrait`
 
 ---
 
-#### 31. Osaka Six powder-blue sweatshirt
+#### 788. Osaka Six powder-blue sweatshirt
 
-<img src="images/awesome-gpt2/ad/147.jpg" alt="Osaka Six powder-blue sweatshirt" width="560">
+<img src="images/prompts/788.jpg" alt="Osaka Six powder-blue sweatshirt" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31558,13 +29989,13 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 </details>
 
-👤 [@gh-_LaurentB](https://x.com/gh-_LaurentB) · [Source tweet](https://x.com/_LaurentB/status/2048126606313464040) · Tags: `portrait` `product`
+👤 [@gh-_LaurentB](https://x.com/gh-_LaurentB) · [Source](https://x.com/_LaurentB/status/2048126606313464040) · Tags: `portrait`
 
 ---
 
-#### 32. NESS STUDIO seated streetwear poster
+#### 789. NESS STUDIO seated streetwear poster
 
-<img src="images/awesome-gpt2/ad/146.jpg" alt="NESS STUDIO seated streetwear poster" width="560">
+<img src="images/prompts/789.jpg" alt="NESS STUDIO seated streetwear poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31574,13 +30005,13 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 
 </details>
 
-👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source tweet](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait` `product`
+👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait`
 
 ---
 
-#### 33. Nike neon mid-jump campaign
+#### 790. Nike neon mid-jump campaign
 
-<img src="images/awesome-gpt2/ad/145.jpg" alt="Nike neon mid-jump campaign" width="560">
+<img src="images/prompts/790.jpg" alt="Nike neon mid-jump campaign" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31590,13 +30021,13 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 </details>
 
-👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source tweet](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait` `poster`
+👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait`
 
 ---
 
-#### 34. Motorsport chronograph watch ad
+#### 791. Motorsport chronograph watch ad
 
-<img src="images/awesome-gpt2/ad/144.jpg" alt="Motorsport chronograph watch ad" width="560">
+<img src="images/prompts/791.jpg" alt="Motorsport chronograph watch ad" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31606,13 +30037,13 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 </details>
 
-👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source tweet](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait` `product`
+👤 [@gh-AlwaveNazca](https://x.com/gh-AlwaveNazca) · [Source](https://x.com/AlwaveNazca/status/2048147643809865950) · Tags: `portrait`
 
 ---
 
-#### 35. Japanese Chinese delivery flyer
+#### 792. Japanese Chinese delivery flyer
 
-<img src="images/awesome-gpt2/ad/166.jpg" alt="Japanese Chinese delivery flyer" width="560">
+<img src="images/prompts/792.jpg" alt="Japanese Chinese delivery flyer" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31636,13 +30067,13 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 </details>
 
-👤 [@gh-xc5_](https://x.com/gh-xc5_) · [Source tweet](https://x.com/xc5_/status/2048310696686014935) · Tags: `portrait` `product`
+👤 [@gh-xc5_](https://x.com/gh-xc5_) · [Source](https://x.com/xc5_/status/2048310696686014935) · Tags: `portrait`
 
 ---
 
-#### 36. Tea shop 18-panel brand identity
+#### 793. Tea shop 18-panel brand identity
 
-<img src="images/awesome-gpt2/ad/107.jpg" alt="Tea shop 18-panel brand identity" width="560">
+<img src="images/prompts/793.jpg" alt="Tea shop 18-panel brand identity" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31737,13 +30168,13 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 </details>
 
-👤 [@gh-Colin_Leeee](https://x.com/gh-Colin_Leeee) · [Source tweet](https://x.com/Colin_Leeee/status/2044802802149650631) · Tags: `character` `product`
+👤 [@gh-Colin_Leeee](https://x.com/gh-Colin_Leeee) · [Source](https://x.com/Colin_Leeee/status/2044802802149650631) · Tags: `character`
 
 ---
 
-#### 37. Dark-mode SaaS landing page
+#### 794. Dark-mode SaaS landing page
 
-<img src="images/awesome-gpt2/ad/108.jpg" alt="Dark-mode SaaS landing page" width="560">
+<img src="images/prompts/794.jpg" alt="Dark-mode SaaS landing page" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31820,13 +30251,13 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 </details>
 
-👤 [@gh-IndieDevHailey](https://x.com/gh-IndieDevHailey) · [Source tweet](https://x.com/IndieDevHailey/status/2044974254769463312) · Tags: `infographic`
+👤 [@gh-IndieDevHailey](https://x.com/gh-IndieDevHailey) · [Source](https://x.com/IndieDevHailey/status/2044974254769463312) · Tags: `infographic`
 
 ---
 
-#### 38. 2x2 Japanese ad banner grid
+#### 795. 2x2 Japanese ad banner grid
 
-<img src="images/awesome-gpt2/ad/90.jpg" alt="2x2 Japanese ad banner grid" width="560">
+<img src="images/prompts/795.jpg" alt="2x2 Japanese ad banner grid" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -31931,11 +30362,11 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 </details>
 
-👤 [@gh-makaneko_AI](https://x.com/gh-makaneko_AI) · [Source tweet](https://x.com/makaneko_AI/status/2045764016858087720) · Tags: `comparison`
+👤 [@gh-makaneko_AI](https://x.com/gh-makaneko_AI) · [Source](https://x.com/makaneko_AI/status/2045764016858087720) · Tags: `comparison`
 
 ---
 
-#### 39. Velvet Bite chocolate luxury ad
+#### 796. Velvet Bite chocolate luxury ad
 
 <img src="images/prompts/2049334513504055739.jpg" alt="Velvet Bite chocolate luxury ad" width="560">
 
@@ -31967,18 +30398,11 @@ Make the ads feel realistic, premium, polished, and cohesive, like they all belo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049334513504055739-1.jpg" width="320">
-<img src="images/prompts/2049334513504055739-2.jpg" width="320">
-
-</details>
-
-👤 [@ecomchasedimond](https://x.com/ecomchasedimond) · Tags: `product` `comparison`
+👤 [@ecomchasedimond](https://x.com/ecomchasedimond) · Tags: `product`
 
 ---
 
-#### 40. Hyundai Creta resale ad collage
+#### 797. Hyundai Creta resale ad collage
 
 <img src="images/prompts/2049019141093528045.jpg" alt="Hyundai Creta resale ad collage" width="560">
 
@@ -32132,13 +30556,13 @@ High conversion intent.
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `product` `comparison`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `product`
 
 ---
 
-#### 41. Brand digital collage Instagram art
+#### 798. Brand digital collage Instagram art
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048963140222861357/0.jpg" alt="Brand digital collage Instagram art" width="560">
+<img src="images/prompts/2048963140222861357.jpg" alt="Brand digital collage Instagram art" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32297,19 +30721,11 @@ TECHNICAL SPECS:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048963140222861357/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048963140222861357/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048963140222861357/3.jpg" width="320">
-
-</details>
-
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `character` `comparison`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `character`
 
 ---
 
-#### 42. Brand-logo fluid bubble ad
+#### 799. Brand-logo fluid bubble ad
 
 <img src="images/prompts/2048828286466134200.jpg" alt="Brand-logo fluid bubble ad" width="560">
 
@@ -32327,9 +30743,9 @@ ABSOLUTE RULE — READ BEFORE GENERATING ANYTHING: The fluid mass in this image 
 
 ---
 
-#### 43. Brand fashion collage Instagram
+#### 800. Brand fashion collage Instagram
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048802776419799152/0.jpg" alt="Brand fashion collage Instagram" width="560">
+<img src="images/prompts/2048802776419799152.jpg" alt="Brand fashion collage Instagram" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32340,11 +30756,11 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 </details>
 
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character` `comparison`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character`
 
 ---
 
-#### 44. Obsidian coffee 4-image ad
+#### 801. Obsidian coffee 4-image ad
 
 <img src="images/prompts/2048598185841734064.jpg" alt="Obsidian coffee 4-image ad" width="560">
 
@@ -32356,13 +30772,13 @@ Create four connected premium realistic editorial images for OBSIDIAN coffee. Da
 
 </details>
 
-👤 [@ecomchasedimond](https://x.com/ecomchasedimond) · Tags: `product` `comparison`
+👤 [@ecomchasedimond](https://x.com/ecomchasedimond) · Tags: `product`
 
 ---
 
-#### 45. Streetwear digital collage
+#### 802. Streetwear digital collage
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048114730061926699/0.jpg" alt="Streetwear digital collage" width="560">
+<img src="images/prompts/2048114730061926699.jpg" alt="Streetwear digital collage" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32373,13 +30789,13 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 </details>
 
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character` `comparison`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `character`
 
 ---
 
-#### 46. Photorealistic baby scene
+#### 803. Photorealistic baby scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047645038147166555/0.jpg" alt="Photorealistic baby scene" width="560">
+<img src="images/prompts/2047645038147166555.jpg" alt="Photorealistic baby scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32394,19 +30810,13 @@ clean composition, aesthetic, viral beauty ad style, Instagram / TikTok/ X frien
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047645038147166555/1.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
-#### 47. Creative scene artwork
+#### 804. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047546614257221653/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2047546614257221653.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32416,21 +30826,13 @@ Create a cohesive collection of playful icons for [BRAND NAME], a [BRAND TYPE/IN
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047546614257221653/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047546614257221653/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047546614257221653/3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 48. Photorealistic man portrait
+#### 805. Photorealistic man portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047172163313222013/0.jpg" alt="Photorealistic man portrait" width="560">
+<img src="images/prompts/2047172163313222013.jpg" alt="Photorealistic man portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32516,9 +30918,9 @@ A highly realistic single-image campaign board showing a landing page, email, an
 
 ---
 
-#### 49. Car shot artwork
+#### 806. Car shot artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047064581051142166/0.jpg" alt="Car shot artwork" width="560">
+<img src="images/prompts/2047064581051142166.jpg" alt="Car shot artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32530,13 +30932,13 @@ Mobile-first, 4:5, advanced design level.
 
 </details>
 
-👤 [@oliverkenyon](https://x.com/oliverkenyon) · Tags: `product` `comparison`
+👤 [@oliverkenyon](https://x.com/oliverkenyon) · Tags: `product`
 
 ---
 
-#### 50. Editorial style creative scene
+#### 807. Editorial style creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046682439985082441/0.jpg" alt="Editorial style creative scene" width="560">
+<img src="images/prompts/2046682439985082441.jpg" alt="Editorial style creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32548,13 +30950,13 @@ Include a sense of product obsession, visual experimentation, packaging explorat
 
 </details>
 
-👤 [@riomadeit](https://x.com/riomadeit) · Tags: `infographic` `comparison`
+👤 [@riomadeit](https://x.com/riomadeit) · Tags: `infographic`
 
 ---
 
-#### 51. Illustration food shot
+#### 808. Illustration food shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046460259817210284/0.jpg" alt="Illustration food shot" width="560">
+<img src="images/prompts/2046460259817210284.jpg" alt="Illustration food shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32604,17 +31006,11 @@ Output: a single high-impact visual combining all 4 ads.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046460259817210284/1.jpg" width="320">
-
-</details>
-
 👤 [@akiramenaiwoman](https://x.com/akiramenaiwoman) · Tags: `comparison`
 
 ---
 
-#### 52. Editorial style king v2
+#### 809. Editorial style king v2
 
 <img src="images/prompts/2046265195434070061.jpg" alt="Editorial style king v2" width="560">
 
@@ -32650,7 +31046,7 @@ Lens: 85mm equivalent, f/4.5. Depth of field: object fully sharp, background sof
 
 ---
 
-#### 53. Editorial style logo concept
+#### 810. Editorial style logo concept
 
 <img src="images/prompts/2045938770906657274.jpg" alt="Editorial style logo concept" width="560">
 
@@ -32691,7 +31087,7 @@ PHASE 5: MINIMALIST BRANDING.
 
 ---
 
-#### 54. 3d render king v2
+#### 811. 3d render king v2
 
 <img src="images/prompts/2045580765136920938.jpg" alt="3d render king v2" width="560">
 
@@ -32733,9 +31129,9 @@ The single most important instruction in this entire prompt: the logo must read 
 
 ---
 
-#### 55. Y2k aesthetic creative scene
+#### 812. Y2k aesthetic creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045378877363798279/0.jpg" alt="Y2k aesthetic creative scene" width="560">
+<img src="images/prompts/2045378877363798279.jpg" alt="Y2k aesthetic creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -32745,17 +31141,11 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045378877363798279/1.jpg" width="320">
-
-</details>
-
 👤 [@midori_tatsuta](https://x.com/midori_tatsuta) · Tags: `product`
 
 ---
 
-#### 56. Minimalist logo concept
+#### 813. Minimalist logo concept
 
 <img src="images/prompts/2045199443960439023.jpg" alt="Minimalist logo concept" width="560">
 
@@ -32790,7 +31180,7 @@ Goal: Generate a single, minimalist, and surreal image where a cloud is shaped l
 
 ---
 
-#### 57. Minimalist food shot
+#### 814. Minimalist food shot
 
 <img src="images/prompts/2045009725218226475.jpg" alt="Minimalist food shot" width="560">
 
@@ -32802,19 +31192,11 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2045009725218226475-1.jpg" width="320">
-<img src="images/prompts/2045009725218226475-2.jpg" width="320">
-<img src="images/prompts/2045009725218226475-3.jpg" width="320">
-
-</details>
-
 👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · Tags: `character`
 
 ---
 
-#### 58. Photorealistic cityscape
+#### 815. Photorealistic cityscape
 
 <img src="images/prompts/2044599335221104970.jpg" alt="Photorealistic cityscape" width="560">
 
@@ -32872,19 +31254,11 @@ Physically accurate material aging and layering.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044599335221104970-1.jpg" width="320">
-<img src="images/prompts/2044599335221104970-2.jpg" width="320">
-<img src="images/prompts/2044599335221104970-3.jpg" width="320">
-
-</details>
-
 👤 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · Tags: `poster`
 
 ---
 
-#### 59. Cinematic lighting king
+#### 816. Cinematic lighting king
 
 <img src="images/prompts/2044465748714594617.jpg" alt="Cinematic lighting king" width="560">
 
@@ -32906,19 +31280,11 @@ Rendering style: photorealistic, cinematic, ultra-detailed, physically based ren
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2044465748714594617-1.jpg" width="320">
-<img src="images/prompts/2044465748714594617-2.jpg" width="320">
-<img src="images/prompts/2044465748714594617-3.jpg" width="320">
-
-</details>
-
 👤 [@zazzygfx](https://x.com/zazzygfx) · Tags: `3d-render`
 
 ---
 
-#### 60. 3d render logo concept
+#### 817. 3d render logo concept
 
 <img src="images/prompts/2043753023004954753.jpg" alt="3d render logo concept" width="560">
 
@@ -32934,7 +31300,7 @@ A premium 3D stylized version of attached logo, rendered as thick, translucent c
 
 ---
 
-#### 61. 3d render cityscape
+#### 818. 3d render cityscape
 
 <img src="images/prompts/2043748561729302884.jpg" alt="3d render cityscape" width="560">
 
@@ -32977,7 +31343,7 @@ Render: Octane Render with full caustics enabled at maximum quality settings. Ra
 
 ---
 
-#### 62. 3d render king
+#### 819. 3d render king
 
 <img src="images/prompts/2043381172646920237.jpg" alt="3d render king" width="560">
 
@@ -33019,7 +31385,7 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 ---
 
-#### 63. Photorealistic logo concept
+#### 820. Photorealistic logo concept
 
 <img src="images/prompts/2043027627640799569.jpg" alt="Photorealistic logo concept" width="560">
 
@@ -33042,11 +31408,11 @@ Rendered with Arnold or Octane. Phase One XF, 120mm Macro lens. Aperture f/5.6 f
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product` `3d-render`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product`
 
 ---
 
-#### 64. Cinematic lighting man portrait
+#### 821. Cinematic lighting man portrait
 
 <img src="images/prompts/2042593441150837246.jpg" alt="Cinematic lighting man portrait" width="560">
 
@@ -33093,17 +31459,11 @@ Goal: "Subliminal Advertising" Landscape Photography.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042593441150837246-1.jpg" width="320">
-
-</details>
-
 👤 [@Gdgtify](https://x.com/Gdgtify)
 
 ---
 
-#### 65. North Face streetwear poster
+#### 822. North Face streetwear poster
 
 <img src="images/prompts/2041451587403399395.jpg" alt="North Face streetwear poster" width="560">
 
@@ -33115,11 +31475,11 @@ A high-fashion, cinematic brand concept poster for "The North Face." The scene f
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait` `poster`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait`
 
 ---
 
-#### 66. Adidas shrink-wrapped logo
+#### 823. Adidas shrink-wrapped logo
 
 <img src="images/prompts/2040963305901273505.jpg" alt="Adidas shrink-wrapped logo" width="560">
 
@@ -33165,17 +31525,11 @@ Mood: the product is packed and ready for opening, the shape is known, but not y
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040963305901273505-1.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product` `3d-render`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
-#### 67. Square shampoo luxury campaign
+#### 824. Square shampoo luxury campaign
 
 <img src="images/prompts/2040831603199672577.jpg" alt="Square shampoo luxury campaign" width="560">
 
@@ -33190,11 +31544,11 @@ Lighting: lighting direction — single hard overhead spotlight / soft diffused 
 
 </details>
 
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `product` `poster`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `product`
 
 ---
 
-#### 68. Sandwich-effect editorial poster
+#### 825. Sandwich-effect editorial poster
 
 <img src="images/prompts/2040806718523748627.jpg" alt="Sandwich-effect editorial poster" width="560">
 
@@ -33242,11 +31596,11 @@ PHASE 5: MINIMALIST BRANDING.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait` `poster`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait`
 
 ---
 
-#### 69. Y2K Tokyo brand sticker
+#### 826. Y2K Tokyo brand sticker
 
 <img src="images/prompts/2040769988466733167.jpg" alt="Y2K Tokyo brand sticker" width="560">
 
@@ -33284,19 +31638,11 @@ Flat vector only — zero gradients, zero effects, zero rendering, zero blur. Cl
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040769988466733167-1.jpg" width="320">
-<img src="images/prompts/2040769988466733167-2.jpg" width="320">
-<img src="images/prompts/2040769988466733167-3.jpg" width="320">
-
-</details>
-
 👤 [@youraipulse](https://x.com/youraipulse) · Tags: `illustration`
 
 ---
 
-#### 70. 3D photo and graphics overlap
+#### 827. 3D photo and graphics overlap
 
 <img src="images/prompts/2040459414084170157.jpg" alt="3D photo and graphics overlap" width="560">
 
@@ -33337,11 +31683,11 @@ High-end commercial aesthetic. Crisp, saturated, professional fusion of flat vec
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product` `poster`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product`
 
 ---
 
-#### 71. Y2K Harajuku vector badge
+#### 828. Y2K Harajuku vector badge
 
 <img src="images/prompts/2040157426775724206.jpg" alt="Y2K Harajuku vector badge" width="560">
 
@@ -33383,7 +31729,7 @@ Flat vector only — zero gradients, zero effects, zero rendering, zero blur. Cl
 
 ---
 
-#### 72. Celestial zodiac VTuber logo
+#### 829. Celestial zodiac VTuber logo
 
 <img src="images/prompts/2039682237751509053.jpg" alt="Celestial zodiac VTuber logo" width="560">
 
@@ -33436,17 +31782,11 @@ request:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039682237751509053-1.jpg" width="320">
-
-</details>
-
 👤 [@midori_tatsuta](https://x.com/midori_tatsuta) · Tags: `illustration`
 
 ---
 
-#### 73. Shrink-wrapped logo render
+#### 830. Shrink-wrapped logo render
 
 <img src="images/prompts/2039404183250522151.jpg" alt="Shrink-wrapped logo render" width="560">
 
@@ -33480,11 +31820,11 @@ The entire image is one color — [COLOR] — applied to every surface with vari
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product` `3d-render`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product`
 
 ---
 
-#### 74. Embossed metal logo relief
+#### 831. Embossed metal logo relief
 
 <img src="images/prompts/2039041297286053931.jpg" alt="Embossed metal logo relief" width="560">
 
@@ -33522,11 +31862,11 @@ The single most important instruction in this entire prompt: the logo must read 
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product` `3d-render`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product`
 
 ---
 
-#### 75. Hero color mixed-media campaign
+#### 832. Hero color mixed-media campaign
 
 <img src="images/prompts/2038707148981432392.jpg" alt="Hero color mixed-media campaign" width="560">
 
@@ -33605,21 +31945,13 @@ Aesthetic: mixed media — real photograph integrated with hand-drawn 2D illustr
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038707148981432392-1.jpg" width="320">
-<img src="images/prompts/2038707148981432392-2.jpg" width="320">
-<img src="images/prompts/2038707148981432392-3.jpg" width="320">
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `poster` `illustration`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `poster`
 
 ---
 
-#### 76. Capsule pill brand poster
+#### 833. Capsule pill brand poster
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2038694130650435769/0.jpg" alt="Capsule pill brand poster" width="560">
+<img src="images/prompts/2038694130650435769.jpg" alt="Capsule pill brand poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -33629,11 +31961,11 @@ Create a minimal poster. A large capsule pill centered in the frame. The top hal
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `poster`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
-#### 77. Square mixed-media campaign
+#### 834. Square mixed-media campaign
 
 <img src="images/prompts/2038319037248114957.jpg" alt="Square mixed-media campaign" width="560">
 
@@ -33712,11 +32044,11 @@ Aesthetic: mixed media — real photograph integrated with hand-drawn 2D illustr
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `illustration`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
-#### 78. Slogan typography silhouette
+#### 835. Slogan typography silhouette
 
 <img src="images/prompts/2038261502696648942.jpg" alt="Slogan typography silhouette" width="560">
 
@@ -33732,7 +32064,7 @@ Create a typographic illustration shaped like a [OBJECT], where the text [BRAND 
 
 ---
 
-#### 79. Luxury 3D logo key visual
+#### 836. Luxury 3D logo key visual
 
 <img src="images/prompts/2037605625463550080.jpg" alt="Luxury 3D logo key visual" width="560">
 
@@ -33774,7 +32106,7 @@ roughness noise map). Mood reference: luxury brand retrospective editorial for H
 
 ---
 
-#### 80. Nike Lumina iridescent jump
+#### 837. Nike Lumina iridescent jump
 
 <img src="images/prompts/2036806218988315056.jpg" alt="Nike Lumina iridescent jump" width="560">
 
@@ -33786,17 +32118,11 @@ A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2036806218988315056-1.jpg" width="320">
-
-</details>
-
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `portrait` `poster`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `portrait`
 
 ---
 
-#### 81. 2x2 era typography grid
+#### 838. 2x2 era typography grid
 
 <img src="images/prompts/2034557489258078352.jpg" alt="2x2 era typography grid" width="560">
 
@@ -33813,11 +32139,11 @@ A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twi
 
 </details>
 
-👤 [@Gdgtify](https://x.com/Gdgtify) · Tags: `3d-render` `infographic`
+👤 [@Gdgtify](https://x.com/Gdgtify) · Tags: `3d-render`
 
 ---
 
-#### 82. 3D ice logo on snow
+#### 839. 3D ice logo on snow
 
 <img src="images/prompts/2033619671522345426.jpg" alt="3D ice logo on snow" width="560">
 
@@ -33856,7 +32182,7 @@ Constraint: NO TEXT inside or immediately near the central ice icon. Only the bo
 
 ---
 
-#### 83. Logo-shaped pancake shot
+#### 840. Logo-shaped pancake shot
 
 <img src="images/prompts/2033181947103773158.jpg" alt="Logo-shaped pancake shot" width="560">
 
@@ -33872,7 +32198,7 @@ hyper-realistic food photography of a pancake shaped precisely like the [brand n
 
 ---
 
-#### 84. Cobalt blue letter A studio
+#### 841. Cobalt blue letter A studio
 
 <img src="images/prompts/2033180206975135824.jpg" alt="Cobalt blue letter A studio" width="560">
 
@@ -33884,18 +32210,11 @@ Minimalist fashion studio photoshoot featuring stylish people sitting confidentl
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2033180206975135824-1.jpg" width="320">
-<img src="images/prompts/2033180206975135824-2.jpg" width="320">
-
-</details>
-
 👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 85. Brand logo cumulus cloud
+#### 842. Brand logo cumulus cloud
 
 <img src="images/prompts/2032908105994961090.jpg" alt="Brand logo cumulus cloud" width="560">
 
@@ -33930,7 +32249,7 @@ Goal: Generate a single, minimalist, and surreal image where a cloud is shaped l
 
 ---
 
-#### 86. Notion mascot head icon
+#### 843. Notion mascot head icon
 
 <img src="images/prompts/2032819091485110500.jpg" alt="Notion mascot head icon" width="560">
 
@@ -33946,7 +32265,7 @@ Create a clean high-contrast vector mascot icon in Notion-style artwork based on
 
 ---
 
-#### 87. Brazil jersey jungle armchair
+#### 844. Brazil jersey jungle armchair
 
 <img src="images/prompts/2032756394202657147.jpg" alt="Brazil jersey jungle armchair" width="560">
 
@@ -33958,11 +32277,11 @@ Cinematic portrait of a confident football player sitting on a dark armchair, tr
 
 </details>
 
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character` `illustration`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `character`
 
 ---
 
-#### 88. Fisheye streetwear squat
+#### 845. Fisheye streetwear squat
 
 <img src="images/prompts/2032542713170838002.jpg" alt="Fisheye streetwear squat" width="560">
 
@@ -33974,18 +32293,11 @@ Generate a highly detailed, photorealistic 8K streetwear fashion portrait of Ros
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032542713170838002-1.jpg" width="320">
-<img src="images/prompts/2032542713170838002-2.jpg" width="320">
-
-</details>
-
-👤 [@youngcatwoman](https://x.com/youngcatwoman) · Tags: `product` `comparison`
+👤 [@youngcatwoman](https://x.com/youngcatwoman) · Tags: `product`
 
 ---
 
-#### 89. Fintech dynamic brand grid
+#### 846. Fintech dynamic brand grid
 
 <img src="images/prompts/2032185087534477643.jpg" alt="Fintech dynamic brand grid" width="560">
 
@@ -34121,11 +32433,11 @@ visualized as a modern startup brand identity board similar to a design presenta
 
 </details>
 
-👤 [@egeberkina](https://x.com/egeberkina) · Tags: `infographic` `comparison`
+👤 [@egeberkina](https://x.com/egeberkina) · Tags: `infographic`
 
 ---
 
-#### 90. Object plus doodle ad
+#### 847. Object plus doodle ad
 
 <img src="images/prompts/2032094792583430443.jpg" alt="Object plus doodle ad" width="560">
 
@@ -34141,7 +32453,7 @@ A minimalist and creative advertisement set on a pure white background. A real p
 
 ---
 
-#### 91. Scrapbook torn-edge poster
+#### 848. Scrapbook torn-edge poster
 
 <img src="images/prompts/2031446250214572438.jpg" alt="Scrapbook torn-edge poster" width="560">
 
@@ -34189,11 +32501,11 @@ Goal: Generate a professional "scrapbook" style collage poster for [BRAND NAME] 
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `comparison`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
-#### 92. Brand impasto oil painting
+#### 849. Brand impasto oil painting
 
 <img src="images/prompts/2031083098364858524.jpg" alt="Brand impasto oil painting" width="560">
 
@@ -34231,11 +32543,11 @@ Goal: Generate a professional mixed-media oil painting on textured canvas where 
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `illustration`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
-#### 93. Racing green hoodie cube ad
+#### 850. Racing green hoodie cube ad
 
 <img src="images/prompts/2029599397483532714.jpg" alt="Racing green hoodie cube ad" width="560">
 
@@ -34267,11 +32579,11 @@ Color Palette: Deep forest green, bright white, and golden yellow accents.
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait` `poster`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait`
 
 ---
 
-#### 94. Amber hair oil cinematic
+#### 851. Amber hair oil cinematic
 
 <img src="images/prompts/2029369297030807801.jpg" alt="Amber hair oil cinematic" width="560">
 
@@ -34334,17 +32646,11 @@ Color Palette: Deep forest green, bright white, and golden yellow accents.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029369297030807801-1.jpg" width="320">
-
-</details>
-
 👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `product`
 
 ---
 
-#### 95. Berry red scrub jar shot
+#### 852. Berry red scrub jar shot
 
 <img src="images/prompts/2029237707386568814.jpg" alt="Berry red scrub jar shot" width="560">
 
@@ -34360,7 +32666,7 @@ Ultra-realistic luxury cosmetic product photography of a deep red glass jar labe
 
 ---
 
-#### 96. Doodle character product ad
+#### 853. Doodle character product ad
 
 <img src="images/prompts/2029211910621806728.jpg" alt="Doodle character product ad" width="560">
 
@@ -34372,19 +32678,11 @@ Product description and its placement], minimalist product photography, clean wa
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029211910621806728-1.jpg" width="320">
-<img src="images/prompts/2029211910621806728-2.jpg" width="320">
-<img src="images/prompts/2029211910621806728-3.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product`
 
 ---
 
-#### 97. Logo-shaped cake bite
+#### 854. Logo-shaped cake bite
 
 <img src="images/prompts/2029164036588241196.jpg" alt="Logo-shaped cake bite" width="560">
 
@@ -34400,7 +32698,7 @@ Generate a hyper-realistic digital illustration of a cake meticulously stylized 
 
 ---
 
-#### 98. Strawberry jar assembly
+#### 855. Strawberry jar assembly
 
 <img src="images/prompts/2029019321364824452.jpg" alt="Strawberry jar assembly" width="560">
 
@@ -34466,11 +32764,11 @@ Ultra clean luxury skincare commercial finish.
 
 </details>
 
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `product` `comparison`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `product`
 
 ---
 
-#### 99. Venom Monster Energy can
+#### 856. Venom Monster Energy can
 
 <img src="images/prompts/2028650885472203209.jpg" alt="Venom Monster Energy can" width="560">
 
@@ -34511,19 +32809,11 @@ ratio 4:5
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028650885472203209-1.jpg" width="320">
-<img src="images/prompts/2028650885472203209-2.jpg" width="320">
-<img src="images/prompts/2028650885472203209-3.jpg" width="320">
-
-</details>
-
 👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `product`
 
 ---
 
-#### 100. Mario Pepsi can ad
+#### 857. Mario Pepsi can ad
 
 <img src="images/prompts/2028636305803051268.jpg" alt="Mario Pepsi can ad" width="560">
 
@@ -34537,17 +32827,11 @@ Shot outdoors in natural daylight with a soft, blurred garden background (bokeh 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028636305803051268-1.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product`
 
 ---
 
-#### 101. Pepsi through phone screen
+#### 858. Pepsi through phone screen
 
 <img src="images/prompts/2028309848429846690.jpg" alt="Pepsi through phone screen" width="560">
 
@@ -34567,7 +32851,7 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 ---
 
-#### 102. Rose Velvet shake splash
+#### 859. Rose Velvet shake splash
 
 <img src="images/prompts/2028279420419752307.jpg" alt="Rose Velvet shake splash" width="560">
 
@@ -34618,17 +32902,11 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2028279420419752307-1.jpg" width="320">
-
-</details>
-
 👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `product`
 
 ---
 
-#### 103. Levitating product in void
+#### 860. Levitating product in void
 
 <img src="images/prompts/2027745604600811970.jpg" alt="Levitating product in void" width="560">
 
@@ -34691,7 +32969,7 @@ A closed book and a black pen sit on the wooden table beside the oversized phone
 
 ---
 
-#### 104. Skincare 360 splash commercial
+#### 861. Skincare 360 splash commercial
 
 <img src="images/prompts/2027645181538025847.jpg" alt="Skincare 360 splash commercial" width="560">
 
@@ -34717,11 +32995,11 @@ Sensual, elegant, and premium beauty campaign. Smooth motion, glossy textures, s
 
 </details>
 
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product` `comparison`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product`
 
 ---
 
-#### 105. Sanzo Calamansi green can shot
+#### 862. Sanzo Calamansi green can shot
 
 <img src="images/prompts/2027171001486967062.jpg" alt="Sanzo Calamansi green can shot" width="560">
 
@@ -34733,19 +33011,11 @@ A photorealistic product shot of a person holding a slim, light green can of San
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027171001486967062-1.jpg" width="320">
-<img src="images/prompts/2027171001486967062-2.jpg" width="320">
-<img src="images/prompts/2027171001486967062-3.jpg" width="320">
-
-</details>
-
 👤 [@Kashberg_0](https://x.com/Kashberg_0) · Tags: `product`
 
 ---
 
-#### 106. Editorial poster v5
+#### 863. Editorial poster v5
 
 <img src="images/prompts/2027040971016351786.jpg" alt="Editorial poster v5" width="560">
 
@@ -34785,7 +33055,7 @@ PHASE 5: FINAL BRANDING.
 
 ---
 
-#### 107. Product packaging shot
+#### 864. Product packaging shot
 
 <img src="images/prompts/2026929094164885863.jpg" alt="Product packaging shot" width="560">
 
@@ -34797,11 +33067,11 @@ Use the uploaded image as the exact visual reference for product design, label, 
 
 </details>
 
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `product` `comparison`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `product`
 
 ---
 
-#### 108. Editorial poster v4
+#### 865. Editorial poster v4
 
 <img src="images/prompts/2026316195977146728.jpg" alt="Editorial poster v4" width="560">
 
@@ -34846,7 +33116,7 @@ High-end commercial aesthetic. Crisp, saturated, professional fusion of flat vec
 
 ---
 
-#### 109. Creative scene
+#### 866. Creative scene
 
 <img src="images/prompts/2025261764795826531.jpg" alt="Creative scene" width="560">
 
@@ -34877,7 +33147,7 @@ Prompt 👇
 
 ---
 
-#### 110. Space scene
+#### 867. Space scene
 
 <img src="images/prompts/2024563588602429812.jpg" alt="Space scene" width="560">
 
@@ -34901,7 +33171,7 @@ The lighting is [Lighting Type: e.g., Sharp/Soft], crisp, and commercial, emphas
 
 ---
 
-#### 111. Logo design
+#### 868. Logo design
 
 <img src="images/prompts/2022269227286102243.jpg" alt="Logo design" width="560">
 
@@ -34917,9 +33187,9 @@ Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect 
 
 ---
 
-#### 112. Product packaging shot
+#### 869. Product packaging shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2021057289785053348/0.jpg" alt="Product packaging shot" width="560">
+<img src="images/prompts/2021057289785053348.jpg" alt="Product packaging shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -34929,19 +33199,11 @@ Hyper-realistic cinematic 8k photograph, low-angle wide perspective. A massive M
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2021057289785053348/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2021057289785053348/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2021057289785053348/3.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `product`
 
 ---
 
-#### 113. Editorial poster v2
+#### 870. Editorial poster v2
 
 <img src="images/prompts/2020895358126002197.jpg" alt="Editorial poster v2" width="560">
 
@@ -35013,11 +33275,11 @@ TECHNICAL SPECS:
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait` `comparison`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait`
 
 ---
 
-#### 114. Logo design
+#### 871. Logo design
 
 <img src="images/prompts/2019773851211886665.jpg" alt="Logo design" width="560">
 
@@ -35029,11 +33291,11 @@ Cinematic 3D action-packed advertisement for [INSERT PRODUCT/BRAND HERE], captur
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product`
 
 ---
 
-#### 115. Product packaging shot v2
+#### 872. Product packaging shot v2
 
 <img src="images/prompts/2019629174374429017.jpg" alt="Product packaging shot v2" width="560">
 
@@ -35045,19 +33307,11 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019629174374429017-1.jpg" width="320">
-<img src="images/prompts/2019629174374429017-2.jpg" width="320">
-<img src="images/prompts/2019629174374429017-3.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
-#### 116. Skincare product shot v2
+#### 873. Skincare product shot v2
 
 <img src="images/prompts/2019431396885070327.jpg" alt="Skincare product shot v2" width="560">
 
@@ -35133,19 +33387,11 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019431396885070327-1.jpg" width="320">
-<img src="images/prompts/2019431396885070327-2.jpg" width="320">
-<img src="images/prompts/2019431396885070327-3.jpg" width="320">
-
-</details>
-
 👤 [@john_my07](https://x.com/john_my07) · Tags: `product`
 
 ---
 
-#### 117. Skincare product shot
+#### 874. Skincare product shot
 
 <img src="images/prompts/2019404118486389234.jpg" alt="Skincare product shot" width="560">
 
@@ -35218,21 +33464,13 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019404118486389234-1.jpg" width="320">
-<img src="images/prompts/2019404118486389234-2.jpg" width="320">
-<img src="images/prompts/2019404118486389234-3.jpg" width="320">
-
-</details>
-
 👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `product`
 
 ---
 
-#### 118. Product packaging shot
+#### 875. Product packaging shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2019069034365698163/0.jpg" alt="Product packaging shot" width="560">
+<img src="images/prompts/2019069034365698163.jpg" alt="Product packaging shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -35333,19 +33571,11 @@ Ultra-cinematic product photography of a matte black luxury soda bottle labeled 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2019069034365698163/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2019069034365698163/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2019069034365698163/3.jpg" width="320">
-
-</details>
-
 👤 [@john_my07](https://x.com/john_my07) · Tags: `product`
 
 ---
 
-#### 119. Product packaging shot
+#### 876. Product packaging shot
 
 <img src="images/prompts/2018776000532717836.jpg" alt="Product packaging shot" width="560">
 
@@ -35378,11 +33608,11 @@ A raw, textured, vintage-style poster design.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait` `character`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait`
 
 ---
 
-#### 120. Logo design
+#### 877. Logo design
 
 <img src="images/prompts/2018348054789640565.jpg" alt="Logo design" width="560">
 
@@ -35429,11 +33659,11 @@ The image must be a clean, gap-separated grid featuring these specific blocks:
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `infographic` `comparison`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `infographic`
 
 ---
 
-#### 121. Custom-shape table flat-lay
+#### 878. Custom-shape table flat-lay
 
 <img src="images/prompts/2017847584115548498.jpg" alt="Custom-shape table flat-lay" width="560">
 
@@ -35450,19 +33680,11 @@ Lighting & Quality: Professional studio lighting with crisp, distinct drop shado
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017847584115548498-1.jpg" width="320">
-<img src="images/prompts/2017847584115548498-2.jpg" width="320">
-<img src="images/prompts/2017847584115548498-3.jpg" width="320">
-
-</details>
-
 👤 [@Arminn_Ai](https://x.com/Arminn_Ai) · Tags: `character`
 
 ---
 
-#### 122. Brand flagship concept
+#### 879. Brand flagship concept
 
 <img src="images/prompts/2017682012987970042.jpg" alt="Brand flagship concept" width="560">
 
@@ -35485,13 +33707,13 @@ Professional product photography, soft volumetric lighting, clean light pastel b
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product` `3d-render`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `product`
 
 ---
 
-#### 123. Beverage splash duo shot
+#### 880. Beverage splash duo shot
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017420332458774791/0.jpg" alt="Beverage splash duo shot" width="560">
+<img src="images/prompts/2017420332458774791.jpg" alt="Beverage splash duo shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -35586,19 +33808,11 @@ Professional product photography, soft volumetric lighting, clean light pastel b
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017420332458774791/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017420332458774791/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017420332458774791/3.jpg" width="320">
-
-</details>
-
 👤 [@mehvishs25](https://x.com/mehvishs25) · Tags: `product`
 
 ---
 
-#### 124. Brand concept-study object
+#### 881. Brand concept-study object
 
 <img src="images/prompts/2017345945025822871.jpg" alt="Brand concept-study object" width="560">
 
@@ -35627,11 +33841,11 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait` `product`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait`
 
 ---
 
-#### 125. Salad explosion bowl shot
+#### 882. Salad explosion bowl shot
 
 <img src="images/prompts/2017200760631828679.jpg" alt="Salad explosion bowl shot" width="560">
 
@@ -35667,19 +33881,11 @@ A seamless, impeccably clean studio cyclorama background in a pure, ultra-light 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017200760631828679-1.jpg" width="320">
-<img src="images/prompts/2017200760631828679-2.jpg" width="320">
-<img src="images/prompts/2017200760631828679-3.jpg" width="320">
-
-</details>
-
 👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `product`
 
 ---
 
-#### 126. Split product brand poster
+#### 883. Split product brand poster
 
 <img src="images/prompts/2017188683766538498.jpg" alt="Split product brand poster" width="560">
 
@@ -35702,11 +33908,11 @@ Official logo placed subtly and professionally in one corner.
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `poster`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
-#### 127. Branded glazed popsicle
+#### 884. Branded glazed popsicle
 
 <img src="images/prompts/2016567546325979473.jpg" alt="Branded glazed popsicle" width="560">
 
@@ -35718,19 +33924,11 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016567546325979473-1.jpg" width="320">
-<img src="images/prompts/2016567546325979473-2.jpg" width="320">
-<img src="images/prompts/2016567546325979473-3.jpg" width="320">
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `product` `3d-render`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `product`
 
 ---
 
-#### 128. Heat-haze luxury product
+#### 885. Heat-haze luxury product
 
 <img src="images/prompts/2016559834456273296.jpg" alt="Heat-haze luxury product" width="560">
 
@@ -35866,7 +34064,7 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 ---
 
-#### 129. Ice cream splash triptych
+#### 886. Ice cream splash triptych
 
 <img src="images/prompts/2016534463459832095.jpg" alt="Ice cream splash triptych" width="560">
 
@@ -35996,19 +34194,11 @@ A perfectly vertical, hyper-realistic 3D popsicle by [@ YOUR LOGO] featuring a g
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016534463459832095-1.jpg" width="320">
-<img src="images/prompts/2016534463459832095-2.jpg" width="320">
-<img src="images/prompts/2016534463459832095-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `product`
 
 ---
 
-#### 130. 3x3 brand identity grid
+#### 887. 3x3 brand identity grid
 
 <img src="images/prompts/2016511852927438909.jpg" alt="3x3 brand identity grid" width="560">
 
@@ -36032,11 +34222,11 @@ no people, no readable real-world brand names, no watermark.
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product` `comparison`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product`
 
 ---
 
-#### 131. Fruit AR HUD POV shot
+#### 888. Fruit AR HUD POV shot
 
 <img src="images/prompts/2016421696299991337.jpg" alt="Fruit AR HUD POV shot" width="560">
 
@@ -36085,18 +34275,11 @@ no people, no readable real-world brand names, no watermark.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016421696299991337-1.jpg" width="320">
-<img src="images/prompts/2016421696299991337-2.jpg" width="320">
-
-</details>
-
 👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `infographic`
 
 ---
 
-#### 132. Techwear blueprint profile
+#### 889. Techwear blueprint profile
 
 <img src="images/prompts/2016245336948244946.jpg" alt="Techwear blueprint profile" width="560">
 
@@ -36138,11 +34321,11 @@ PHASE 4: TECH SPECS
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait` `product`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `portrait`
 
 ---
 
-#### 133. Chanel perfume 2x2 ads
+#### 890. Chanel perfume 2x2 ads
 
 <img src="images/prompts/2016146144590541290.jpg" alt="Chanel perfume 2x2 ads" width="560">
 
@@ -36211,11 +34394,11 @@ Optimized for luxury brand advertising and social campaigns
 
 </details>
 
-👤 [@craftian_keskin](https://x.com/craftian_keskin) · Tags: `product` `comparison`
+👤 [@craftian_keskin](https://x.com/craftian_keskin) · Tags: `product`
 
 ---
 
-#### 134. Dark horizon product reveal
+#### 891. Dark horizon product reveal
 
 <img src="images/prompts/2015866705197580703.jpg" alt="Dark horizon product reveal" width="560">
 
@@ -36279,11 +34462,11 @@ Optimized for luxury brand advertising and social campaigns
 
 </details>
 
-👤 [@lloydcreates](https://x.com/lloydcreates) · Tags: `product` `3d-render`
+👤 [@lloydcreates](https://x.com/lloydcreates) · Tags: `product`
 
 ---
 
-#### 135. Jam jar AR HUD POV
+#### 892. Jam jar AR HUD POV
 
 <img src="images/prompts/2015794054110552310.jpg" alt="Jam jar AR HUD POV" width="560">
 
@@ -36299,7 +34482,7 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 
 ---
 
-#### 136. 3x3 product campaign grid
+#### 893. 3x3 product campaign grid
 
 <img src="images/prompts/2015634929066070042.jpg" alt="3x3 product campaign grid" width="560">
 
@@ -36356,7 +34539,7 @@ Hyperreal, cinematic, polished, and aspirational
 
 ---
 
-#### 137. Beige Crocs ad poster
+#### 894. Beige Crocs ad poster
 
 <img src="images/prompts/2015437854206529710.jpg" alt="Beige Crocs ad poster" width="560">
 
@@ -36421,11 +34604,11 @@ Low resolution, incorrect shoe shape, warped branding, misspelled logo, glossy p
 
 </details>
 
-👤 [@craftian_keskin](https://x.com/craftian_keskin) · Tags: `product` `poster`
+👤 [@craftian_keskin](https://x.com/craftian_keskin) · Tags: `product`
 
 ---
 
-#### 138. Red tea tin 3x3 grid
+#### 895. Red tea tin 3x3 grid
 
 <img src="images/prompts/2015257114529419733.jpg" alt="Red tea tin 3x3 grid" width="560">
 
@@ -36452,11 +34635,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 </details>
 
-👤 [@songguoxiansen](https://x.com/songguoxiansen) · Tags: `product` `3d-render`
+👤 [@songguoxiansen](https://x.com/songguoxiansen) · Tags: `product`
 
 ---
 
-#### 139. Orange milk splash macro
+#### 896. Orange milk splash macro
 
 <img src="images/prompts/2013660094664446322.jpg" alt="Orange milk splash macro" width="560">
 
@@ -36499,19 +34682,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013660094664446322-1.jpg" width="320">
-<img src="images/prompts/2013660094664446322-2.jpg" width="320">
-<img src="images/prompts/2013660094664446322-3.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7)
 
 ---
 
-#### 140. 3x3 product mockup grid
+#### 897. 3x3 product mockup grid
 
 <img src="images/prompts/2013268963266904438.jpg" alt="3x3 product mockup grid" width="560">
 
@@ -36563,11 +34738,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 </details>
 
-👤 [@Dari_Designs](https://x.com/Dari_Designs) · Tags: `product` `3d-render`
+👤 [@Dari_Designs](https://x.com/Dari_Designs) · Tags: `product`
 
 ---
 
-#### 141. Chrome 3D logo render
+#### 898. Chrome 3D logo render
 
 <img src="images/prompts/2012978382812635204.jpg" alt="Chrome 3D logo render" width="560">
 
@@ -36583,7 +34758,7 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 ---
 
-#### 142. Mid-air coffee chocolate explosion
+#### 899. Mid-air coffee chocolate explosion
 
 <img src="images/prompts/2012291576119312710.jpg" alt="Mid-air coffee chocolate explosion" width="560">
 
@@ -36654,17 +34829,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012291576119312710-1.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7)
 
 ---
 
-#### 143. Noir Brew matte black coffee bottle
+#### 900. Noir Brew matte black coffee bottle
 
 <img src="images/prompts/2012108162447585523.jpg" alt="Noir Brew matte black coffee bottle" width="560">
 
@@ -36680,7 +34849,7 @@ Ultra-cinematic premium coffee bottle labeled “NOIR BREW”, matte black glass
 
 ---
 
-#### 144. Cinematic 3:4 commercial product shoot
+#### 901. Cinematic 3:4 commercial product shoot
 
 <img src="images/prompts/2011708873418424581.jpg" alt="Cinematic 3:4 commercial product shoot" width="560">
 
@@ -36784,19 +34953,11 @@ Ultra-cinematic premium coffee bottle labeled “NOIR BREW”, matte black glass
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011708873418424581-1.jpg" width="320">
-<img src="images/prompts/2011708873418424581-2.jpg" width="320">
-<img src="images/prompts/2011708873418424581-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `product`
 
 ---
 
-#### 145. Neo-Tokyo rainy alley red jacket
+#### 902. Neo-Tokyo rainy alley red jacket
 
 <img src="images/prompts/2011634939490672664.jpg" alt="Neo-Tokyo rainy alley red jacket" width="560">
 
@@ -36812,7 +34973,7 @@ A raw, candid street-style shot of reference running through a rain-soaked Neo-T
 
 ---
 
-#### 146. Brand campaign visual identity grid
+#### 903. Brand campaign visual identity grid
 
 <img src="images/prompts/2011094013101695427.jpg" alt="Brand campaign visual identity grid" width="560">
 
@@ -36863,19 +35024,11 @@ Texture: Apply strong halftone dot patterns (raster dots) and heavy film grain. 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011094013101695427-1.jpg" width="320">
-<img src="images/prompts/2011094013101695427-2.jpg" width="320">
-<img src="images/prompts/2011094013101695427-3.jpg" width="320">
-
-</details>
-
 👤 [@youraipulse](https://x.com/youraipulse) · Tags: `comparison`
 
 ---
 
-#### 147. Lime soda can explosion shot
+#### 904. Lime soda can explosion shot
 
 <img src="images/prompts/2011078719734235390.jpg" alt="Lime soda can explosion shot" width="560">
 
@@ -36887,19 +35040,11 @@ Texture: Apply strong halftone dot patterns (raster dots) and heavy film grain. 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011078719734235390-1.jpg" width="320">
-<img src="images/prompts/2011078719734235390-2.jpg" width="320">
-<img src="images/prompts/2011078719734235390-3.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X)
 
 ---
 
-#### 148. Monthly icon collection in 3D
+#### 905. Monthly icon collection in 3D
 
 <img src="images/prompts/2010302396355026978.jpg" alt="Monthly icon collection in 3D" width="560">
 
@@ -36919,19 +35064,11 @@ Maintain consistent proportions, materials, and visual language across all icons
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010302396355026978-1.jpg" width="320">
-<img src="images/prompts/2010302396355026978-2.jpg" width="320">
-<img src="images/prompts/2010302396355026978-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `3d-render` `comparison`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `3d-render`
 
 ---
 
-#### 149. Soap foam logo bathroom tiles
+#### 906. Soap foam logo bathroom tiles
 
 <img src="images/prompts/2009722852010852444.jpg" alt="Soap foam logo bathroom tiles" width="560">
 
@@ -36947,7 +35084,7 @@ Create a soap foam sculpture in the exact shape of the uploaded logo, made entir
 
 ---
 
-#### 150. Brand sticker sheet vector set
+#### 907. Brand sticker sheet vector set
 
 <img src="images/prompts/2009717451710509473.jpg" alt="Brand sticker sheet vector set" width="560">
 
@@ -36976,11 +35113,11 @@ The stickers are scattered naturally across the sheet (knolling layout) with eve
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `illustration` `comparison`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `illustration`
 
 ---
 
-#### 151. 3x3 themed 3D icon grid
+#### 908. 3x3 themed 3D icon grid
 
 <img src="images/prompts/2009660363227152653.jpg" alt="3x3 themed 3D icon grid" width="560">
 
@@ -36997,19 +35134,11 @@ Create a collection of icons representing [a theme], they belong together as a s
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009660363227152653-1.jpg" width="320">
-<img src="images/prompts/2009660363227152653-2.jpg" width="320">
-<img src="images/prompts/2009660363227152653-3.jpg" width="320">
-
-</details>
-
-👤 [@NanoBanana](https://x.com/NanoBanana) · Tags: `3d-render` `comparison`
+👤 [@NanoBanana](https://x.com/NanoBanana) · Tags: `3d-render`
 
 ---
 
-#### 152. Personal branding mockup kit
+#### 909. Personal branding mockup kit
 
 <img src="images/prompts/2009592182630744078.jpg" alt="Personal branding mockup kit" width="560">
 
@@ -37025,7 +35154,7 @@ A clean, modern personal branding mockup featuring a cohesive visual identity fo
 
 ---
 
-#### 153. Clay miniature company campus
+#### 910. Clay miniature company campus
 
 <img src="images/prompts/2009430294286553161.jpg" alt="Clay miniature company campus" width="560">
 
@@ -37046,7 +35175,7 @@ Example: Company – Google, Date – 01/01/2026.
 
 ---
 
-#### 154. Teddy bear soda fridge fantasy
+#### 911. Teddy bear soda fridge fantasy
 
 <img src="images/prompts/2008912370551357865.jpg" alt="Teddy bear soda fridge fantasy" width="560">
 
@@ -37064,7 +35193,7 @@ The can is placed inside a glowing refrigerator filled with neatly stacked glass
 
 ---
 
-#### 155. Surreal oil ingredient landscape
+#### 912. Surreal oil ingredient landscape
 
 <img src="images/prompts/2008878369107276184.jpg" alt="Surreal oil ingredient landscape" width="560">
 
@@ -37076,19 +35205,11 @@ Surreal premium commercial illustration for [BRAND NAME] [OIL TYPE], featuring t
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008878369107276184-1.jpg" width="320">
-<img src="images/prompts/2008878369107276184-2.jpg" width="320">
-<img src="images/prompts/2008878369107276184-3.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `product`
 
 ---
 
-#### 156. Luxury editorial brand poster
+#### 913. Luxury editorial brand poster
 
 <img src="images/prompts/2008592833406791789.jpg" alt="Luxury editorial brand poster" width="560">
 
@@ -37103,11 +35224,11 @@ Create ONE luxury editorial poster. Keep the product EXACT and unchanged. Use th
 
 </details>
 
-👤 [@aziz4ai](https://x.com/aziz4ai) · Tags: `product` `poster`
+👤 [@aziz4ai](https://x.com/aziz4ai) · Tags: `product`
 
 ---
 
-#### 157. Vlog skincare serum scene
+#### 914. Vlog skincare serum scene
 
 <img src="images/prompts/2008519940761153975.jpg" alt="Vlog skincare serum scene" width="560">
 
@@ -37140,11 +35261,11 @@ No face morphing, no extra limbs or fingers, no warped text or logo distortion, 
 
 </details>
 
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `portrait` `product`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `portrait`
 
 ---
 
-#### 158. Miniature planet city render
+#### 915. Miniature planet city render
 
 <img src="images/prompts/2008272089682199025.jpg" alt="Miniature planet city render" width="560">
 
@@ -37160,7 +35281,7 @@ Create a hyperrealistic miniature planet showcasing [CITY] with famous landmarks
 
 ---
 
-#### 159. Surreal hero product brand ad
+#### 916. Surreal hero product brand ad
 
 <img src="images/prompts/2008248159815036942.jpg" alt="Surreal hero product brand ad" width="560">
 
@@ -37184,7 +35305,7 @@ Ultra-high quality, perfectly balanced framing, strong realism, luxury style—n
 
 ---
 
-#### 160. Miniature brand store dolly shot
+#### 917. Miniature brand store dolly shot
 
 <img src="images/prompts/2008172655308849411.jpg" alt="Miniature brand store dolly shot" width="560">
 
@@ -37200,7 +35321,7 @@ A dynamic aerial view of a bustling city street, focusing on a miniature [BRAND]
 
 ---
 
-#### 161. Phone portal travel poster
+#### 918. Phone portal travel poster
 
 <img src="images/prompts/2007190982408974659.jpg" alt="Phone portal travel poster" width="560">
 
@@ -37216,9 +35337,9 @@ A hyper-realistic travel advertisement in square format (1080x1080), featuring a
 
 ---
 
-#### 162. Typographic slogan illustration
+#### 919. Typographic slogan illustration
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2005620980891480567/0.jpg" alt="Typographic slogan illustration" width="560">
+<img src="images/prompts/2005620980891480567.jpg" alt="Typographic slogan illustration" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37230,18 +35351,9 @@ Create a typographic illustration shaped like a [OBJECT], where the text [BRAND 
 
 👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `poster`
 
-
 ---
 
-<a id="cat-character"></a>
-
-### 🎭 Character Design
-
-> Original characters, mascots, stylized figures, and character sheets.
-
-**111 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Pixar cast bathroom mirror selfie
+#### 920. Pixar cast bathroom mirror selfie
 
 <img src="images/prompts/2050964840580255830.jpg" alt="Pixar cast bathroom mirror selfie" width="560">
 
@@ -37253,11 +35365,11 @@ High-quality stylized 3D CGI Pixar-style render, vertical 3:4 composition, the m
 
 </details>
 
-👤 [@harboriis](https://x.com/harboriis) · [Source tweet](https://x.com/harboriis/status/2050964840580255830) · Tags: `branding` `3d-render`
+👤 [@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2050964840580255830) · Tags: `branding`
 
 ---
 
-#### 2. Yellow-haired creator desk illustration
+#### 921. Yellow-haired creator desk illustration
 
 <img src="images/prompts/2050797502685683935.jpg" alt="Yellow-haired creator desk illustration" width="560">
 
@@ -37294,11 +35406,11 @@ Composition: balanced, spacious layout with lots of negative space, modern and e
 
 </details>
 
-👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · [Source tweet](https://x.com/Noor_ul_ain43/status/2050797502685683935) · Tags: `branding`
+👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · [Source](https://x.com/Noor_ul_ain43/status/2050797502685683935) · Tags: `branding`
 
 ---
 
-#### 3. Vice City 2026 game key art
+#### 922. Vice City 2026 game key art
 
 <img src="images/prompts/2049478043908059263.jpg" alt="Vice City 2026 game key art" width="560">
 
@@ -37416,19 +35528,11 @@ OUTPUT:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049478043908059263-1.jpg" width="320">
-<img src="images/prompts/2049478043908059263-2.jpg" width="320">
-<img src="images/prompts/2049478043908059263-3.jpg" width="320">
-
-</details>
-
-👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster` `branding`
+👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `poster`
 
 ---
 
-#### 4. Breaking Bad 12-character poster
+#### 923. Breaking Bad 12-character poster
 
 <img src="images/prompts/2049429494356972019.jpg" alt="Breaking Bad 12-character poster" width="560">
 
@@ -37450,11 +35554,11 @@ OUTPUT:
 
 </details>
 
-👤 [@wanerfu](https://x.com/wanerfu) · Tags: `poster` `branding`
+👤 [@wanerfu](https://x.com/wanerfu) · Tags: `poster`
 
 ---
 
-#### 5. Silhouette double-exposure poster
+#### 924. Silhouette double-exposure poster
 
 <img src="images/prompts/2049383941904470264.jpg" alt="Silhouette double-exposure poster" width="560">
 
@@ -37467,17 +35571,11 @@ the most recognizable head, face outline, mask or outer outline of the figure is
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049383941904470264-1.jpg" width="320">
-
-</details>
-
-👤 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · Tags: `poster` `comparison`
+👤 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · Tags: `poster`
 
 ---
 
-#### 6. Mid-air sportswear sneaker burst
+#### 925. Mid-air sportswear sneaker burst
 
 <img src="images/prompts/2049360876684398857.jpg" alt="Mid-air sportswear sneaker burst" width="560">
 
@@ -37492,13 +35590,13 @@ High contrast studio lighting, crisp shadows, rim light outlining the subject, u
 
 </details>
 
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product` `poster`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 7. Autobots vs Decepticons epic
+#### 926. Autobots vs Decepticons epic
 
-<img src="images/awesome-gpt2/comparison/67.jpg" alt="Autobots vs Decepticons epic" width="560">
+<img src="images/prompts/926.jpg" alt="Autobots vs Decepticons epic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37510,13 +35608,13 @@ Image 2: All Decepticons lined up on the deck of an alien battleship, Megatron s
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2046952548469530716)
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2046952548469530716)
 
 ---
 
-#### 8. Lü Bu game boss two-form
+#### 927. Lü Bu game boss two-form
 
-<img src="images/awesome-gpt2/comparison/51.jpg" alt="Lü Bu game boss two-form" width="560">
+<img src="images/prompts/927.jpg" alt="Lü Bu game boss two-form" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37526,13 +35624,13 @@ Lü Bu game-boss design — Red Hare horse, Sky-Piercer halberd, dark evolved fo
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047198090009190441) · Tags: `infographic` `comparison`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047198090009190441) · Tags: `infographic`
 
 ---
 
-#### 9. Among Us realistic in-game shot
+#### 928. Among Us realistic in-game shot
 
-<img src="images/awesome-gpt2/comparison/36.jpg" alt="Among Us realistic in-game shot" width="560">
+<img src="images/prompts/928.jpg" alt="Among Us realistic in-game shot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37542,13 +35640,13 @@ Generate a precise, real-looking in-game screenshot of Among Us.
 
 </details>
 
-👤 [@gh-ReYYYYoking](https://x.com/gh-ReYYYYoking) · [Source tweet](https://x.com/ReYYYYoking/status/2046502217843376292) · Tags: `illustration`
+👤 [@gh-ReYYYYoking](https://x.com/gh-ReYYYYoking) · [Source](https://x.com/ReYYYYoking/status/2046502217843376292) · Tags: `illustration`
 
 ---
 
-#### 10. Lion-Camel Ridge demon horde
+#### 929. Lion-Camel Ridge demon horde
 
-<img src="images/awesome-gpt2/comparison/29.jpg" alt="Lion-Camel Ridge demon horde" width="560">
+<img src="images/prompts/929.jpg" alt="Lion-Camel Ridge demon horde" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37558,13 +35656,13 @@ Chinese-style eerie, dark mysterious style fused with Chinese aesthetics, perfec
 
 </details>
 
-👤 [@gh-MANISH1027512](https://x.com/gh-MANISH1027512) · [Source tweet](https://x.com/MANISH1027512/status/2045743158860878312)
+👤 [@gh-MANISH1027512](https://x.com/gh-MANISH1027512) · [Source](https://x.com/MANISH1027512/status/2045743158860878312)
 
 ---
 
-#### 11. Sketch landscape
+#### 930. Sketch landscape
 
-<img src="images/awesome-gpt2/ui/120.jpg" alt="Sketch landscape" width="560">
+<img src="images/prompts/930.jpg" alt="Sketch landscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37574,13 +35672,13 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 
 </details>
 
-👤 [@gh-almimeister](https://x.com/gh-almimeister) · [Source tweet](https://x.com/almimeister/status/2048309710118687101) · Tags: `illustration`
+👤 [@gh-almimeister](https://x.com/gh-almimeister) · [Source](https://x.com/almimeister/status/2048309710118687101) · Tags: `illustration`
 
 ---
 
-#### 12. Cityscape
+#### 931. Cityscape
 
-<img src="images/awesome-gpt2/ui/119.jpg" alt="Cityscape" width="560">
+<img src="images/prompts/931.jpg" alt="Cityscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37590,13 +35688,13 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 
 </details>
 
-👤 [@gh-himukai_an](https://x.com/gh-himukai_an) · [Source tweet](https://x.com/himukai_an/status/2047981800535085555) · Tags: `branding` `illustration`
+👤 [@gh-himukai_an](https://x.com/gh-himukai_an) · [Source](https://x.com/himukai_an/status/2047981800535085555) · Tags: `branding`
 
 ---
 
-#### 13. Character
+#### 932. Character
 
-<img src="images/awesome-gpt2/ui/115.jpg" alt="Character" width="560">
+<img src="images/prompts/932.jpg" alt="Character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37606,13 +35704,13 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 </details>
 
-👤 [@gh-sub_raw_jin](https://x.com/gh-sub_raw_jin) · [Source tweet](https://x.com/sub_raw_jin/status/2048066779835220392) · Tags: `illustration`
+👤 [@gh-sub_raw_jin](https://x.com/gh-sub_raw_jin) · [Source](https://x.com/sub_raw_jin/status/2048066779835220392) · Tags: `illustration`
 
 ---
 
-#### 14. Photorealistic poster
+#### 933. Photorealistic poster
 
-<img src="images/awesome-gpt2/ui/114.jpg" alt="Photorealistic poster" width="560">
+<img src="images/prompts/933.jpg" alt="Photorealistic poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37622,13 +35720,13 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 
 </details>
 
-👤 [@gh-sub_raw_jin](https://x.com/gh-sub_raw_jin) · [Source tweet](https://x.com/sub_raw_jin/status/2048066779835220392) · Tags: `illustration`
+👤 [@gh-sub_raw_jin](https://x.com/gh-sub_raw_jin) · [Source](https://x.com/sub_raw_jin/status/2048066779835220392) · Tags: `illustration`
 
 ---
 
-#### 15. Building
+#### 934. Building
 
-<img src="images/awesome-gpt2/ui/113.jpg" alt="Building" width="560">
+<img src="images/prompts/934.jpg" alt="Building" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37638,13 +35736,13 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 </details>
 
-👤 [@gh-m_Raiko_AIart](https://x.com/gh-m_Raiko_AIart) · [Source tweet](https://x.com/m_Raiko_AIart/status/2048069313387737222) · Tags: `illustration`
+👤 [@gh-m_Raiko_AIart](https://x.com/gh-m_Raiko_AIart) · [Source](https://x.com/m_Raiko_AIart/status/2048069313387737222) · Tags: `illustration`
 
 ---
 
-#### 16. Fantasy cat
+#### 935. Fantasy cat
 
-<img src="images/awesome-gpt2/ui/111.jpg" alt="Fantasy cat" width="560">
+<img src="images/prompts/935.jpg" alt="Fantasy cat" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37654,13 +35752,13 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 </details>
 
-👤 [@gh-yanagihara_0805](https://x.com/gh-yanagihara_0805) · [Source tweet](https://x.com/yanagihara_0805/status/2048085829713842405) · Tags: `illustration`
+👤 [@gh-yanagihara_0805](https://x.com/gh-yanagihara_0805) · [Source](https://x.com/yanagihara_0805/status/2048085829713842405) · Tags: `illustration`
 
 ---
 
-#### 17. Line art interior
+#### 936. Line art interior
 
-<img src="images/awesome-gpt2/ui/110.jpg" alt="Line art interior" width="560">
+<img src="images/prompts/936.jpg" alt="Line art interior" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37670,13 +35768,13 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 </details>
 
-👤 [@gh-AIMAG31G](https://x.com/gh-AIMAG31G) · [Source tweet](https://x.com/AIMAG31G/status/2048089673621516547) · Tags: `product`
+👤 [@gh-AIMAG31G](https://x.com/gh-AIMAG31G) · [Source](https://x.com/AIMAG31G/status/2048089673621516547) · Tags: `product`
 
 ---
 
-#### 18. Portrait
+#### 937. Portrait
 
-<img src="images/awesome-gpt2/ui/108.jpg" alt="Portrait" width="560">
+<img src="images/prompts/937.jpg" alt="Portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37686,13 +35784,13 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 </details>
 
-👤 [@gh-AIillust_studio](https://x.com/gh-AIillust_studio) · [Source tweet](https://x.com/AIillust_studio/status/2048099186214900130) · Tags: `comparison` `portrait`
+👤 [@gh-AIillust_studio](https://x.com/gh-AIillust_studio) · [Source](https://x.com/AIillust_studio/status/2048099186214900130) · Tags: `comparison`
 
 ---
 
-#### 19. Anime style girl
+#### 938. Anime style girl
 
-<img src="images/awesome-gpt2/ui/107.jpg" alt="Anime style girl" width="560">
+<img src="images/prompts/938.jpg" alt="Anime style girl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37702,13 +35800,13 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 
 </details>
 
-👤 [@gh-SDAI1807097011](https://x.com/gh-SDAI1807097011) · [Source tweet](https://x.com/SDAI1807097011/status/2048127178592915583) · Tags: `illustration`
+👤 [@gh-SDAI1807097011](https://x.com/gh-SDAI1807097011) · [Source](https://x.com/SDAI1807097011/status/2048127178592915583) · Tags: `illustration`
 
 ---
 
-#### 20. Icon
+#### 939. Icon
 
-<img src="images/awesome-gpt2/ui/102.jpg" alt="Icon" width="560">
+<img src="images/prompts/939.jpg" alt="Icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37718,13 +35816,13 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 
 </details>
 
-👤 [@gh-sorane_aimusic](https://x.com/gh-sorane_aimusic) · [Source tweet](https://x.com/sorane_aimusic/status/2047507066697507134) · Tags: `branding` `poster`
+👤 [@gh-sorane_aimusic](https://x.com/gh-sorane_aimusic) · [Source](https://x.com/sorane_aimusic/status/2047507066697507134) · Tags: `branding`
 
 ---
 
-#### 21. Movie poster logo
+#### 940. Movie poster logo
 
-<img src="images/awesome-gpt2/ui/101.jpg" alt="Movie poster logo" width="560">
+<img src="images/prompts/940.jpg" alt="Movie poster logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37734,13 +35832,13 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 </details>
 
-👤 [@gh-Design4p0](https://x.com/gh-Design4p0) · [Source tweet](https://x.com/Design4p0/status/2047531978346398002) · Tags: `poster`
+👤 [@gh-Design4p0](https://x.com/gh-Design4p0) · [Source](https://x.com/Design4p0/status/2047531978346398002) · Tags: `poster`
 
 ---
 
-#### 22. Cyberpunk robot
+#### 941. Cyberpunk robot
 
-<img src="images/awesome-gpt2/ui/100.jpg" alt="Cyberpunk robot" width="560">
+<img src="images/prompts/941.jpg" alt="Cyberpunk robot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37750,13 +35848,13 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 
 </details>
 
-👤 [@gh-Eris_Create_Lab](https://x.com/gh-Eris_Create_Lab) · [Source tweet](https://x.com/Eris_Create_Lab/status/2047537707904274795) · Tags: `illustration`
+👤 [@gh-Eris_Create_Lab](https://x.com/gh-Eris_Create_Lab) · [Source](https://x.com/Eris_Create_Lab/status/2047537707904274795) · Tags: `illustration`
 
 ---
 
-#### 23. Sketch character
+#### 942. Sketch character
 
-<img src="images/awesome-gpt2/ui/99.jpg" alt="Sketch character" width="560">
+<img src="images/prompts/942.jpg" alt="Sketch character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37766,13 +35864,13 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 </details>
 
-👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source tweet](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding` `illustration`
+👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding`
 
 ---
 
-#### 24. Sketch portrait
+#### 943. Sketch portrait
 
-<img src="images/awesome-gpt2/ui/98.jpg" alt="Sketch portrait" width="560">
+<img src="images/prompts/943.jpg" alt="Sketch portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37782,13 +35880,13 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 </details>
 
-👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source tweet](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding` `illustration`
+👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding`
 
 ---
 
-#### 25. Line art character
+#### 944. Line art character
 
-<img src="images/awesome-gpt2/ui/97.jpg" alt="Line art character" width="560">
+<img src="images/prompts/944.jpg" alt="Line art character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37798,13 +35896,13 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 </details>
 
-👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source tweet](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding` `illustration`
+👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding`
 
 ---
 
-#### 26. Character
+#### 945. Character
 
-<img src="images/awesome-gpt2/ui/96.jpg" alt="Character" width="560">
+<img src="images/prompts/945.jpg" alt="Character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37814,13 +35912,13 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 </details>
 
-👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source tweet](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding` `illustration`
+👤 [@gh-mirochill](https://x.com/gh-mirochill) · [Source](https://x.com/mirochill/status/2047639852485620070) · Tags: `branding`
 
 ---
 
-#### 27. Anime style icon
+#### 946. Anime style icon
 
-<img src="images/awesome-gpt2/ui/94.jpg" alt="Anime style icon" width="560">
+<img src="images/prompts/946.jpg" alt="Anime style icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37830,13 +35928,13 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 </details>
 
-👤 [@gh-Shion_yamabuki](https://x.com/gh-Shion_yamabuki) · [Source tweet](https://x.com/Shion_yamabuki/status/2047232198382964969) · Tags: `branding` `illustration`
+👤 [@gh-Shion_yamabuki](https://x.com/gh-Shion_yamabuki) · [Source](https://x.com/Shion_yamabuki/status/2047232198382964969) · Tags: `branding`
 
 ---
 
-#### 28. Sticker girl
+#### 947. Sticker girl
 
-<img src="images/awesome-gpt2/ui/93.jpg" alt="Sticker girl" width="560">
+<img src="images/prompts/947.jpg" alt="Sticker girl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37846,13 +35944,13 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 
 </details>
 
-👤 [@gh-rerxmsz06](https://x.com/gh-rerxmsz06) · [Source tweet](https://x.com/rerxmsz06/status/2047261622121705782) · Tags: `branding` `illustration`
+👤 [@gh-rerxmsz06](https://x.com/gh-rerxmsz06) · [Source](https://x.com/rerxmsz06/status/2047261622121705782) · Tags: `branding`
 
 ---
 
-#### 29. Cinematic lighting logo
+#### 948. Cinematic lighting logo
 
-<img src="images/awesome-gpt2/ui/92.jpg" alt="Cinematic lighting logo" width="560">
+<img src="images/prompts/948.jpg" alt="Cinematic lighting logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37862,13 +35960,13 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 </details>
 
-👤 [@gh-Gugombly](https://x.com/gh-Gugombly) · [Source tweet](https://x.com/Gugombly/status/2047310862428303636)
+👤 [@gh-Gugombly](https://x.com/gh-Gugombly) · [Source](https://x.com/Gugombly/status/2047310862428303636)
 
 ---
 
-#### 30. White Cat Project Eleanor
+#### 949. White Cat Project Eleanor
 
-<img src="images/awesome-gpt2/character/13.jpg" alt="White Cat Project Eleanor" width="560">
+<img src="images/prompts/949.jpg" alt="White Cat Project Eleanor" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37879,13 +35977,13 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 </details>
 
-👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source tweet](https://x.com/yume00112211/status/2048309139013853421) · Tags: `portrait` `illustration`
+👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source](https://x.com/yume00112211/status/2048309139013853421) · Tags: `portrait`
 
 ---
 
-#### 31. GTA 6 La Jetée Bar in Shinjuku
+#### 950. GTA 6 La Jetée Bar in Shinjuku
 
-<img src="images/awesome-gpt2/character/12.jpg" alt="GTA 6 La Jetée Bar in Shinjuku" width="560">
+<img src="images/prompts/950.jpg" alt="GTA 6 La Jetée Bar in Shinjuku" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37895,13 +35993,13 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 </details>
 
-👤 [@gh-ismajc](https://x.com/gh-ismajc) · [Source tweet](https://x.com/ismajc/status/2048166630933282995) · Tags: `illustration`
+👤 [@gh-ismajc](https://x.com/gh-ismajc) · [Source](https://x.com/ismajc/status/2048166630933282995) · Tags: `illustration`
 
 ---
 
-#### 32. GTA 6 in Bangalore flower market
+#### 951. GTA 6 in Bangalore flower market
 
-<img src="images/awesome-gpt2/character/11.jpg" alt="GTA 6 in Bangalore flower market" width="560">
+<img src="images/prompts/951.jpg" alt="GTA 6 in Bangalore flower market" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37911,13 +36009,13 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 </details>
 
-👤 [@gh-ismajc](https://x.com/gh-ismajc) · [Source tweet](https://x.com/ismajc/status/2048174302164394493) · Tags: `illustration`
+👤 [@gh-ismajc](https://x.com/gh-ismajc) · [Source](https://x.com/ismajc/status/2048174302164394493) · Tags: `illustration`
 
 ---
 
-#### 33. Anime martial arts duel scene
+#### 952. Anime martial arts duel scene
 
-<img src="images/awesome-gpt2/character/10.jpg" alt="Anime martial arts duel scene" width="560">
+<img src="images/prompts/952.jpg" alt="Anime martial arts duel scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37927,13 +36025,13 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 </details>
 
-👤 [@gh-Tanemomi_Ver2](https://x.com/gh-Tanemomi_Ver2) · [Source tweet](https://x.com/Tanemomi_Ver2/status/2046063806846214265) · Tags: `illustration`
+👤 [@gh-Tanemomi_Ver2](https://x.com/gh-Tanemomi_Ver2) · [Source](https://x.com/Tanemomi_Ver2/status/2046063806846214265) · Tags: `illustration`
 
 ---
 
-#### 34. Saint Seiya Gold Saints
+#### 953. Saint Seiya Gold Saints
 
-<img src="images/awesome-gpt2/character/8.jpg" alt="Saint Seiya Gold Saints" width="560">
+<img src="images/prompts/953.jpg" alt="Saint Seiya Gold Saints" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37943,13 +36041,13 @@ Generate a 12-grid card image of the 12 Saint Seiya Gold Saints. Each card has t
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2046476566537080849) · Tags: `illustration` `comparison`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2046476566537080849) · Tags: `illustration`
 
 ---
 
-#### 35. Mecha girl in sea wind
+#### 954. Mecha girl in sea wind
 
-<img src="images/awesome-gpt2/character/7.jpg" alt="Mecha girl in sea wind" width="560">
+<img src="images/prompts/954.jpg" alt="Mecha girl in sea wind" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37959,13 +36057,13 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 </details>
 
-👤 [@gh-old_pgmrs_will](https://x.com/gh-old_pgmrs_will) · [Source tweet](https://x.com/old_pgmrs_will/status/2046144801071079612) · Tags: `portrait` `illustration`
+👤 [@gh-old_pgmrs_will](https://x.com/gh-old_pgmrs_will) · [Source](https://x.com/old_pgmrs_will/status/2046144801071079612) · Tags: `portrait`
 
 ---
 
-#### 36. Anime character setting
+#### 955. Anime character setting
 
-<img src="images/awesome-gpt2/character/5.jpg" alt="Anime character setting" width="560">
+<img src="images/prompts/955.jpg" alt="Anime character setting" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -37985,13 +36083,13 @@ High resolution, professional concept-art style
 
 </details>
 
-👤 [@gh-Toshi_nyaruo_AI](https://x.com/gh-Toshi_nyaruo_AI) · [Source tweet](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420) · Tags: `illustration` `infographic`
+👤 [@gh-Toshi_nyaruo_AI](https://x.com/gh-Toshi_nyaruo_AI) · [Source](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420) · Tags: `illustration`
 
 ---
 
-#### 37. Chibi character intro web page
+#### 956. Chibi character intro web page
 
-<img src="images/awesome-gpt2/character/3.jpg" alt="Chibi character intro web page" width="560">
+<img src="images/prompts/956.jpg" alt="Chibi character intro web page" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38009,13 +36107,13 @@ Catchphrase: "(line here)"
 
 </details>
 
-👤 [@gh-09lyco](https://x.com/gh-09lyco) · [Source tweet](https://x.com/09lyco/status/2045281845391323175) · Tags: `infographic` `illustration`
+👤 [@gh-09lyco](https://x.com/gh-09lyco) · [Source](https://x.com/09lyco/status/2045281845391323175) · Tags: `infographic`
 
 ---
 
-#### 38. Anime character profile sheet
+#### 957. Anime character profile sheet
 
-<img src="images/awesome-gpt2/character/2.jpg" alt="Anime character profile sheet" width="560">
+<img src="images/prompts/957.jpg" alt="Anime character profile sheet" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38031,13 +36129,13 @@ Based on this character and background, please produce a character profile sheet
 
 </details>
 
-👤 [@gh-iamrednightS](https://x.com/gh-iamrednightS) · [Source tweet](https://x.com/iamrednightS/status/2045075682837836265) · Tags: `illustration` `infographic`
+👤 [@gh-iamrednightS](https://x.com/gh-iamrednightS) · [Source](https://x.com/iamrednightS/status/2045075682837836265) · Tags: `illustration`
 
 ---
 
-#### 39. Real anime snapshot photo
+#### 958. Real anime snapshot photo
 
-<img src="images/awesome-gpt2/character/1.jpg" alt="Real anime snapshot photo" width="560">
+<img src="images/prompts/958.jpg" alt="Real anime snapshot photo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38047,13 +36145,13 @@ Show me the attached image as a snapshot from an actual anime
 
 </details>
 
-👤 [@gh-Thereallo1026](https://x.com/gh-Thereallo1026) · [Source tweet](https://x.com/Thereallo1026/status/2044241997163311569) · Tags: `portrait` `illustration`
+👤 [@gh-Thereallo1026](https://x.com/gh-Thereallo1026) · [Source](https://x.com/Thereallo1026/status/2044241997163311569) · Tags: `portrait`
 
 ---
 
-#### 40. Icon
+#### 959. Icon
 
-<img src="images/awesome-gpt2/poster/164.jpg" alt="Icon" width="560">
+<img src="images/prompts/959.jpg" alt="Icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38063,13 +36161,13 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 </details>
 
-👤 [@gh-terunari](https://x.com/gh-terunari) · [Source tweet](https://x.com/terunari/status/2048308270914490666) · Tags: `poster`
+👤 [@gh-terunari](https://x.com/gh-terunari) · [Source](https://x.com/terunari/status/2048308270914490666) · Tags: `poster`
 
 ---
 
-#### 41. Retro robot
+#### 960. Retro robot
 
-<img src="images/awesome-gpt2/poster/163.jpg" alt="Retro robot" width="560">
+<img src="images/prompts/960.jpg" alt="Retro robot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38079,13 +36177,13 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 </details>
 
-👤 [@gh-yy7482933910896](https://x.com/gh-yy7482933910896) · [Source tweet](https://x.com/yy7482933910896/status/2048192904922075161) · Tags: `infographic` `comparison`
+👤 [@gh-yy7482933910896](https://x.com/gh-yy7482933910896) · [Source](https://x.com/yy7482933910896/status/2048192904922075161) · Tags: `infographic`
 
 ---
 
-#### 42. Fantasy cityscape
+#### 961. Fantasy cityscape
 
-<img src="images/awesome-gpt2/poster/142.jpg" alt="Fantasy cityscape" width="560">
+<img src="images/prompts/961.jpg" alt="Fantasy cityscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38095,13 +36193,13 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 </details>
 
-👤 [@gh-Ray_CROWN0](https://x.com/gh-Ray_CROWN0) · [Source tweet](https://x.com/Ray_CROWN0/status/2048024227664494775) · Tags: `illustration`
+👤 [@gh-Ray_CROWN0](https://x.com/gh-Ray_CROWN0) · [Source](https://x.com/Ray_CROWN0/status/2048024227664494775) · Tags: `illustration`
 
 ---
 
-#### 43. Minimalist character
+#### 962. Minimalist character
 
-<img src="images/awesome-gpt2/poster/141.jpg" alt="Minimalist character" width="560">
+<img src="images/prompts/962.jpg" alt="Minimalist character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38111,13 +36209,13 @@ A full-body anime girl character design on a plain white background, centered an
 
 </details>
 
-👤 [@gh-hoshi122221](https://x.com/gh-hoshi122221) · [Source tweet](https://x.com/hoshi122221/status/2048025730425196801) · Tags: `illustration`
+👤 [@gh-hoshi122221](https://x.com/gh-hoshi122221) · [Source](https://x.com/hoshi122221/status/2048025730425196801) · Tags: `illustration`
 
 ---
 
-#### 44. Line art character
+#### 963. Line art character
 
-<img src="images/awesome-gpt2/poster/140.jpg" alt="Line art character" width="560">
+<img src="images/prompts/963.jpg" alt="Line art character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38127,13 +36225,13 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 </details>
 
-👤 [@gh-ArtwlDesign](https://x.com/gh-ArtwlDesign) · [Source tweet](https://x.com/ArtwlDesign/status/2048054726768709769) · Tags: `illustration`
+👤 [@gh-ArtwlDesign](https://x.com/gh-ArtwlDesign) · [Source](https://x.com/ArtwlDesign/status/2048054726768709769) · Tags: `illustration`
 
 ---
 
-#### 45. Single dancer pose reference
+#### 964. Single dancer pose reference
 
-<img src="images/awesome-gpt2/poster/135.jpg" alt="Single dancer pose reference" width="560">
+<img src="images/prompts/964.jpg" alt="Single dancer pose reference" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38143,13 +36241,13 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 </details>
 
-👤 [@gh-ExquisitMe](https://x.com/gh-ExquisitMe) · [Source tweet](https://x.com/ExquisitMe/status/2048143577264402629) · Tags: `portrait` `comparison`
+👤 [@gh-ExquisitMe](https://x.com/gh-ExquisitMe) · [Source](https://x.com/ExquisitMe/status/2048143577264402629) · Tags: `portrait`
 
 ---
 
-#### 46. Photoreal dance pose reference
+#### 965. Photoreal dance pose reference
 
-<img src="images/awesome-gpt2/poster/134.jpg" alt="Photoreal dance pose reference" width="560">
+<img src="images/prompts/965.jpg" alt="Photoreal dance pose reference" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38159,13 +36257,13 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 </details>
 
-👤 [@gh-ExquisitMe](https://x.com/gh-ExquisitMe) · [Source tweet](https://x.com/ExquisitMe/status/2048143577264402629) · Tags: `portrait` `comparison`
+👤 [@gh-ExquisitMe](https://x.com/gh-ExquisitMe) · [Source](https://x.com/ExquisitMe/status/2048143577264402629) · Tags: `portrait`
 
 ---
 
-#### 47. 4x4 grayscale 3D character grid
+#### 966. 4x4 grayscale 3D character grid
 
-<img src="images/awesome-gpt2/poster/130.jpg" alt="4x4 grayscale 3D character grid" width="560">
+<img src="images/prompts/966.jpg" alt="4x4 grayscale 3D character grid" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38202,13 +36300,13 @@ no cluttered backgrounds
 
 </details>
 
-👤 [@gh-Ciri_ai](https://x.com/gh-Ciri_ai) · [Source tweet](https://x.com/Ciri_ai/status/2048074587955658848) · Tags: `3d-render` `comparison`
+👤 [@gh-Ciri_ai](https://x.com/gh-Ciri_ai) · [Source](https://x.com/Ciri_ai/status/2048074587955658848) · Tags: `3d-render`
 
 ---
 
-#### 48. Chinese zodiac water signs
+#### 967. Chinese zodiac water signs
 
-<img src="images/awesome-gpt2/poster/123.jpg" alt="Chinese zodiac water signs" width="560">
+<img src="images/prompts/967.jpg" alt="Chinese zodiac water signs" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38218,13 +36316,13 @@ no cluttered backgrounds
 
 </details>
 
-👤 [@gh-komorimedia](https://x.com/gh-komorimedia) · [Source tweet](https://x.com/komorimedia/status/2048114825398731143) · Tags: `poster` `illustration`
+👤 [@gh-komorimedia](https://x.com/gh-komorimedia) · [Source](https://x.com/komorimedia/status/2048114825398731143) · Tags: `poster`
 
 ---
 
-#### 49. Magazine
+#### 968. Magazine
 
-<img src="images/awesome-gpt2/poster/81.jpg" alt="Magazine" width="560">
+<img src="images/prompts/968.jpg" alt="Magazine" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38234,13 +36332,13 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 </details>
 
-👤 [@gh-QamarRiaz1](https://x.com/gh-QamarRiaz1) · [Source tweet](https://x.com/QamarRiaz1/status/2047777016733110722) · Tags: `product` `poster`
+👤 [@gh-QamarRiaz1](https://x.com/gh-QamarRiaz1) · [Source](https://x.com/QamarRiaz1/status/2047777016733110722) · Tags: `product`
 
 ---
 
-#### 50. Portrait
+#### 969. Portrait
 
-<img src="images/awesome-gpt2/poster/72.jpg" alt="Portrait" width="560">
+<img src="images/prompts/969.jpg" alt="Portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38250,13 +36348,13 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 
 </details>
 
-👤 [@gh-Goodmanprotocol](https://x.com/gh-Goodmanprotocol) · [Source tweet](https://x.com/Goodmanprotocol/status/2047900470921040270) · Tags: `poster` `branding`
+👤 [@gh-Goodmanprotocol](https://x.com/gh-Goodmanprotocol) · [Source](https://x.com/Goodmanprotocol/status/2047900470921040270) · Tags: `poster`
 
 ---
 
-#### 51. Poster
+#### 970. Poster
 
-<img src="images/awesome-gpt2/poster/69.jpg" alt="Poster" width="560">
+<img src="images/prompts/970.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38268,13 +36366,13 @@ Left is GPT-image-2; right is...
 
 </details>
 
-👤 [@gh-chenenpei](https://x.com/gh-chenenpei) · [Source tweet](https://x.com/chenenpei/status/2046985783715025135) · Tags: `product` `poster`
+👤 [@gh-chenenpei](https://x.com/gh-chenenpei) · [Source](https://x.com/chenenpei/status/2046985783715025135) · Tags: `product`
 
 ---
 
-#### 52. Poster
+#### 971. Poster
 
-<img src="images/awesome-gpt2/poster/67.jpg" alt="Poster" width="560">
+<img src="images/prompts/971.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38284,13 +36382,13 @@ Generate a 'Deer and the Cauldron' poster showing Wei Xiaobao with his wives XXX
 
 </details>
 
-👤 [@gh-caiziboshi](https://x.com/gh-caiziboshi) · [Source tweet](https://x.com/caiziboshi/status/2047091751731519744) · Tags: `poster`
+👤 [@gh-caiziboshi](https://x.com/gh-caiziboshi) · [Source](https://x.com/caiziboshi/status/2047091751731519744) · Tags: `poster`
 
 ---
 
-#### 53. Poster
+#### 972. Poster
 
-<img src="images/awesome-gpt2/poster/66.jpg" alt="Poster" width="560">
+<img src="images/prompts/972.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38302,13 +36400,13 @@ Morning of 4.23 — test successful.
 
 </details>
 
-👤 [@gh-cj858cjsoul](https://x.com/gh-cj858cjsoul) · [Source tweet](https://x.com/cj858cjsoul/status/2047103956535697822) · Tags: `poster`
+👤 [@gh-cj858cjsoul](https://x.com/gh-cj858cjsoul) · [Source](https://x.com/cj858cjsoul/status/2047103956535697822) · Tags: `poster`
 
 ---
 
-#### 54. Cinematic lighting poster
+#### 973. Cinematic lighting poster
 
-<img src="images/awesome-gpt2/poster/56.jpg" alt="Cinematic lighting poster" width="560">
+<img src="images/prompts/973.jpg" alt="Cinematic lighting poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38392,13 +36490,13 @@ Maximum detail density, ultra-clear, cinematic, print-grade, high-end final-imag
 
 </details>
 
-👤 [@gh-A9Quant](https://x.com/gh-A9Quant) · [Source tweet](https://x.com/A9Quant/status/2046228485841334559) · Tags: `poster` `infographic`
+👤 [@gh-A9Quant](https://x.com/gh-A9Quant) · [Source](https://x.com/A9Quant/status/2046228485841334559) · Tags: `poster`
 
 ---
 
-#### 55. Cinematic lighting poster
+#### 974. Cinematic lighting poster
 
-<img src="images/awesome-gpt2/poster/42.jpg" alt="Cinematic lighting poster" width="560">
+<img src="images/prompts/974.jpg" alt="Cinematic lighting poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38416,13 +36514,13 @@ Text layout integrated with the image: at top center large song-style 'Guangzhou
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2046243132774494607) · Tags: `poster`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2046243132774494607) · Tags: `poster`
 
 ---
 
-#### 56. Poster
+#### 975. Poster
 
-<img src="images/awesome-gpt2/poster/38.jpg" alt="Poster" width="560">
+<img src="images/prompts/975.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38432,13 +36530,13 @@ As a professional designer, create a vertical poster visual for a character with
 
 </details>
 
-👤 [@gh-tebasaki3D](https://x.com/gh-tebasaki3D) · [Source tweet](https://x.com/tebasaki3D/status/2046371076402503709) · Tags: `poster` `branding`
+👤 [@gh-tebasaki3D](https://x.com/gh-tebasaki3D) · [Source](https://x.com/tebasaki3D/status/2046371076402503709) · Tags: `poster`
 
 ---
 
-#### 57. Diagram poster
+#### 976. Diagram poster
 
-<img src="images/awesome-gpt2/poster/34.jpg" alt="Diagram poster" width="560">
+<img src="images/prompts/976.jpg" alt="Diagram poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38448,13 +36546,13 @@ Please generate a high-design-feel character relationship diagram poster based o
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2046263153546174935) · Tags: `poster` `infographic`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2046263153546174935) · Tags: `poster`
 
 ---
 
-#### 58. Watercolor icon
+#### 977. Watercolor icon
 
-<img src="images/awesome-gpt2/poster/15.jpg" alt="Watercolor icon" width="560">
+<img src="images/prompts/977.jpg" alt="Watercolor icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38464,13 +36562,13 @@ A collector's edition epic poster — a complete worldview and iconic scenes gro
 
 </details>
 
-👤 [@gh-Ghhhh3owi](https://x.com/gh-Ghhhh3owi) · [Source tweet](https://x.com/Ghhhh3owi/status/2045803217251102897) · Tags: `poster` `illustration`
+👤 [@gh-Ghhhh3owi](https://x.com/gh-Ghhhh3owi) · [Source](https://x.com/Ghhhh3owi/status/2045803217251102897) · Tags: `poster`
 
 ---
 
-#### 59. Poster
+#### 978. Poster
 
-<img src="images/awesome-gpt2/poster/9.jpg" alt="Poster" width="560">
+<img src="images/prompts/978.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38480,13 +36578,13 @@ Design a poster of 'Lilith Lily, the Little Devil' as if she were a Super Famico
 
 </details>
 
-👤 [@gh-lilimliliychan](https://x.com/gh-lilimliliychan) · [Source tweet](https://x.com/lilimliliychan/status/2045114760937804187) · Tags: `poster` `illustration`
+👤 [@gh-lilimliliychan](https://x.com/gh-lilimliliychan) · [Source](https://x.com/lilimliliychan/status/2045114760937804187) · Tags: `poster`
 
 ---
 
-#### 60. Anime bedroom VTuber portrait
+#### 979. Anime bedroom VTuber portrait
 
-<img src="images/awesome-gpt2/portrait/101.jpg" alt="Anime bedroom VTuber portrait" width="560">
+<img src="images/prompts/979.jpg" alt="Anime bedroom VTuber portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38496,13 +36594,13 @@ A soft anime-style bedroom portrait of {argument name="character name" default="
 
 </details>
 
-👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source tweet](https://x.com/yume00112211/status/2047951384734228617) · Tags: `portrait` `illustration`
+👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source](https://x.com/yume00112211/status/2047951384734228617) · Tags: `portrait`
 
 ---
 
-#### 61. Anime virtual assistant bedroom
+#### 980. Anime virtual assistant bedroom
 
-<img src="images/awesome-gpt2/portrait/96.jpg" alt="Anime virtual assistant bedroom" width="560">
+<img src="images/prompts/980.jpg" alt="Anime virtual assistant bedroom" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38512,13 +36610,13 @@ A dreamy anime-style portrait of a gentle virtual assistant girl named {argument
 
 </details>
 
-👤 [@gh-libearal](https://x.com/gh-libearal) · [Source tweet](https://x.com/libearal/status/2048026376645861799) · Tags: `portrait` `illustration`
+👤 [@gh-libearal](https://x.com/gh-libearal) · [Source](https://x.com/libearal/status/2048026376645861799) · Tags: `portrait`
 
 ---
 
-#### 62. Minimalist anime woman logo
+#### 981. Minimalist anime woman logo
 
-<img src="images/awesome-gpt2/portrait/92.jpg" alt="Minimalist anime woman logo" width="560">
+<img src="images/prompts/981.jpg" alt="Minimalist anime woman logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38528,13 +36626,13 @@ Create a minimalist black-and-white vector avatar logo of a mythic anime woman s
 
 </details>
 
-👤 [@gh-jiajia232016](https://x.com/gh-jiajia232016) · [Source tweet](https://x.com/jiajia232016/status/2048044100793032976) · Tags: `branding` `portrait`
+👤 [@gh-jiajia232016](https://x.com/gh-jiajia232016) · [Source](https://x.com/jiajia232016/status/2048044100793032976) · Tags: `branding`
 
 ---
 
-#### 63. Anime maid in sunlit cafe
+#### 982. Anime maid in sunlit cafe
 
-<img src="images/awesome-gpt2/portrait/90.jpg" alt="Anime maid in sunlit cafe" width="560">
+<img src="images/prompts/982.jpg" alt="Anime maid in sunlit cafe" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38544,13 +36642,13 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 </details>
 
-👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source tweet](https://x.com/yume00112211/status/2048072808606089230) · Tags: `portrait` `illustration`
+👤 [@gh-yume00112211](https://x.com/gh-yume00112211) · [Source](https://x.com/yume00112211/status/2048072808606089230) · Tags: `portrait`
 
 ---
 
-#### 64. Pastel jellyfish lifestyle poster
+#### 983. Pastel jellyfish lifestyle poster
 
-<img src="images/awesome-gpt2/ad/167.jpg" alt="Pastel jellyfish lifestyle poster" width="560">
+<img src="images/prompts/983.jpg" alt="Pastel jellyfish lifestyle poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38560,13 +36658,13 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 </details>
 
-👤 [@gh-Ayu_AI_0912](https://x.com/gh-Ayu_AI_0912) · [Source tweet](https://x.com/Ayu_AI_0912/status/2048309565817766139) · Tags: `product` `poster`
+👤 [@gh-Ayu_AI_0912](https://x.com/gh-Ayu_AI_0912) · [Source](https://x.com/Ayu_AI_0912/status/2048309565817766139) · Tags: `product`
 
 ---
 
-#### 65. Pastel anime brand merch board
+#### 984. Pastel anime brand merch board
 
-<img src="images/awesome-gpt2/ad/112.jpg" alt="Pastel anime brand merch board" width="560">
+<img src="images/prompts/984.jpg" alt="Pastel anime brand merch board" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38624,11 +36722,11 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 </details>
 
-👤 [@gh-chi_vc_](https://x.com/gh-chi_vc_) · [Source tweet](https://x.com/chi_vc_/status/2046061073720369228) · Tags: `product` `branding`
+👤 [@gh-chi_vc_](https://x.com/gh-chi_vc_) · [Source](https://x.com/chi_vc_/status/2046061073720369228) · Tags: `product`
 
 ---
 
-#### 66. Character silhouette key visual
+#### 985. Character silhouette key visual
 
 <img src="images/prompts/2048961908238070178.jpg" alt="Character silhouette key visual" width="560">
 
@@ -38649,17 +36747,11 @@ Aspect ratio: 9:16.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048961908238070178-1.jpg" width="320">
-
-</details>
-
 👤 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · Tags: `poster`
 
 ---
 
-#### 67. 5-step concept-to-form A4 board
+#### 986. 5-step concept-to-form A4 board
 
 <img src="images/prompts/2048674104035975506.jpg" alt="5-step concept-to-form A4 board" width="560">
 
@@ -38716,13 +36808,13 @@ Soft, dreamy, cinematic finish
 
 </details>
 
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `poster` `infographic`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `poster`
 
 ---
 
-#### 68. Torn paper social UI portrait
+#### 987. Torn paper social UI portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048088005836173316/0.jpg" alt="Torn paper social UI portrait" width="560">
+<img src="images/prompts/2048088005836173316.jpg" alt="Torn paper social UI portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38732,13 +36824,13 @@ A creative 3D photo manipulation of a social media profile interface, featuring 
 
 </details>
 
-👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding` `infographic`
+👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding`
 
 ---
 
-#### 69. Algeria travel poster collage
+#### 988. Algeria travel poster collage
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048057470812074251/0.jpg" alt="Algeria travel poster collage" width="560">
+<img src="images/prompts/2048057470812074251.jpg" alt="Algeria travel poster collage" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38752,9 +36844,9 @@ Create a stylized travel poster / graphic collage for [ALGERIA]. The main subjec
 
 ---
 
-#### 70. Anime style owl
+#### 989. Anime style owl
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047890555250610457/0.jpg" alt="Anime style owl" width="560">
+<img src="images/prompts/2047890555250610457.jpg" alt="Anime style owl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38768,9 +36860,9 @@ A stunning anime theatrical movie poster in portrait format. Studio Ghibli meets
 
 ---
 
-#### 71. Minimalist king
+#### 990. Minimalist king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047721704202617219/0.jpg" alt="Minimalist king" width="560">
+<img src="images/prompts/2047721704202617219.jpg" alt="Minimalist king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38785,11 +36877,11 @@ Include the iconic Nike Swoosh logo in the top-left corner in shimmering silver.
 
 </details>
 
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `poster` `branding`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `poster`
 
 ---
 
-#### 72. Cinematic lighting robot
+#### 991. Cinematic lighting robot
 
 <img src="images/prompts/2047676720707482049.jpg" alt="Cinematic lighting robot" width="560">
 
@@ -38801,21 +36893,13 @@ A cinematic epic sci-fi fantasy movie poster featuring three powerful tech leade
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2047676720707482049-1.jpg" width="320">
-<img src="images/prompts/2047676720707482049-2.jpg" width="320">
-<img src="images/prompts/2047676720707482049-3.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai) · Tags: `poster`
 
 ---
 
-#### 73. Cinematic lighting space scene
+#### 992. Cinematic lighting space scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047305151342596557/0.jpg" alt="Cinematic lighting space scene" width="560">
+<img src="images/prompts/2047305151342596557.jpg" alt="Cinematic lighting space scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38843,21 +36927,13 @@ All elements must be tightly bound to the theme, instantly recognizable. No clut
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047305151342596557/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047305151342596557/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047305151342596557/3.jpg" width="320">
-
-</details>
-
-👤 [@liyue_ai](https://x.com/liyue_ai) · Tags: `poster` `comparison`
+👤 [@liyue_ai](https://x.com/liyue_ai) · Tags: `poster`
 
 ---
 
-#### 74. Cinematic lighting woman portrait
+#### 993. Cinematic lighting woman portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047303787249803449/0.jpg" alt="Cinematic lighting woman portrait" width="560">
+<img src="images/prompts/2047303787249803449.jpg" alt="Cinematic lighting woman portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38877,13 +36953,13 @@ Layout: Include Chinese game-poster copy in the image, including main title, sub
 
 </details>
 
-👤 [@MrLarus](https://x.com/MrLarus) · Tags: `poster` `illustration`
+👤 [@MrLarus](https://x.com/MrLarus) · Tags: `poster`
 
 ---
 
-#### 75. Cinematic lighting character design
+#### 994. Cinematic lighting character design
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047277688075739605/0.jpg" alt="Cinematic lighting character design" width="560">
+<img src="images/prompts/2047277688075739605.jpg" alt="Cinematic lighting character design" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38897,9 +36973,9 @@ A high-resolution, photorealistic 3D action RPG mobile game screenshot of an epi
 
 ---
 
-#### 76. Cinematic lighting glowing turt
+#### 995. Cinematic lighting glowing turt
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047227731839184901/0.jpg" alt="Cinematic lighting glowing turt" width="560">
+<img src="images/prompts/2047227731839184901.jpg" alt="Cinematic lighting glowing turt" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38912,13 +36988,13 @@ Clean composition: left side = structured UI, right side = abstract particle exp
 
 </details>
 
-👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding` `infographic`
+👤 [@Noor_ul_ain43](https://x.com/Noor_ul_ain43) · Tags: `branding`
 
 ---
 
-#### 77. Minimalist space scene
+#### 996. Minimalist space scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047174895293849972/0.jpg" alt="Minimalist space scene" width="560">
+<img src="images/prompts/2047174895293849972.jpg" alt="Minimalist space scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38936,9 +37012,9 @@ Two children in calm conversation,soft connection forming.
 
 ---
 
-#### 78. 3d render king
+#### 997. 3d render king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046881068578689257/0.jpg" alt="3d render king" width="560">
+<img src="images/prompts/2046881068578689257.jpg" alt="3d render king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38958,9 +37034,9 @@ NO glow, NO soft edges, NO volumetric lighting, octane render, 8k, clean details
 
 ---
 
-#### 79. Cinematic lighting character desi
+#### 998. Cinematic lighting character desi
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046866168208916503/0.jpg" alt="Cinematic lighting character desi" width="560">
+<img src="images/prompts/2046866168208916503.jpg" alt="Cinematic lighting character desi" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -38974,7 +37050,7 @@ Create a complete visual worldbuilding set for a futuristic desert civilization 
 
 ---
 
-#### 80. Editorial style poster artwork
+#### 999. Editorial style poster artwork
 
 <img src="images/prompts/2044422529146630350.jpg" alt="Editorial style poster artwork" width="560">
 
@@ -38986,11 +37062,11 @@ A hyper-realistic 3D game guide infographic poster for [GAME]. The in-game world
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `poster` `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `poster`
 
 ---
 
-#### 81. Cinematic lighting man portrait
+#### 1000. Cinematic lighting man portrait
 
 <img src="images/prompts/2042541082580521244.jpg" alt="Cinematic lighting man portrait" width="560">
 
@@ -39002,13 +37078,13 @@ A hyper-realistic 3D game guide infographic poster for [GAME]. The in-game world
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait` `3d-render`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait`
 
 ---
 
-#### 82. Pastel green pouty character
+#### 1001. Pastel green pouty character
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041332501051036082/0.jpg" alt="Pastel green pouty character" width="560">
+<img src="images/prompts/2041332501051036082.jpg" alt="Pastel green pouty character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39021,19 +37097,11 @@ blurry, low quality, extra limbs, distorted face, harsh shadows, cluttered backg
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041332501051036082/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041332501051036082/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2041332501051036082/3.jpg" width="320">
-
-</details>
-
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait` `3d-render`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait`
 
 ---
 
-#### 83. Plush toy pastel kawaii
+#### 1002. Plush toy pastel kawaii
 
 <img src="images/prompts/2041109686242644425.jpg" alt="Plush toy pastel kawaii" width="560">
 
@@ -39045,19 +37113,11 @@ A cute full-body [SUBJECT] plush toy, plush doll art, stylized 3D character desi
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041109686242644425-1.jpg" width="320">
-<img src="images/prompts/2041109686242644425-2.jpg" width="320">
-<img src="images/prompts/2041109686242644425-3.jpg" width="320">
-
-</details>
-
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product` `3d-render`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product`
 
 ---
 
-#### 84. Sleepy Pixar boy beanie
+#### 1003. Sleepy Pixar boy beanie
 
 <img src="images/prompts/2041096374566228189.jpg" alt="Sleepy Pixar boy beanie" width="560">
 
@@ -39069,11 +37129,11 @@ A stylized 3D cartoon boy character with a minimal, Pixar-like design, pale skin
 
 </details>
 
-👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait` `3d-render`
+👤 [@auqibhabib](https://x.com/auqibhabib) · Tags: `portrait`
 
 ---
 
-#### 85. 4x4 chibi sticker pack
+#### 1004. 4x4 chibi sticker pack
 
 <img src="images/prompts/2039709119150702727.jpg" alt="4x4 chibi sticker pack" width="560">
 
@@ -39115,19 +37175,11 @@ A stylized 3D cartoon boy character with a minimal, Pixar-like design, pale skin
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039709119150702727-1.jpg" width="320">
-<img src="images/prompts/2039709119150702727-2.jpg" width="320">
-<img src="images/prompts/2039709119150702727-3.jpg" width="320">
-
-</details>
-
-👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `illustration` `3d-render`
+👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `illustration`
 
 ---
 
-#### 86. Pixar sticker pack grid
+#### 1005. Pixar sticker pack grid
 
 <img src="images/prompts/2039340995322446177.jpg" alt="Pixar sticker pack grid" width="560">
 
@@ -39186,19 +37238,11 @@ Create a highly engaging, cute, and expressive sticker pack that feels premium a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039340995322446177-1.jpg" width="320">
-<img src="images/prompts/2039340995322446177-2.jpg" width="320">
-<img src="images/prompts/2039340995322446177-3.jpg" width="320">
-
-</details>
-
-👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `illustration` `3d-render`
+👤 [@doctorwasif](https://x.com/doctorwasif) · Tags: `illustration`
 
 ---
 
-#### 87. Looney Tunes wide-angle selfie
+#### 1006. Looney Tunes wide-angle selfie
 
 <img src="images/prompts/2037732319348633909.jpg" alt="Looney Tunes wide-angle selfie" width="560">
 
@@ -39210,11 +37254,11 @@ Ultra-realistic 4:5 vertical format ultra wide angle 13mm selfie of me with Bugs
 
 </details>
 
-👤 [@de_mon010](https://x.com/de_mon010) · Tags: `portrait` `comparison`
+👤 [@de_mon010](https://x.com/de_mon010) · Tags: `portrait`
 
 ---
 
-#### 88. Pixar ensemble cast poster
+#### 1007. Pixar ensemble cast poster
 
 <img src="images/prompts/2037141030047215944.jpg" alt="Pixar ensemble cast poster" width="560">
 
@@ -39226,11 +37270,11 @@ Pixar 3D CGI animated movie poster style, ensemble cast featuring the most iconi
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `poster` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `poster`
 
 ---
 
-#### 89. Pixar selfie sticker grid
+#### 1008. Pixar selfie sticker grid
 
 <img src="images/prompts/2034263750539411550.jpg" alt="Pixar selfie sticker grid" width="560">
 
@@ -39246,19 +37290,11 @@ Clean, polished 3D sticker look. Emotions (one per sticker, 3×3 grid): Surprise
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034263750539411550-1.jpg" width="320">
-<img src="images/prompts/2034263750539411550-2.jpg" width="320">
-<img src="images/prompts/2034263750539411550-3.jpg" width="320">
-
-</details>
-
-👤 [@oggii_0](https://x.com/oggii_0) · Tags: `illustration` `3d-render`
+👤 [@oggii_0](https://x.com/oggii_0) · Tags: `illustration`
 
 ---
 
-#### 90. Tall typography shadow portrait
+#### 1009. Tall typography shadow portrait
 
 <img src="images/prompts/2032819113308074313.jpg" alt="Tall typography shadow portrait" width="560">
 
@@ -39270,19 +37306,11 @@ ultra realistic cinematic portrait poster of a confident man using the attached 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2032819113308074313-1.jpg" width="320">
-<img src="images/prompts/2032819113308074313-2.jpg" width="320">
-<img src="images/prompts/2032819113308074313-3.jpg" width="320">
-
-</details>
-
 👤 [@shushant_l](https://x.com/shushant_l) · Tags: `3d-render`
 
 ---
 
-#### 91. Chibi rubber keychain
+#### 1010. Chibi rubber keychain
 
 <img src="images/prompts/2031731136385421407.jpg" alt="Chibi rubber keychain" width="560">
 
@@ -39294,11 +37322,11 @@ Close-up photo of a cute, colorful rubber keychain held gently in a person’s h
 
 </details>
 
-👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product` `illustration`
+👤 [@azed_ai](https://x.com/azed_ai) · Tags: `product`
 
 ---
 
-#### 92. Doraemon Nobita plush
+#### 1011. Doraemon Nobita plush
 
 <img src="images/prompts/2029730855908954544.jpg" alt="Doraemon Nobita plush" width="560">
 
@@ -39314,19 +37342,11 @@ Centered composition, minimal background, character facing camera, symmetrical p
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2029730855908954544-1.jpg" width="320">
-<img src="images/prompts/2029730855908954544-2.jpg" width="320">
-<img src="images/prompts/2029730855908954544-3.jpg" width="320">
-
-</details>
-
-👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `illustration` `3d-render`
+👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · Tags: `illustration`
 
 ---
 
-#### 93. Chibi on palm pouty
+#### 1012. Chibi on palm pouty
 
 <img src="images/prompts/2029563473592504682.jpg" alt="Chibi on palm pouty" width="560">
 
@@ -39338,11 +37358,11 @@ A mini chibi version of the character in the uploaded image, with a big head and
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `portrait` `illustration`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `portrait`
 
 ---
 
-#### 94. Fountain pen book story
+#### 1013. Fountain pen book story
 
 <img src="images/prompts/2028390369902174550.jpg" alt="Fountain pen book story" width="560">
 
@@ -39358,7 +37378,7 @@ A colossal hand gripping an enormous vintage fountain pen, captured in vertical 
 
 ---
 
-#### 95. Ball-shaped cute animal
+#### 1014. Ball-shaped cute animal
 
 <img src="images/prompts/2027298143134478451.jpg" alt="Ball-shaped cute animal" width="560">
 
@@ -39370,17 +37390,11 @@ Make a photo of a cute ball-shaped version of a [animal], with big adorable over
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027298143134478451-1.jpg" width="320">
-
-</details>
-
 👤 [@NanoBanana](https://x.com/NanoBanana) · Tags: `illustration`
 
 ---
 
-#### 96. Pokemon pixel art battle
+#### 1015. Pokemon pixel art battle
 
 <img src="images/prompts/2027157212863631567.jpg" alt="Pokemon pixel art battle" width="560">
 
@@ -39392,19 +37406,11 @@ inspired by a classic pokemon gameboy screenshot but it's highly detailed beauti
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027157212863631567-1.jpg" width="320">
-<img src="images/prompts/2027157212863631567-2.jpg" width="320">
-<img src="images/prompts/2027157212863631567-3.jpg" width="320">
-
-</details>
-
 👤 [@ProperPrompter](https://x.com/ProperPrompter) · Tags: `illustration`
 
 ---
 
-#### 97. Man portrait
+#### 1016. Man portrait
 
 <img src="images/prompts/2025388911451848929.jpg" alt="Man portrait" width="560">
 
@@ -39416,11 +37422,11 @@ A Pixar-style 3D animated character of a single banana. Handsome male character 
 
 </details>
 
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding` `illustration`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 98. Editorial poster v2
+#### 1017. Editorial poster v2
 
 <img src="images/prompts/2023624269385855301.jpg" alt="Editorial poster v2" width="560">
 
@@ -39436,7 +37442,7 @@ Ultra-dynamic motocross racing scene featuring a professional dirt bike rider pe
 
 ---
 
-#### 99. Woman portrait
+#### 1018. Woman portrait
 
 <img src="images/prompts/2022894575040512280.jpg" alt="Woman portrait" width="560">
 
@@ -39452,7 +37458,7 @@ Surreal comedic scene inside a modern kitchen: a young man bends backward in an 
 
 ---
 
-#### 100. Creative scene
+#### 1019. Creative scene
 
 <img src="images/prompts/2018966979013644422.jpg" alt="Creative scene" width="560">
 
@@ -39470,19 +37476,11 @@ Dark cinematic background, dramatic rim lighting, deep shadows, ultra-realistic 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018966979013644422-1.jpg" width="320">
-<img src="images/prompts/2018966979013644422-2.jpg" width="320">
-<img src="images/prompts/2018966979013644422-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `poster` `branding`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `poster`
 
 ---
 
-#### 101. Space scene
+#### 1020. Space scene
 
 <img src="images/prompts/2018268581017121046.jpg" alt="Space scene" width="560">
 
@@ -39578,7 +37576,7 @@ Dark cinematic background, dramatic rim lighting, deep shadows, ultra-realistic 
 
 ---
 
-#### 102. Chibi scooter cafe courtyard render
+#### 1021. Chibi scooter cafe courtyard render
 
 <img src="images/prompts/2012060251231822295.jpg" alt="Chibi scooter cafe courtyard render" width="560">
 
@@ -39590,17 +37588,11 @@ A cute 3D chibi-style character of the uploaded image leaning against a parked m
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012060251231822295-1.jpg" width="320">
-
-</details>
-
 👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `3d-render`
 
 ---
 
-#### 103. Giant red fries carton playful shot
+#### 1022. Giant red fries carton playful shot
 
 <img src="images/prompts/2011038954896965955.jpg" alt="Giant red fries carton playful shot" width="560">
 
@@ -39624,7 +37616,7 @@ A cute 3D chibi-style character of the uploaded image leaning against a parked m
 
 ---
 
-#### 104. Half-finished marble sculpture awakening
+#### 1023. Half-finished marble sculpture awakening
 
 <img src="images/prompts/2010372126348284302.jpg" alt="Half-finished marble sculpture awakening" width="560">
 
@@ -39636,19 +37628,11 @@ A half-finished marble sculpture in a dusty Renaissance workshop, with the [SUBJ
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010372126348284302-1.jpg" width="320">
-<img src="images/prompts/2010372126348284302-2.jpg" width="320">
-<img src="images/prompts/2010372126348284302-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `3d-render`
 
 ---
 
-#### 105. Niji srefs pairing showcase
+#### 1024. Niji srefs pairing showcase
 
 <img src="images/prompts/2010340876632137794.jpg" alt="Niji srefs pairing showcase" width="560">
 
@@ -39671,7 +37655,7 @@ Here are my top four --srefs to pair with it:
 
 ---
 
-#### 106. 3D ginger curls Pixar girl
+#### 1025. 3D ginger curls Pixar girl
 
 <img src="images/prompts/2009260113295757750.jpg" alt="3D ginger curls Pixar girl" width="560">
 
@@ -39685,17 +37669,11 @@ Here are my top four --srefs to pair with it:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009260113295757750-1.jpg" width="320">
-
-</details>
-
-👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `illustration` `3d-render`
+👤 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · Tags: `illustration`
 
 ---
 
-#### 107. Vector flat shapes pop graphics
+#### 1026. Vector flat shapes pop graphics
 
 <img src="images/prompts/2008826024319139888.jpg" alt="Vector flat shapes pop graphics" width="560">
 
@@ -39713,11 +37691,11 @@ Deadpool --sref 1088104093
 
 </details>
 
-👤 [@michaelrabone](https://x.com/michaelrabone) · Tags: `branding` `illustration`
+👤 [@michaelrabone](https://x.com/michaelrabone) · Tags: `branding`
 
 ---
 
-#### 108. Astronaut spilling coffee scene
+#### 1027. Astronaut spilling coffee scene
 
 <img src="images/prompts/2008495362529493218.jpg" alt="Astronaut spilling coffee scene" width="560">
 
@@ -39733,7 +37711,7 @@ A high-detail, cinematic shot of an astronaut floating in outer space with the E
 
 ---
 
-#### 109. Plexiglass under-foot sky shot
+#### 1028. Plexiglass under-foot sky shot
 
 <img src="images/prompts/2008198858405462492.jpg" alt="Plexiglass under-foot sky shot" width="560">
 
@@ -39745,19 +37723,11 @@ View from under a plane of completely transparent plexiglass. We are looking str
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008198858405462492-1.jpg" width="320">
-<img src="images/prompts/2008198858405462492-2.jpg" width="320">
-<img src="images/prompts/2008198858405462492-3.jpg" width="320">
-
-</details>
-
 👤 [@cfryant](https://x.com/cfryant)
 
 ---
 
-#### 110. Welcome to my room teddy scene
+#### 1029. Welcome to my room teddy scene
 
 <img src="images/prompts/2008113088000917902.jpg" alt="Welcome to my room teddy scene" width="560">
 
@@ -39775,7 +37745,7 @@ Welcome to my room
 
 ---
 
-#### 111. Dual-frame Cola pour ad
+#### 1030. Dual-frame Cola pour ad
 
 <img src="images/prompts/2005541752187273292.jpg" alt="Dual-frame Cola pour ad" width="560">
 
@@ -39787,20 +37757,11 @@ A stylish man wearing a tan suit and sunglasses is featured in a creative split 
 
 </details>
 
-👤 [@Xaroonx](https://x.com/Xaroonx) · Tags: `product` `branding`
-
+👤 [@Xaroonx](https://x.com/Xaroonx) · Tags: `product`
 
 ---
 
-<a id="cat-infographic"></a>
-
-### 📊 Charts & Infographics
-
-> Infographics, knowledge maps, technical explainers, and diagrams.
-
-**75 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Mythic creature scientific infographic
+#### 1031. Mythic creature scientific infographic
 
 <img src="images/prompts/2050532829977887073.jpg" alt="Mythic creature scientific infographic" width="560">
 
@@ -39812,17 +37773,11 @@ A detailed scientific educational infographic about [Insert Creature, e.g., a Wo
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050532829977887073-1.jpg" width="320">
-
-</details>
-
-👤 [@noorwithwifi](https://x.com/noorwithwifi) · [Source tweet](https://x.com/noorwithwifi/status/2050532829977887073)
+👤 [@noorwithwifi](https://x.com/noorwithwifi) · [Source](https://x.com/noorwithwifi/status/2050532829977887073)
 
 ---
 
-#### 2. 3D dog breed anatomy infographic
+#### 1032. 3D dog breed anatomy infographic
 
 <img src="images/prompts/2049463206670926125.jpg" alt="3D dog breed anatomy infographic" width="560">
 
@@ -39838,9 +37793,9 @@ Render_Target =  ( 3D_Raised_Anatomy_And_Action_Map_Of_[DOG_BREED] * 1.2 )  + ( 
 
 ---
 
-#### 3. LIME drug design infographic
+#### 1033. LIME drug design infographic
 
-<img src="images/awesome-gpt2/comparison/48.jpg" alt="LIME drug design infographic" width="560">
+<img src="images/prompts/1033.jpg" alt="LIME drug design infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39850,13 +37805,13 @@ Research LIME Drug Design and make a detailed infographic about it
 
 </details>
 
-👤 [@gh-WillSpagnoli](https://x.com/gh-WillSpagnoli) · [Source tweet](https://x.com/WillSpagnoli/status/2047172976463040851)
+👤 [@gh-WillSpagnoli](https://x.com/gh-WillSpagnoli) · [Source](https://x.com/WillSpagnoli/status/2047172976463040851)
 
 ---
 
-#### 4. Selena gomez
+#### 1034. Selena gomez
 
-<img src="images/awesome-gpt2/ui/95.jpg" alt="Selena gomez" width="560">
+<img src="images/prompts/1034.jpg" alt="Selena gomez" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39866,13 +37821,13 @@ Research LIME Drug Design and make a detailed infographic about it
 
 </details>
 
-👤 [@gh-SelenaGmzIN](https://x.com/gh-SelenaGmzIN) · [Source tweet](https://x.com/SelenaGmzIN/status/2047185882009198865) · Tags: `character` `branding`
+👤 [@gh-SelenaGmzIN](https://x.com/gh-SelenaGmzIN) · [Source](https://x.com/SelenaGmzIN/status/2047185882009198865) · Tags: `character`
 
 ---
 
-#### 5. Generate screenshots
+#### 1035. Generate screenshots
 
-<img src="images/awesome-gpt2/ui/47.jpg" alt="Generate screenshots" width="560">
+<img src="images/prompts/1035.jpg" alt="Generate screenshots" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39882,13 +37837,13 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 </details>
 
-👤 [@gh-ChiefMonkeyMike](https://x.com/gh-ChiefMonkeyMike) · [Source tweet](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
+👤 [@gh-ChiefMonkeyMike](https://x.com/gh-ChiefMonkeyMike) · [Source](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
 
 ---
 
-#### 6. Livestream backdrop
+#### 1036. Livestream backdrop
 
-<img src="images/awesome-gpt2/ui/43.jpg" alt="Livestream backdrop" width="560">
+<img src="images/prompts/1036.jpg" alt="Livestream backdrop" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39898,13 +37853,13 @@ Li Jiaqi's livestream backdrop — wall of lipstick matrix display, warm ambient
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047207826913972518) · Tags: `branding`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047207826913972518) · Tags: `branding`
 
 ---
 
-#### 7. Character
+#### 1037. Character
 
-<img src="images/awesome-gpt2/ui/41.jpg" alt="Character" width="560">
+<img src="images/prompts/1037.jpg" alt="Character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39914,13 +37869,13 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 </details>
 
-👤 [@gh-khaiinit](https://x.com/gh-khaiinit) · [Source tweet](https://x.com/khaiinit/status/2047219694130827273) · Tags: `character`
+👤 [@gh-khaiinit](https://x.com/gh-khaiinit) · [Source](https://x.com/khaiinit/status/2047219694130827273) · Tags: `character`
 
 ---
 
-#### 8. Wide powerpoint
+#### 1038. Wide powerpoint
 
-<img src="images/awesome-gpt2/ui/40.jpg" alt="Wide powerpoint" width="560">
+<img src="images/prompts/1038.jpg" alt="Wide powerpoint" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39932,13 +37887,13 @@ Also make a PowerPoint slide on game-development tech, analyzing where the effor
 
 </details>
 
-👤 [@gh-ailovedirector](https://x.com/gh-ailovedirector) · [Source tweet](https://x.com/ailovedirector/status/2046905387274891296)
+👤 [@gh-ailovedirector](https://x.com/gh-ailovedirector) · [Source](https://x.com/ailovedirector/status/2046905387274891296)
 
 ---
 
-#### 9. Robot
+#### 1039. Robot
 
-<img src="images/awesome-gpt2/ui/39.jpg" alt="Robot" width="560">
+<img src="images/prompts/1039.jpg" alt="Robot" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39951,13 +37906,13 @@ Also make a PowerPoint slide on game-development tech, analyzing where the effor
 
 </details>
 
-👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source tweet](https://x.com/alanlovelq/status/2046048929490612464) · Tags: `character` `branding`
+👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source](https://x.com/alanlovelq/status/2046048929490612464) · Tags: `character`
 
 ---
 
-#### 10. Cyberpunk car
+#### 1040. Cyberpunk car
 
-<img src="images/awesome-gpt2/ui/38.jpg" alt="Cyberpunk car" width="560">
+<img src="images/prompts/1040.jpg" alt="Cyberpunk car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39967,13 +37922,13 @@ Generate a UI design system in a future-city style, inspired by a cyberpunk city
 
 </details>
 
-👤 [@gh-AZLnfvp](https://x.com/gh-AZLnfvp) · [Source tweet](https://x.com/AZLnfvp/status/2046468976092533180) · Tags: `branding`
+👤 [@gh-AZLnfvp](https://x.com/gh-AZLnfvp) · [Source](https://x.com/AZLnfvp/status/2046468976092533180) · Tags: `branding`
 
 ---
 
-#### 11. Photorealistic logo
+#### 1041. Photorealistic logo
 
-<img src="images/awesome-gpt2/ui/36.jpg" alt="Photorealistic logo" width="560">
+<img src="images/prompts/1041.jpg" alt="Photorealistic logo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -39991,13 +37946,13 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 </details>
 
-👤 [@gh-Shinning1010](https://x.com/gh-Shinning1010) · [Source tweet](https://x.com/Shinning1010/status/2046501587762188535) · Tags: `character` `branding`
+👤 [@gh-Shinning1010](https://x.com/gh-Shinning1010) · [Source](https://x.com/Shinning1010/status/2046501587762188535) · Tags: `character`
 
 ---
 
-#### 12. Japanese mobile
+#### 1042. Japanese mobile
 
-<img src="images/awesome-gpt2/ui/35.jpg" alt="Japanese mobile" width="560">
+<img src="images/prompts/1042.jpg" alt="Japanese mobile" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40007,13 +37962,13 @@ Generate a Japanese mobile-game gacha screen.
 
 </details>
 
-👤 [@gh-the_wheel_2024](https://x.com/gh-the_wheel_2024) · [Source tweet](https://x.com/the_wheel_2024/status/2046519658166317160)
+👤 [@gh-the_wheel_2024](https://x.com/gh-the_wheel_2024) · [Source](https://x.com/the_wheel_2024/status/2046519658166317160)
 
 ---
 
-#### 13. Detailed appraisal
+#### 1043. Detailed appraisal
 
-<img src="images/awesome-gpt2/ui/32.jpg" alt="Detailed appraisal" width="560">
+<img src="images/prompts/1043.jpg" alt="Detailed appraisal" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40025,13 +37980,13 @@ Focus on advice and compile it into a high-quality fortune-telling report.
 
 </details>
 
-👤 [@gh-agi_aibusi](https://x.com/gh-agi_aibusi) · [Source tweet](https://x.com/agi_aibusi/status/2046530764871696750)
+👤 [@gh-agi_aibusi](https://x.com/gh-agi_aibusi) · [Source](https://x.com/agi_aibusi/status/2046530764871696750)
 
 ---
 
-#### 14. Infographic portrait
+#### 1044. Infographic portrait
 
-<img src="images/awesome-gpt2/ui/25.jpg" alt="Infographic portrait" width="560">
+<img src="images/prompts/1044.jpg" alt="Infographic portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40056,13 +38011,13 @@ Avoid: poster feel, photo-studio feel, e-commerce feel, anime feel, cosplay feel
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2045504669401653414) · Tags: `character`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2045504669401653414) · Tags: `character`
 
 ---
 
-#### 15. Diagram momotaro explanation
+#### 1045. Diagram momotaro explanation
 
-<img src="images/awesome-gpt2/ui/10.jpg" alt="Diagram momotaro explanation" width="560">
+<img src="images/prompts/1045.jpg" alt="Diagram momotaro explanation" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40072,13 +38027,13 @@ Create a Momotaro explanation slide (illustrative diagram) that fuses the warm, 
 
 </details>
 
-👤 [@gh-yammamon](https://x.com/gh-yammamon) · [Source tweet](https://x.com/yammamon/status/2045778624092254603)
+👤 [@gh-yammamon](https://x.com/gh-yammamon) · [Source](https://x.com/yammamon/status/2045778624092254603)
 
 ---
 
-#### 16. Car
+#### 1046. Car
 
-<img src="images/awesome-gpt2/ui/9.jpg" alt="Car" width="560">
+<img src="images/prompts/1046.jpg" alt="Car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40088,13 +38043,13 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 </details>
 
-👤 [@gh-stark_nico99](https://x.com/gh-stark_nico99) · [Source tweet](https://x.com/stark_nico99/status/2045836554451706125) · Tags: `branding`
+👤 [@gh-stark_nico99](https://x.com/gh-stark_nico99) · [Source](https://x.com/stark_nico99/status/2045836554451706125) · Tags: `branding`
 
 ---
 
-#### 17. Please create
+#### 1047. Please create
 
-<img src="images/awesome-gpt2/ui/8.jpg" alt="Please create" width="560">
+<img src="images/prompts/1047.jpg" alt="Please create" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40104,13 +38059,13 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 </details>
 
-👤 [@gh-SKA_Neotype](https://x.com/gh-SKA_Neotype) · [Source tweet](https://x.com/SKA_Neotype/status/2044637900978217334) · Tags: `branding`
+👤 [@gh-SKA_Neotype](https://x.com/gh-SKA_Neotype) · [Source](https://x.com/SKA_Neotype/status/2044637900978217334) · Tags: `branding`
 
 ---
 
-#### 18. Image ratio
+#### 1048. Image ratio
 
-<img src="images/awesome-gpt2/ui/7.jpg" alt="Image ratio" width="560">
+<img src="images/prompts/1048.jpg" alt="Image ratio" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40120,13 +38075,13 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 </details>
 
-👤 [@gh-alanblogsooo](https://x.com/gh-alanblogsooo) · [Source tweet](https://x.com/alanblogsooo/status/2044784762594918516) · Tags: `character` `branding`
+👤 [@gh-alanblogsooo](https://x.com/gh-alanblogsooo) · [Source](https://x.com/alanblogsooo/status/2044784762594918516) · Tags: `character`
 
 ---
 
-#### 19. Girl
+#### 1049. Girl
 
-<img src="images/awesome-gpt2/ui/5.jpg" alt="Girl" width="560">
+<img src="images/prompts/1049.jpg" alt="Girl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40139,13 +38094,13 @@ Please create the X (Twitter) page of King Taejo (Yi Seong-gye), just before the
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2045373105041007013) · Tags: `branding`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2045373105041007013) · Tags: `branding`
 
 ---
 
-#### 20. Car
+#### 1050. Car
 
-<img src="images/awesome-gpt2/ui/1.jpg" alt="Car" width="560">
+<img src="images/prompts/1050.jpg" alt="Car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40155,13 +38110,13 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 </details>
 
-👤 [@gh-austinit](https://x.com/gh-austinit) · [Source tweet](https://x.com/austinit/status/2044968740782272596) · Tags: `branding`
+👤 [@gh-austinit](https://x.com/gh-austinit) · [Source](https://x.com/austinit/status/2044968740782272596) · Tags: `branding`
 
 ---
 
-#### 21. Infographic icon
+#### 1051. Infographic icon
 
-<img src="images/awesome-gpt2/poster/161.jpg" alt="Infographic icon" width="560">
+<img src="images/prompts/1051.jpg" alt="Infographic icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40171,13 +38126,13 @@ Help me generate a UI design system in this style — including web, mobile, car
 
 </details>
 
-👤 [@gh-sarinaashapi](https://x.com/gh-sarinaashapi) · [Source tweet](https://x.com/sarinaashapi/status/2048307780864606708)
+👤 [@gh-sarinaashapi](https://x.com/gh-sarinaashapi) · [Source](https://x.com/sarinaashapi/status/2048307780864606708)
 
 ---
 
-#### 22. Alishan vintage travel poster
+#### 1052. Alishan vintage travel poster
 
-<img src="images/awesome-gpt2/poster/129.jpg" alt="Alishan vintage travel poster" width="560">
+<img src="images/prompts/1052.jpg" alt="Alishan vintage travel poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40187,13 +38142,13 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 </details>
 
-👤 [@gh-TWnese](https://x.com/gh-TWnese) · [Source tweet](https://x.com/TWnese/status/2048077204786212887) · Tags: `portrait` `poster`
+👤 [@gh-TWnese](https://x.com/gh-TWnese) · [Source](https://x.com/TWnese/status/2048077204786212887) · Tags: `portrait`
 
 ---
 
-#### 23. Claude Shannon information theory
+#### 1053. Claude Shannon information theory
 
-<img src="images/awesome-gpt2/poster/121.jpg" alt="Claude Shannon information theory" width="560">
+<img src="images/prompts/1053.jpg" alt="Claude Shannon information theory" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40203,13 +38158,13 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 </details>
 
-👤 [@gh-mob_17](https://x.com/gh-mob_17) · [Source tweet](https://x.com/mob_17/status/2048118645017219381) · Tags: `portrait` `poster`
+👤 [@gh-mob_17](https://x.com/gh-mob_17) · [Source](https://x.com/mob_17/status/2048118645017219381) · Tags: `portrait`
 
 ---
 
-#### 24. 3D realistic evolution timeline
+#### 1054. 3D realistic evolution timeline
 
-<img src="images/awesome-gpt2/poster/111.jpg" alt="3D realistic evolution timeline" width="560">
+<img src="images/prompts/1054.jpg" alt="3D realistic evolution timeline" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40259,13 +38214,13 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 </details>
 
-👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source tweet](https://x.com/GeekCatX/status/2045792240044511277) · Tags: `3d-render`
+👤 [@gh-GeekCatX](https://x.com/gh-GeekCatX) · [Source](https://x.com/GeekCatX/status/2045792240044511277) · Tags: `3d-render`
 
 ---
 
-#### 25. Watercolor map infographic
+#### 1055. Watercolor map infographic
 
-<img src="images/awesome-gpt2/poster/110.jpg" alt="Watercolor map infographic" width="560">
+<img src="images/prompts/1055.jpg" alt="Watercolor map infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40309,13 +38264,13 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 </details>
 
-👤 [@gh-mm_zzm44854](https://x.com/gh-mm_zzm44854) · [Source tweet](https://x.com/mm_zzm44854/status/2045861258520568230) · Tags: `product` `illustration`
+👤 [@gh-mm_zzm44854](https://x.com/gh-mm_zzm44854) · [Source](https://x.com/mm_zzm44854/status/2045861258520568230) · Tags: `product`
 
 ---
 
-#### 26. Detailed step
+#### 1056. Detailed step
 
-<img src="images/awesome-gpt2/poster/55.jpg" alt="Detailed step" width="560">
+<img src="images/prompts/1056.jpg" alt="Detailed step" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40325,13 +38280,13 @@ Make a detailed step-by-step illustration of how to make 'Stir-fried Pork with C
 
 </details>
 
-👤 [@gh-Kurt_Rousey466](https://x.com/gh-Kurt_Rousey466) · [Source tweet](https://x.com/Kurt_Rousey466/status/2046267707881029934) · Tags: `product` `comparison`
+👤 [@gh-Kurt_Rousey466](https://x.com/gh-Kurt_Rousey466) · [Source](https://x.com/Kurt_Rousey466/status/2046267707881029934) · Tags: `product`
 
 ---
 
-#### 27. Infographic icon
+#### 1057. Infographic icon
 
-<img src="images/awesome-gpt2/poster/57.jpg" alt="Infographic icon" width="560">
+<img src="images/prompts/1057.jpg" alt="Infographic icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40359,13 +38314,13 @@ Don't make it look like a commercial poster. Highlight 'knowledge organization +
 
 </details>
 
-👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source tweet](https://x.com/alanlovelq/status/2046378199681257920) · Tags: `poster`
+👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source](https://x.com/alanlovelq/status/2046378199681257920) · Tags: `poster`
 
 ---
 
-#### 28. Marca sony
+#### 1058. Marca sony
 
-<img src="images/awesome-gpt2/poster/53.jpg" alt="Marca sony" width="560">
+<img src="images/prompts/1058.jpg" alt="Marca sony" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40375,13 +38330,13 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 </details>
 
-👤 [@gh-iaPulse_](https://x.com/gh-iaPulse_) · [Source tweet](https://x.com/iaPulse_/status/2046903739429097660) · Tags: `product` `3d-render`
+👤 [@gh-iaPulse_](https://x.com/gh-iaPulse_) · [Source](https://x.com/iaPulse_/status/2046903739429097660) · Tags: `product`
 
 ---
 
-#### 29. Written chinese
+#### 1059. Written chinese
 
-<img src="images/awesome-gpt2/poster/47.jpg" alt="Written chinese" width="560">
+<img src="images/prompts/1059.jpg" alt="Written chinese" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40391,13 +38346,13 @@ Generate a hand-written Chinese / Western medical prescription image.
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2046514998965371144) · Tags: `illustration`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2046514998965371144) · Tags: `illustration`
 
 ---
 
-#### 30. Infographic icon
+#### 1060. Infographic icon
 
-<img src="images/awesome-gpt2/poster/39.jpg" alt="Infographic icon" width="560">
+<img src="images/prompts/1060.jpg" alt="Infographic icon" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40425,13 +38380,13 @@ Don't make it look like a commercial poster. Highlight 'knowledge organization +
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2046231542817497392) · Tags: `poster`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2046231542817497392) · Tags: `poster`
 
 ---
 
-#### 31. Quality vertical
+#### 1061. Quality vertical
 
-<img src="images/awesome-gpt2/poster/32.jpg" alt="Quality vertical" width="560">
+<img src="images/prompts/1061.jpg" alt="Quality vertical" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40441,13 +38396,13 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 </details>
 
-👤 [@gh-pfanis](https://x.com/gh-pfanis) · [Source tweet](https://x.com/pfanis/status/2046413660147314714) · Tags: `poster`
+👤 [@gh-pfanis](https://x.com/gh-pfanis) · [Source](https://x.com/pfanis/status/2046413660147314714) · Tags: `poster`
 
 ---
 
-#### 32. Watercolor food
+#### 1062. Watercolor food
 
-<img src="images/awesome-gpt2/poster/3.jpg" alt="Watercolor food" width="560">
+<img src="images/prompts/1062.jpg" alt="Watercolor food" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40457,11 +38412,11 @@ A hand-drawn city food map themed around Chengdu. The base is a bird's-eye-view,
 
 </details>
 
-👤 [@gh-Panda20230902](https://x.com/gh-Panda20230902) · [Source tweet](https://x.com/Panda20230902/status/2045396918965285111) · Tags: `product` `illustration`
+👤 [@gh-Panda20230902](https://x.com/gh-Panda20230902) · [Source](https://x.com/Panda20230902/status/2045396918965285111) · Tags: `product`
 
 ---
 
-#### 33. Isometric vehicle technical diagram
+#### 1063. Isometric vehicle technical diagram
 
 <img src="images/prompts/2048733383140712808.jpg" alt="Isometric vehicle technical diagram" width="560">
 
@@ -40486,11 +38441,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
-#### 34. Minimalist palm reading guide
+#### 1064. Minimalist palm reading guide
 
 <img src="images/prompts/2048426035541135437.jpg" alt="Minimalist palm reading guide" width="560">
 
@@ -40503,13 +38458,13 @@ Focus on the palm reading, create a simple black on white contour of my main lin
 
 </details>
 
-👤 [@LinusEkenstam](https://x.com/LinusEkenstam) · [Source tweet](https://x.com/LinusEkenstam/status/2048426035541135437) · Tags: `illustration`
+👤 [@LinusEkenstam](https://x.com/LinusEkenstam) · [Source](https://x.com/LinusEkenstam/status/2048426035541135437) · Tags: `illustration`
 
 ---
 
-#### 35. Routine editorial infographic
+#### 1065. Routine editorial infographic
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2048044376366948849/0.jpg" alt="Routine editorial infographic" width="560">
+<img src="images/prompts/2048044376366948849.jpg" alt="Routine editorial infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40523,9 +38478,9 @@ Ultra-clean modern editorial infographic. The topic is [ROUTINE] routine. Base a
 
 ---
 
-#### 36. Editorial style space scene
+#### 1066. Editorial style space scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047683043918311670/0.jpg" alt="Editorial style space scene" width="560">
+<img src="images/prompts/2047683043918311670.jpg" alt="Editorial style space scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40539,9 +38494,9 @@ Ultra-clean modern editorial infographic on the topic of [ROUTINE] routine. Hero
 
 ---
 
-#### 37. Editorial style logo concept
+#### 1067. Editorial style logo concept
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047375056125428013/0.jpg" alt="Editorial style logo concept" width="560">
+<img src="images/prompts/2047375056125428013.jpg" alt="Editorial style logo concept" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40551,21 +38506,13 @@ Create a premium brand kit board for [BRAND NAME], presented like a professional
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047375056125428013/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047375056125428013/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047375056125428013/3.jpg" width="320">
-
-</details>
-
 👤 [@MayorKingAI](https://x.com/MayorKingAI) · Tags: `branding`
 
 ---
 
-#### 38. Creative scene artwork
+#### 1068. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047204364499276110/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2047204364499276110.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40579,9 +38526,9 @@ Generate a full detail diagram of Tesla's main components, with detail views of 
 
 ---
 
-#### 39. Photorealistic king
+#### 1069. Photorealistic king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047153211560399009/0.jpg" alt="Photorealistic king" width="560">
+<img src="images/prompts/2047153211560399009.jpg" alt="Photorealistic king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40593,17 +38540,11 @@ Guess which is which?
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047153211560399009/1.jpg" width="320">
-
-</details>
-
 👤 [@billtheinvestor](https://x.com/billtheinvestor)
 
 ---
 
-#### 40. Creative scene artwork
+#### 1070. Creative scene artwork
 
 <img src="images/prompts/2046717569013293231.jpg" alt="Creative scene artwork" width="560">
 
@@ -40619,9 +38560,9 @@ Create a polished email sequence template for fenty beauty
 
 ---
 
-#### 41. Creative scene artwork
+#### 1071. Creative scene artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046705259267948789/0.jpg" alt="Creative scene artwork" width="560">
+<img src="images/prompts/2046705259267948789.jpg" alt="Creative scene artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40635,9 +38576,9 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ---
 
-#### 42. Editorial style space scene
+#### 1072. Editorial style space scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046615173411262959/0.jpg" alt="Editorial style space scene" width="560">
+<img src="images/prompts/2046615173411262959.jpg" alt="Editorial style space scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40690,9 +38631,9 @@ English only
 
 ---
 
-#### 43. Poster owl
+#### 1073. Poster owl
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046231542817497392/0.jpg" alt="Poster owl" width="560">
+<img src="images/prompts/2046231542817497392.jpg" alt="Poster owl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40720,21 +38661,13 @@ Do not make it look like a commercial poster. Highlight the characteristics of '
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046231542817497392/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046231542817497392/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046231542817497392/3.jpg" width="320">
-
-</details>
-
 👤 [@MrLarus](https://x.com/MrLarus) · Tags: `poster`
 
 ---
 
-#### 44. Anime style man portrait
+#### 1074. Anime style man portrait
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045504669401653414/0.jpg" alt="Anime style man portrait" width="560">
+<img src="images/prompts/2045504669401653414.jpg" alt="Anime style man portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -40763,7 +38696,7 @@ Avoid: poster feel, photo-studio feel, e-commerce feel, anime feel, cosplay feel
 
 ---
 
-#### 45. Editorial style cityscape
+#### 1075. Editorial style cityscape
 
 <img src="images/prompts/2043047413770809708.jpg" alt="Editorial style cityscape" width="560">
 
@@ -40779,7 +38712,7 @@ A hyper-realistic 3D travel guide infographic poster for [COUNTRY]. The country 
 
 ---
 
-#### 46. Premium technical infographic
+#### 1076. Premium technical infographic
 
 <img src="images/prompts/2041160547001864242.jpg" alt="Premium technical infographic" width="560">
 
@@ -40795,7 +38728,7 @@ Premium technical infographic of [OBJECT]. Use the reference image only to under
 
 ---
 
-#### 47. Dark blueprint house split
+#### 1077. Dark blueprint house split
 
 <img src="images/prompts/2040757362382798888.jpg" alt="Dark blueprint house split" width="560">
 
@@ -40916,17 +38849,11 @@ Premium technical infographic of [OBJECT]. Use the reference image only to under
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040757362382798888-1.jpg" width="320">
-
-</details>
-
 👤 [@craftian_keskin](https://x.com/craftian_keskin) · Tags: `comparison`
 
 ---
 
-#### 48. Technical infographic overlay
+#### 1078. Technical infographic overlay
 
 <img src="images/prompts/2038346918406115788.jpg" alt="Technical infographic overlay" width="560">
 
@@ -40938,19 +38865,11 @@ Create an infographic image of [OBJECT], combining a realistic photograph or pho
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2038346918406115788-1.jpg" width="320">
-<img src="images/prompts/2038346918406115788-2.jpg" width="320">
-<img src="images/prompts/2038346918406115788-3.jpg" width="320">
-
-</details>
-
 👤 [@gudanglifehack](https://x.com/gudanglifehack) · Tags: `product`
 
 ---
 
-#### 49. Exploded vertical food chart
+#### 1079. Exploded vertical food chart
 
 <img src="images/prompts/2028451530198642753.jpg" alt="Exploded vertical food chart" width="560">
 
@@ -40968,11 +38887,11 @@ Pure white background, soft studio lighting, subtle shadows beneath each floatin
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `portrait` `product`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `portrait`
 
 ---
 
-#### 50. Cross-section product anatomy
+#### 1080. Cross-section product anatomy
 
 <img src="images/prompts/2028376944996470842.jpg" alt="Cross-section product anatomy" width="560">
 
@@ -40989,7 +38908,7 @@ white background, museum specimen aesthetic, scientific illustration style
 
 ---
 
-#### 51. Product packaging shot v2
+#### 1081. Product packaging shot v2
 
 <img src="images/prompts/2024375445345779759.jpg" alt="Product packaging shot v2" width="560">
 
@@ -41014,11 +38933,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 </details>
 
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `product` `3d-render`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `product`
 
 ---
 
-#### 52. Editorial poster
+#### 1082. Editorial poster
 
 <img src="images/prompts/2020051579710374133.jpg" alt="Editorial poster" width="560">
 
@@ -41082,7 +39001,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ---
 
-#### 53. Food photography v2
+#### 1083. Food photography v2
 
 <img src="images/prompts/2019806212599284155.jpg" alt="Food photography v2" width="560">
 
@@ -41094,17 +39013,11 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019806212599284155-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product` `poster`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 54. Food photography
+#### 1084. Food photography
 
 <img src="images/prompts/2019418461869650379.jpg" alt="Food photography" width="560">
 
@@ -41157,17 +39070,11 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019418461869650379-1.jpg" width="320">
-
-</details>
-
-👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `product` `poster`
+👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `product`
 
 ---
 
-#### 55. Illustration
+#### 1085. Illustration
 
 <img src="images/prompts/2018964408417018277.jpg" alt="Illustration" width="560">
 
@@ -41238,11 +39145,11 @@ Ultra-realistic cinematic food photography of a traditional Indonesian dish, pre
 
 </details>
 
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `product` `3d-render`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `product`
 
 ---
 
-#### 56. Isometric 3d scene
+#### 1086. Isometric 3d scene
 
 <img src="images/prompts/2018935306473590938.jpg" alt="Isometric 3d scene" width="560">
 
@@ -41279,7 +39186,7 @@ Cartoon style, low detail, cluttered composition, modern elements, unrealistic p
 
 ---
 
-#### 57. Product packaging shot
+#### 1087. Product packaging shot
 
 <img src="images/prompts/2018668607966769212.jpg" alt="Product packaging shot" width="560">
 
@@ -41316,19 +39223,11 @@ Output:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018668607966769212-1.jpg" width="320">
-<img src="images/prompts/2018668607966769212-2.jpg" width="320">
-<img src="images/prompts/2018668607966769212-3.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `product`
 
 ---
 
-#### 58. Food photography
+#### 1088. Food photography
 
 <img src="images/prompts/2018252656574185981.jpg" alt="Food photography" width="560">
 
@@ -41378,17 +39277,11 @@ Output:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018252656574185981-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product` `poster`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 59. Indonesian ASAL food poster
+#### 1089. Indonesian ASAL food poster
 
 <img src="images/prompts/2018167340417130614.jpg" alt="Indonesian ASAL food poster" width="560">
 
@@ -41400,17 +39293,11 @@ A hyper-realistic Indonesian food infographic poster with dramatic floating ingr
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018167340417130614-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product` `poster`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 60. Field journal eruption
+#### 1090. Field journal eruption
 
 <img src="images/prompts/2017981012614009229.jpg" alt="Field journal eruption" width="560">
 
@@ -41422,21 +39309,13 @@ Epic 3D scene: a weathered field journal lies open on a naturalist's camp table,
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017981012614009229-1.jpg" width="320">
-<img src="images/prompts/2017981012614009229-2.jpg" width="320">
-<img src="images/prompts/2017981012614009229-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `3d-render`
 
 ---
 
-#### 61. Isometric device infographic
+#### 1091. Isometric device infographic
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2017928823497453789/0.jpg" alt="Isometric device infographic" width="560">
+<img src="images/prompts/2017928823497453789.jpg" alt="Isometric device infographic" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -41459,11 +39338,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
-#### 62. Floating Indonesian dish
+#### 1092. Floating Indonesian dish
 
 <img src="images/prompts/2017865644365255078.jpg" alt="Floating Indonesian dish" width="560">
 
@@ -41514,17 +39393,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017865644365255078-1.jpg" width="320">
-
-</details>
-
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product` `3d-render`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `product`
 
 ---
 
-#### 63. Snack brand-color schematic
+#### 1093. Snack brand-color schematic
 
 <img src="images/prompts/2017669983916982605.jpg" alt="Snack brand-color schematic" width="560">
 
@@ -41554,11 +39427,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product` `branding`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `product`
 
 ---
 
-#### 64. Exploded mechanical knolling
+#### 1094. Exploded mechanical knolling
 
 <img src="images/prompts/2017611578284401056.jpg" alt="Exploded mechanical knolling" width="560">
 
@@ -41598,11 +39471,11 @@ Goal: "Exploded Construction" Tabletop Photography.
 
 </details>
 
-👤 [@Gdgtify](https://x.com/Gdgtify) · Tags: `product` `branding`
+👤 [@Gdgtify](https://x.com/Gdgtify) · Tags: `product`
 
 ---
 
-#### 65. Summer outfit infographic
+#### 1095. Summer outfit infographic
 
 <img src="images/prompts/2017128891568312769.jpg" alt="Summer outfit infographic" width="560">
 
@@ -41614,17 +39487,11 @@ High-fashion summer outfit infographic with color-coordinated floating elements 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2017128891568312769-1.jpg" width="320">
-
-</details>
-
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait` `branding`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait`
 
 ---
 
-#### 66. Watermelon juice infographic
+#### 1096. Watermelon juice infographic
 
 <img src="images/prompts/2016432642951151894.jpg" alt="Watermelon juice infographic" width="560">
 
@@ -41636,17 +39503,11 @@ Bright summer infographic showcasing watermelon juice, icy texture, watermelon w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2016432642951151894-1.jpg" width="320">
-
-</details>
-
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `product` `branding`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `product`
 
 ---
 
-#### 67. Country annotation poster
+#### 1097. Country annotation poster
 
 <img src="images/prompts/2015850590283124768.jpg" alt="Country annotation poster" width="560">
 
@@ -41688,7 +39549,7 @@ Output:
 
 ---
 
-#### 68. Food annotation infographic
+#### 1098. Food annotation infographic
 
 <img src="images/prompts/2015488786445082660.jpg" alt="Food annotation infographic" width="560">
 
@@ -41729,7 +39590,7 @@ Output:
 
 ---
 
-#### 69. Anatomy annotation infographic
+#### 1099. Anatomy annotation infographic
 
 <img src="images/prompts/2013677966283149542.jpg" alt="Anatomy annotation infographic" width="560">
 
@@ -41770,7 +39631,7 @@ Output:
 
 ---
 
-#### 70. Laptop annotation infographic
+#### 1100. Laptop annotation infographic
 
 <img src="images/prompts/2013602849658429459.jpg" alt="Laptop annotation infographic" width="560">
 
@@ -41813,7 +39674,7 @@ Es par ek text post bnao X ke liye ki ye mere dwara bnata gya hai
 
 ---
 
-#### 71. Technical annotation infographic
+#### 1101. Technical annotation infographic
 
 <img src="images/prompts/2013316513701216688.jpg" alt="Technical annotation infographic" width="560">
 
@@ -41854,7 +39715,7 @@ Output:
 
 ---
 
-#### 72. Expedition planning board mission map
+#### 1102. Expedition planning board mission map
 
 <img src="images/prompts/2011097657385619460.jpg" alt="Expedition planning board mission map" width="560">
 
@@ -41866,19 +39727,11 @@ An expedition leader's planning board for [JOURNEY / MISSION] — [DESTINATION /
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011097657385619460-1.jpg" width="320">
-<img src="images/prompts/2011097657385619460-2.jpg" width="320">
-<img src="images/prompts/2011097657385619460-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling)
 
 ---
 
-#### 73. Architectural survey board
+#### 1103. Architectural survey board
 
 <img src="images/prompts/2008559432016286198.jpg" alt="Architectural survey board" width="560">
 
@@ -41890,19 +39743,11 @@ A preservation architect's survey board for [BUILDING / STRUCTURE] — [STYLE / 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2008559432016286198-1.jpg" width="320">
-<img src="images/prompts/2008559432016286198-2.jpg" width="320">
-<img src="images/prompts/2008559432016286198-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `comparison`
 
 ---
 
-#### 74. Blueprint landmark infographic
+#### 1104. Blueprint landmark infographic
 
 <img src="images/prompts/2007523056822939698.jpg" alt="Blueprint landmark infographic" width="560">
 
@@ -41918,7 +39763,7 @@ Create an infographic image of [LANDMARK], combining a real photograph of the la
 
 ---
 
-#### 75. Indian yoga steps infographic
+#### 1105. Indian yoga steps infographic
 
 <img src="images/prompts/2005950026581958720.jpg" alt="Indian yoga steps infographic" width="560">
 
@@ -41930,28 +39775,11 @@ create an infographic with an indian man with different yoga steps and details w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2005950026581958720-1.jpg" width="320">
-<img src="images/prompts/2005950026581958720-2.jpg" width="320">
-<img src="images/prompts/2005950026581958720-3.jpg" width="320">
-
-</details>
-
 👤 [@1littlecoder](https://x.com/1littlecoder) · Tags: `character`
-
 
 ---
 
-<a id="cat-illustration"></a>
-
-### 🎨 Illustration & Art
-
-> Illustration, art styles, decorative images, and material experiments.
-
-**65 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Hand-drawn doodle overlay on photo
+#### 1106. Hand-drawn doodle overlay on photo
 
 <img src="images/prompts/2050977493784637699.jpg" alt="Hand-drawn doodle overlay on photo" width="560">
 
@@ -41969,11 +39797,11 @@ Make sure the added elements complement the photo instead of overpowering it. Ai
 
 </details>
 
-👤 [@j_smeaton99](https://x.com/j_smeaton99) · [Source tweet](https://x.com/j_smeaton99/status/2050977493784637699) · Tags: `portrait`
+👤 [@j_smeaton99](https://x.com/j_smeaton99) · [Source](https://x.com/j_smeaton99/status/2050977493784637699) · Tags: `portrait`
 
 ---
 
-#### 2. Single-line breathing field drawing
+#### 1107. Single-line breathing field drawing
 
 <img src="images/prompts/2050363484320264669.jpg" alt="Single-line breathing field drawing" width="560">
 
@@ -42009,19 +39837,11 @@ User input:
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2050363484320264669-1.jpg" width="320">
-<img src="images/prompts/2050363484320264669-2.jpg" width="320">
-<img src="images/prompts/2050363484320264669-3.jpg" width="320">
-
-</details>
-
-👤 [@hx831126](https://x.com/hx831126) · [Source tweet](https://x.com/hx831126/status/2050363484320264669) · Tags: `branding`
+👤 [@hx831126](https://x.com/hx831126) · [Source](https://x.com/hx831126/status/2050363484320264669) · Tags: `branding`
 
 ---
 
-#### 3. MS Paint scribble redraw
+#### 1108. MS Paint scribble redraw
 
 <img src="images/prompts/2049689793118998717.jpg" alt="MS Paint scribble redraw" width="560">
 
@@ -42033,19 +39853,13 @@ Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049689793118998717-1.jpg" width="320">
-
-</details>
-
-👤 [@arrakis_ai](https://x.com/arrakis_ai) · [Source tweet](https://x.com/arrakis_ai/status/2049689793118998717) · Tags: `portrait`
+👤 [@arrakis_ai](https://x.com/arrakis_ai) · [Source](https://x.com/arrakis_ai/status/2049689793118998717) · Tags: `portrait`
 
 ---
 
-#### 4. Surreal Japanese future city
+#### 1109. Surreal Japanese future city
 
-<img src="images/awesome-gpt2/comparison/62.jpg" alt="Surreal Japanese future city" width="560">
+<img src="images/prompts/1109.jpg" alt="Surreal Japanese future city" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42055,13 +39869,13 @@ Using the perspective and style of this image as reference, draw a more refined 
 
 </details>
 
-👤 [@gh-Tresmort](https://x.com/gh-Tresmort) · [Source tweet](https://x.com/Tresmort/status/2047105322863460496)
+👤 [@gh-Tresmort](https://x.com/gh-Tresmort) · [Source](https://x.com/Tresmort/status/2047105322863460496)
 
 ---
 
-#### 5. Dusk shindig in 14
+#### 1110. Dusk shindig in 14
 
-<img src="images/awesome-gpt2/comparison/38.jpg" alt="Dusk shindig in 14" width="560">
+<img src="images/prompts/1110.jpg" alt="Dusk shindig in 14" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42071,13 +39885,13 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 </details>
 
-👤 [@gh-workingclassbud](https://x.com/gh-workingclassbud) · [Source tweet](https://x.com/workingclassbud/status/2046506783850815703)
+👤 [@gh-workingclassbud](https://x.com/gh-workingclassbud) · [Source](https://x.com/workingclassbud/status/2046506783850815703)
 
 ---
 
-#### 6. C-language demo at PC museum
+#### 1111. C-language demo at PC museum
 
-<img src="images/awesome-gpt2/comparison/37.jpg" alt="C-language demo at PC museum" width="560">
+<img src="images/prompts/1111.jpg" alt="C-language demo at PC museum" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42087,13 +39901,13 @@ In a computer museum, a programmer is in the center of the exhibit hall demonstr
 
 </details>
 
-👤 [@gh-XiaohuiAI666](https://x.com/gh-XiaohuiAI666) · [Source tweet](https://x.com/XiaohuiAI666/status/2046515319947354603) · Tags: `infographic`
+👤 [@gh-XiaohuiAI666](https://x.com/gh-XiaohuiAI666) · [Source](https://x.com/XiaohuiAI666/status/2046515319947354603) · Tags: `infographic`
 
 ---
 
-#### 7. Rust survival in-game
+#### 1112. Rust survival in-game
 
-<img src="images/awesome-gpt2/comparison/34.jpg" alt="Rust survival in-game" width="560">
+<img src="images/prompts/1112.jpg" alt="Rust survival in-game" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42103,13 +39917,13 @@ an ingame screenshot of rust
 
 </details>
 
-👤 [@gh-FixlationAI](https://x.com/gh-FixlationAI) · [Source tweet](https://x.com/FixlationAI/status/2046272578705068476)
+👤 [@gh-FixlationAI](https://x.com/gh-FixlationAI) · [Source](https://x.com/FixlationAI/status/2046272578705068476)
 
 ---
 
-#### 8. Minecraft pre-war Japan lab
+#### 1113. Minecraft pre-war Japan lab
 
-<img src="images/awesome-gpt2/comparison/31.jpg" alt="Minecraft pre-war Japan lab" width="560">
+<img src="images/prompts/1113.jpg" alt="Minecraft pre-war Japan lab" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42119,13 +39933,13 @@ Create a Minecraft screenshot image of a person exploring a suspicious pre-war J
 
 </details>
 
-👤 [@gh-RitaStar1128](https://x.com/gh-RitaStar1128) · [Source tweet](https://x.com/RitaStar1128/status/2046406024303976904)
+👤 [@gh-RitaStar1128](https://x.com/gh-RitaStar1128) · [Source](https://x.com/RitaStar1128/status/2046406024303976904)
 
 ---
 
-#### 9. Counter-Strike meets Terraria
+#### 1114. Counter-Strike meets Terraria
 
-<img src="images/awesome-gpt2/comparison/30.jpg" alt="Counter-Strike meets Terraria" width="560">
+<img src="images/prompts/1114.jpg" alt="Counter-Strike meets Terraria" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42135,13 +39949,13 @@ counter strike in game screenshot, mixed with Terraria
 
 </details>
 
-👤 [@gh-yssrski](https://x.com/gh-yssrski) · [Source tweet](https://x.com/yssrski/status/2046410519595348397)
+👤 [@gh-yssrski](https://x.com/gh-yssrski) · [Source](https://x.com/yssrski/status/2046410519595348397)
 
 ---
 
-#### 10. 4-panel manga of our chats
+#### 1115. 4-panel manga of our chats
 
-<img src="images/awesome-gpt2/comparison/16.jpg" alt="4-panel manga of our chats" width="560">
+<img src="images/prompts/1115.jpg" alt="4-panel manga of our chats" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42151,13 +39965,13 @@ Please draw, in 4-panel manga style, how I have treated you. First, output a plo
 
 </details>
 
-👤 [@gh-saskr_13](https://x.com/gh-saskr_13) · [Source tweet](https://x.com/saskr_13/status/2044744396932079934) · Tags: `comparison`
+👤 [@gh-saskr_13](https://x.com/gh-saskr_13) · [Source](https://x.com/saskr_13/status/2044744396932079934) · Tags: `comparison`
 
 ---
 
-#### 11. Identify what
+#### 1116. Identify what
 
-<img src="images/awesome-gpt2/ui/112.jpg" alt="Identify what" width="560">
+<img src="images/prompts/1116.jpg" alt="Identify what" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42167,13 +39981,13 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 
 </details>
 
-👤 [@gh-Gorden_Sun](https://x.com/gh-Gorden_Sun) · [Source tweet](https://x.com/Gorden_Sun/status/2048080137149899133) · Tags: `comparison`
+👤 [@gh-Gorden_Sun](https://x.com/gh-Gorden_Sun) · [Source](https://x.com/Gorden_Sun/status/2048080137149899133) · Tags: `comparison`
 
 ---
 
-#### 12. Car
+#### 1117. Car
 
-<img src="images/awesome-gpt2/ui/106.jpg" alt="Car" width="560">
+<img src="images/prompts/1117.jpg" alt="Car" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42183,13 +39997,13 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 </details>
 
-👤 [@gh-mosthssan](https://x.com/gh-mosthssan) · [Source tweet](https://x.com/mosthssan/status/2048160477658980711) · Tags: `infographic`
+👤 [@gh-mosthssan](https://x.com/gh-mosthssan) · [Source](https://x.com/mosthssan/status/2048160477658980711) · Tags: `infographic`
 
 ---
 
-#### 13. Face from memos and symbols
+#### 1118. Face from memos and symbols
 
-<img src="images/awesome-gpt2/character/9.jpg" alt="Face from memos and symbols" width="560">
+<img src="images/prompts/1118.jpg" alt="Face from memos and symbols" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42233,13 +40047,13 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 </details>
 
-👤 [@gh-loglogrog](https://x.com/gh-loglogrog) · [Source tweet](https://x.com/loglogrog/status/2046448773162033240) · Tags: `portrait` `character`
+👤 [@gh-loglogrog](https://x.com/gh-loglogrog) · [Source](https://x.com/loglogrog/status/2046448773162033240) · Tags: `portrait`
 
 ---
 
-#### 14. Watercolor painting style
+#### 1119. Watercolor painting style
 
-<img src="images/awesome-gpt2/poster/138.jpg" alt="Watercolor painting style" width="560">
+<img src="images/prompts/1119.jpg" alt="Watercolor painting style" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42249,13 +40063,13 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 
 </details>
 
-👤 [@gh-JohnnyWang8802](https://x.com/gh-JohnnyWang8802) · [Source tweet](https://x.com/JohnnyWang8802/status/2048129335853559824)
+👤 [@gh-JohnnyWang8802](https://x.com/gh-JohnnyWang8802) · [Source](https://x.com/JohnnyWang8802/status/2048129335853559824)
 
 ---
 
-#### 15. Vintage cat
+#### 1120. Vintage cat
 
-<img src="images/awesome-gpt2/poster/79.jpg" alt="Vintage cat" width="560">
+<img src="images/prompts/1120.jpg" alt="Vintage cat" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42265,13 +40079,13 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 
 </details>
 
-👤 [@gh-dotey](https://x.com/gh-dotey) · [Source tweet](https://x.com/dotey/status/2047803054422901046) · Tags: `product`
+👤 [@gh-dotey](https://x.com/gh-dotey) · [Source](https://x.com/dotey/status/2047803054422901046) · Tags: `product`
 
 ---
 
-#### 16. Minimalist character
+#### 1121. Minimalist character
 
-<img src="images/awesome-gpt2/poster/61.jpg" alt="Minimalist character" width="560">
+<img src="images/prompts/1121.jpg" alt="Minimalist character" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42285,13 +40099,13 @@ Two children in calm conversation,soft connection forming.
 
 </details>
 
-👤 [@gh-dotey](https://x.com/gh-dotey) · [Source tweet](https://x.com/dotey/status/2047174895293849972) · Tags: `character`
+👤 [@gh-dotey](https://x.com/gh-dotey) · [Source](https://x.com/dotey/status/2047174895293849972) · Tags: `character`
 
 ---
 
-#### 17. Equirectangular image
+#### 1122. Equirectangular image
 
-<img src="images/awesome-gpt2/poster/60.jpg" alt="Equirectangular image" width="560">
+<img src="images/prompts/1122.jpg" alt="Equirectangular image" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42303,13 +40117,13 @@ Online 360° Panorama Viewer VR
 
 </details>
 
-👤 [@gh-rs_elwood](https://x.com/gh-rs_elwood) · [Source tweet](https://x.com/rs_elwood/status/2047192228758692036) · Tags: `poster`
+👤 [@gh-rs_elwood](https://x.com/gh-rs_elwood) · [Source](https://x.com/rs_elwood/status/2047192228758692036) · Tags: `poster`
 
 ---
 
-#### 18. Sketch sketch style
+#### 1123. Sketch sketch style
 
-<img src="images/awesome-gpt2/poster/36.jpg" alt="Sketch sketch style" width="560">
+<img src="images/prompts/1123.jpg" alt="Sketch sketch style" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42319,13 +40133,13 @@ Express '[an awesome AI builder]' in a doodle/sketch style.
 
 </details>
 
-👤 [@gh-opc_8838](https://x.com/gh-opc_8838) · [Source tweet](https://x.com/opc_8838/status/2046162334440448339) · Tags: `character`
+👤 [@gh-opc_8838](https://x.com/gh-opc_8838) · [Source](https://x.com/opc_8838/status/2046162334440448339) · Tags: `character`
 
 ---
 
-#### 19. Chinese pictorial
+#### 1124. Chinese pictorial
 
-<img src="images/awesome-gpt2/poster/33.jpg" alt="Chinese pictorial" width="560">
+<img src="images/prompts/1124.jpg" alt="Chinese pictorial" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42335,13 +40149,13 @@ Draw 'Havoc in Heaven' (Sun Wukong) for me in the style of a Chinese pictorial p
 
 </details>
 
-👤 [@gh-overseas58](https://x.com/gh-overseas58) · [Source tweet](https://x.com/overseas58/status/2046271877577097376) · Tags: `character`
+👤 [@gh-overseas58](https://x.com/gh-overseas58) · [Source](https://x.com/overseas58/status/2046271877577097376) · Tags: `character`
 
 ---
 
-#### 20. Sci-fi concept image
+#### 1125. Sci-fi concept image
 
-<img src="images/awesome-gpt2/poster/8.jpg" alt="Sci-fi concept image" width="560">
+<img src="images/prompts/1125.jpg" alt="Sci-fi concept image" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42351,13 +40165,13 @@ Draw a near-future sci-fi version of a mandala.
 
 </details>
 
-👤 [@gh-4WEB1](https://x.com/gh-4WEB1) · [Source tweet](https://x.com/4WEB1/status/2045390207072256179) · Tags: `product`
+👤 [@gh-4WEB1](https://x.com/gh-4WEB1) · [Source](https://x.com/4WEB1/status/2045390207072256179) · Tags: `product`
 
 ---
 
-#### 21. Minimalist landscape v2
+#### 1126. Minimalist landscape v2
 
-<img src="images/awesome-gpt2/poster/4.jpg" alt="Minimalist landscape v2" width="560">
+<img src="images/prompts/1126.jpg" alt="Minimalist landscape v2" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42375,13 +40189,13 @@ Below, the inscription 'Eastern Aesthetics' is written in black regular script; 
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045368305079447853) · Tags: `poster`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045368305079447853) · Tags: `poster`
 
 ---
 
-#### 22. Toddler scribble crayon style
+#### 1127. Toddler scribble crayon style
 
-<img src="images/awesome-gpt2/portrait/31.jpg" alt="Toddler scribble crayon style" width="560">
+<img src="images/prompts/1127.jpg" alt="Toddler scribble crayon style" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42393,11 +40207,11 @@ good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talente
 
 </details>
 
-👤 [@gh-akakageAI](https://x.com/gh-akakageAI) · [Source tweet](https://x.com/akakageAI/status/2047812983389356276) · Tags: `portrait`
+👤 [@gh-akakageAI](https://x.com/gh-akakageAI) · [Source](https://x.com/akakageAI/status/2047812983389356276) · Tags: `portrait`
 
 ---
 
-#### 23. Gemma Correll hand-drawn character
+#### 1128. Gemma Correll hand-drawn character
 
 <img src="images/prompts/2047993289283133945.jpg" alt="Gemma Correll hand-drawn character" width="560">
 
@@ -42409,21 +40223,13 @@ A simple illustration of a [subject] in [outfit], [doing action], with a [facial
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2047993289283133945-1.jpg" width="320">
-<img src="images/prompts/2047993289283133945-2.jpg" width="320">
-<img src="images/prompts/2047993289283133945-3.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai) · Tags: `character`
 
 ---
 
-#### 24. Cinematic lighting king
+#### 1129. Cinematic lighting king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046025895941750868/0.jpg" alt="Cinematic lighting king" width="560">
+<img src="images/prompts/2046025895941750868.jpg" alt="Cinematic lighting king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -42433,11 +40239,11 @@ A simple illustration of a [subject] in [outfit], [doing action], with a [facial
 
 </details>
 
-👤 [@austinit](https://x.com/austinit) · Tags: `character` `3d-render`
+👤 [@austinit](https://x.com/austinit) · Tags: `character`
 
 ---
 
-#### 25. Editorial style character design
+#### 1130. Editorial style character design
 
 <img src="images/prompts/2043284009116160473.jpg" alt="Editorial style character design" width="560">
 
@@ -42449,19 +40255,11 @@ A simple black-and-white illustration of a [subject] in [outfit], [doing action]
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2043284009116160473-1.jpg" width="320">
-<img src="images/prompts/2043284009116160473-2.jpg" width="320">
-<img src="images/prompts/2043284009116160473-3.jpg" width="320">
-
-</details>
-
 👤 [@azed_ai](https://x.com/azed_ai) · Tags: `character`
 
 ---
 
-#### 26. Cinematic lighting glowing turtle
+#### 1131. Cinematic lighting glowing turtle
 
 <img src="images/prompts/2041512847016890622.jpg" alt="Cinematic lighting glowing turtle" width="560">
 
@@ -42473,17 +40271,11 @@ A digital fantasy illustration of a small turtle resting on a grassy riverbank a
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041512847016890622-1.jpg" width="320">
-
-</details>
-
 👤 [@churvikv](https://x.com/churvikv)
 
 ---
 
-#### 27. Giant woman miniature library
+#### 1132. Giant woman miniature library
 
 <img src="images/prompts/2040304148516651431.jpg" alt="Giant woman miniature library" width="560">
 
@@ -42499,7 +40291,7 @@ A hyper-realistic cinematic scene of a young woman sitting at a wooden desk in a
 
 ---
 
-#### 28. Mystical tree of life
+#### 1133. Mystical tree of life
 
 <img src="images/prompts/2039728974092243121.jpg" alt="Mystical tree of life" width="560">
 
@@ -42511,17 +40303,11 @@ A majestic, ancient gnarled tree with thick, twisting roots sits at the center o
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2039728974092243121-1.jpg" width="320">
-
-</details>
-
 👤 [@churvikv](https://x.com/churvikv)
 
 ---
 
-#### 29. Giant filmmaker miniature scene
+#### 1134. Giant filmmaker miniature scene
 
 <img src="images/prompts/2039602803220591004.jpg" alt="Giant filmmaker miniature scene" width="560">
 
@@ -42537,7 +40323,7 @@ A hyper-realistic cinematic scene of a giant woman filmmaker carefully adjusting
 
 ---
 
-#### 30. Vintage isometric country map
+#### 1135. Vintage isometric country map
 
 <img src="images/prompts/2037508886639366409.jpg" alt="Vintage isometric country map" width="560">
 
@@ -42553,7 +40339,7 @@ A hand-painted isometric bird’s-eye view illustration of [COUNTRY] in a vintag
 
 ---
 
-#### 31. Cream and blue mountain landscape
+#### 1136. Cream and blue mountain landscape
 
 <img src="images/prompts/2034103289185505560.jpg" alt="Cream and blue mountain landscape" width="560">
 
@@ -42569,7 +40355,7 @@ A hand-painted isometric bird’s-eye view illustration of [COUNTRY] in a vintag
 
 ---
 
-#### 32. Pebble mosaic woman
+#### 1137. Pebble mosaic woman
 
 <img src="images/prompts/2031520039850094952.jpg" alt="Pebble mosaic woman" width="560">
 
@@ -42581,11 +40367,11 @@ A highly detailed pebble mosaic portrait of a beautiful woman, where the entire 
 
 </details>
 
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait` `character`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait`
 
 ---
 
-#### 33. Creative scene
+#### 1138. Creative scene
 
 <img src="images/prompts/2026301375249105195.jpg" alt="Creative scene" width="560">
 
@@ -42597,11 +40383,11 @@ A highly detailed pebble mosaic portrait of a beautiful woman, where the entire 
 
 </details>
 
-👤 [@VigoCreativeAI](https://x.com/VigoCreativeAI) · Tags: `product` `branding`
+👤 [@VigoCreativeAI](https://x.com/VigoCreativeAI) · Tags: `product`
 
 ---
 
-#### 34. Space scene
+#### 1139. Space scene
 
 <img src="images/prompts/2024228848221491246.jpg" alt="Space scene" width="560">
 
@@ -42613,19 +40399,11 @@ Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and b
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2024228848221491246-1.jpg" width="320">
-<img src="images/prompts/2024228848221491246-2.jpg" width="320">
-<img src="images/prompts/2024228848221491246-3.jpg" width="320">
-
-</details>
-
 👤 [@NanoBanana](https://x.com/NanoBanana)
 
 ---
 
-#### 35. Woman portrait v2
+#### 1140. Woman portrait v2
 
 <img src="images/prompts/2023022794800599059.jpg" alt="Woman portrait v2" width="560">
 
@@ -42637,11 +40415,11 @@ A beautiful semi-realistic digital portrait of an elegant young woman with short
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait` `character`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait`
 
 ---
 
-#### 36. Man portrait
+#### 1141. Man portrait
 
 <img src="images/prompts/2022690823062884582.jpg" alt="Man portrait" width="560">
 
@@ -42653,11 +40431,11 @@ A 3D Pixar-style animated young male character showcased in a 6-panel grid layou
 
 </details>
 
-👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character` `3d-render`
+👤 [@Taaruk_](https://x.com/Taaruk_) · Tags: `character`
 
 ---
 
-#### 37. Skincare splash flat-lay
+#### 1142. Skincare splash flat-lay
 
 <img src="images/prompts/2015689672807297132.jpg" alt="Skincare splash flat-lay" width="560">
 
@@ -42673,7 +40451,7 @@ A 3D Pixar-style animated young male character showcased in a 6-panel grid layou
 
 ---
 
-#### 38. Anime living room composite
+#### 1143. Anime living room composite
 
 <img src="images/prompts/2015676042460168488.jpg" alt="Anime living room composite" width="560">
 
@@ -42689,17 +40467,11 @@ Soft natural light streams in from the left side through sheer curtains, creatin
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015676042460168488-1.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `character`
 
 ---
 
-#### 39. Seblak swirl food shot
+#### 1144. Seblak swirl food shot
 
 <img src="images/prompts/2015383108452057585.jpg" alt="Seblak swirl food shot" width="560">
 
@@ -42713,19 +40485,11 @@ Destroy ONLY the FOOD: crackers/kerupuk tear and split revealing bubbly porous t
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015383108452057585-1.jpg" width="320">
-<img src="images/prompts/2015383108452057585-2.jpg" width="320">
-<img src="images/prompts/2015383108452057585-3.jpg" width="320">
-
-</details>
-
 👤 [@ChillaiKalan__](https://x.com/ChillaiKalan__)
 
 ---
 
-#### 40. Animal snack pack triptych
+#### 1145. Animal snack pack triptych
 
 <img src="images/prompts/2015256585984176226.jpg" alt="Animal snack pack triptych" width="560">
 
@@ -42834,18 +40598,11 @@ Destroy ONLY the FOOD: crackers/kerupuk tear and split revealing bubbly porous t
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015256585984176226-1.jpg" width="320">
-<img src="images/prompts/2015256585984176226-2.jpg" width="320">
-
-</details>
-
 👤 [@meng_dagg695](https://x.com/meng_dagg695) · Tags: `3d-render`
 
 ---
 
-#### 41. Subscribe pointing selfie
+#### 1146. Subscribe pointing selfie
 
 <img src="images/prompts/2013490554466939282.jpg" alt="Subscribe pointing selfie" width="560">
 
@@ -42938,7 +40695,7 @@ Destroy ONLY the FOOD: crackers/kerupuk tear and split revealing bubbly porous t
 
 ---
 
-#### 42. Petra Collins bedroom shot
+#### 1147. Petra Collins bedroom shot
 
 <img src="images/prompts/2013322620775592171.jpg" alt="Petra Collins bedroom shot" width="560">
 
@@ -42976,17 +40733,11 @@ Destroy ONLY the FOOD: crackers/kerupuk tear and split revealing bubbly porous t
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013322620775592171-1.jpg" width="320">
-
-</details>
-
 👤 [@ttmouse](https://x.com/ttmouse)
 
 ---
 
-#### 43. Casino worm's-eye flash shot
+#### 1148. Casino worm's-eye flash shot
 
 <img src="images/prompts/2013274752228503644.jpg" alt="Casino worm's-eye flash shot" width="560">
 
@@ -43083,17 +40834,11 @@ Destroy ONLY the FOOD: crackers/kerupuk tear and split revealing bubbly porous t
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013274752228503644-1.jpg" width="320">
-
-</details>
-
 👤 [@chatgptpaglu](https://x.com/chatgptpaglu)
 
 ---
 
-#### 44. Passport stamp city scene
+#### 1149. Passport stamp city scene
 
 <img src="images/prompts/2013269718572965934.jpg" alt="Passport stamp city scene" width="560">
 
@@ -43107,19 +40852,11 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. T
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013269718572965934-1.jpg" width="320">
-<img src="images/prompts/2013269718572965934-2.jpg" width="320">
-<img src="images/prompts/2013269718572965934-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `3d-render`
 
 ---
 
-#### 45. Doll-features beach selfie
+#### 1150. Doll-features beach selfie
 
 <img src="images/prompts/2013189624848633963.jpg" alt="Doll-features beach selfie" width="560">
 
@@ -43208,7 +40945,7 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. T
 
 ---
 
-#### 46. Hand-knitted yarn product
+#### 1151. Hand-knitted yarn product
 
 <img src="images/prompts/2012909092210381048.jpg" alt="Hand-knitted yarn product" width="560">
 
@@ -43220,19 +40957,11 @@ An [OBJECT] rendered as if entirely hand-knitted from chunky wool yarn, impossib
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012909092210381048-1.jpg" width="320">
-<img src="images/prompts/2012909092210381048-2.jpg" width="320">
-<img src="images/prompts/2012909092210381048-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling)
 
 ---
 
-#### 47. 2000s scrapbook collage
+#### 1152. 2000s scrapbook collage
 
 <img src="images/prompts/2012542946848174323.jpg" alt="2000s scrapbook collage" width="560">
 
@@ -43248,11 +40977,11 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 </details>
 
-👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait` `comparison`
+👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait`
 
 ---
 
-#### 48. Gen Z 3x3 hard-flash bedroom collage
+#### 1153. Gen Z 3x3 hard-flash bedroom collage
 
 <img src="images/prompts/2012027041580007890.jpg" alt="Gen Z 3x3 hard-flash bedroom collage" width="560">
 
@@ -43308,7 +41037,7 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 ---
 
-#### 49. Colossal object as living biome
+#### 1154. Colossal object as living biome
 
 <img src="images/prompts/2011819664536444937.jpg" alt="Colossal object as living biome" width="560">
 
@@ -43320,19 +41049,11 @@ A colossal [OBJECT] reimagined as a complete natural biome. Tiny [WILDLIFE] has 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011819664536444937-1.jpg" width="320">
-<img src="images/prompts/2011819664536444937-2.jpg" width="320">
-<img src="images/prompts/2011819664536444937-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling)
 
 ---
 
-#### 50. Cozy isometric bathroom diorama
+#### 1155. Cozy isometric bathroom diorama
 
 <img src="images/prompts/2011801500541206983.jpg" alt="Cozy isometric bathroom diorama" width="560">
 
@@ -43360,11 +41081,11 @@ A colossal [OBJECT] reimagined as a complete natural biome. Tiny [WILDLIFE] has 
 
 </details>
 
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `3d-render` `character`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `3d-render`
 
 ---
 
-#### 51. Pizza cheese-pull 5-image series
+#### 1156. Pizza cheese-pull 5-image series
 
 <img src="images/prompts/2011762827866845208.jpg" alt="Pizza cheese-pull 5-image series" width="560">
 
@@ -43420,7 +41141,7 @@ A colossal [OBJECT] reimagined as a complete natural biome. Tiny [WILDLIFE] has 
 
 ---
 
-#### 52. Translucent glass skeleton studying
+#### 1157. Translucent glass skeleton studying
 
 <img src="images/prompts/2011453125685608456.jpg" alt="Translucent glass skeleton studying" width="560">
 
@@ -43436,7 +41157,7 @@ Create a high-quality stylized 3D render of a clear, translucent glass skeleton 
 
 ---
 
-#### 53. Hand-drawn isometric street schematic
+#### 1158. Hand-drawn isometric street schematic
 
 <img src="images/prompts/2011441977447911691.jpg" alt="Hand-drawn isometric street schematic" width="560">
 
@@ -43452,7 +41173,7 @@ Create a high-quality stylized 3D render of a clear, translucent glass skeleton 
 
 ---
 
-#### 54. Avengers superhero group selfie
+#### 1159. Avengers superhero group selfie
 
 <img src="images/prompts/2011365103527166084.jpg" alt="Avengers superhero group selfie" width="560">
 
@@ -43468,7 +41189,7 @@ A ultra realistic group selfie, center is the person from the attached image, we
 
 ---
 
-#### 55. Ana de Armas outfit fusion portrait
+#### 1160. Ana de Armas outfit fusion portrait
 
 <img src="images/prompts/2011344520684978536.jpg" alt="Ana de Armas outfit fusion portrait" width="560">
 
@@ -43545,7 +41266,7 @@ A ultra realistic group selfie, center is the person from the attached image, we
 
 ---
 
-#### 56. Bird's-eye full-body portrait
+#### 1161. Bird's-eye full-body portrait
 
 <img src="images/prompts/2011289215712256125.jpg" alt="Bird's-eye full-body portrait" width="560">
 
@@ -43601,17 +41322,11 @@ A ultra realistic group selfie, center is the person from the attached image, we
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011289215712256125-1.jpg" width="320">
-
-</details>
-
 👤 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab)
 
 ---
 
-#### 57. 5-part food cheese-pull series
+#### 1162. 5-part food cheese-pull series
 
 <img src="images/prompts/2011261271946187209.jpg" alt="5-part food cheese-pull series" width="560">
 
@@ -43664,19 +41379,11 @@ A ultra realistic group selfie, center is the person from the attached image, we
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011261271946187209-1.jpg" width="320">
-<img src="images/prompts/2011261271946187209-2.jpg" width="320">
-<img src="images/prompts/2011261271946187209-3.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7)
 
 ---
 
-#### 58. K-pop trio gothic lolita pink fur
+#### 1163. K-pop trio gothic lolita pink fur
 
 <img src="images/prompts/2011117557391225023.jpg" alt="K-pop trio gothic lolita pink fur" width="560">
 
@@ -43737,7 +41444,7 @@ A ultra realistic group selfie, center is the person from the attached image, we
 
 ---
 
-#### 59. Grilled cheese cheese-pull action shot
+#### 1164. Grilled cheese cheese-pull action shot
 
 <img src="images/prompts/2011112123653603558.jpg" alt="Grilled cheese cheese-pull action shot" width="560">
 
@@ -43753,7 +41460,7 @@ two hands pulling apart a grilled cheese sandwich, strands of melted cheddar str
 
 ---
 
-#### 60. Airplane window mountain house view
+#### 1165. Airplane window mountain house view
 
 <img src="images/prompts/2011050049258865019.jpg" alt="Airplane window mountain house view" width="560">
 
@@ -43765,19 +41472,11 @@ a window looking out an airplane and you can see a 4k image of a futuistic, very
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011050049258865019-1.jpg" width="320">
-<img src="images/prompts/2011050049258865019-2.jpg" width="320">
-<img src="images/prompts/2011050049258865019-3.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X)
 
 ---
 
-#### 61. Anti-memetic entity surreal photo
+#### 1166. Anti-memetic entity surreal photo
 
 <img src="images/prompts/2010717853734048215.jpg" alt="Anti-memetic entity surreal photo" width="560">
 
@@ -43793,7 +41492,7 @@ a photo of an impossible imperceptible anti-memetic entity, no labels, outside
 
 ---
 
-#### 62. Geometric zen abstract composition
+#### 1167. Geometric zen abstract composition
 
 <img src="images/prompts/2010274889933148196.jpg" alt="Geometric zen abstract composition" width="560">
 
@@ -43805,19 +41504,11 @@ a photo of an impossible imperceptible anti-memetic entity, no labels, outside
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010274889933148196-1.jpg" width="320">
-<img src="images/prompts/2010274889933148196-2.jpg" width="320">
-<img src="images/prompts/2010274889933148196-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir)
 
 ---
 
-#### 63. Crayon city landmarks drawing
+#### 1168. Crayon city landmarks drawing
 
 <img src="images/prompts/2008534095404691697.jpg" alt="Crayon city landmarks drawing" width="560">
 
@@ -43833,7 +41524,7 @@ A neat, colorful crayon and colored-pencil drawing of [CITY], featuring iconic l
 
 ---
 
-#### 64. Ballpoint pen caricature
+#### 1169. Ballpoint pen caricature
 
 <img src="images/prompts/2007052918491582639.jpg" alt="Ballpoint pen caricature" width="560">
 
@@ -43849,7 +41540,7 @@ A detailed ballpoint pen sketch of [CHARACTER] drawn on checkered notebook paper
 
 ---
 
-#### 65. Continent-shaped cloud sky
+#### 1170. Continent-shaped cloud sky
 
 <img src="images/prompts/2003815152937046096.jpg" alt="Continent-shaped cloud sky" width="560">
 
@@ -43861,28 +41552,11 @@ A photorealistic image of a cloud in the sky, uniquely shaped like all the conti
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2003815152937046096-1.jpg" width="320">
-<img src="images/prompts/2003815152937046096-2.jpg" width="320">
-<img src="images/prompts/2003815152937046096-3.jpg" width="320">
-
-</details>
-
 👤 [@umesh_ai](https://x.com/umesh_ai)
-
 
 ---
 
-<a id="cat-poster"></a>
-
-### 📰 Posters & Typography
-
-> Event posters, covers, type-driven visuals, and strong layouts.
-
-**49 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Anime propaganda poster collage
+#### 1171. Anime propaganda poster collage
 
 <img src="images/prompts/2051207505276260792.jpg" alt="Anime propaganda poster collage" width="560">
 
@@ -43961,17 +41635,11 @@ A photorealistic image of a cloud in the sky, uniquely shaped like all the conti
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2051207505276260792-1.jpg" width="320">
-
-</details>
-
-👤 [@Just_sharon7](https://x.com/Just_sharon7) · [Source tweet](https://x.com/Just_sharon7/status/2051207505276260792) · Tags: `character`
+👤 [@Just_sharon7](https://x.com/Just_sharon7) · [Source](https://x.com/Just_sharon7/status/2051207505276260792) · Tags: `character`
 
 ---
 
-#### 2. Allure-style fashion magazine cover
+#### 1172. Allure-style fashion magazine cover
 
 <img src="images/prompts/2051182061562818600.jpg" alt="Allure-style fashion magazine cover" width="560">
 
@@ -44045,11 +41713,11 @@ A photorealistic image of a cloud in the sky, uniquely shaped like all the conti
 
 </details>
 
-👤 [@Maercihh](https://x.com/Maercihh) · [Source tweet](https://x.com/Maercihh/status/2051182061562818600) · Tags: `portrait` `product`
+👤 [@Maercihh](https://x.com/Maercihh) · [Source](https://x.com/Maercihh/status/2051182061562818600) · Tags: `portrait`
 
 ---
 
-#### 3. Monochrome optical concept poster
+#### 1173. Monochrome optical concept poster
 
 <img src="images/prompts/2049495868873531629.jpg" alt="Monochrome optical concept poster" width="560">
 
@@ -44125,25 +41793,13 @@ Ensure the theme text is rendered accurately and the overall style is unified, w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2049495868873531629-1.jpg" width="320">
-<img src="images/prompts/2049495868873531629-2.jpg" width="320">
-<img src="images/prompts/2049495868873531629-3.jpg" width="320">
-<img src="images/prompts/2049495868873531629-4.jpg" width="320">
-<img src="images/prompts/2049495868873531629-5.jpg" width="320">
-<img src="images/prompts/2049495868873531629-6.jpg" width="320">
-<img src="images/prompts/2049495868873531629-7.jpg" width="320">
-
-</details>
-
-👤 [@MrLarus](https://x.com/MrLarus) · [Source tweet](https://x.com/MrLarus/status/2049495868873531629) · Tags: `branding` `illustration`
+👤 [@MrLarus](https://x.com/MrLarus) · [Source](https://x.com/MrLarus/status/2049495868873531629) · Tags: `branding`
 
 ---
 
-#### 4. China Aerospace stamp
+#### 1174. China Aerospace stamp
 
-<img src="images/awesome-gpt2/comparison/57.jpg" alt="China Aerospace stamp" width="560">
+<img src="images/prompts/1174.jpg" alt="China Aerospace stamp" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44153,13 +41809,13 @@ China Aerospace commemorative stamp mini-sheet, rocket launch scene, with a hot-
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047129703702802811) · Tags: `branding` `comparison`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047129703702802811) · Tags: `branding`
 
 ---
 
-#### 5. Nezha epic fantasy novel
+#### 1175. Nezha epic fantasy novel
 
-<img src="images/awesome-gpt2/comparison/52.jpg" alt="Nezha epic fantasy novel" width="560">
+<img src="images/prompts/1175.jpg" alt="Nezha epic fantasy novel" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44169,13 +41825,13 @@ Fantasy-novel cover — Nezha with three heads and six arms hovering in the void
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047196508270084104) · Tags: `character`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047196508270084104) · Tags: `character`
 
 ---
 
-#### 6. Mortal Kombat versus poster
+#### 1176. Mortal Kombat versus poster
 
-<img src="images/awesome-gpt2/comparison/33.jpg" alt="Mortal Kombat versus poster" width="560">
+<img src="images/prompts/1176.jpg" alt="Mortal Kombat versus poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44188,13 +41844,13 @@ Fantasy-novel cover — Nezha with three heads and six arms hovering in the void
 
 </details>
 
-👤 [@gh-joshesye](https://x.com/gh-joshesye) · [Source tweet](https://x.com/joshesye/status/2046493442428039212) · Tags: `character` `comparison`
+👤 [@gh-joshesye](https://x.com/gh-joshesye) · [Source](https://x.com/joshesye/status/2046493442428039212) · Tags: `character`
 
 ---
 
-#### 7. Silhouette Universe collector
+#### 1177. Silhouette Universe collector
 
-<img src="images/awesome-gpt2/comparison/23.jpg" alt="Silhouette Universe collector" width="560">
+<img src="images/prompts/1177.jpg" alt="Silhouette Universe collector" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44214,13 +41870,13 @@ Final: First glance — strong theme identity and silhouette memory; second glan
 
 </details>
 
-👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source tweet](https://x.com/MrLarus/status/2045418028733538620) · Tags: `illustration`
+👤 [@gh-MrLarus](https://x.com/gh-MrLarus) · [Source](https://x.com/MrLarus/status/2045418028733538620) · Tags: `illustration`
 
 ---
 
-#### 8. Infographic portrait
+#### 1178. Infographic portrait
 
-<img src="images/awesome-gpt2/poster/162.jpg" alt="Infographic portrait" width="560">
+<img src="images/prompts/1178.jpg" alt="Infographic portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44230,13 +41886,13 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 </details>
 
-👤 [@gh-Kazuch75240438](https://x.com/gh-Kazuch75240438) · [Source tweet](https://x.com/Kazuch75240438/status/2048205418238030327) · Tags: `portrait`
+👤 [@gh-Kazuch75240438](https://x.com/gh-Kazuch75240438) · [Source](https://x.com/Kazuch75240438/status/2048205418238030327) · Tags: `portrait`
 
 ---
 
-#### 9. Film grain poster
+#### 1179. Film grain poster
 
-<img src="images/awesome-gpt2/poster/65.jpg" alt="Film grain poster" width="560">
+<img src="images/prompts/1179.jpg" alt="Film grain poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44248,13 +41904,13 @@ Image 2: Durex mascot × Zhu Bajie — Bajie embarrassed and blushing, covering 
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047201597697245252) · Tags: `character` `branding`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047201597697245252) · Tags: `character`
 
 ---
 
-#### 10. Poster
+#### 1180. Poster
 
-<img src="images/awesome-gpt2/poster/64.jpg" alt="Poster" width="560">
+<img src="images/prompts/1180.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44266,13 +41922,13 @@ Image 2: Dongfang Bubai's embroidery needles flying like darts, red robe and lon
 
 </details>
 
-👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source tweet](https://x.com/songguoxiansen/status/2047204566559756707) · Tags: `character`
+👤 [@gh-songguoxiansen](https://x.com/gh-songguoxiansen) · [Source](https://x.com/songguoxiansen/status/2047204566559756707) · Tags: `character`
 
 ---
 
-#### 11. Poster
+#### 1181. Poster
 
-<img src="images/awesome-gpt2/poster/63.jpg" alt="Poster" width="560">
+<img src="images/prompts/1181.jpg" alt="Poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44282,13 +41938,13 @@ Help me generate a poster introducing West Lake in Hangzhou.
 
 </details>
 
-👤 [@gh-BNBOKBt5](https://x.com/gh-BNBOKBt5) · [Source tweet](https://x.com/BNBOKBt5/status/2047210189741605082) · Tags: `branding`
+👤 [@gh-BNBOKBt5](https://x.com/gh-BNBOKBt5) · [Source](https://x.com/BNBOKBt5/status/2047210189741605082) · Tags: `branding`
 
 ---
 
-#### 12. Infographic poster
+#### 1182. Infographic poster
 
-<img src="images/awesome-gpt2/poster/50.jpg" alt="Infographic poster" width="560">
+<img src="images/prompts/1182.jpg" alt="Infographic poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44381,13 +42037,13 @@ Maximum detail density, ultra-clear, cinematic, print-grade, high-end final-imag
 
 </details>
 
-👤 [@gh-A9Quant](https://x.com/gh-A9Quant) · [Source tweet](https://x.com/A9Quant/status/2046224777208361126) · Tags: `character`
+👤 [@gh-A9Quant](https://x.com/gh-A9Quant) · [Source](https://x.com/A9Quant/status/2046224777208361126) · Tags: `character`
 
 ---
 
-#### 13. Family
+#### 1183. Family
 
-<img src="images/awesome-gpt2/poster/49.jpg" alt="Family" width="560">
+<img src="images/prompts/1183.jpg" alt="Family" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44397,13 +42053,13 @@ Maximum detail density, ultra-clear, cinematic, print-grade, high-end final-imag
 
 </details>
 
-👤 [@gh-weel_corp](https://x.com/gh-weel_corp) · [Source tweet](https://x.com/weel_corp/status/2046514558064586782) · Tags: `branding` `product`
+👤 [@gh-weel_corp](https://x.com/gh-weel_corp) · [Source](https://x.com/weel_corp/status/2046514558064586782) · Tags: `branding`
 
 ---
 
-#### 14. Cinematic lighting landscape
+#### 1184. Cinematic lighting landscape
 
-<img src="images/awesome-gpt2/poster/48.jpg" alt="Cinematic lighting landscape" width="560">
+<img src="images/prompts/1184.jpg" alt="Cinematic lighting landscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44423,13 +42079,13 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 </details>
 
-👤 [@gh-carsonyungos](https://x.com/gh-carsonyungos) · [Source tweet](https://x.com/carsonyungos/status/2046523198116889064) · Tags: `branding`
+👤 [@gh-carsonyungos](https://x.com/gh-carsonyungos) · [Source](https://x.com/carsonyungos/status/2046523198116889064) · Tags: `branding`
 
 ---
 
-#### 15. Movie poster poster
+#### 1185. Movie poster poster
 
-<img src="images/awesome-gpt2/poster/45.jpg" alt="Movie poster poster" width="560">
+<img src="images/prompts/1185.jpg" alt="Movie poster poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44439,13 +42095,13 @@ Create a Science fiction movie poster
 
 </details>
 
-👤 [@gh-underwoodxie96](https://x.com/gh-underwoodxie96) · [Source tweet](https://x.com/underwoodxie96/status/2046514205529088501) · Tags: `illustration`
+👤 [@gh-underwoodxie96](https://x.com/gh-underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2046514205529088501) · Tags: `illustration`
 
 ---
 
-#### 16. Movie poster poster
+#### 1186. Movie poster poster
 
-<img src="images/awesome-gpt2/poster/40.jpg" alt="Movie poster poster" width="560">
+<img src="images/prompts/1186.jpg" alt="Movie poster poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44455,13 +42111,13 @@ Create a fictional anime movie poster with GPT image 2.
 
 </details>
 
-👤 [@gh-seiiiiiiiiiiru](https://x.com/gh-seiiiiiiiiiiru) · [Source tweet](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) · Tags: `character` `illustration`
+👤 [@gh-seiiiiiiiiiiru](https://x.com/gh-seiiiiiiiiiiru) · [Source](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) · Tags: `character`
 
 ---
 
-#### 17. Minimalist landscape
+#### 1187. Minimalist landscape
 
-<img src="images/awesome-gpt2/poster/35.jpg" alt="Minimalist landscape" width="560">
+<img src="images/prompts/1187.jpg" alt="Minimalist landscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44471,13 +42127,13 @@ Neo-Chinese ink-wash landscape poster, vertical 9:16 composition, Eastern minima
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2046215276249993720) · Tags: `illustration`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2046215276249993720) · Tags: `illustration`
 
 ---
 
-#### 18. Double exposure cityscape
+#### 1188. Double exposure cityscape
 
-<img src="images/awesome-gpt2/poster/24.jpg" alt="Double exposure cityscape" width="560">
+<img src="images/prompts/1188.jpg" alt="Double exposure cityscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44492,13 +42148,13 @@ Text layout is elegant, generous, characters clear and complete. Aspect 9:16.
 
 </details>
 
-👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source tweet](https://x.com/alanlovelq/status/2045484598487060917) · Tags: `branding`
+👤 [@gh-alanlovelq](https://x.com/gh-alanlovelq) · [Source](https://x.com/alanlovelq/status/2045484598487060917) · Tags: `branding`
 
 ---
 
-#### 19. Double exposure poster
+#### 1189. Double exposure poster
 
-<img src="images/awesome-gpt2/poster/14.jpg" alt="Double exposure poster" width="560">
+<img src="images/prompts/1189.jpg" alt="Double exposure poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44508,13 +42164,13 @@ A 2026 Guangzhou city promo poster, festive yet elegant for the Spring Festival,
 
 </details>
 
-👤 [@gh-grok](https://x.com/gh-grok) · [Source tweet](https://x.com/grok/status/2046012437086818395) · Tags: `branding`
+👤 [@gh-grok](https://x.com/gh-grok) · [Source](https://x.com/grok/status/2046012437086818395) · Tags: `branding`
 
 ---
 
-#### 20. Ink S-curve black canvas poster
+#### 1190. Ink S-curve black canvas poster
 
-<img src="images/awesome-gpt2/poster/12.jpg" alt="Ink S-curve black canvas poster" width="560">
+<img src="images/prompts/1190.jpg" alt="Ink S-curve black canvas poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44524,13 +42180,13 @@ On a pure deep-black background, a thick, powerful S-curve drawn in ink calligra
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045873940883808523) · Tags: `branding`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045873940883808523) · Tags: `branding`
 
 ---
 
-#### 21. Koi-in-nebula surreal poster
+#### 1191. Koi-in-nebula surreal poster
 
-<img src="images/awesome-gpt2/poster/11.jpg" alt="Koi-in-nebula surreal poster" width="560">
+<img src="images/prompts/1191.jpg" alt="Koi-in-nebula surreal poster" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44540,13 +42196,13 @@ A surrealist digital illustration in a low-angle upward shot. The image depicts 
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045875219307655337) · Tags: `illustration`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045875219307655337) · Tags: `illustration`
 
 ---
 
-#### 22. Double exposure cityscape
+#### 1192. Double exposure cityscape
 
-<img src="images/awesome-gpt2/poster/5.jpg" alt="Double exposure cityscape" width="560">
+<img src="images/prompts/1192.jpg" alt="Double exposure cityscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44562,11 +42218,11 @@ Text layout elegant, generous, characters clear and complete. Aspect 9:16.
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045332620352119274) · Tags: `branding`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045332620352119274) · Tags: `branding`
 
 ---
 
-#### 23. Invisible person fashion poster
+#### 1193. Invisible person fashion poster
 
 <img src="images/prompts/2048983944922882536.jpg" alt="Invisible person fashion poster" width="560">
 
@@ -44582,7 +42238,7 @@ Minimalist conceptual fashion editorial poster, studio shot on a clean off-white
 
 ---
 
-#### 24. Oblique perspective typography poster
+#### 1194. Oblique perspective typography poster
 
 <img src="images/prompts/2048816632613453900.jpg" alt="Oblique perspective typography poster" width="560">
 
@@ -44629,19 +42285,11 @@ Final output should be: a high-completion, modern, bright, high-contrast, flat, 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048816632613453900-1.jpg" width="320">
-<img src="images/prompts/2048816632613453900-2.jpg" width="320">
-<img src="images/prompts/2048816632613453900-3.jpg" width="320">
-
-</details>
-
 👤 [@MrLarus](https://x.com/MrLarus) · Tags: `branding`
 
 ---
 
-#### 25. Conceptual title typography poster
+#### 1195. Conceptual title typography poster
 
 <img src="images/prompts/2048793351290327381.jpg" alt="Conceptual title typography poster" width="560">
 
@@ -44677,19 +42325,11 @@ INPUT_TEXT: Elon Musk
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048793351290327381-1.jpg" width="320">
-<img src="images/prompts/2048793351290327381-2.jpg" width="320">
-<img src="images/prompts/2048793351290327381-3.jpg" width="320">
-
-</details>
-
-👤 [@dotey](https://x.com/dotey) · [Source tweet](https://x.com/dotey/status/2048793351290327381) · Tags: `branding`
+👤 [@dotey](https://x.com/dotey) · [Source](https://x.com/dotey/status/2048793351290327381) · Tags: `branding`
 
 ---
 
-#### 26. Pink luxury character magazine
+#### 1196. Pink luxury character magazine
 
 <img src="images/prompts/2048779320966230339.jpg" alt="Pink luxury character magazine" width="560">
 
@@ -44737,11 +42377,11 @@ Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp fo
 
 </details>
 
-👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character` `comparison`
+👤 [@Mind_Boticni](https://x.com/Mind_Boticni) · Tags: `character`
 
 ---
 
-#### 27. Black puffer editorial portrait
+#### 1197. Black puffer editorial portrait
 
 <img src="images/prompts/2048748484011204693.jpg" alt="Black puffer editorial portrait" width="560">
 
@@ -44753,11 +42393,11 @@ A bold fashion editorial poster featuring a young woman model in a close-up half
 
 </details>
 
-👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · Tags: `portrait` `character`
+👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · Tags: `portrait`
 
 ---
 
-#### 28. Conceptual Chinese typography poster
+#### 1198. Conceptual Chinese typography poster
 
 <img src="images/prompts/2048630851051892985.jpg" alt="Conceptual Chinese typography poster" width="560">
 
@@ -44797,19 +42437,13 @@ The final result should look like an exhibition-grade literary-character or conc
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2048630851051892985-1.jpg" width="320">
-
-</details>
-
 👤 [@xiaohu](https://x.com/xiaohu) · Tags: `branding`
 
 ---
 
-#### 29. Photorealistic king
+#### 1199. Photorealistic king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047944141015802341/0.jpg" alt="Photorealistic king" width="560">
+<img src="images/prompts/2047944141015802341.jpg" alt="Photorealistic king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44914,9 +42548,9 @@ The final result should look like an exhibition-grade literary-character or conc
 
 ---
 
-#### 30. Poster king
+#### 1200. Poster king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047875746711171155/0.jpg" alt="Poster king" width="560">
+<img src="images/prompts/2047875746711171155.jpg" alt="Poster king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44929,9 +42563,6 @@ You may interpret the text intelligently — you don't have to take it literally
 Intelligently determine the color logic that fits the text's semantics; reasonable layout; copy presented with breathing room.
 Do not add extra text. Display this copy in oversized type.
 ```
-[The sun stands at the doorway of the night]
-```
-```
 
 </details>
 
@@ -44939,9 +42570,9 @@ Do not add extra text. Display this copy in oversized type.
 
 ---
 
-#### 31. Poster poster artwork
+#### 1201. Poster poster artwork
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046700418554851630/0.jpg" alt="Poster poster artwork" width="560">
+<img src="images/prompts/2046700418554851630.jpg" alt="Poster poster artwork" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44955,9 +42586,9 @@ Make a wheatpaste poster setup on a brick wall in sf featuring posters from vari
 
 ---
 
-#### 32. Portrait logo concept
+#### 1202. Portrait logo concept
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046480096471765192/0.jpg" alt="Portrait logo concept" width="560">
+<img src="images/prompts/2046480096471765192.jpg" alt="Portrait logo concept" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -44967,13 +42598,13 @@ High-complexity infographic: tying in today's news, the CEO has been replaced wi
 
 </details>
 
-👤 [@Jackywine](https://x.com/Jackywine) · Tags: `branding` `infographic`
+👤 [@Jackywine](https://x.com/Jackywine) · Tags: `branding`
 
 ---
 
-#### 33. Editorial style king
+#### 1203. Editorial style king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046089486719930845/0.jpg" alt="Editorial style king" width="560">
+<img src="images/prompts/2046089486719930845.jpg" alt="Editorial style king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -45081,9 +42712,9 @@ format: 1:1 square
 
 ---
 
-#### 34. Minimalist cityscape
+#### 1204. Minimalist cityscape
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2045744531686166878/0.jpg" alt="Minimalist cityscape" width="560">
+<img src="images/prompts/2045744531686166878.jpg" alt="Minimalist cityscape" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -45114,7 +42745,7 @@ Overall style: high-end Chinese-style illustration / brand-poster-grade quality 
 
 ---
 
-#### 35. Editorial style poster artwork v2
+#### 1205. Editorial style poster artwork v2
 
 <img src="images/prompts/2045107949639455223.jpg" alt="Editorial style poster artwork v2" width="560">
 
@@ -45126,11 +42757,11 @@ A hyper-realistic 3D world guide infographic poster for [SHOW]. The fictional wo
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `3d-render` `infographic`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `3d-render`
 
 ---
 
-#### 36. Pastel capital postage stamp
+#### 1206. Pastel capital postage stamp
 
 <img src="images/prompts/2041191723892707663.jpg" alt="Pastel capital postage stamp" width="560">
 
@@ -45143,19 +42774,11 @@ Pastel colors, extremely thin black border all around it, simple background, pap
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2041191723892707663-1.jpg" width="320">
-<img src="images/prompts/2041191723892707663-2.jpg" width="320">
-<img src="images/prompts/2041191723892707663-3.jpg" width="320">
-
-</details>
-
 👤 [@CharaspowerAI](https://x.com/CharaspowerAI) · Tags: `illustration`
 
 ---
 
-#### 37. Underground magazine cover
+#### 1207. Underground magazine cover
 
 <img src="images/prompts/2039795053237858362.jpg" alt="Underground magazine cover" width="560">
 
@@ -45203,7 +42826,7 @@ PHOTOGRAPHY TONE — CRITICAL: the subject must be clean, sharp, and well-lit de
 
 ---
 
-#### 38. Action editorial brand poster
+#### 1208. Action editorial brand poster
 
 <img src="images/prompts/2038678161873838496.jpg" alt="Action editorial brand poster" width="560">
 
@@ -45245,7 +42868,7 @@ Lens: 35mm or 50mm for environmental context, or 85mm for compressed dramatic fr
 
 ---
 
-#### 39. Crayon kid drawing poster
+#### 1209. Crayon kid drawing poster
 
 <img src="images/prompts/2037231299484676544.jpg" alt="Crayon kid drawing poster" width="560">
 
@@ -45257,11 +42880,11 @@ Transform this movie poster into a child’s crayon drawing on lined notebook pa
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration` `comparison`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration`
 
 ---
 
-#### 40. Crayon notebook movie poster
+#### 1210. Crayon notebook movie poster
 
 <img src="images/prompts/2036867472918286551.jpg" alt="Crayon notebook movie poster" width="560">
 
@@ -45273,11 +42896,11 @@ Transform this movie poster into a child’s crayon drawing on lined notebook pa
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration` `comparison`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `illustration`
 
 ---
 
-#### 41. Pixar 3D movie poster trio
+#### 1211. Pixar 3D movie poster trio
 
 <img src="images/prompts/2035781019404472471.jpg" alt="Pixar 3D movie poster trio" width="560">
 
@@ -45306,11 +42929,11 @@ RULES:
 
 </details>
 
-👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character` `3d-render`
+👤 [@TechieBySA](https://x.com/TechieBySA) · Tags: `character`
 
 ---
 
-#### 42. Paris flag miniature city
+#### 1212. Paris flag miniature city
 
 <img src="images/prompts/2034418908506296520.jpg" alt="Paris flag miniature city" width="560">
 
@@ -45322,17 +42945,11 @@ Photorealistic hero product photography shot on Sony A7III with 85mm f/1.4 lens 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2034418908506296520-1.jpg" width="320">
-
-</details>
-
 👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `3d-render`
 
 ---
 
-#### 43. Origami industrial concept
+#### 1213. Origami industrial concept
 
 <img src="images/prompts/2032532246641406264.jpg" alt="Origami industrial concept" width="560">
 
@@ -45384,7 +43001,7 @@ Goal: Generate a premium industrial design concept on a PURE WHITE background.
 
 ---
 
-#### 44. Editorial poster v2
+#### 1214. Editorial poster v2
 
 <img src="images/prompts/2026574551207792783.jpg" alt="Editorial poster v2" width="560">
 
@@ -45396,17 +43013,11 @@ A stylized, retro-futuristic music poster in a synthwave aesthetic. The central 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2026574551207792783-1.jpg" width="320">
-
-</details>
-
-👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait` `character`
+👤 [@rovvmut_](https://x.com/rovvmut_) · Tags: `portrait`
 
 ---
 
-#### 45. Liver anatomy editorial poster
+#### 1215. Liver anatomy editorial poster
 
 <img src="images/prompts/2015630390887895118.jpg" alt="Liver anatomy editorial poster" width="560">
 
@@ -45460,17 +43071,11 @@ Glassmorphism effects on text boxes, soft drop shadows, medical accuracy mixed w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015630390887895118-1.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `branding`
 
 ---
 
-#### 46. Street Flight neon taco
+#### 1216. Street Flight neon taco
 
 <img src="images/prompts/2015332757862514985.jpg" alt="Street Flight neon taco" width="560">
 
@@ -45497,17 +43102,11 @@ A small circular red vinyl sticker is physically adhered directly to the taco sh
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015332757862514985-1.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X)
 
 ---
 
-#### 47. Blueprint stylized portrait
+#### 1217. Blueprint stylized portrait
 
 <img src="images/prompts/2013810394029298171.jpg" alt="Blueprint stylized portrait" width="560">
 
@@ -45555,11 +43154,11 @@ A small circular red vinyl sticker is physically adhered directly to the taco sh
 
 </details>
 
-👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `illustration` `portrait`
+👤 [@Sheldon056](https://x.com/Sheldon056) · Tags: `illustration`
 
 ---
 
-#### 48. Magical fantasy product 3D poster
+#### 1218. Magical fantasy product 3D poster
 
 <img src="images/prompts/2011788910297563310.jpg" alt="Magical fantasy product 3D poster" width="560">
 
@@ -45571,19 +43170,11 @@ High-end 3D advertising poster for [INSERT PRODUCT NAME]. A realistic [INSERT PR
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011788910297563310-1.jpg" width="320">
-<img src="images/prompts/2011788910297563310-2.jpg" width="320">
-<img src="images/prompts/2011788910297563310-3.jpg" width="320">
-
-</details>
-
 👤 [@IqraSaifiii](https://x.com/IqraSaifiii) · Tags: `branding`
 
 ---
 
-#### 49. 3D metallic movie title type
+#### 1219. 3D metallic movie title type
 
 <img src="images/prompts/2009624649894945022.jpg" alt="3D metallic movie title type" width="560">
 
@@ -45607,30 +43198,13 @@ No cartoon style, no flat illustration — pure cinematic realism with sculptura
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009624649894945022-1.jpg" width="320">
-<img src="images/prompts/2009624649894945022-2.jpg" width="320">
-<img src="images/prompts/2009624649894945022-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `branding` `3d-render`
-
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `branding`
 
 ---
 
-<a id="cat-3d-render"></a>
+#### 1220. Burj Khalifa isometric maquette
 
-### 🧊 3D Renders
-
-> 3D-style renders, isometric scenes, and CG-feel imagery.
-
-**43 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Burj Khalifa isometric maquette
-
-<img src="images/awesome-gpt2/ad/150.jpg" alt="Burj Khalifa isometric maquette" width="560">
+<img src="images/prompts/1220.jpg" alt="Burj Khalifa isometric maquette" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -45640,13 +43214,13 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 </details>
 
-👤 [@gh-silentempiredev](https://x.com/gh-silentempiredev) · [Source tweet](https://x.com/silentempiredev/status/2048086378383384773)
+👤 [@gh-silentempiredev](https://x.com/gh-silentempiredev) · [Source](https://x.com/silentempiredev/status/2048086378383384773)
 
 ---
 
-#### 2. Seed packet erupting garden
+#### 1221. Seed packet erupting garden
 
-<img src="images/awesome-gpt2/ad/143.jpg" alt="Seed packet erupting garden" width="560">
+<img src="images/prompts/1221.jpg" alt="Seed packet erupting garden" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -45663,11 +43237,11 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 
 </details>
 
-👤 [@gh-AllaAisling](https://x.com/gh-AllaAisling) · [Source tweet](https://x.com/AllaAisling/status/2048156345518768190) · Tags: `product`
+👤 [@gh-AllaAisling](https://x.com/gh-AllaAisling) · [Source](https://x.com/AllaAisling/status/2048156345518768190) · Tags: `product`
 
 ---
 
-#### 3. Minimalist cityscape
+#### 1222. Minimalist cityscape
 
 <img src="images/prompts/2046671817775960343.jpg" alt="Minimalist cityscape" width="560">
 
@@ -45694,7 +43268,7 @@ City name:【上海】
 
 ---
 
-#### 4. Isometric 3d car shot
+#### 1223. Isometric 3d car shot
 
 <img src="images/prompts/2045196602306933060.jpg" alt="Isometric 3d car shot" width="560">
 
@@ -45717,7 +43291,7 @@ Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clar
 
 ---
 
-#### 5. Claymation character design
+#### 1224. Claymation character design
 
 <img src="images/prompts/2042931585100795991.jpg" alt="Claymation character design" width="560">
 
@@ -45729,19 +43303,11 @@ Cute 3D render of a [subject], matte surface, kneaded clay icon style, simple st
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2042931585100795991-1.jpg" width="320">
-<img src="images/prompts/2042931585100795991-2.jpg" width="320">
-<img src="images/prompts/2042931585100795991-3.jpg" width="320">
-
-</details>
-
-👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `character` `branding`
+👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `character`
 
 ---
 
-#### 6. Brand cross-section diorama
+#### 1225. Brand cross-section diorama
 
 <img src="images/prompts/2036427989718802509.jpg" alt="Brand cross-section diorama" width="560">
 
@@ -45769,19 +43335,11 @@ Shot on a macro lens, shallow depth of field, creamy bokeh background, ultra-det
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2036427989718802509-1.jpg" width="320">
-<img src="images/prompts/2036427989718802509-2.jpg" width="320">
-<img src="images/prompts/2036427989718802509-3.jpg" width="320">
-
-</details>
-
 👤 [@Diplomeme](https://x.com/Diplomeme) · Tags: `branding`
 
 ---
 
-#### 7. Isometric nature workspace
+#### 1226. Isometric nature workspace
 
 <img src="images/prompts/2035592959685525590.jpg" alt="Isometric nature workspace" width="560">
 
@@ -45809,19 +43367,11 @@ Include a small stitched fabric name tag sewn onto the INNER wall of the diorama
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2035592959685525590-1.jpg" width="320">
-<img src="images/prompts/2035592959685525590-2.jpg" width="320">
-<img src="images/prompts/2035592959685525590-3.jpg" width="320">
-
-</details>
-
 👤 [@Preda2005](https://x.com/Preda2005) · Tags: `character`
 
 ---
 
-#### 8. LEGO submarine underwater
+#### 1227. LEGO submarine underwater
 
 <img src="images/prompts/2033996156225917017.jpg" alt="LEGO submarine underwater" width="560">
 
@@ -45839,7 +43389,7 @@ Shallow depth of field (f/1.8), strong bokeh background, 50mm lens, ultra-realis
 
 ---
 
-#### 9. Blueprint diorama building
+#### 1228. Blueprint diorama building
 
 <img src="images/prompts/2033887066363502882.jpg" alt="Blueprint diorama building" width="560">
 
@@ -45855,7 +43405,7 @@ An architectural blueprint of {BUILDING_NAME} placed on a {SURFACE}, with a phot
 
 ---
 
-#### 10. Floor plan mini rooms
+#### 1229. Floor plan mini rooms
 
 <img src="images/prompts/2032193497898336334.jpg" alt="Floor plan mini rooms" width="560">
 
@@ -45871,7 +43421,7 @@ An architectural floor plan of a [LOCATION] spread across a drafting table, with
 
 ---
 
-#### 11. Felt isometric WFH diorama
+#### 1230. Felt isometric WFH diorama
 
 <img src="images/prompts/2032155937532772551.jpg" alt="Felt isometric WFH diorama" width="560">
 
@@ -45887,7 +43437,7 @@ Generate a 3D isometric diorama illustration of [CHARACTER] working from home at
 
 ---
 
-#### 12. Movie iconic-scene diorama
+#### 1231. Movie iconic-scene diorama
 
 <img src="images/prompts/2031083876005576937.jpg" alt="Movie iconic-scene diorama" width="560">
 
@@ -45914,7 +43464,7 @@ Aspect ratio 4:5 vertical.​​​​​​​​​​​​​​​​
 
 ---
 
-#### 13. Felted wool miniature
+#### 1232. Felted wool miniature
 
 <img src="images/prompts/2029139993218740519.jpg" alt="Felted wool miniature" width="560">
 
@@ -45950,7 +43500,7 @@ Aspect ratio 4:5 vertical.​​​​​​​​​​​​​​​​
 
 ---
 
-#### 14. Onsen village clay diorama
+#### 1233. Onsen village clay diorama
 
 <img src="images/prompts/2028672209544175970.jpg" alt="Onsen village clay diorama" width="560">
 
@@ -45966,7 +43516,7 @@ Aspect ratio 4:5 vertical.​​​​​​​​​​​​​​​​
 
 ---
 
-#### 15. City map miniature diorama
+#### 1234. City map miniature diorama
 
 <img src="images/prompts/2027843262497591580.jpg" alt="City map miniature diorama" width="560">
 
@@ -45997,7 +43547,7 @@ Square 1:1 format, realistic scale, museum-quality visual output.
 
 ---
 
-#### 16. Blueprint diorama building
+#### 1235. Blueprint diorama building
 
 <img src="images/prompts/2027644159285465175.jpg" alt="Blueprint diorama building" width="560">
 
@@ -46013,7 +43563,7 @@ An architectural blueprint of [BUILDING_NAME] placed on a {SURFACE}, with a phot
 
 ---
 
-#### 17. Editorial poster v3
+#### 1236. Editorial poster v3
 
 <img src="images/prompts/2024277162652815403.jpg" alt="Editorial poster v3" width="560">
 
@@ -46025,20 +43575,13 @@ Create an ultra-HD, hyper-realistic digital poster of a floating miniature islan
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2024277162652815403-1.jpg" width="320">
-<img src="images/prompts/2024277162652815403-2.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `poster`
 
 ---
 
-#### 18. Creative scene
+#### 1237. Creative scene
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2022606746343317544/0.jpg" alt="Creative scene" width="560">
+<img src="images/prompts/2022606746343317544.jpg" alt="Creative scene" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -46048,19 +43591,11 @@ Hyper-realistic open [COUNTRY] passport on a studio surface, with gold-embossed 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2022606746343317544/1.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2022606746343317544/2.jpg" width="320">
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2022606746343317544/3.jpg" width="320">
-
-</details>
-
 👤 [@Naiknelofar788](https://x.com/Naiknelofar788) · Tags: `portrait`
 
 ---
 
-#### 19. Isometric 3d scene v4
+#### 1238. Isometric 3d scene v4
 
 <img src="images/prompts/2022522374483235110.jpg" alt="Isometric 3d scene v4" width="560">
 
@@ -46079,19 +43614,11 @@ Top center shows [SYSTEM NAME] in bold. Below it add a short benefit-focused sub
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022522374483235110-1.jpg" width="320">
-<img src="images/prompts/2022522374483235110-2.jpg" width="320">
-<img src="images/prompts/2022522374483235110-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 20. Creative scene
+#### 1239. Creative scene
 
 <img src="images/prompts/2022353962385744076.jpg" alt="Creative scene" width="560">
 
@@ -46103,19 +43630,11 @@ An architectural floor plan of {BUILDING_TYPE} spread across a drafting table, w
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022353962385744076-1.jpg" width="320">
-<img src="images/prompts/2022353962385744076-2.jpg" width="320">
-<img src="images/prompts/2022353962385744076-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling)
 
 ---
 
-#### 21. Isometric 3d scene v3
+#### 1240. Isometric 3d scene v3
 
 <img src="images/prompts/2022178815955636413.jpg" alt="Isometric 3d scene v3" width="560">
 
@@ -46133,19 +43652,11 @@ Background remains solid [BACKGROUND COLOR]. Top center text displays [TOPIC] in
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2022178815955636413-1.jpg" width="320">
-<img src="images/prompts/2022178815955636413-2.jpg" width="320">
-<img src="images/prompts/2022178815955636413-3.jpg" width="320">
-
-</details>
-
-👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic` `comparison`
+👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 22. Isometric 3d scene v2
+#### 1241. Isometric 3d scene v2
 
 <img src="images/prompts/2020714278744101061.jpg" alt="Isometric 3d scene v2" width="560">
 
@@ -46162,19 +43673,11 @@ Background stays solid [BACKGROUND COLOR]. Top center text shows [COUNTRY NAME] 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2020714278744101061-1.jpg" width="320">
-<img src="images/prompts/2020714278744101061-2.jpg" width="320">
-<img src="images/prompts/2020714278744101061-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 23. Isometric 3d scene
+#### 1242. Isometric 3d scene
 
 <img src="images/prompts/2019267462647439770.jpg" alt="Isometric 3d scene" width="560">
 
@@ -46195,19 +43698,11 @@ Second line shows [NATURAL WONDER]. Place a minimal nature icon below. Text auto
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2019267462647439770-1.jpg" width="320">
-<img src="images/prompts/2019267462647439770-2.jpg" width="320">
-<img src="images/prompts/2019267462647439770-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 24. Tilt-shift Tokyo diorama
+#### 1243. Tilt-shift Tokyo diorama
 
 <img src="images/prompts/2018186632730685723.jpg" alt="Tilt-shift Tokyo diorama" width="560">
 
@@ -46219,19 +43714,11 @@ Tilt-shift 3D model diorama in 4:5 aspect ratio, highlighting Tokyo Tower and th
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018186632730685723-1.jpg" width="320">
-<img src="images/prompts/2018186632730685723-2.jpg" width="320">
-<img src="images/prompts/2018186632730685723-3.jpg" width="320">
-
-</details>
-
 👤 [@oggii_0](https://x.com/oggii_0)
 
 ---
 
-#### 25. Cutaway machine diorama
+#### 1244. Cutaway machine diorama
 
 <img src="images/prompts/2018147539992862866.jpg" alt="Cutaway machine diorama" width="560">
 
@@ -46254,19 +43741,11 @@ All text must automatically match the background contrast (white or black).
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018147539992862866-1.jpg" width="320">
-<img src="images/prompts/2018147539992862866-2.jpg" width="320">
-<img src="images/prompts/2018147539992862866-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `infographic`
 
 ---
 
-#### 26. Crochet airport diorama
+#### 1245. Crochet airport diorama
 
 <img src="images/prompts/2017994945785643125.jpg" alt="Crochet airport diorama" width="560">
 
@@ -46282,7 +43761,7 @@ A highly detailed miniature diorama entirely made of crochet and amigurumi yarn,
 
 ---
 
-#### 27. Scooter GPS map scene
+#### 1246. Scooter GPS map scene
 
 <img src="images/prompts/2015436671286648863.jpg" alt="Scooter GPS map scene" width="560">
 
@@ -46308,7 +43787,7 @@ High-end concept-art quality combining photoreal human + stylized miniature city
 
 ---
 
-#### 28. GPS scooter UK chaos scene
+#### 1247. GPS scooter UK chaos scene
 
 <img src="images/prompts/2015314306578182501.jpg" alt="GPS scooter UK chaos scene" width="560">
 
@@ -46328,17 +43807,11 @@ High-end concept-art quality combining photoreal human + stylized miniature city
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015314306578182501-1.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7)
 
 ---
 
-#### 29. Miniature diorama scene
+#### 1248. Miniature diorama scene
 
 <img src="images/prompts/2015125749804454163.jpg" alt="Miniature diorama scene" width="560">
 
@@ -46433,19 +43906,11 @@ High-end concept-art quality combining photoreal human + stylized miniature city
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2015125749804454163-1.jpg" width="320">
-<img src="images/prompts/2015125749804454163-2.jpg" width="320">
-<img src="images/prompts/2015125749804454163-3.jpg" width="320">
-
-</details>
-
-👤 [@egeberkina](https://x.com/egeberkina) · Tags: `character` `product`
+👤 [@egeberkina](https://x.com/egeberkina) · Tags: `character`
 
 ---
 
-#### 30. Isometric 3D diorama
+#### 1249. Isometric 3D diorama
 
 <img src="images/prompts/2013493349156823287.jpg" alt="Isometric 3D diorama" width="560">
 
@@ -46468,19 +43933,11 @@ All text must automatically match the background contrast (white or black).
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2013493349156823287-1.jpg" width="320">
-<img src="images/prompts/2013493349156823287-2.jpg" width="320">
-<img src="images/prompts/2013493349156823287-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `branding`
 
 ---
 
-#### 31. Cutaway architecture isometric diorama
+#### 1250. Cutaway architecture isometric diorama
 
 <img src="images/prompts/2012072821439283400.jpg" alt="Cutaway architecture isometric diorama" width="560">
 
@@ -46492,19 +43949,11 @@ A clean, minimal 3D isometric diorama of a [BUILDING TYPE] section, featuring [I
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2012072821439283400-1.jpg" width="320">
-<img src="images/prompts/2012072821439283400-2.jpg" width="320">
-<img src="images/prompts/2012072821439283400-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir)
 
 ---
 
-#### 32. Movie scene isometric collectible diorama
+#### 1251. Movie scene isometric collectible diorama
 
 <img src="images/prompts/2011815709739802811.jpg" alt="Movie scene isometric collectible diorama" width="560">
 
@@ -46520,7 +43969,7 @@ Stylized, ultra high-fidelity 3D isometric miniature diorama, 35–40° isometri
 
 ---
 
-#### 33. Isometric urban retail diorama
+#### 1252. Isometric urban retail diorama
 
 <img src="images/prompts/2011750912390258844.jpg" alt="Isometric urban retail diorama" width="560">
 
@@ -46532,19 +43981,11 @@ A clean, minimal 3D isometric diorama of a [URBAN RETAIL TYPE], featuring a [MAI
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011750912390258844-1.jpg" width="320">
-<img src="images/prompts/2011750912390258844-2.jpg" width="320">
-<img src="images/prompts/2011750912390258844-3.jpg" width="320">
-
-</details>
-
 👤 [@aleenaamiir](https://x.com/aleenaamiir) · Tags: `portrait`
 
 ---
 
-#### 34. Macro tiny watch restoration team
+#### 1253. Macro tiny watch restoration team
 
 <img src="images/prompts/2011688509665657263.jpg" alt="Macro tiny watch restoration team" width="560">
 
@@ -46584,17 +44025,11 @@ Ultra-realistic macro scene depicting tiny restoration workers collaboratively r
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011688509665657263-1.jpg" width="320">
-
-</details>
-
 👤 [@SindhuK66662473](https://x.com/SindhuK66662473) · Tags: `character`
 
 ---
 
-#### 35. Tiny restorers fixing pocket watch
+#### 1254. Tiny restorers fixing pocket watch
 
 <img src="images/prompts/2011621455558221930.jpg" alt="Tiny restorers fixing pocket watch" width="560">
 
@@ -46635,19 +44070,11 @@ Ultra-realistic macro scene depicting tiny restoration workers collaboratively r
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011621455558221930-1.jpg" width="320">
-<img src="images/prompts/2011621455558221930-2.jpg" width="320">
-<img src="images/prompts/2011621455558221930-3.jpg" width="320">
-
-</details>
-
 👤 [@Just_sharon7](https://x.com/Just_sharon7) · Tags: `character`
 
 ---
 
-#### 36. Isometric athlete photo figurine
+#### 1255. Isometric athlete photo figurine
 
 <img src="images/prompts/2011503561562341630.jpg" alt="Isometric athlete photo figurine" width="560">
 
@@ -46659,19 +44086,11 @@ Make a miniature, full-body, isometric, realistic figurine of [uploaded_photo], 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011503561562341630-1.jpg" width="320">
-<img src="images/prompts/2011503561562341630-2.jpg" width="320">
-<img src="images/prompts/2011503561562341630-3.jpg" width="320">
-
-</details>
-
 👤 [@kaanakz](https://x.com/kaanakz) · Tags: `character`
 
 ---
 
-#### 37. Isometric landmark architecture diorama
+#### 1256. Isometric landmark architecture diorama
 
 <img src="images/prompts/2011378770494566596.jpg" alt="Isometric landmark architecture diorama" width="560">
 
@@ -46683,19 +44102,11 @@ A miniature isometric architectural diorama of [LANDMARK NAME], accurately refle
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2011378770494566596-1.jpg" width="320">
-<img src="images/prompts/2011378770494566596-2.jpg" width="320">
-<img src="images/prompts/2011378770494566596-3.jpg" width="320">
-
-</details>
-
 👤 [@egeberkina](https://x.com/egeberkina)
 
 ---
 
-#### 38. Painting Ronaldo figurine workshop scene
+#### 1257. Painting Ronaldo figurine workshop scene
 
 <img src="images/prompts/2011329615814607139.jpg" alt="Painting Ronaldo figurine workshop scene" width="560">
 
@@ -46707,11 +44118,11 @@ A hyper-realistic cinematic scene of a woman carefully painting a miniature foot
 
 </details>
 
-👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait` `character`
+👤 [@AIwithSynthia](https://x.com/AIwithSynthia) · Tags: `portrait`
 
 ---
 
-#### 39. Isometric athlete figurine miniature
+#### 1258. Isometric athlete figurine miniature
 
 <img src="images/prompts/2010349006451265637.jpg" alt="Isometric athlete figurine miniature" width="560">
 
@@ -46727,7 +44138,7 @@ Make a miniature, full-body, isometric, realistic figurine of [PERSON], wearing 
 
 ---
 
-#### 40. Blueprint to 3D building scene
+#### 1259. Blueprint to 3D building scene
 
 <img src="images/prompts/2010009737816162736.jpg" alt="Blueprint to 3D building scene" width="560">
 
@@ -46739,19 +44150,11 @@ Epic 3D scene: a massive architectural blueprint of [BUILDING/STRUCTURE] pinned 
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2010009737816162736-1.jpg" width="320">
-<img src="images/prompts/2010009737816162736-2.jpg" width="320">
-<img src="images/prompts/2010009737816162736-3.jpg" width="320">
-
-</details>
-
 👤 [@AllaAisling](https://x.com/AllaAisling) · Tags: `infographic`
 
 ---
 
-#### 41. Polymer clay character figurine
+#### 1260. Polymer clay character figurine
 
 <img src="images/prompts/2009285406303387993.jpg" alt="Polymer clay character figurine" width="560">
 
@@ -46769,7 +44172,7 @@ Present the figurine standing upright, slightly turned toward the right, framed 
 
 ---
 
-#### 42. Clay miniature snowfall scene
+#### 1261. Clay miniature snowfall scene
 
 <img src="images/prompts/2008765662488059907.jpg" alt="Clay miniature snowfall scene" width="560">
 
@@ -46787,7 +44190,7 @@ The handmade quality should be evident in every surface and gentle curve. Captur
 
 ---
 
-#### 43. Isometric 3D landmark render
+#### 1262. Isometric 3D landmark render
 
 <img src="images/prompts/2007082189742379459.jpg" alt="Isometric 3D landmark render" width="560">
 
@@ -46801,18 +44204,9 @@ Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural v
 
 👤 [@TechieBySA](https://x.com/TechieBySA)
 
-
 ---
 
-<a id="cat-comparison"></a>
-
-### 🔀 Before / After & Comparisons
-
-> Side-by-side transformations, edits, and comparison renders.
-
-**30 prompts** · [↑ back to top](#-table-of-contents)
-
-#### 1. Asymmetrical scrapbook polaroid collage
+#### 1263. Asymmetrical scrapbook polaroid collage
 
 <img src="images/prompts/2050785238851432952.jpg" alt="Asymmetrical scrapbook polaroid collage" width="560">
 
@@ -46824,11 +44218,11 @@ Asymmetrical modern scrapbook style photo collage featuring a young woman using 
 
 </details>
 
-👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · [Source tweet](https://x.com/saniaspeaks_/status/2050785238851432952) · Tags: `portrait` `branding`
+👤 [@saniaspeaks_](https://x.com/saniaspeaks_) · [Source](https://x.com/saniaspeaks_/status/2050785238851432952) · Tags: `portrait`
 
 ---
 
-#### 2. Skincare 9-panel storyboard
+#### 1264. Skincare 9-panel storyboard
 
 <img src="images/prompts/2049371457973833765.jpg" alt="Skincare 9-panel storyboard" width="560">
 
@@ -46842,13 +44236,13 @@ Focus on natural expressions, glowing skin, and a transformation from dull to fr
 
 </details>
 
-👤 [@ZaraIrahh](https://x.com/ZaraIrahh) · Tags: `product` `branding`
+👤 [@ZaraIrahh](https://x.com/ZaraIrahh) · Tags: `product`
 
 ---
 
-#### 3. Anime cinematic comparison
+#### 1265. Anime cinematic comparison
 
-<img src="images/awesome-gpt2/comparison/71.jpg" alt="Anime cinematic comparison" width="560">
+<img src="images/prompts/1265.jpg" alt="Anime cinematic comparison" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -46858,13 +44252,13 @@ Focus on natural expressions, glowing skin, and a transformation from dull to fr
 
 </details>
 
-👤 [@gh-chesnyfcb](https://x.com/gh-chesnyfcb) · [Source tweet](https://x.com/chesnyfcb/status/2047714457774637213) · Tags: `character`
+👤 [@gh-chesnyfcb](https://x.com/gh-chesnyfcb) · [Source](https://x.com/chesnyfcb/status/2047714457774637213) · Tags: `character`
 
 ---
 
-#### 4. Four seasons eye macro panels
+#### 1266. Four seasons eye macro panels
 
-<img src="images/awesome-gpt2/comparison/10.jpg" alt="Four seasons eye macro panels" width="560">
+<img src="images/prompts/1266.jpg" alt="Four seasons eye macro panels" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -46884,13 +44278,13 @@ Overall, present a dreamlike, healing, beautiful piece showing the seasonal alte
 
 </details>
 
-👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source tweet](https://x.com/liyue_ai/status/2045000106919997637) · Tags: `portrait`
+👤 [@gh-liyue_ai](https://x.com/gh-liyue_ai) · [Source](https://x.com/liyue_ai/status/2045000106919997637) · Tags: `portrait`
 
 ---
 
-#### 5. Grid layout
+#### 1267. Grid layout
 
-<img src="images/awesome-gpt2/ui/105.jpg" alt="Grid layout" width="560">
+<img src="images/prompts/1267.jpg" alt="Grid layout" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -46900,13 +44294,13 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 </details>
 
-👤 [@gh-aimikoda](https://x.com/gh-aimikoda) · [Source tweet](https://x.com/aimikoda/status/2048183782876778821) · Tags: `character`
+👤 [@gh-aimikoda](https://x.com/gh-aimikoda) · [Source](https://x.com/aimikoda/status/2048183782876778821) · Tags: `character`
 
 ---
 
-#### 6. Photorealistic creature
+#### 1268. Photorealistic creature
 
-<img src="images/awesome-gpt2/poster/137.jpg" alt="Photorealistic creature" width="560">
+<img src="images/prompts/1268.jpg" alt="Photorealistic creature" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -46916,11 +44310,11 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 </details>
 
-👤 [@gh-xRahultripathi](https://x.com/gh-xRahultripathi) · [Source tweet](https://x.com/xRahultripathi/status/2048140775356354892) · Tags: `illustration`
+👤 [@gh-xRahultripathi](https://x.com/gh-xRahultripathi) · [Source](https://x.com/xRahultripathi/status/2048140775356354892) · Tags: `illustration`
 
 ---
 
-#### 7. Hobby activity portrait wallpaper
+#### 1269. Hobby activity portrait wallpaper
 
 <img src="images/prompts/2048746995465203876.jpg" alt="Hobby activity portrait wallpaper" width="560">
 
@@ -46936,230 +44330,9 @@ Make a portrait-sized wallpaper about several activities from the hobby of (Name
 
 ---
 
-#### 8. Editorial style king
+#### 1270. Editorial style king
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047423024068952489/0.jpg" alt="Editorial style king" width="560">
-
-<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
-
-```text
-Create a 16:9 horizontal bento-grid brand collage for [BRAND NAME] in a polished contemporary campaign style.  
-Use a fixed 3-row, 4-column bento structure with rounded tiles, equal gaps, clean alignment, and a light neutral background.
-The layout must stay consistent across generations, but the content inside each tile must adapt to the real business model, product ecosystem, and brand language of [brand name].
-
-Grid blueprint
-Build the composition as 11 visible content zones arranged in a fixed bento layout:
-Top-left tile: 1 column × 2 rows, tall vertical hero device or primary brand surface
-Top-middle-left tile: 1 column × 1 row, compact square brand asset tile
-Top-middle-right tile: 2 columns × 1 row, wide headline/message tile
-
-Center tile: 2 columns × 2 rows, dominant campaign hero scene
-
-Top-right tile: 1 column × 1 row, secondary device / product surface / branded object
-
-Bottom-left tile: 1 column × 1 row, product artifact or branded utility object
-
-Bottom-center tile: 2 columns × 1 row, large bold typography tile
-
-Bottom-right tile: 1 column × 2 rows, tall informational product / interface / feature tile
-
-All tiles must share the same corner radius, spacing system, and visual polish.
-The dominant focal points are the large center hero tile, the wide top headline tile, and the wide bottom typography tile.
-
-Adaptive content logic
-Do not assume [brand name] is a fintech brand.
-Before deciding what appears inside each tile, infer what [brand name] actually is: social platform, SaaS tool, media brand, retailer, hospitality brand, hardware company, mobility app, AI product, consumer app, etc.
-
-Every tile must contain a plausible branded asset based on that business type.
-
-Use this rule:
-
-If [brand name] has a real consumer app, dashboard, product UI, creator interface, booking flow, editor, storefront, feed, player, workspace, or operating surface, use those.
-
-If [brand name] does not realistically have payment cards, watches, or hardware, do not invent them.
-
-Only include branded physical objects when they make sense for the brand: packaging, merch, signage, magazine, laptop sticker, storefront card, delivery box, product box, wearable, poster, notebook, tote, badge, ticket, book, etc.
-
-If the brand is primarily digital, prioritize screens, interface fragments, campaign graphics, app/store listings, editorial visuals, and branded communication assets.
-
-If the brand is a platform, use realistic platform surfaces: profile screens, creator dashboards, boards, playlists, templates, analytics, publishing tools, discovery feeds, search, collaboration views, etc.
-
-If the brand is a physical-product company, use realistic product shots, packaging, product detail pages, retail signage, and lifestyle scenes.
-
-If the brand is a service business, use realistic booking, scheduling, marketplace, onboarding, testimonial, results, or service-delivery interfaces.
-
-If exact assets are unknown, infer the most believable official-looking product and campaign system for [brand name].
-
-Tile-by-tile rules
-1) Tall left hero tile
-Show the most iconic primary branded surface for [brand name].
-
-Examples:
-
-phone with app UI
-laptop with dashboard/editor
-tablet with creative workspace
-product packaging held in hand
-branded poster or printed object
-storefront or physical product close-up
-
-This tile should represent the brand’s main touchpoint, not a generic device.
-
-2) Small square brand asset tile
-Show a compact brand-signature element:
-
-app icon
-logo mark
-symbol
-product badge
-branded motif
-miniature packaging unit
-icon system object
-sticker or seal
-simplified 3D brand emblem
-
-This tile should feel like a distilled identity marker.
-
-3) Wide top headline tile
-Use a short strategic message that fits [brand name]’s category and tone.
-Do not repeat generic fintech copy.
-The line should feel like a real campaign headline for that specific brand.
-
-Examples of direction:
-
-discovery
-creativity
-organization
-inspiration
-connection
-travel
-productivity
-expression
-streaming
-collaboration
-automation
-
-Use large, bold, high-contrast typography.
-
-4) Large center hero tile
-Create the main campaign scene for [brand name] in a real-world or branded-environment context.
-This should be the most expressive tile.
-
-Possible formats:
-outdoor billboard
-subway poster
-retail installation
-city poster wall
-laptop-on-desk hero scene
-creator workspace
-product-in-use lifestyle shot
-editorial campaign image
-interface projected into environment
-branded event signage
-The scene must make sense for the brand’s world and audience.
-
-5) Top-right support tile
-Show a secondary but still realistic brand surface:
-
-another device view
-product detail
-branded object
-campaign variation
-interface zoom-in
-packaging angle
-social post mockup
-desktop widget
-creator tool panel
-notification / discovery / search view
-
-This tile should complement the main touchpoint, not duplicate it exactly.
-
-6) Bottom-left artifact tile
-Show a category-appropriate branded artifact, not a fixed “bank card”.
-
-Choose the artifact based on [brand name]:
-
-for fintech: payment card, wallet pass, transfer screen, exchange card
-
-for social/media: creator card, profile card, post template, content preview, board tile, channel card
-
-for SaaS/productivity: workspace card, document preview, template card, dashboard widget
-
-for e-commerce/retail: packaging, shipping box, loyalty pass, product tag, order card
-
-for travel/hospitality: booking card, room key, boarding-style pass, itinerary card
-
-for music/media: album card, playlist card, player card, event ticket
-
-for AI/software: prompt card, generation result card, model card, workflow card
-
-This tile must feel like a believable branded unit of value for that company.
-
-7) Wide bottom message tile
-Use one strong oversized statement in uppercase or bold display typography.
-This is not necessarily the slogan from the top tile; it can be a broader campaign line or category promise.
-
-The message must match the actual brand behavior of [brand name].
-For example, do not use “MOVE MONEY WITHOUT BORDERS” unless the brand actually deals with payments or finance.
-
-8) Tall right informational tile
-Show a structured branded information surface:
-app store page
-product page
-onboarding screen
-feature overview
-marketplace listing
-creator profile
-brand campaign landing screen
-dashboard overview
-editorial page
-discovery feed
-help center / setup / feature panel
-This tile should add product depth and make the collage feel like a full brand system.
-
-Brand realism rules
-Use the real or highly plausible brand identity of [brand name]: logo, color palette, typography feel, icon language, image treatment, interface style, and tone of voice.
-If exact assets are unavailable, invent only what is necessary, but make it feel like the official visual system of [brand name].
-
-Do not force a product category onto the brand.
-Do not invent impossible hardware, payment tools, packaging, or app features unless they are realistic adjacent extensions of the brand.
-Prefer believable brand adaptation over visual symmetry.
-
-Visual consistency rules
-Even though tile content is adaptive, the final image must still feel like one campaign system:
-
-same overall grid structure
-same tile spacing
-same corner radius
-same art direction quality
-same brand palette across all tiles
-consistent typography logic
-consistent mockup realism
-consistent lighting and polish
-
-Style
-Clean premium brand presentation, high detail, polished mockup realism, soft shadows, strong hierarchy, editorial-quality composition, modern campaign aesthetics.
-Avoid random collage chaos.
-Avoid tiny unreadable text.
-Avoid generic placeholder UI.
-Keep the structure fixed, but let the objects and branded surfaces adapt intelligently to [brand name].
-
-Stronger one-line instruction
-
-Important: the layout is fixed, but the objects are not fixed.
-For each generation, select tile content based on what [brand name] realistically sells, ships, publishes, displays, or lets users interact with.
-Never insert category-inappropriate objects just to fill the grid.
-```
-
-</details>
-
-👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding` `infographic`
-
----
-
-#### 9. Editorial style king v3
-
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2047420285817929961/0.jpg" alt="Editorial style king v3" width="560">
+<img src="images/prompts/2047423024068952489.jpg" alt="Editorial style king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -47374,13 +44547,234 @@ Never insert category-inappropriate objects just to fill the grid.
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `branding` `infographic`
+👤 [@youraipulse](https://x.com/youraipulse) · Tags: `branding`
 
 ---
 
-#### 10. Photorealistic king
+#### 1271. Editorial style king v3
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046151898621993364/0.jpg" alt="Photorealistic king" width="560">
+<img src="images/prompts/2047420285817929961.jpg" alt="Editorial style king v3" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a 16:9 horizontal bento-grid brand collage for [BRAND NAME] in a polished contemporary campaign style.  
+Use a fixed 3-row, 4-column bento structure with rounded tiles, equal gaps, clean alignment, and a light neutral background.
+The layout must stay consistent across generations, but the content inside each tile must adapt to the real business model, product ecosystem, and brand language of [brand name].
+
+Grid blueprint
+Build the composition as 11 visible content zones arranged in a fixed bento layout:
+Top-left tile: 1 column × 2 rows, tall vertical hero device or primary brand surface
+Top-middle-left tile: 1 column × 1 row, compact square brand asset tile
+Top-middle-right tile: 2 columns × 1 row, wide headline/message tile
+
+Center tile: 2 columns × 2 rows, dominant campaign hero scene
+
+Top-right tile: 1 column × 1 row, secondary device / product surface / branded object
+
+Bottom-left tile: 1 column × 1 row, product artifact or branded utility object
+
+Bottom-center tile: 2 columns × 1 row, large bold typography tile
+
+Bottom-right tile: 1 column × 2 rows, tall informational product / interface / feature tile
+
+All tiles must share the same corner radius, spacing system, and visual polish.
+The dominant focal points are the large center hero tile, the wide top headline tile, and the wide bottom typography tile.
+
+Adaptive content logic
+Do not assume [brand name] is a fintech brand.
+Before deciding what appears inside each tile, infer what [brand name] actually is: social platform, SaaS tool, media brand, retailer, hospitality brand, hardware company, mobility app, AI product, consumer app, etc.
+
+Every tile must contain a plausible branded asset based on that business type.
+
+Use this rule:
+
+If [brand name] has a real consumer app, dashboard, product UI, creator interface, booking flow, editor, storefront, feed, player, workspace, or operating surface, use those.
+
+If [brand name] does not realistically have payment cards, watches, or hardware, do not invent them.
+
+Only include branded physical objects when they make sense for the brand: packaging, merch, signage, magazine, laptop sticker, storefront card, delivery box, product box, wearable, poster, notebook, tote, badge, ticket, book, etc.
+
+If the brand is primarily digital, prioritize screens, interface fragments, campaign graphics, app/store listings, editorial visuals, and branded communication assets.
+
+If the brand is a platform, use realistic platform surfaces: profile screens, creator dashboards, boards, playlists, templates, analytics, publishing tools, discovery feeds, search, collaboration views, etc.
+
+If the brand is a physical-product company, use realistic product shots, packaging, product detail pages, retail signage, and lifestyle scenes.
+
+If the brand is a service business, use realistic booking, scheduling, marketplace, onboarding, testimonial, results, or service-delivery interfaces.
+
+If exact assets are unknown, infer the most believable official-looking product and campaign system for [brand name].
+
+Tile-by-tile rules
+1) Tall left hero tile
+Show the most iconic primary branded surface for [brand name].
+
+Examples:
+
+phone with app UI
+laptop with dashboard/editor
+tablet with creative workspace
+product packaging held in hand
+branded poster or printed object
+storefront or physical product close-up
+
+This tile should represent the brand’s main touchpoint, not a generic device.
+
+2) Small square brand asset tile
+Show a compact brand-signature element:
+
+app icon
+logo mark
+symbol
+product badge
+branded motif
+miniature packaging unit
+icon system object
+sticker or seal
+simplified 3D brand emblem
+
+This tile should feel like a distilled identity marker.
+
+3) Wide top headline tile
+Use a short strategic message that fits [brand name]’s category and tone.
+Do not repeat generic fintech copy.
+The line should feel like a real campaign headline for that specific brand.
+
+Examples of direction:
+
+discovery
+creativity
+organization
+inspiration
+connection
+travel
+productivity
+expression
+streaming
+collaboration
+automation
+
+Use large, bold, high-contrast typography.
+
+4) Large center hero tile
+Create the main campaign scene for [brand name] in a real-world or branded-environment context.
+This should be the most expressive tile.
+
+Possible formats:
+outdoor billboard
+subway poster
+retail installation
+city poster wall
+laptop-on-desk hero scene
+creator workspace
+product-in-use lifestyle shot
+editorial campaign image
+interface projected into environment
+branded event signage
+The scene must make sense for the brand’s world and audience.
+
+5) Top-right support tile
+Show a secondary but still realistic brand surface:
+
+another device view
+product detail
+branded object
+campaign variation
+interface zoom-in
+packaging angle
+social post mockup
+desktop widget
+creator tool panel
+notification / discovery / search view
+
+This tile should complement the main touchpoint, not duplicate it exactly.
+
+6) Bottom-left artifact tile
+Show a category-appropriate branded artifact, not a fixed “bank card”.
+
+Choose the artifact based on [brand name]:
+
+for fintech: payment card, wallet pass, transfer screen, exchange card
+
+for social/media: creator card, profile card, post template, content preview, board tile, channel card
+
+for SaaS/productivity: workspace card, document preview, template card, dashboard widget
+
+for e-commerce/retail: packaging, shipping box, loyalty pass, product tag, order card
+
+for travel/hospitality: booking card, room key, boarding-style pass, itinerary card
+
+for music/media: album card, playlist card, player card, event ticket
+
+for AI/software: prompt card, generation result card, model card, workflow card
+
+This tile must feel like a believable branded unit of value for that company.
+
+7) Wide bottom message tile
+Use one strong oversized statement in uppercase or bold display typography.
+This is not necessarily the slogan from the top tile; it can be a broader campaign line or category promise.
+
+The message must match the actual brand behavior of [brand name].
+For example, do not use “MOVE MONEY WITHOUT BORDERS” unless the brand actually deals with payments or finance.
+
+8) Tall right informational tile
+Show a structured branded information surface:
+app store page
+product page
+onboarding screen
+feature overview
+marketplace listing
+creator profile
+brand campaign landing screen
+dashboard overview
+editorial page
+discovery feed
+help center / setup / feature panel
+This tile should add product depth and make the collage feel like a full brand system.
+
+Brand realism rules
+Use the real or highly plausible brand identity of [brand name]: logo, color palette, typography feel, icon language, image treatment, interface style, and tone of voice.
+If exact assets are unavailable, invent only what is necessary, but make it feel like the official visual system of [brand name].
+
+Do not force a product category onto the brand.
+Do not invent impossible hardware, payment tools, packaging, or app features unless they are realistic adjacent extensions of the brand.
+Prefer believable brand adaptation over visual symmetry.
+
+Visual consistency rules
+Even though tile content is adaptive, the final image must still feel like one campaign system:
+
+same overall grid structure
+same tile spacing
+same corner radius
+same art direction quality
+same brand palette across all tiles
+consistent typography logic
+consistent mockup realism
+consistent lighting and polish
+
+Style
+Clean premium brand presentation, high detail, polished mockup realism, soft shadows, strong hierarchy, editorial-quality composition, modern campaign aesthetics.
+Avoid random collage chaos.
+Avoid tiny unreadable text.
+Avoid generic placeholder UI.
+Keep the structure fixed, but let the objects and branded surfaces adapt intelligently to [brand name].
+
+Stronger one-line instruction
+
+Important: the layout is fixed, but the objects are not fixed.
+For each generation, select tile content based on what [brand name] realistically sells, ships, publishes, displays, or lets users interact with.
+Never insert category-inappropriate objects just to fill the grid.
+```
+
+</details>
+
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `branding`
+
+---
+
+#### 1272. Photorealistic king
+
+<img src="images/prompts/2046151898621993364.jpg" alt="Photorealistic king" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -47390,13 +44784,13 @@ Never insert category-inappropriate objects just to fill the grid.
 
 </details>
 
-👤 [@BubbleBrain](https://x.com/BubbleBrain) · Tags: `portrait` `character`
+👤 [@BubbleBrain](https://x.com/BubbleBrain) · Tags: `portrait`
 
 ---
 
-#### 11. Minimalist owl
+#### 1273. Minimalist owl
 
-<img src="https://pub-7fa6f15e4f0b4ba098adc8cf77f2475c.r2.dev/meigen/2046037688969769346/0.jpg" alt="Minimalist owl" width="560">
+<img src="images/prompts/2046037688969769346.jpg" alt="Minimalist owl" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -47462,11 +44856,11 @@ High definition, premium layout, magazine feel, real and publishable, new-media 
 
 </details>
 
-👤 [@austinit](https://x.com/austinit) · Tags: `poster` `branding`
+👤 [@austinit](https://x.com/austinit) · Tags: `poster`
 
 ---
 
-#### 12. Realistic vs stylized split
+#### 1274. Realistic vs stylized split
 
 <img src="images/prompts/2040118989775585520.jpg" alt="Realistic vs stylized split" width="560">
 
@@ -47489,18 +44883,11 @@ QUALITY: 8K resolution, ultra-detailed.
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2040118989775585520-1.jpg" width="320">
-<img src="images/prompts/2040118989775585520-2.jpg" width="320">
-
-</details>
-
 👤 [@Ciri_ai](https://x.com/Ciri_ai) · Tags: `portrait`
 
 ---
 
-#### 13. Brand world editorial collage
+#### 1275. Brand world editorial collage
 
 <img src="images/prompts/2034302036695547963.jpg" alt="Brand world editorial collage" width="560">
 
@@ -47611,11 +44998,11 @@ It must feel alive, layered, and expressive.
 
 </details>
 
-👤 [@egeberkina](https://x.com/egeberkina) · Tags: `portrait` `branding`
+👤 [@egeberkina](https://x.com/egeberkina) · Tags: `portrait`
 
 ---
 
-#### 14. Editorial moodboard collage
+#### 1276. Editorial moodboard collage
 
 <img src="images/prompts/2033954262372237406.jpg" alt="Editorial moodboard collage" width="560">
 
@@ -47726,11 +45113,11 @@ It must feel alive, layered, and expressive.
 
 </details>
 
-👤 [@egeberkina](https://x.com/egeberkina) · Tags: `portrait` `branding`
+👤 [@egeberkina](https://x.com/egeberkina) · Tags: `portrait`
 
 ---
 
-#### 15. Half blueprint half 3D split
+#### 1277. Half blueprint half 3D split
 
 <img src="images/prompts/2030420620232561024.jpg" alt="Half blueprint half 3D split" width="560">
 
@@ -47742,19 +45129,11 @@ A [subject] split vertically down the center, left half as a [adjective] technic
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2030420620232561024-1.jpg" width="320">
-<img src="images/prompts/2030420620232561024-2.jpg" width="320">
-<img src="images/prompts/2030420620232561024-3.jpg" width="320">
-
-</details>
-
-👤 [@GlennHasABeard](https://x.com/GlennHasABeard) · Tags: `3d-render` `infographic`
+👤 [@GlennHasABeard](https://x.com/GlennHasABeard) · Tags: `3d-render`
 
 ---
 
-#### 16. Brand 8-module showcase
+#### 1278. Brand 8-module showcase
 
 <img src="images/prompts/2029563852136849515.jpg" alt="Brand 8-module showcase" width="560">
 
@@ -47794,11 +45173,11 @@ PHASE 5: TECH SPECS
 
 </details>
 
-👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster` `branding`
+👤 [@AmirMushich](https://x.com/AmirMushich) · Tags: `poster`
 
 ---
 
-#### 17. Pergola sketch and real build
+#### 1279. Pergola sketch and real build
 
 <img src="images/prompts/2027936240985903452.jpg" alt="Pergola sketch and real build" width="560">
 
@@ -47814,17 +45193,11 @@ Finished Pergola: Fully built wooden pergola in a real garden, matching the exac
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027936240985903452-1.jpg" width="320">
-
-</details>
-
 👤 [@Strength04_X](https://x.com/Strength04_X) · Tags: `illustration`
 
 ---
 
-#### 18. 3x3 packaging storyboard mockup
+#### 1280. 3x3 packaging storyboard mockup
 
 <img src="images/prompts/2027526257018024246.jpg" alt="3x3 packaging storyboard mockup" width="560">
 
@@ -47873,11 +45246,11 @@ Una cuadrícula limpia 3×3 sin bordes, sin texto, sin captions y sin marcas de 
 
 </details>
 
-👤 [@arceyul](https://x.com/arceyul) · Tags: `product` `branding`
+👤 [@arceyul](https://x.com/arceyul) · Tags: `product`
 
 ---
 
-#### 19. Creative scene
+#### 1281. Creative scene
 
 <img src="images/prompts/2027094912357761319.jpg" alt="Creative scene" width="560">
 
@@ -47889,19 +45262,11 @@ Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. T
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2027094912357761319-1.jpg" width="320">
-<img src="images/prompts/2027094912357761319-2.jpg" width="320">
-<img src="images/prompts/2027094912357761319-3.jpg" width="320">
-
-</details>
-
-👤 [@GoogleAI](https://x.com/GoogleAI) · Tags: `character` `illustration`
+👤 [@GoogleAI](https://x.com/GoogleAI) · Tags: `character`
 
 ---
 
-#### 20. Coffee product shot
+#### 1282. Coffee product shot
 
 <img src="images/prompts/2019630789474861400.jpg" alt="Coffee product shot" width="560">
 
@@ -47960,11 +45325,11 @@ Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. T
 
 </details>
 
-👤 [@Minahil42298354](https://x.com/Minahil42298354) · Tags: `product` `branding`
+👤 [@Minahil42298354](https://x.com/Minahil42298354) · Tags: `product`
 
 ---
 
-#### 21. Anime illustration
+#### 1283. Anime illustration
 
 <img src="images/prompts/2018356991991689611.jpg" alt="Anime illustration" width="560">
 
@@ -48023,19 +45388,11 @@ Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. T
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2018356991991689611-1.jpg" width="320">
-<img src="images/prompts/2018356991991689611-2.jpg" width="320">
-<img src="images/prompts/2018356991991689611-3.jpg" width="320">
-
-</details>
-
-👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `character` `illustration`
+👤 [@YaseenK7212](https://x.com/YaseenK7212) · Tags: `character`
 
 ---
 
-#### 22. Day vs night split portrait comparison
+#### 1284. Day vs night split portrait comparison
 
 <img src="images/prompts/2011148742913900843.jpg" alt="Day vs night split portrait comparison" width="560">
 
@@ -48068,7 +45425,7 @@ beauty filters, over-smoothed skin, exaggerated makeup, inconsistent lighting, m
 
 ---
 
-#### 23. Y2K denim 4-panel collage poster
+#### 1285. Y2K denim 4-panel collage poster
 
 <img src="images/prompts/2011034968127057975.jpg" alt="Y2K denim 4-panel collage poster" width="560">
 
@@ -48142,11 +45499,11 @@ beauty filters, over-smoothed skin, exaggerated makeup, inconsistent lighting, m
 
 </details>
 
-👤 [@BaharAzamm561](https://x.com/BaharAzamm561) · Tags: `portrait` `branding`
+👤 [@BaharAzamm561](https://x.com/BaharAzamm561) · Tags: `portrait`
 
 ---
 
-#### 24. Gen Z 3x3 flash collage
+#### 1286. Gen Z 3x3 flash collage
 
 <img src="images/prompts/2010083845761314964.jpg" alt="Gen Z 3x3 flash collage" width="560">
 
@@ -48195,11 +45552,11 @@ beauty filters, over-smoothed skin, exaggerated makeup, inconsistent lighting, m
 
 </details>
 
-👤 [@IqraSaifiii](https://x.com/IqraSaifiii) · Tags: `portrait` `character`
+👤 [@IqraSaifiii](https://x.com/IqraSaifiii) · Tags: `portrait`
 
 ---
 
-#### 25. Bone-to-spaceship split scene
+#### 1287. Bone-to-spaceship split scene
 
 <img src="images/prompts/2009878072565346585.jpg" alt="Bone-to-spaceship split scene" width="560">
 
@@ -48211,19 +45568,11 @@ A photorealistic image, split down the middle. On the left side, a small, detail
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009878072565346585-1.jpg" width="320">
-<img src="images/prompts/2009878072565346585-2.jpg" width="320">
-<img src="images/prompts/2009878072565346585-3.jpg" width="320">
-
-</details>
-
 👤 [@umesh_ai](https://x.com/umesh_ai)
 
 ---
 
-#### 26. Blue sky 3x3 dynamic pose grid
+#### 1288. Blue sky 3x3 dynamic pose grid
 
 <img src="images/prompts/2009425516638687431.jpg" alt="Blue sky 3x3 dynamic pose grid" width="560">
 
@@ -48235,17 +45584,11 @@ A photorealistic image, split down the middle. On the left side, a small, detail
 
 </details>
 
-<details><summary>🖼️ More renders</summary>
-
-<img src="images/prompts/2009425516638687431-1.jpg" width="320">
-
-</details>
-
-👤 [@linxiaobei888](https://x.com/linxiaobei888) · Tags: `portrait` `character`
+👤 [@linxiaobei888](https://x.com/linxiaobei888) · Tags: `portrait`
 
 ---
 
-#### 27. Editorial Instagram grid collage
+#### 1289. Editorial Instagram grid collage
 
 <img src="images/prompts/2009275030161776952.jpg" alt="Editorial Instagram grid collage" width="560">
 
@@ -48318,11 +45661,11 @@ A photorealistic image, split down the middle. On the left side, a small, detail
 
 </details>
 
-👤 [@xIrissy](https://x.com/xIrissy) · Tags: `portrait` `branding`
+👤 [@xIrissy](https://x.com/xIrissy) · Tags: `portrait`
 
 ---
 
-#### 28. Clean girl 2x2 resort grid
+#### 1290. Clean girl 2x2 resort grid
 
 <img src="images/prompts/2009164895745658905.jpg" alt="Clean girl 2x2 resort grid" width="560">
 
@@ -48412,11 +45755,11 @@ A photorealistic image, split down the middle. On the left side, a small, detail
 
 </details>
 
-👤 [@xIrissy](https://x.com/xIrissy) · Tags: `portrait` `character`
+👤 [@xIrissy](https://x.com/xIrissy) · Tags: `portrait`
 
 ---
 
-#### 29. 4-panel city walk collage
+#### 1291. 4-panel city walk collage
 
 <img src="images/prompts/2008555126127051059.jpg" alt="4-panel city walk collage" width="560">
 
@@ -48438,7 +45781,7 @@ Low-key lighting, soft bokeh, cinematic shadows, film-still realism, editorial m
 
 ---
 
-#### 30. Wellness lifestyle vignettes
+#### 1292. Wellness lifestyle vignettes
 
 <img src="images/prompts/2008486850378293427.jpg" alt="Wellness lifestyle vignettes" width="560">
 
@@ -48527,19 +45870,13 @@ Low-key lighting, soft bokeh, cinematic shadows, film-still realism, editorial m
 
 👤 [@xmliisu](https://x.com/xmliisu) · Tags: `portrait`
 
-
 ---
+
 
 ## 🤝 Contributing
 
-Found a great GPT Image 2 prompt on X/Twitter? Submit it via the gallery on []() and it will be considered for the next sync into this repo.
+Send useful GPT Image 2 prompt sources with prompt text, preview image, author, and source URL.
 
 ## ⚖️ License & Attribution
 
-Every prompt links back to its original X/Twitter author via `@username`. Where the source post is known, a `Source tweet` link is included. Generated preview images are mirrored in this repository under `images/`.
-
-Repo content released under the [MIT License](LICENSE). Original prompt copyright belongs to each author.
-
----
-
-<p align="center"><sub>Built with ❤️ at <a href=""></a> · last synced 2026-05-05</sub></p>
+This repository is MIT licensed. Prompt entries retain original author and source attribution where available.

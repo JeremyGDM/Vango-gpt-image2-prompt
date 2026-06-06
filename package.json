@@ -1,0 +1,9 @@
+{
+  "name": "vango-gpt-image2-prompt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:prompts": "node scripts/run-update.mjs",
+    "update:prompts:push": "node scripts/run-update.mjs --push"
+  }
+}

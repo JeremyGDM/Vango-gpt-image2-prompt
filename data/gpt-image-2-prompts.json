@@ -1,8 +1,248 @@
 {
   "source": "https://github.com/JeremyGDM/Vango-gpt-image2-prompt",
-  "generatedAt": "2026-05-06T07:04:13.666Z",
-  "count": 1292,
+  "generatedAt": "2026-06-06T13:51:52.970Z",
+  "count": 1305,
   "prompts": [
+    {
+      "id": "promptsref-16999",
+      "title": "Make the Poké Ball open, and white light will shine inside. Everything e",
+      "category": "Illustration & Art",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16999.png",
+      "prompt": "Make the Poké Ball open, and white light will shine inside. Everything else remains unchanged.",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=0e718a683680042581a9d808e4505d46&show=true",
+      "tags": [
+        "illustration"
+      ],
+      "localImagePath": "images/prompts/promptsref-16999.png",
+      "collectedAt": "2026-06-06T13:51:45.983Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T07:51:33.367487+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258304.png"
+    },
+    {
+      "id": "promptsref-16997",
+      "title": "2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill",
+      "category": "Character Design",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16997.png",
+      "prompt": "2B, facies in proximo, elegantia mechanica et desiderium tacitum; capilli albi in bob nitido, frons pura; oculi velati (caecum fascia nigrum, si canonice), sed expressio per labra et mala loquitur; labra humida, glossum densum; cutis roscida cum poris subtilibus; angulus humilis, warm rimlight aureum ad labra, low-key; focus in labris et textura cutis, cinematic close-up, hyper-detail.",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=31308fb3198cf00371277abada4c3a09&show=true",
+      "tags": [
+        "character",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-16997.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T07:50:51.518395+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258299.png"
+    },
+    {
+      "id": "promptsref-16987",
+      "title": "图像生成用提示",
+      "category": "3D Renders",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16987.png",
+      "prompt": "图像生成用提示：\r\n参考附上的角色图片，将该角色显示为巨大曲面超宽屏显示器的壁纸。角色的外貌、颜色、服装、氛围和世界观需忠实反映参考图片，但提示中不指定固定的发色、服装或主题。  未来感十足且极为干净、时尚的游戏 PC 桌面设置。整体以白色为基调，同时用与附上角色色彩、氛围、主题自然协调的点缀色构成。照明、房间小物件、LED 颜色、墙面装饰、桌面周边的氛围，根据参考角色的印象随机优化。可爱、酷炫、梦幻、流行、黑暗、清纯、近未来、少女风、神秘等，根据角色的氛围自然调整方向。  中央设有巨大的曲面超宽屏显示器，屏幕上清晰显示使用附上角色的高品质动画壁纸。壁纸需通过色彩、背景、光线和装饰主题来设计，以突出角色的魅力，并与角色相匹配。  桌子上整齐摆放着白色或与角色相配的点缀色的机械键盘、柔和发光的 RGB 键帽灯、线圈状定制线缆、游戏鼠标、迷你显示器、未来感的小型小工具、小型盆栽，以及与角色氛围相符的小物件。桌面采用干净的哑光白色，或高档感的材质。  右侧是玻璃面板的白色 PC 机箱。内部有白色的 GeForce RTX 显卡、水冷散热器、LED 风扇、与角色相配颜色的 RGB 照明，以及小型手办或迷你车模等装饰，被美丽地灯光照亮。PC 内部的小型屏幕上也显示着附上角色的插图。  背景墙上设有六边形 LED 面板灯，散发与角色氛围相符的柔和光线。周围配置盆栽、白色架子、设计感强的室内装饰，以及与角色世界观相符的低调装饰。整体干净、留白优美、不杂乱、上品且精致化的空间。  电影感广角构图、16:9、略带荷兰角、低角度偏向、桌面整体与 PC 机箱纳入一帧的构图。柔和的体积光、浅景深、平滑反射、透明感玻璃、照片级真实、超高精致、8K、Unreal Engine 般的 3D 渲染品质、完美材质、电影级照明、超详细、照片级真实、奢华未来感游戏设置。",
+      "author": "Patrick Lee (Zyceson)",
+      "authorUrl": "https://promptsref.com/user/zyceson0831",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=51c4db87e96c2e062d42417d24da18a9&show=true",
+      "tags": [
+        "3d-render"
+      ],
+      "localImagePath": "images/prompts/promptsref-16987.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T07:35:21.93346+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258268.png"
+    },
+    {
+      "id": "promptsref-16974",
+      "title": "A focused cinematographer operates a professional cinema camera on a tri",
+      "category": "Product & E-commerce",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16974.png",
+      "prompt": "A focused cinematographer operates a professional cinema camera on a tripod, his intense gaze framed by the matte black housing of the lens. The scene is set within a dimly lit production studio, utilizing cinematic Rembrandt lighting that carves out the contours of his face while casting deep, dramatic shadows. Volumetric haze permeates the background, catching a sharp diagonal beam of light that emphasizes the technical environment. The composition utilizes a shallow depth of field, rendering the foreground camera rig in crisp detail while the studio equipment in the background dissolves into soft, indistinct bokeh. The cool, desaturated color palette enhances the professional industrial aesthetic, with subtle specular highlights reflecting off the metallic surfaces of the gear and the subject's skin.\r\n\r\n* **Style:** Hyper-photorealistic cinematic CGI\r\n* **Key elements:** Cinematographer, cinema camera, studio tripod, volumetric light beam, production equipment\r\n* **Lighting:** High-contrast Rembrandt lighting, cool color temperature, sharp diagonal key light\r\n* **Camera:** Close-up shot, 50mm lens, eye-level angle, shallow depth of field15:T73e,Capture a realistic screenshot from a fictional next-generation 3D open-world dystopian action-romance RPG, presented from the male protagonist’s first-person perspective.\r\n\r\nShinobu Kocho from Demon Slayer in a tattered butterfly-pattern haori and torn dark uniform that expose her cleavage, butterfly hair ornament, dramatic and somber cinematic lighting, leaning weakly against a crumbling stone wall in a destroyed, apocalyptic village. Her posture is fragile and exhausted—heavily wounded, shoulder line slumped, with visible cuts and burns, breathing heavily as if clinging to consciousness rather than striking a pose. Her face is smudged with ash, with a faint trail of blood trickling down her temple and reflections of distant embers in her eyes. A shattered, burnt wooden beam is propped against the debris beside her, casting harsh, jagged shadows over her u",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=68f6ec20b1547118d432a82e793556c3&show=true",
+      "tags": [
+        "product",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-16974.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T07:05:51.588412+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258248.png"
+    },
+    {
+      "id": "promptsref-16315",
+      "title": "A close-up shot shows a person's dark-skinned hand, likely belonging to",
+      "category": "Brand & Logos",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16315.png",
+      "prompt": "A close-up shot shows a person's dark-skinned hand, likely belonging to a Black male of indeterminate age, as it tucks an orange smartphone into the pocket of dark, pinstriped trousers. The smartphone, featuring a prominent triple-camera module and the Apple logo, is positioned diagonally within the pocket, with its top edge near the hand. The background is softly blurred, revealing a light brown fabric, possibly a jacket or shirt, and a hint of light blue sky. The lighting is soft and directional, casting subtle shadows and highlighting the textures of the clothing and the phone's surface. The overall atmosphere is clean, modern, and suggestive of an everyday, candid moment, with a focus on the vibrant color of the phone against the muted tones of the clothing. The perspective is slightly angled, emphasizing the diagonal line of the phone and the action of tucking it away.",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=a4167683e65805abd352b03a943ad18c&show=true",
+      "tags": [
+        "branding",
+        "logo"
+      ],
+      "localImagePath": "images/prompts/promptsref-16315.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-05T05:05:35.278499+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/05/255533.png"
+    },
+    {
+      "id": "promptsref-16312",
+      "title": "时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高",
+      "category": "Illustration & Art",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-16312.png",
+      "prompt": "时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高腰包臀半裙+竖线黑丝袜+黑色尖头细跟高跟鞋，人物侧坐黑色铁艺护栏，一手扶栏杆一手撩头发，单腿搭栏杆，直视镜头从容表情，场景为欧式老建筑沿街城市街道，晴天黄金时刻逆光自然光，清晰金色轮廓光，背景有行驶车辆零散行人，街道透视延伸，浅景深虚化背景突出人物，顶部叠加超大亮橙色粗体标题，柯达135胶片拍摄，轻微自然颗粒感，真实皮肤质感，冷暖对比，暖调环境冷调人物，高级时尚调色，电影感街拍。",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=f3a56a5ca66d5fe68d4bfea0e23cff4c&show=true",
+      "tags": [
+        "illustration"
+      ],
+      "localImagePath": "images/prompts/promptsref-16312.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-05T05:03:34.544653+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/05/255529.png"
+    },
+    {
+      "id": "promptsref-15977",
+      "title": "私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください",
+      "category": "Illustration & Art",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-15977.png",
+      "prompt": "私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください。 \r\n\r\n白い紙でできた正方形の床面をベースにし、その床面の奥側と片側だけに、白い壁を垂直に2面立てた前面と上部は完全に開いているオープンセット。奥行きをもたせる。 自然光が差し込む明るい白背景のスタジオに設置し、 箱庭に焦点を当て、背景には浅い被写界深度をつけて撮影する。",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=44a71d5896eb40947e894fc59cd3416e&show=true",
+      "tags": [
+        "illustration",
+        "gpt-image"
+      ],
+      "localImagePath": "images/prompts/promptsref-15977.png",
+      "collectedAt": "2026-06-06T13:51:45.984Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-04T15:55:01.870724+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/04/254136.png"
+    },
+    {
+      "id": "promptsref-15832",
+      "title": "Create a cinematic minimalist travel poster of [LOCATION NAME]",
+      "category": "Brand & Logos",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-15832.png",
+      "prompt": "Create a cinematic minimalist travel poster of [LOCATION NAME].\r\nThe poster should feel like a premium National Geographic cover mixed with luxury editorial design and modern environmental storytelling.\r\nComposition:\r\nVertical poster format (4:5)\r\nMonumental central subject occupying the lower-middle frame\r\nVast negative space in the upper section\r\nMassive condensed typography displaying the location name integrated into the background\r\nClean infographic-inspired layout\r\nSymmetrical and balanced composition\r\nUltra-premium magazine cover aesthetic\r\nEnvironment & Atmosphere:\r\nShowcase the most iconic natural feature of the location\r\nHyper-realistic landscape photography\r\nCinematic scale and depth\r\nAtmospheric haze\r\nSoft volumetric lighting\r\nDetailed environmental textures\r\nEpic sense of place and geological significance\r\nTypography System:\r\nGiant condensed sans-serif title spanning most of the poster height\r\nTitle subtly blended into the environment\r\nSmall scientific annotations and coordinates\r\nGeographic data labels\r\nElevation/depth information\r\nMinimalist information hierarchy\r\nLuxury editorial spacing\r\nColor Palette:\r\nLocation-specific natural colors\r\nSoft gradients\r\nFilmic color grading\r\nMuted luxury tones\r\nHigh dynamic range\r\nRealistic atmospheric perspective\r\nDesign Details:\r\nGeographic coordinates\r\nScientific measurements\r\nMinimal line dividers\r\nTiny informational labels\r\nEnvironmental statistics\r\nExploration-inspired UI elements\r\nMuseum-quality graphic design\r\nQuality:\r\nUltra detailed\r\nHyper realistic\r\nPremium poster design\r\nEditorial photography\r\nLuxury print quality\r\n8k\r\nSharp focus\r\nCinematic lighting\r\nAward-winning travel campaign aesthetic20:Te28,",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=2987d20f763b3f9889e2521808e084ba&show=true",
+      "tags": [
+        "branding",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-15832.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-04T13:34:11.067219+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/04/253569.png"
+    },
+    {
+      "id": "promptsref-15831",
+      "title": "喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍",
+      "category": "Illustration & Art",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-15831.png",
+      "prompt": "喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍 \r\n人物 镜头从模特下方往上打，前景的手 + 喜茶芝芝莓莓，被极度放大，背景的人物被压缩，瞬间把产品拉成视觉中心，制造 \"手要冲出屏幕\" 的冲击力。 前后景分层: 前景 (产品 / 手) 100% 清晰锐利，背景 (模特) 做轻微景深虚化，拉开了画面的空间感。 动态姿态配合：模特身体后仰，手臂前伸，配合低机位，既拉长了线条，又强化了 \"向前递出产品\" 的叙事感，让画面不呆板。 [光影与质感] 统一色调渐变背景：没有多余元素，用柔和粉桃色渐变，既突出了产品，又和人物的服装色调呼应，整体和谐不杂乱。 影棚级柔光 + 硬高光：喜茶芝芝莓莓，同时保留柔和的过渡阴影，既保证了时尚大片的干净质感，又不会让画面发灰。",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=b5b903d6bea5d18519a3713b2c57a787&show=true",
+      "tags": [
+        "illustration"
+      ],
+      "localImagePath": "images/prompts/promptsref-15831.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-04T13:34:04.492592+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/04/253574.png"
+    },
+    {
+      "id": "promptsref-15538",
+      "title": "High-end National Geographic style fashion editorial. A luxurious, thick",
+      "category": "Posters & Typography",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-15538.png",
+      "prompt": "High-end National Geographic style fashion editorial. A luxurious, thick grey\r\nyak wool coat draped elegantly over a snow-covered rock in the magnificent\r\nTibetan plateau. Deep blue sky, breathtaking snowy mountains in the background.\r\nMajestic, quiet luxury, eco-conscious vibe. --ar 3:4 --style raw --v 6.0\r\n【视觉意境】：国家地理级别的高端大片。一件奢华厚实的灰色牦牛绒大衣优雅地披在青藏高原被雪覆盖的岩石上。深蓝的天空，令人惊叹的雪山背景。 EN:\r\n\"For the Wild. For the Future.\" CN:\r\n“【雪山守护计划】您每购买一件牦牛绒大衣，我们将向西藏野生动物保护基金捐赠10%的收益。”",
+      "author": "mino co",
+      "authorUrl": "https://promptsref.com/user/a18668003356",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=67deeed29b2dfb9395820758a814bb2b&show=true",
+      "tags": [
+        "poster"
+      ],
+      "localImagePath": "images/prompts/promptsref-15538.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-04T05:38:45.999575+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/04/251650.png"
+    },
+    {
+      "id": "promptsref-15075",
+      "title": "Create a clean 16:9 animation model-sheet character card for foto Grata",
+      "category": "Before / After & Comparisons",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-15075.png",
+      "prompt": "Create a clean 16:9 animation model-sheet character card for foto Grata (see reference), redesigned as a clearly adult or age-neutral character profile sheet depending on the source.\r\n\r\nAUTO-ADAPT FROM CHARACTER: infer source work, iconic hairstyle, face shape, expression, costume colors, emblem, accessories, props, and personality keywords. Preserve recognizability while simplifying details into a clean production-ready design.\r\n\r\nPAGE LAYOUT: large clean title at top, small source subtitle, front close-up portrait, full-body front standing pose, full-body back-facing standing pose, side-view or three-quarter pose, small action pose, expression thumbnails, color palette swatches, close-up boxes for hair, collar, sleeve, shoes, emblem, weapon or prop, and concise handwritten annotation arrows. White grid-paper background, clear margins, thin blue-gray construction lines, organized labels.\r\n\r\nPOSE SET: front close-up, confident front stand, back-facing stand, side three-quarter stand, small seated hugging raised shins pose or relaxed prop-holding pose.\r\n\r\nSTYLE: clean anime model sheet, crisp line art, flat-to-soft cel shading, readable silhouette, controlled colors, production reference quality, official artbook layout.\r\n\r\nRussian text23:T5ab,Vertical character poster featuring Saiyan from Dragon Ball as the absolute main visual, occupying most of the composition. Semi-realistic anime aesthetics blended with UE5 hyper-realistic rendering. Chest-up half-body portrait, eye-level camera, camera height around the chest, strong close-up perspective.\r\n\r\nHis right hand reaches toward the camera with a menacing finger-point pose, foreground hand enlarged by perspective, creating intimidation, depth, and visual pressure. Sleek alien anatomy, realistic glossy skin texture, subtle vein details, sharp facial features, cold cruel eyes, smooth bio-armor surface, purple gem-like plates, white organic armor, preserving his iconic silhouette and color palette.\r\n\r\nOn the left side, add bold vertical typography reading Saiy",
+      "author": "Курт Сепеш",
+      "authorUrl": "https://promptsref.com/user/kurt19854",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=07b229f8fd5f9438a0f87605d4959a40&show=true",
+      "tags": [
+        "comparison"
+      ],
+      "localImagePath": "images/prompts/promptsref-15075.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-03T08:31:28.683783+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/03/249424.png"
+    },
+    {
+      "id": "promptsref-14977",
+      "title": "A high-fidelity landing page UI design for a premium padel training acad",
+      "category": "Before / After & Comparisons",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-14977.png",
+      "prompt": "A high-fidelity landing page UI design for a premium padel training academy, characterized by a sophisticated dark mode aesthetic with deep charcoal backgrounds and vibrant electric lime accents. The layout utilizes a clean, modular grid system featuring high-impact hero photography of athletes in dynamic mid-motion on terracotta-colored courts. Typography is crisp and sans-serif, emphasizing hierarchy through bold weights and strategic negative space. UI elements include interactive booking forms, membership pricing tiers with distinct call-to-action buttons, and data-driven stats counters. The overall visual language is sleek, athletic, and professional, balancing high-contrast color blocks with refined graphical overlays to create a modern, immersive digital experience tailored for elite sports enthusiasts.\r\n\r\n* **Style:** UI/UX Web Design, Modern Minimalist, Dark Mode\r\n* **Key elements:** Padel court photography, electric lime UI accents, modular grid cards, call-to-action buttons, data visualization\r\n* **Lighting:** High-contrast studio lighting, soft diffused ambient glow, neon-toned highlights\r\n* **Camera:** Flat lay UI mockup, 2D isometric perspective, sharp focus26:Tc42,",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=bcde478a4bc6ec0ffb8ea1798024977d&show=true",
+      "tags": [
+        "comparison"
+      ],
+      "localImagePath": "images/prompts/promptsref-14977.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-03T04:05:11.689057+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/03/248874.png"
+    },
+    {
+      "id": "promptsref-14192",
+      "title": "Low-light cinematic portrait, telephoto lens compression, shallow depth",
+      "category": "Before / After & Comparisons",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-14192.png",
+      "prompt": "Low-light cinematic portrait, telephoto lens compression, shallow depth of field, intentional soft focus and motion blur, moody nightlife atmosphere, abstract storytelling composition, layered haze and diffusion, imperfect candid capture  a stunning beautiful Korean female idol, ultra high visual appeal, pale porcelain skin, delicate yet seductive features, effortlessly alluring presence, relaxed and slightly tipsy mood, lazy and unguarded body language  outfit: sleek sensual styling — fitted off-shoulder top or thin strap dress subtly revealing collarbone and shoulder line, paired with a short skirt or high-slit silhouette; minimal but intentional accessories (earrings, thin necklace), modern K-idol fashion styling, slightly undone elegance  scene: dimly lit bar or lounge at night, warm tungsten lighting mixed with scattered reflections, frosted glass textures, cocktail glass in hand, blurred figures moving in background, neon hints and shadow gradients, reflective surfaces creating depth  lighting: Rembrandt-style contrast lighting, warm highlights against deep shadows, soft diffusion bloom, light scattering and refraction, cinematic glow  pose: natural candid moment — body slightly leaning or shifting weight, one hand holding a glass loosely, the other brushing hair or resting near waist, subtle torso angle emphasizing silhouette, not posing but captured mid-moment  expression: half-lidded eyes, distant or slightly provocative gaze, lips slightly parted, ambiguous emotion between calm and temptation  visual style: high contrast grayscale-toned palette with controlled color accents, heavy film grain, noise texture, layered blur gradients, imperfect focus transitions, strong negative space, dynamic perspective, avant-garde editorial aesthetic  mood: dreamy, intoxicating, mysterious, sensual but restrained, “moment before something happens”  --2:328:Ta0d,",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=3d9fc4ff0e64392bf215e18cc9132649&show=true",
+      "tags": [
+        "comparison",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-14192.png",
+      "collectedAt": "2026-06-06T13:51:45.985Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-02T10:28:40.110589+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/02/245998.png"
+    },
     {
       "id": "2051202480793686229",
       "title": "East asian phone-flash bedroom selfie",

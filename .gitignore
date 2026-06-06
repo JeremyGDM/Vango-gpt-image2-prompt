@@ -1,0 +1,4 @@
+.env
+.playwright-auth/
+node_modules/
+.DS_Store

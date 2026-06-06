@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-07T05:14:55.764Z",
-  "total": 1292,
+  "generatedAt": "2026-06-06T13:51:53.007Z",
+  "total": 1305,
   "downloaded": 1292,
   "skipped": 0,
   "failed": 0,
-  "failures": []
+  "failures": [],
+  "downloadedThisRun": 13,
+  "skippedThisRun": 0
 }
