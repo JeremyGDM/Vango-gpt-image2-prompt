@@ -209,7 +209,14 @@ node scripts/normalize-prompts.mjs \
 - `sourceUrl` 完全相同
 - prompt 文本 hash 相同
 - 图片 URL 相同
+- 本地图片文件名 / 图片内容 hash 相同
 - 标题 + 作者 + prompt 前 120 字相似
+
+硬性要求：
+
+- 已经收录过的图片和 prompt 不允许重复加入。
+- 如果图片重复但 prompt 略有改写，默认视为重复，除非来源明确是不同作品/不同版本。
+- 如果 prompt 重复但图片不同，先放入 `data/rejected-prompts.json` 或人工复核，不要直接写入主数据。
 
 ### Step 7: 下载/镜像图片
 
@@ -327,7 +334,7 @@ node scripts/run-update.mjs --push
 命令：
 
 ```bash
-cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.mjs --push
+cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.mjs --limit 100 --push
 ```
 
 ### 6.2 Hermes cronjob
@@ -339,7 +346,7 @@ cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.m
 - Prompt:
 
 ```text
-Run the GPT image prompt update SOP. Execute node scripts/run-update.mjs --push. If it fails, diagnose the failure, do not fabricate success, and report the exact blocker and logs.
+Run the GPT image prompt update SOP. Execute node scripts/run-update.mjs --limit 100 --push. If it fails, diagnose the failure, do not fabricate success, and report the exact blocker and logs.
 ```
 
 ---
