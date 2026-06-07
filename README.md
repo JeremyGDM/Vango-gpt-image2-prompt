@@ -1,13 +1,13 @@
 <h1 align="center">🎨 Vango GPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>1307 mirrored prompts for GPT Image 2</strong>,<br>
+  <strong>1308 mirrored prompts for GPT Image 2</strong>,<br>
   curated from X/Twitter and prompt libraries, organized by category, with preview images mirrored in this repository.
 </p>
 
 <p align="center">
   <a href="https://github.com/JeremyGDM/Vango-gpt-image2-prompt"><img src="https://img.shields.io/github/stars/JeremyGDM/Vango-gpt-image2-prompt?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/prompts-1307-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-1308-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -25,7 +25,23 @@ A mirrored library of GPT Image 2 prompts collected from X/Twitter and prompt li
 
 > Newest collected prompts appear here first.
 
-#### 1. Actual screenshot of a fictional playable sci-fi survival game, third-pe
+#### 1. A premium commercial advertising poster for a luxury gaming keyboard lau
+
+<img src="images/prompts/promptsref-17268.png" alt="A premium commercial advertising poster for a luxury gaming keyboard lau" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A premium commercial advertising poster for a luxury gaming keyboard launch.Central Subject:A single ultra-premium mechanical keyboard positioned perfectly in the exact center of the composition.Design Style:Modern technology branding mixed with clean editorial graphic design.Graphic Elements:Large overlapping translucent rectangles, subtle geometric frames, thin technical grid lines, and soft transparent acrylic panels integrated behind the keyboard.Typography:Huge bold typography reading:"TYPE FASTER"The typography is oversized, partially hidden behind the keyboard, and naturally integrated into the overall composition.Materials:Premium anodized aluminum chassis, matte black keycaps, subtle RGB glow between keys, realistic legends, brushed metal texture, precision-engineered details.Background:Clean deep graphite-black studio backdrop with subtle gradients.Lighting:High-end commercial product photography lighting, controlled reflections, crisp shadows, realistic metallic highlights, premium studio quality.Mood:Modern, premium, youthful, highly commercial.Composition:Symmetrical hero-shot layout.Strong central focus.Clean negative space.Professional advertising hierarchy.Color Palette:Graphite black,soft silver,electric cyan accents.Focus:Product design,materials,branding,commercial advertising.Aspect Ratio:9:16 vertical poster.Ultra detailed.Premium technology campaign.Photorealistic.8K.15:T44b,A human hand and a polished chrome robotic hand engage in a firm, symmetrical handshake, centered against a vibrant, monochromatic crimson backdrop. The metallic fingers exhibit sharp specular highlights and precise mechanical articulation, contrasting with the soft, organic texture of the human skin. The lighting is uniform and intense, casting a saturated navy blue glow across both surfaces that eliminates harsh shadows while emphasizing the silhouette of the grasp. The composition is tightly cropped to focus entirely on the contact point, creating a clean, minimalist aesthetic that highlights the integration o
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=4f5f82d883014e3d43eb7a23343af1e5&show=true) · Tags: `comparison`
+
+---
+
+#### 2. Actual screenshot of a fictional playable sci-fi survival game, third-pe
 
 <img src="images/prompts/promptsref-17144.png" alt="Actual screenshot of a fictional playable sci-fi survival game, third-pe" width="560">
 
@@ -41,7 +57,7 @@ Actual screenshot of a fictional playable sci-fi survival game, third-person cam
 
 ---
 
-#### 2. Generate a vertical 9:16 cinematic visual poster with the theme of "Soci
+#### 3. Generate a vertical 9:16 cinematic visual poster with the theme of "Soci
 
 <img src="images/prompts/promptsref-17139.png" alt="Generate a vertical 9:16 cinematic visual poster with the theme of &quot;Soci" width="560">
 
@@ -59,7 +75,7 @@ The character Asuka is stepping out of the phone screen, half of her body still 
 
 ---
 
-#### 3. Make the Poké Ball open, and white light will shine inside. Everything e
+#### 4. Make the Poké Ball open, and white light will shine inside. Everything e
 
 <img src="images/prompts/promptsref-16999.png" alt="Make the Poké Ball open, and white light will shine inside. Everything e" width="560">
 
@@ -75,7 +91,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 4. 2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill
+#### 5. 2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill
 
 <img src="images/prompts/promptsref-16997.png" alt="2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill" width="560">
 
@@ -91,7 +107,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 5. 图像生成用提示
+#### 6. 图像生成用提示
 
 <img src="images/prompts/promptsref-16987.png" alt="图像生成用提示" width="560">
 
@@ -108,7 +124,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 6. A focused cinematographer operates a professional cinema camera on a tri
+#### 7. A focused cinematographer operates a professional cinema camera on a tri
 
 <img src="images/prompts/promptsref-16974.png" alt="A focused cinematographer operates a professional cinema camera on a tri" width="560">
 
@@ -131,7 +147,7 @@ Shinobu Kocho from Demon Slayer in a tattered butterfly-pattern haori and torn d
 
 ---
 
-#### 7. A close-up shot shows a person's dark-skinned hand, likely belonging to
+#### 8. A close-up shot shows a person's dark-skinned hand, likely belonging to
 
 <img src="images/prompts/promptsref-16315.png" alt="A close-up shot shows a person's dark-skinned hand, likely belonging to" width="560">
 
@@ -147,7 +163,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 8. 时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高
+#### 9. 时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高
 
 <img src="images/prompts/promptsref-16312.png" alt="时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高" width="560">
 
@@ -163,7 +179,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 9. 私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください
+#### 10. 私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください
 
 <img src="images/prompts/promptsref-15977.png" alt="私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください" width="560">
 
@@ -181,7 +197,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 10. Create a cinematic minimalist travel poster of [LOCATION NAME]
+#### 11. Create a cinematic minimalist travel poster of [LOCATION NAME]
 
 <img src="images/prompts/promptsref-15832.png" alt="Create a cinematic minimalist travel poster of [LOCATION NAME]" width="560">
 
@@ -247,7 +263,7 @@ Award-winning travel campaign aesthetic20:Te28,
 
 ---
 
-#### 11. 喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍
+#### 12. 喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍
 
 <img src="images/prompts/promptsref-15831.png" alt="喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍" width="560">
 
@@ -264,7 +280,7 @@ Award-winning travel campaign aesthetic20:Te28,
 
 ---
 
-#### 12. High-end National Geographic style fashion editorial. A luxurious, thick
+#### 13. High-end National Geographic style fashion editorial. A luxurious, thick
 
 <img src="images/prompts/promptsref-15538.png" alt="High-end National Geographic style fashion editorial. A luxurious, thick" width="560">
 
@@ -286,7 +302,7 @@ Majestic, quiet luxury, eco-conscious vibe. --ar 3:4 --style raw --v 6.0
 
 ---
 
-#### 13. Create a clean 16:9 animation model-sheet character card for foto Grata
+#### 14. Create a clean 16:9 animation model-sheet character card for foto Grata
 
 <img src="images/prompts/promptsref-15075.png" alt="Create a clean 16:9 animation model-sheet character card for foto Grata" width="560">
 
@@ -316,7 +332,7 @@ On the left side, add bold vertical typography reading Saiy
 
 ---
 
-#### 14. A high-fidelity landing page UI design for a premium padel training acad
+#### 15. A high-fidelity landing page UI design for a premium padel training acad
 
 <img src="images/prompts/promptsref-14977.png" alt="A high-fidelity landing page UI design for a premium padel training acad" width="560">
 
@@ -337,7 +353,7 @@ A high-fidelity landing page UI design for a premium padel training academy, cha
 
 ---
 
-#### 15. Low-light cinematic portrait, telephoto lens compression, shallow depth
+#### 16. Low-light cinematic portrait, telephoto lens compression, shallow depth
 
 <img src="images/prompts/promptsref-14192.png" alt="Low-light cinematic portrait, telephoto lens compression, shallow depth" width="560">
 
@@ -358,8 +374,8 @@ Low-light cinematic portrait, telephoto lens compression, shallow depth of field
 
 | Category | Prompts |
 |---|---:|
+| Before / After & Comparisons | 35 |
 | Character Design | 113 |
-| Before / After & Comparisons | 34 |
 | Illustration & Art | 69 |
 | 3D Renders | 44 |
 | Product & E-commerce | 207 |
@@ -367,7 +383,7 @@ Low-light cinematic portrait, telephoto lens compression, shallow depth of field
 | Posters & Typography | 50 |
 | Portrait & People | 551 |
 | Charts & Infographics | 75 |
-| **Total** | **1307** |
+| **Total** | **1308** |
 
 ---
 

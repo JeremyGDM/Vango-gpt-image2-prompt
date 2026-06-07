@@ -1,8 +1,26 @@
 {
   "source": "https://github.com/JeremyGDM/Vango-gpt-image2-prompt",
-  "generatedAt": "2026-06-07T06:01:36.271Z",
-  "count": 1307,
+  "generatedAt": "2026-06-07T08:42:21.234Z",
+  "count": 1308,
   "prompts": [
+    {
+      "id": "promptsref-17268",
+      "title": "A premium commercial advertising poster for a luxury gaming keyboard lau",
+      "category": "Before / After & Comparisons",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-17268.png",
+      "prompt": "A premium commercial advertising poster for a luxury gaming keyboard launch.Central Subject:A single ultra-premium mechanical keyboard positioned perfectly in the exact center of the composition.Design Style:Modern technology branding mixed with clean editorial graphic design.Graphic Elements:Large overlapping translucent rectangles, subtle geometric frames, thin technical grid lines, and soft transparent acrylic panels integrated behind the keyboard.Typography:Huge bold typography reading:\"TYPE FASTER\"The typography is oversized, partially hidden behind the keyboard, and naturally integrated into the overall composition.Materials:Premium anodized aluminum chassis, matte black keycaps, subtle RGB glow between keys, realistic legends, brushed metal texture, precision-engineered details.Background:Clean deep graphite-black studio backdrop with subtle gradients.Lighting:High-end commercial product photography lighting, controlled reflections, crisp shadows, realistic metallic highlights, premium studio quality.Mood:Modern, premium, youthful, highly commercial.Composition:Symmetrical hero-shot layout.Strong central focus.Clean negative space.Professional advertising hierarchy.Color Palette:Graphite black,soft silver,electric cyan accents.Focus:Product design,materials,branding,commercial advertising.Aspect Ratio:9:16 vertical poster.Ultra detailed.Premium technology campaign.Photorealistic.8K.15:T44b,A human hand and a polished chrome robotic hand engage in a firm, symmetrical handshake, centered against a vibrant, monochromatic crimson backdrop. The metallic fingers exhibit sharp specular highlights and precise mechanical articulation, contrasting with the soft, organic texture of the human skin. The lighting is uniform and intense, casting a saturated navy blue glow across both surfaces that eliminates harsh shadows while emphasizing the silhouette of the grasp. The composition is tightly cropped to focus entirely on the contact point, creating a clean, minimalist aesthetic that highlights the integration o",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=4f5f82d883014e3d43eb7a23343af1e5&show=true",
+      "tags": [
+        "comparison"
+      ],
+      "localImagePath": "images/prompts/promptsref-17268.png",
+      "collectedAt": "2026-06-07T08:42:20.328Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-07T03:46:16.193548+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/07/258964.png"
+    },
     {
       "id": "promptsref-17144",
       "title": "Actual screenshot of a fictional playable sci-fi survival game, third-pe",
