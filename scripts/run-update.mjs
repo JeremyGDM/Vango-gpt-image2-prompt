@@ -23,6 +23,18 @@ function argValue(name, fallback) {
 const LIMIT = Number(argValue('--limit', '20')) || 20;
 const SHOULD_PUSH = process.argv.includes('--push');
 
+async function fetchJson(url) {
+  const res = await fetch(url, {
+    signal: AbortSignal.timeout(10000),
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; VangoPromptCollector/1.0)',
+      'Accept': 'application/json,text/plain,*/*',
+    },
+  });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} ${res.statusText}: ${url}`);
+  return await res.json();
+}
+
 async function fetchText(url) {
   const res = await fetch(url, {
     headers: {
@@ -196,14 +208,33 @@ async function writeJson(file, value) {
   await writeFile(file, `${JSON.stringify(value, null, 2)}\n`);
 }
 
-async function collectPromptsRef() {
-  const html = await fetchText(SOURCE_URL);
-  const flightTexts = extractFlightTexts(html);
-  const refs = extractStringRefs(flightTexts);
-  const works = extractWorks(flightTexts);
-  const normalized = works.map((work) => normalizeWork(work, refs)).filter(Boolean);
-  normalized.sort((a, b) => String(b.sourceCreatedAt || '').localeCompare(String(a.sourceCreatedAt || '')));
-  return normalized;
+async function collectPromptsRef(targetCount = LIMIT, shouldInclude = () => true) {
+  const pageSize = Math.min(Math.max(targetCount, 60), 100);
+  const collected = [];
+  const seenIds = new Set();
+  let page = 1;
+  let hasMore = true;
+
+  while (hasMore && collected.length < targetCount) {
+    const url = `https://promptsref.com/api/library/works?model=${encodeURIComponent('gpt-image/2.0-text-to-image')}&page=${page}&pageSize=${pageSize}&q=&sortBy=newest`;
+    const data = await fetchJson(url);
+    const works = Array.isArray(data.works) ? data.works : [];
+    const normalized = works.map((work) => normalizeWork(work, new Map())).filter(Boolean);
+
+    for (const entry of normalized) {
+      if (seenIds.has(entry.id)) continue;
+      seenIds.add(entry.id);
+      if (!shouldInclude(entry)) continue;
+      collected.push(entry);
+      if (collected.length >= targetCount) break;
+    }
+
+    hasMore = Boolean(data.hasMore) && works.length > 0;
+    page = Number(data.page || page) + 1;
+  }
+
+  collected.sort((a, b) => String(b.sourceCreatedAt || '').localeCompare(String(a.sourceCreatedAt || '')));
+  return collected;
 }
 
 async function downloadImage(entry) {
@@ -212,6 +243,7 @@ async function downloadImage(entry) {
   if (existsSync(target)) return { status: 'skipped', path: entry.localImagePath };
   const url = entry.sourceImageUrl || entry.image;
   const res = await fetch(url, {
+    signal: AbortSignal.timeout(10000),
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; VangoPromptCollector/1.0)' },
   });
   if (!res.ok) throw new Error(`Image download failed ${res.status}: ${url}`);
@@ -257,15 +289,15 @@ async function main() {
   const existingIds = new Set(existingPrompts.map((p) => p.id));
   const existingHashes = new Set(existingPrompts.map((p) => promptHash(p.prompt || '')));
 
-  const candidates = await collectPromptsRef();
-  const additions = [];
-  for (const candidate of candidates) {
-    if (additions.length >= LIMIT) break;
-    if (existingIds.has(candidate.id)) continue;
-    if (existingSourceUrls.has(candidate.sourceUrl)) continue;
-    if (existingHashes.has(promptHash(candidate.prompt))) continue;
-    additions.push(candidate);
-  }
+  const isNewCandidate = (candidate) => {
+    if (existingIds.has(candidate.id)) return false;
+    if (existingSourceUrls.has(candidate.sourceUrl)) return false;
+    if (existingHashes.has(promptHash(candidate.prompt))) return false;
+    return true;
+  };
+
+  const candidates = await collectPromptsRef(LIMIT, isNewCandidate);
+  const additions = candidates;
 
   const imageResults = [];
   for (const entry of additions) imageResults.push({ id: entry.id, ...(await downloadImage(entry)) });
