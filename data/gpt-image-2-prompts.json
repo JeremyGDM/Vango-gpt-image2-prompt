@@ -1,8 +1,47 @@
 {
   "source": "https://github.com/JeremyGDM/Vango-gpt-image2-prompt",
-  "generatedAt": "2026-06-06T13:51:52.970Z",
-  "count": 1305,
+  "generatedAt": "2026-06-07T06:01:36.271Z",
+  "count": 1307,
   "prompts": [
+    {
+      "id": "promptsref-17144",
+      "title": "Actual screenshot of a fictional playable sci-fi survival game, third-pe",
+      "category": "Character Design",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-17144.png",
+      "prompt": "Actual screenshot of a fictional playable sci-fi survival game, third-person camera inside a transparent deep-sea maintenance station. An adult East Asian female engineer character in a fitted orange pressure suit is sealing a cracked observation window with an emergency repair tool, giant dark ocean outside, distant submarine lights, floating dust and bubbles, blue-green emergency lighting, believable HUD UI with oxygen bar, pressure warning, minimap, interaction prompt reading “SEAL BREACH”, wet metal floor reflections, scratched glass, cinematic but playable composition, realistic game engine rendering",
+      "author": "xie underwood",
+      "authorUrl": "https://promptsref.com/user/wanxiaoba123",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=b6f7df7ea565b1e5d27d7182e3266cec&show=true",
+      "tags": [
+        "character",
+        "prompt",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-17144.png",
+      "collectedAt": "2026-06-07T06:01:34.873Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T15:33:25.784415+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258623.png"
+    },
+    {
+      "id": "promptsref-17139",
+      "title": "Generate a vertical 9:16 cinematic visual poster with the theme of \"Soci",
+      "category": "Before / After & Comparisons",
+      "image": "https://raw.githubusercontent.com/JeremyGDM/Vango-gpt-image2-prompt/main/images/prompts/promptsref-17139.png",
+      "prompt": "Generate a vertical 9:16 cinematic visual poster with the theme of \"Social media interface materialization + characters breaking out of the phone screen + ultra-wide-angle close-up perspective impact\".\r\nAt the center of the screen is a giant smartphone, standing upright in the real world like a portal to a virtual world. The phone screen displays a fictional Chinese short video/social media profile page, its structure referencing common social media profiles: a top status bar, avatar, nickname, bio, number of likes, number of followers, number of following, number of fans, an edit profile button, tags for works/daily activities/recommended content, a nine-grid thumbnail of works, and a bottom navigation bar. The entire profile content is redesigned around the themes of Asuka and EVA Unit-02 and Neon Genesis Evangelion; the avatar, background image, work covers, floating cards, and recommended content are all related to the character's personality, story elements, and visual symbols.\r\nThe character Asuka is stepping out of the phone screen, half of her body still inside the screen, while the other half has broken through the screen's boundaries into real space. One of her hands reaches towards the camera, the palm positioned at the very front of the frame, creating a strong ultra-wide-angle perspective distortion; a foot or leg also steps out of the phone screen, approaching the viewer, generating a strong sense of 3D depth and a visually striking \"breaking the dimensional barrier.\" The character must appear to truly step out of the social media page, not simply stand in front of the phone.17:T8e8,",
+      "author": "QQ10922018@gmail.com",
+      "authorUrl": "https://promptsref.com/user/qq10922018",
+      "sourceUrl": "https://promptsref.com/tool/AI-Image-Generator?share_id=c0564e5d4fd9b3642dfa1d181923da09&show=true",
+      "tags": [
+        "comparison",
+        "cinematic"
+      ],
+      "localImagePath": "images/prompts/promptsref-17139.png",
+      "collectedAt": "2026-06-07T06:01:34.879Z",
+      "sourceType": "promptsref",
+      "sourceCreatedAt": "2026-06-06T15:21:13.207146+00:00",
+      "sourceImageUrl": "https://aitool.promptsref.com/generated/images/2026/06/06/258607.png"
+    },
     {
       "id": "promptsref-16999",
       "title": "Make the Poké Ball open, and white light will shine inside. Everything e",

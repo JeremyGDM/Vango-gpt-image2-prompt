@@ -1,13 +1,13 @@
 <h1 align="center">🎨 Vango GPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>1305 mirrored prompts for GPT Image 2</strong>,<br>
+  <strong>1307 mirrored prompts for GPT Image 2</strong>,<br>
   curated from X/Twitter and prompt libraries, organized by category, with preview images mirrored in this repository.
 </p>
 
 <p align="center">
   <a href="https://github.com/JeremyGDM/Vango-gpt-image2-prompt"><img src="https://img.shields.io/github/stars/JeremyGDM/Vango-gpt-image2-prompt?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/prompts-1305-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-1307-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -25,7 +25,41 @@ A mirrored library of GPT Image 2 prompts collected from X/Twitter and prompt li
 
 > Newest collected prompts appear here first.
 
-#### 1. Make the Poké Ball open, and white light will shine inside. Everything e
+#### 1. Actual screenshot of a fictional playable sci-fi survival game, third-pe
+
+<img src="images/prompts/promptsref-17144.png" alt="Actual screenshot of a fictional playable sci-fi survival game, third-pe" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Actual screenshot of a fictional playable sci-fi survival game, third-person camera inside a transparent deep-sea maintenance station. An adult East Asian female engineer character in a fitted orange pressure suit is sealing a cracked observation window with an emergency repair tool, giant dark ocean outside, distant submarine lights, floating dust and bubbles, blue-green emergency lighting, believable HUD UI with oxygen bar, pressure warning, minimap, interaction prompt reading “SEAL BREACH”, wet metal floor reflections, scratched glass, cinematic but playable composition, realistic game engine rendering
+```
+
+</details>
+
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=b6f7df7ea565b1e5d27d7182e3266cec&show=true) · Tags: `character`, `prompt`, `cinematic`
+
+---
+
+#### 2. Generate a vertical 9:16 cinematic visual poster with the theme of "Soci
+
+<img src="images/prompts/promptsref-17139.png" alt="Generate a vertical 9:16 cinematic visual poster with the theme of &quot;Soci" width="560">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Generate a vertical 9:16 cinematic visual poster with the theme of "Social media interface materialization + characters breaking out of the phone screen + ultra-wide-angle close-up perspective impact".
+At the center of the screen is a giant smartphone, standing upright in the real world like a portal to a virtual world. The phone screen displays a fictional Chinese short video/social media profile page, its structure referencing common social media profiles: a top status bar, avatar, nickname, bio, number of likes, number of followers, number of following, number of fans, an edit profile button, tags for works/daily activities/recommended content, a nine-grid thumbnail of works, and a bottom navigation bar. The entire profile content is redesigned around the themes of Asuka and EVA Unit-02 and Neon Genesis Evangelion; the avatar, background image, work covers, floating cards, and recommended content are all related to the character's personality, story elements, and visual symbols.
+The character Asuka is stepping out of the phone screen, half of her body still inside the screen, while the other half has broken through the screen's boundaries into real space. One of her hands reaches towards the camera, the palm positioned at the very front of the frame, creating a strong ultra-wide-angle perspective distortion; a foot or leg also steps out of the phone screen, approaching the viewer, generating a strong sense of 3D depth and a visually striking "breaking the dimensional barrier." The character must appear to truly step out of the social media page, not simply stand in front of the phone.17:T8e8,
+```
+
+</details>
+
+👤 [QQ10922018@gmail.com](https://promptsref.com/user/qq10922018) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=c0564e5d4fd9b3642dfa1d181923da09&show=true) · Tags: `comparison`, `cinematic`
+
+---
+
+#### 3. Make the Poké Ball open, and white light will shine inside. Everything e
 
 <img src="images/prompts/promptsref-16999.png" alt="Make the Poké Ball open, and white light will shine inside. Everything e" width="560">
 
@@ -41,7 +75,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 2. 2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill
+#### 4. 2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill
 
 <img src="images/prompts/promptsref-16997.png" alt="2B, facies in proximo, elegantia mechanica et desiderium tacitum; capill" width="560">
 
@@ -57,7 +91,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 3. 图像生成用提示
+#### 5. 图像生成用提示
 
 <img src="images/prompts/promptsref-16987.png" alt="图像生成用提示" width="560">
 
@@ -74,7 +108,7 @@ Make the Poké Ball open, and white light will shine inside. Everything else rem
 
 ---
 
-#### 4. A focused cinematographer operates a professional cinema camera on a tri
+#### 6. A focused cinematographer operates a professional cinema camera on a tri
 
 <img src="images/prompts/promptsref-16974.png" alt="A focused cinematographer operates a professional cinema camera on a tri" width="560">
 
@@ -97,7 +131,7 @@ Shinobu Kocho from Demon Slayer in a tattered butterfly-pattern haori and torn d
 
 ---
 
-#### 5. A close-up shot shows a person's dark-skinned hand, likely belonging to
+#### 7. A close-up shot shows a person's dark-skinned hand, likely belonging to
 
 <img src="images/prompts/promptsref-16315.png" alt="A close-up shot shows a person's dark-skinned hand, likely belonging to" width="560">
 
@@ -113,7 +147,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 6. 时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高
+#### 8. 时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高
 
 <img src="images/prompts/promptsref-16312.png" alt="时尚杂志封面构图，中景人像，22-28岁东亚年轻女性，清冷御姐气质，凹凸有致身材，黑色长微卷发，淡妆红棕唇，穿搭藏蓝色半高领无袖紧身上衣+灰色高" width="560">
 
@@ -129,7 +163,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 7. 私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください
+#### 9. 私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください
 
 <img src="images/prompts/promptsref-15977.png" alt="私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください" width="560">
 
@@ -147,7 +181,7 @@ A close-up shot shows a person's dark-skinned hand, likely belonging to a Black 
 
 ---
 
-#### 8. Create a cinematic minimalist travel poster of [LOCATION NAME]
+#### 10. Create a cinematic minimalist travel poster of [LOCATION NAME]
 
 <img src="images/prompts/promptsref-15832.png" alt="Create a cinematic minimalist travel poster of [LOCATION NAME]" width="560">
 
@@ -213,7 +247,7 @@ Award-winning travel campaign aesthetic20:Te28,
 
 ---
 
-#### 9. 喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍
+#### 11. 喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍
 
 <img src="images/prompts/promptsref-15831.png" alt="喜茶芝芝莓莓 + 亚洲美女 | 粉桃色渐变背景 [镜头] 极端广角低机位仰拍" width="560">
 
@@ -230,7 +264,7 @@ Award-winning travel campaign aesthetic20:Te28,
 
 ---
 
-#### 10. High-end National Geographic style fashion editorial. A luxurious, thick
+#### 12. High-end National Geographic style fashion editorial. A luxurious, thick
 
 <img src="images/prompts/promptsref-15538.png" alt="High-end National Geographic style fashion editorial. A luxurious, thick" width="560">
 
@@ -252,7 +286,7 @@ Majestic, quiet luxury, eco-conscious vibe. --ar 3:4 --style raw --v 6.0
 
 ---
 
-#### 11. Create a clean 16:9 animation model-sheet character card for foto Grata
+#### 13. Create a clean 16:9 animation model-sheet character card for foto Grata
 
 <img src="images/prompts/promptsref-15075.png" alt="Create a clean 16:9 animation model-sheet character card for foto Grata" width="560">
 
@@ -282,7 +316,7 @@ On the left side, add bold vertical typography reading Saiy
 
 ---
 
-#### 12. A high-fidelity landing page UI design for a premium padel training acad
+#### 14. A high-fidelity landing page UI design for a premium padel training acad
 
 <img src="images/prompts/promptsref-14977.png" alt="A high-fidelity landing page UI design for a premium padel training acad" width="560">
 
@@ -303,7 +337,7 @@ A high-fidelity landing page UI design for a premium padel training academy, cha
 
 ---
 
-#### 13. Low-light cinematic portrait, telephoto lens compression, shallow depth
+#### 15. Low-light cinematic portrait, telephoto lens compression, shallow depth
 
 <img src="images/prompts/promptsref-14192.png" alt="Low-light cinematic portrait, telephoto lens compression, shallow depth" width="560">
 
@@ -324,16 +358,16 @@ Low-light cinematic portrait, telephoto lens compression, shallow depth of field
 
 | Category | Prompts |
 |---|---:|
+| Character Design | 113 |
+| Before / After & Comparisons | 34 |
 | Illustration & Art | 69 |
-| Character Design | 112 |
 | 3D Renders | 44 |
 | Product & E-commerce | 207 |
 | Brand & Logos | 164 |
 | Posters & Typography | 50 |
-| Before / After & Comparisons | 33 |
 | Portrait & People | 551 |
 | Charts & Infographics | 75 |
-| **Total** | **1305** |
+| **Total** | **1307** |
 
 ---
 
