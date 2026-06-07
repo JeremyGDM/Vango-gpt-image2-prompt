@@ -159,7 +159,7 @@ git pull --rebase origin main
 ```bash
 node scripts/collect-promptsref.mjs \
   --url "https://promptsref.com/library/gpt-image" \
-  --limit 100 \
+  --limit 50 \
   --out data/incoming-promptsref.json
 ```
 
@@ -218,12 +218,12 @@ node scripts/normalize-prompts.mjs \
 - 如果图片重复但 prompt 略有改写，默认视为重复，除非来源明确是不同作品/不同版本。
 - 如果 prompt 重复但图片不同，先放入 `data/rejected-prompts.json` 或人工复核，不要直接写入主数据。
 
-去重逻辑必须持续翻页，直到凑满本次目标新增数量或来源没有更多结果。例如每天目标是 100 条时：
+去重逻辑必须持续翻页，直到凑满本次目标新增数量或来源没有更多结果。例如每天目标是 50 条时：
 
 1. 先抓最新页。
-2. 最新页去重后不够 100 条，就继续抓更旧页面。
+2. 最新页去重后不够 50 条，就继续抓更旧页面。
 3. 继续过滤已收录图片 / prompt / sourceUrl。
-4. 直到新增凑满 100 条，或来源站没有更多可用公开记录。
+4. 直到新增凑满 50 条，或来源站没有更多可用公开记录。
 
 ### Step 7: 下载/镜像图片
 
@@ -341,7 +341,7 @@ node scripts/run-update.mjs --push
 命令：
 
 ```bash
-cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.mjs --limit 100 --push
+cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.mjs --limit 50 --push
 ```
 
 ### 6.2 Hermes cronjob
@@ -353,7 +353,7 @@ cd /Users/jeremy/webDevelop/Vango-gpt-image2-prompt && node scripts/run-update.m
 - Prompt:
 
 ```text
-Run the GPT image prompt update SOP. Execute node scripts/run-update.mjs --limit 100 --push. If it fails, diagnose the failure, do not fabricate success, and report the exact blocker and logs.
+Run the GPT image prompt update SOP. Execute node scripts/run-update.mjs --limit 50 --push. If it fails, diagnose the failure, do not fabricate success, and report the exact blocker and logs.
 ```
 
 ---
