@@ -1,13 +1,13 @@
 <h1 align="center">🎨 Vango GPT Image 2 Prompts</h1>
 
 <p align="center">
-  <strong>1408 mirrored prompts for GPT Image 2</strong>,<br>
+  <strong>1458 mirrored prompts for GPT Image 2</strong>,<br>
   curated from X/Twitter and prompt libraries, organized by category, with preview images mirrored in this repository.
 </p>
 
 <p align="center">
   <a href="https://github.com/JeremyGDM/Vango-gpt-image2-prompt"><img src="https://img.shields.io/github/stars/JeremyGDM/Vango-gpt-image2-prompt?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/prompts-1408-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-1458-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -25,2035 +25,1413 @@ A mirrored library of GPT Image 2 prompts collected from X/Twitter and prompt li
 
 > Newest collected prompts appear here first.
 
-#### 1. Create an ultra-premium modern Japanese street-art editorial poster feat
+#### 1. <role>
 
-<img src="images/prompts/promptsref-17311.png" alt="Create an ultra-premium modern Japanese street-art editorial poster feat" width="560">
+<img src="images/prompts/promptsref-30990.png" alt="<role>" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create an ultra-premium modern Japanese street-art editorial poster featuring [BEAST GOHAN] as the main subject. Automatically analyze the characters's identity, public image, branding, fashion style, personality, career, fan culture, visual aesthetics, iconic colors, and overall vibe. Generate a unique color palette that perfectly matches the artist. Do not use fixed colors. The entire design, accents, typography highlights, stickers, graffiti, and visual elements must adapt naturally to the artist. Style combines Japanese street culture, Harajuku fashion, Y2K aesthetics, luxury editorial design, collectible idol merchandise, retro internet graphics, magazine cover layouts, modern pop-art, graffiti art, and premium streetwear branding. Background uses clean premium paper texture with subtle print imperfections, vintage editorial details, and modern magazine aesthetics. Place massive oversized black typography behind the subject displaying the artist's first name as the primary graphic element. Overlay the typography with a huge graffiti-style handwritten version of the artist's name using colors derived from the artist's visual identity. Main Subject: High-quality cutout portrait of [BEAST GOHAN]. Absolute facial accuracy. Center composition. Natural pose. Professional studio lighting. Fashion campaign quality. Premium magazine-cover presence. Street-Art Elements: Graffiti paint strokes. Sticker graphics. Hand-drawn doodles. Japanese typography. Barcode labels. Magazine clippings. Torn paper effects. Retro web graphics. Pixel-inspired icons. Spray paint textures. Urban design details. Editorial Layout: Large artist name section. Automatically generated biography. Career highlights. Achievements. Interesting facts. Retro computer popup window with a short message inspired by the artist's personality. Decorative Japanese katakana rendering of the artist's name. Professional visual hierarchy. Dynamic asymmetrical composition. Luxury poster balance. No creator credit. No watermark. No official profile text. No unnecessary logos. Visual Quality: Ultra detailed. Highly realistic. Sharp typography. Professional graphic design. Premium collectible merchandise aesthetic. Luxury fashion campaign quality. Japanese street-art energy. Modern Gen-Z aesthetic. Pinterest-worthy. Instagram-ready. Museum-quality graphic design. 4K resolution. Vertical poster format. Aspect ratio 4:5.
+<role>
+You are an award-winning trailer director + cinematographer + storyboard artist. Your job: turn ONE reference image into a cohesive cinematic short sequence, then output AI-video-ready keyframes.
+</role>
+
+<input>
+User provides: one reference image (image).
+</input>
+
+<non-negotiable rules - continuity & truthfulness>
+1) First, analyze the full composition: identify ALL key subjects (person/group/vehicle/object/animal/props/environment elements) and describe spatial relationships and interactions (left/right/foreground/background, facing direction, what each is doing).
+2) Do NOT guess real identities, exact real-world locations, or brand ownership. Stick to visible facts. Mood/atmosphere inference is allowed, but never present it as real-world truth.
+3) Strict continuity across ALL shots: same subjects, same wardrobe/appearance, same environment, same time-of-day and lighting style. Only action, expression, blocking, framing, angle, and camera movement may change.
+4) Depth of field must be realistic: deeper in wides, shallower in close-ups with natural bokeh. Keep ONE consistent cinematic color grade across the entire sequence.
+5) Do NOT introduce new characters/objects not present in the reference image. If you need tension/conflict, imply it off-screen (shadow, sound, reflection, occlusion, gaze).
+</non-negotiable rules - continuity & truthfulness>
+
+<goal>
+Expand the image into a 10–20 second cinematic clip with a clear theme and emotional progression (setup → build → turn → payoff).
+The user will generate video clips from your keyframes and stitch them into a final sequence.
+</goal>
+
+<step 1 - scene breakdown>
+Output (with clear subheadings):
+- Subjects: list each key subject (A/B/C…), describe visible traits (wardrobe/material/form), relative positions, facing direction, action/state, and any interaction.
+- Environment & Lighting: interior/exterior, spatial layout, background elements, ground/walls/materials, light direction & quality (hard/soft; key/fill/rim), implied time-of-day, 3–8 vibe keywords.
+- Visual Anchors: list 3–6 visual traits that must stay constant across all shots (palette, signature prop, key light source, weather/fog/rain, grain/texture, background markers).
+</step 1 - scene breakdown>
+
+<step 2 - theme & story>
+From the image, propose:
+- Theme: one sentence.
+- Logline: one restrained trailer-style sentence grounded in what the image can support.
+- Emotional Arc: 4 beats (setup/build/turn/payoff), one line each.
+</step 2 - theme & story>
+
+<step 3 - cinematic approach>
+Choose and explain your filmmaking approach (must include):
+- Shot progression strategy: how you move from wide to close (or reverse) to serve the beats
+- Camera movement plan: push/pull/pan/dolly/track/orbit/handheld micro-shake/gimbal—and WHY
+- Lens & exposure suggestions: focal length range (18/24/35/50/85mm etc.), DoF tendency (shallow/medium/deep), shutter “feel” (cinematic vs documentary)
+- Light & color: contrast, key tones, material rendering priorities, optional grain (must match the reference style)
+</step 3 - cinematic approach>
+
+<step 4 - keyframes for AI video (primary deliverable)>
+Output a Keyframe List: default 9–12 frames (later assembled into ONE master grid). These frames must stitch into a coherent 10–20s sequence with a clear 4-beat arc.
+Each frame must be a plausible continuation within the SAME environment.
+
+Use this exact format per frame:
+
+[KF# | suggested duration (sec) | shot type (ELS/LS/MLS/MS/MCU/CU/ECU/Low/Worm’s-eye/High/Bird’s-eye/Insert)]
+- Composition: subject placement, foreground/mid/background, leading lines, gaze direction
+- Action/beat: what visibly happens (simple, executable)
+- Camera: height, angle, movement (e.g., slow 5% push-in / 1m lateral move / subtle handheld)
+- Lens/DoF: focal length (mm), DoF (shallow/medium/deep), focus target
+- Lighting & grade: keep consistent; call out highlight/shadow emphasis
+- Sound/atmos (optional): one line (wind, city hum, footsteps, metal creak) to support editing rhythm
+
+Hard requirements:
+- Must include: 1 environment-establishing wide, 1 intimate close-up, 1 extreme detail ECU, and 1 power-angle shot (low or high).
+- Ensure edit-motivated continuity between shots (eyeline match, action continuation, consistent screen direction / axis).
+</step 4 - keyframes for AI video>
+
+<step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>
+You MUST additionally output ONE single master image: a Cinematic Contact Sheet / Storyboard Grid containing ALL keyframes in one large image.
+- Default grid: 3x3. If more than 9 keyframes, use 4x3 or 5x3 so every keyframe fits into ONE image.
+Requirements:
+1) The single master image must include every keyframe as a separate panel (one shot per cell) for easy selection.
+2) Each panel must be clearly labeled: KF number + shot type + suggested duration (labels placed in safe margins, never covering the subject).
+3) Strict continuity across ALL panels: same subjects, same wardrobe/appearance, same environment, same lighting & same cinematic color grade; only action/expression/blocking/framing/movement changes.
+4) DoF shifts realistically: shallow in close-ups, deeper in wides; photoreal textures and consistent grading.
+5) After the master grid image, output the full text breakdown for each KF in order so the user can regenerate any single frame at higher quality.
+</step 5 - contact sheet output>
+
+<final output format>
+Output in this order:
+A) Scene Breakdown
+B) Theme & Story
+C) Cinematic Approach
+D) Keyframes (KF# list)
+E) ONE Master Contact Sheet Image (All KFs in one grid)
+</final output format>
 ```
 
 </details>
 
-👤 [Rizki D. Kurniawan](https://promptsref.com/user/rdkonezuka) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=63890682d344b805ed694973056b6e84&show=true) · Tags: `branding`, `logo`
+👤 [Raw Forge](https://promptsref.com/user/rawforgetv) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=b6f8d2e6e4f8662d2b1a335033697a80&show=true) · Tags: `comparison`, `cinematic`
 
 ---
 
-#### 2. A human hand and a polished chrome robotic hand engage in a firm, symmet
+#### 2. 照片级真实自然。垂直9:16超宽手持直闪夜间街头自拍，抖音热门女孩日记美学。一位二十多岁的中年成年东亚女性，非常美丽而引人注目，长长的深棕色波浪
 
-<img src="images/prompts/promptsref-17267.png" alt="A human hand and a polished chrome robotic hand engage in a firm, symmet" width="560">
+<img src="images/prompts/promptsref-30932.png" alt="照片级真实自然。垂直9:16超宽手持直闪夜间街头自拍，抖音热门女孩日记美学。一位二十多岁的中年成年东亚女性，非常美丽而引人注目，长长的深棕色波浪" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-A human hand and a polished chrome robotic hand engage in a firm, symmetrical handshake, centered against a vibrant, monochromatic crimson backdrop. The metallic fingers exhibit sharp specular highlights and precise mechanical articulation, contrasting with the soft, organic texture of the human skin. The lighting is uniform and intense, casting a saturated navy blue glow across both surfaces that eliminates harsh shadows while emphasizing the silhouette of the grasp. The composition is tightly cropped to focus entirely on the contact point, creating a clean, minimalist aesthetic that highlights the integration of biological and synthetic forms. The visual depth is shallow, focusing on the tactile intersection of the two distinct materials under a singular, high-key light source.
-
-* **Style:** Minimalist 3D render, high-contrast studio photography
-* **Key elements:** Human hand, robotic hand, handshake, monochromatic crimson background
-* **Lighting:** High-key, uniform monochromatic red fill, soft diffused rim light
-* **Camera:** Macro shot, 100mm lens, centered eye-level angle
+照片级真实自然。垂直9:16超宽手持直闪夜间街头自拍，抖音热门女孩日记美学。一位二十多岁的中年成年东亚女性，非常美丽而引人注目，长长的深棕色波浪发吹散在脸上，半睁的戏谑目光，光泽的柔和红色嘴唇，烟熏眼线。服装：炭灰色露肩无袖上衣，黑色低腰短裤，黑色腋下肩背包，圈形耳环，粗黑手表。低角度向上自拍，伸出的手臂可见；她微微向后倾，仿佛在温暖的城市街道上向后走。背景：红砖墙，树影，琥珀色街灯，模糊的车灯。面部和皮肤上的强烈直闪，胶片颗粒，略微动态模糊，不完美裁剪，高对比度阴影
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=2b3b7da6e6df674e4a421f77285e7d0e&show=true) · Tags: `character`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=53dbb185fa13e0d71a38330c4e903f42&show=true) · Tags: `illustration`
 
 ---
 
-#### 3. Create a stylized AAA video game key art poster
+#### 3. A vertical 4:5 streaming documentary poster-style half-body portrait. In
 
-<img src="images/prompts/promptsref-17249.png" alt="Create a stylized AAA video game key art poster" width="560">
+<img src="images/prompts/promptsref-30931.png" alt="A vertical 4:5 streaming documentary poster-style half-body portrait. In" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a stylized AAA video game key art poster.
+A vertical 4:5 streaming documentary poster-style half-body portrait. In the center of the frame is an adult man around 30-40 years old, wearing a black suit jacket, a pale beige or light yellow dress shirt, and a black tie. His body is slightly turned in a subtle three-quarter angle, with stable formal shoulders, but his presence feels mentally compressed and restrained.
 
-CONCEPT:
-“Claymore: Silver-Eyed War” reimagined — a modern AAA dark fantasy evolution of the Claymore anime/manga world. Preserve the intense gothic fantasy identity, but upgrade with cinematic battlefield scale, demonic horror, elite warrior aesthetics, and premium game-cover impact.
+Three yellow circular bands wrap horizontally around his head like caution tape, slogan tape, or a physical device of mental restraint. Each band is printed repeatedly with bold black uppercase “MIND FULL” typography. The text must stay sharp, readable, and not mirrored. The bands cover most of his eye area, leaving only parts of the forehead, nose, cheeks, lips, chin, and a small area of the neck visible.
 
-STYLE:
-AAA game key art, Unreal Engine 5 inspired rendering + illustrated dark fantasy anime hybrid
-Bold black grid layout, sharp manga-panel framing, stylized Claymore-like warriors and awakened beings
-High-contrast gothic palette: silver, ash grey, deep black, blood red, moonlit blue, pale gold
+His expression is serious, numb, and tired. His lips are naturally closed and slightly heavy, as if he has been frozen after a long period of workplace pressure. Preserve realistic male facial texture: short beard, dense jaw stubble, visible pores, slight unevenness, dry roughness, and natural facial shadows. His skin is medium-deep in tone, processed into a desaturated gray-yellow poster grade. It should feel tactile, like fine sand-like skin texture, stubble prickle, and printed paper grain, not smooth plastic skin.
 
-FORMAT:
-Classic multi-panel dark fantasy cover grid composition with thick black dividers
-Centered stacked title typography
+The background is a minimal warm-white poster surface. At the top center, place red “NETFLIX” text. Add a small “MIND FULL” logo in the upper left, “COMING SOON” in the upper right, and stacked black text on the lower left reading “THE STORY OF HOW BURNOUT BECAME A CRIME.” Use soft studio lighting from the front and slightly above, catching the nose bridge, cheeks, and lips, while keeping real shadows under the jaw and around the nostrils. The yellow bands should cast subtle occlusion shadows across the face. The image should have muted gray-yellow color grading, slight noise, printed grain, and a vintage poster-paper texture.
 
-────────────────────────────
-
-🧩 PANEL COMPOSITION (MODERNIZED ICONIC GRID):
-
-Top-left:
-A moonlit battlefield with a Claymore warrior standing on a cliff edge, silver eyes glowing, enormous greatsword resting across her shoulder, dark clouds and ruined medieval towers behind
-
-Top-center:
-Stylized female warrior inspired by Clare, holding a massive Claymore sword with both hands, intense silver-eyed expression, white fitted armor, short cape flowing in the wind
-
-Top-right:
-Awakened Being monster lunging from the shadows, grotesque wings, elongated limbs, demonic aura, cinematic horror framing
-
-Mid-left:
-Stylized female Claymore warrior inspired by Miria, dynamic speed-blur pose, twin movement afterimages, elegant armor, confident battle expression
-
-Center:
-Large bold stacked title:
-“CLAYMORE” in sharp engraved gothic serif typography
-“Silver-Eyed War” in glowing silver-blue script
-Add “2026” subtle tag integrated into sword-reflection glow
-
-Mid-right:
-Stylized female Claymore warrior inspired by Galatea, calm and elegant stance, long hair, psychic-sensing aura visualized as silver energy lines around her
-
-Bottom-left:
-Close-up protagonist portrait inspired by Clare, older and battle-hardened, silver eyes glowing, blood marks on face, dominant expression, cinematic rim lighting
-
-Bottom-center:
-High-speed combat panel — Claymore warrior slicing through a monstrous Awakened Being, sparks, black blood, shattered stone, silver sword arc cutting across the frame
-
-Bottom-right:
-Stylized male or female elite warrior from the Organization, mysterious dark uniform, holding a sealed scroll and blade, standing before a gothic fortress gate
-
-Additional small panels (optional fill-ins):
-
-* Yoma hiding inside a medieval village crowd
-* Organization black-robed handlers watching from the shadows
-* Silver-eyed warriors marching through snow
-* Ruined cathedral with glowing demonic symbols
-* Massive Claymore sword planted into cracked earth
-
-────────────────────────────
-
-🎨 ART DIRECTION:
-
-Color:
-
-* Strong contrast gothic fantasy palette
-* Silver/blue moonlight split lighting across panels
-* Blood red accents for combat and awakened being panels
-* Pale gold highlights for armor edges and sword reflections
-
-Lighting:
-
-* Hard manga-style highlights + UE5 cinematic glow effects
-* Moonlit rim lighting and supernatural silver-eye glow
-* Dramatic shadows across faces, armor, and monster forms
-
-Texture:
-
-* Slight grain + manga screentone texture overlay
-* Clean inked outlines with subtle 3D depth
-* Brushed metal armor texture, cracked stone, ash, blood mist
-
-────────────────────────────
-
-🔤 TYPOGRAPHY:
-
-“CLAYMORE” — bold engraved gothic serif font, metallic silver with black shadow
-“Silver-Eyed War” — elegant glowing silver-blue script
-“2026” — small futuristic gothic numeric tag integrated subtly into the sword-glow
-
-────────────────────────────
-
-🎥 CAMERA / FRAMING:
-
-Each panel:
-
-* Dynamic angles: low-angle warriors, close-up portraits, action tilt shots, monster over-the-shoulder framing
-* Cinematic composition inside each frame
-* Dramatic manga-panel energy with AAA key art depth
-
-────────────────────────────
-
-✨ PLAYFUL DETAILS:
-
-* Glowing silver eyes across warrior panels
-* Organization symbols subtly hidden in armor and banners
-* Sword slash trails forming crescent-moon shapes
-* Demonic aura particles around Awakened Beings
-* Black blood splatter stylized like manga ink
-* Subtle HUD/UI hints resembling a dark fantasy RPG interface
-* Ancient runic markings embedded into the panel dividers
-
-────────────────────────────
-
-RENDER DETAILS:
-Ultra-detailed stylized assets, crisp outlines, vibrant gothic lighting, clean separation between panels, premium dark fantasy game-cover quality
-
-NEGATIVE:
-real humans, photoreal poster, modern city, cyberpunk, guns, cars, casual clothing, flat illustration only, comedic style, soft pastel anime
-
-OUTPUT:
---ar 2:3 --quality 2 --style raw
+The overall feeling should be a Netflix-style crime documentary poster about social pressure, burnout, mental overload, and being trapped by institutional language. It should feel like a collapse that had already happened and is now being presented as an official case file. Avoid a sci-fi helmet look, neon glowing rings, complex background, exaggerated facial expression, glossy fashion-editorial rim lighting, cartoon rendering, garbled typography, mirrored text, and over-smoothed beauty-retouched skin.
 ```
 
 </details>
 
-👤 [Wayne Dragon](https://promptsref.com/user/digital254) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=f5dbfc5acb690a47f86c957e95f5f3bc&show=true) · Tags: `comparison`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=4e2992188809af66191f5f6719c1c766&show=true) · Tags: `comparison`, `logo`
 
 ---
 
-#### 4. Vertical 9:16, minimalist white cosplay outfit information page, generou
+#### 4. Character design sheet, three-view turnaround of the same live-action co
 
-<img src="images/prompts/promptsref-17005.png" alt="Vertical 9:16, minimalist white cosplay outfit information page, generou" width="560">
+<img src="images/prompts/promptsref-30922.png" alt="Character design sheet, three-view turnaround of the same live-action co" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Vertical 9:16, minimalist white cosplay outfit information page, generous white empty space at the top and bottom, pure white photography studio background, bright high-key soft lighting, realistic commercial studio photography, premium fashion magazine catalog layout, clean and restrained.
-
-At the top, a large bold black title reads: “MUSASHI”. Under the title, add a very small refined subtitle: “ROCKET GLAMOUR TRICKSTER STYLE”.
-
-The left side is a unified black thin-line bordered outfit and accessory checklist, fixed into 3 numbered sections. Each section contains exactly 2 product cutouts, six product cutouts total: Section 1: long magenta wig with dramatic side sweep and black elbow gloves; Section 2: cropped white high-fashion rocket uniform top with red emblem-inspired abstract letter shape and white mini skirt; Section 3: black thigh-high boots and red rose accessory. Each item is shown as a clean white-background product cutout, with a small “1x” quantity label below each product.
-
-On the right side, a clearly adult Asian female fashion blogger stands full-body wearing a luxury fashion reinterpretation of Musashi from Pokemon: long vivid magenta hair swept dramatically to one side, fitted cropped white uniform top, sleek white mini skirt, black opera gloves, black thigh-high boots, sharp red graphic detail on the chest, elegant villainous runway styling. Preserve the recognizable identity: magenta hair, white rocket uniform, black gloves and boots, theatrical confidence, mischievous villain-team aura. She poses with one hand on her waist and the other raised elegantly, chin lifted, confident and dramatic.
-
-Beside her on the right lower area, place one realistic Wobbuffet-inspired blue companion creature, standing slightly behind her boots, rubbery blue skin texture, simple expressive face, rounded body, small arms, black tail with tiny eyes, soft studio shadow, believable creature anatomy but still cute and recognizable. The creature should look realistic, not like a flat cartoon.
-
-Avoid cheap plastic cosplay, exaggerated anime filter, bad text, crowded layout, distorted body proportions, messy background, unofficial messy logo marks, and placing the character or creature too close to the bottom edge. --ar 9:16
+Character design sheet, three-view turnaround of the same live-action cosplay football player, front view, side view, back view, full body, standing in a neutral pose, consistent face, consistent costume, clean studio background. An adult male athlete wearing a football jersey cosplay inspired by a golden spiky-haired energy warrior, but not based on any existing copyrighted character. Tall upright golden spiky hair, intense focused expression, athletic body, realistic human proportions. Custom football kit with orange and deep blue color blocking, fitted short-sleeve jersey, matching shorts, long socks, football boots, wrist guards, subtle glowing golden energy accents around the shoulders and hair, no team logo, no official badge, no readable text. The design should feel like a live-action stadium cosplay outfit, practical enough to run and kick a football, heroic, funny, exaggerated but believable. High-detail costume design, realistic fabric texture, sportswear seams, breathable mesh jersey material, cinematic realism, sharp character concept art, full-body orthographic turnaround, evenly lit, no dramatic pose.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=a6c8a4e9cd4fc09ea12c0cd33e100efa&show=true) · Tags: `product`, `logo`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=92961dbc08fccf3f1f4bcc9e7aa27f8a&show=true) · Tags: `branding`, `cinematic`, `logo`
 
 ---
 
-#### 5. Capture a realistic screenshot from a fictional next-generation 3D open-
+#### 5. A high-angle shot captures a woman, appearing to be a young adult, with
 
-<img src="images/prompts/promptsref-16966.png" alt="Capture a realistic screenshot from a fictional next-generation 3D open-" width="560">
+<img src="images/prompts/promptsref-30919.png" alt="A high-angle shot captures a woman, appearing to be a young adult, with" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Capture a realistic screenshot from a fictional next-generation 3D open-world dystopian action-romance RPG, presented from the male protagonist’s first-person perspective.
-
-Shinobu Kocho from Demon Slayer in a tattered butterfly-pattern haori and torn dark uniform that expose her cleavage, butterfly hair ornament, dramatic and somber cinematic lighting, leaning weakly against a crumbling stone wall in a destroyed, apocalyptic village. Her posture is fragile and exhausted—heavily wounded, shoulder line slumped, with visible cuts and burns, breathing heavily as if clinging to consciousness rather than striking a pose. Her face is smudged with ash, with a faint trail of blood trickling down her temple and reflections of distant embers in her eyes. A shattered, burnt wooden beam is propped against the debris beside her, casting harsh, jagged shadows over her upper body. Right beside her stands a cracked, blood-stained katana sheath driven into the scorched earth, next to a discarded, dirt-covered medical kit with spilled bandages—the debris, katana sheath, and medical kit must all be fully in frame; do not crop them out.
-
-The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. Include ultra-detailed character modeling, realistic skin shading with grit and sweat, cinematic lighting from smoldering ruins, PBR materials, high-precision battle-damaged fabric textures, and a finely rendered destroyed village environment. The final image must look like an actual playable game screenshot, including a complete game user interface: a malfunctioning or glitching minimap, an urgent crisis quest display, critical-low character status bars, emergency interaction prompts, tragic dialogue subtitles, HUD elements, and more.
+A high-angle shot captures a woman, appearing to be a young adult, with fair skin, seated on a light gray tile floor. Her dark hair is neatly styled in a bun. She wears a brown leather coat with a substantial fur collar, adding an element of luxury. The woman is facing a dark brown, glossy handbag with angular handles. She is barefoot and dressed in a sequined skirt adorned with silver discs, creating a textured contrast with the matte coat. In front of her are a pair of flat shoes with a distinctive black and white animal print and brown details, placed near a coffee-themed magazine labeled "COFFEE" and a small black cylinder, likely a cosmetic product. The overall color palette is neutral, dominated by earthy browns, highlighting the minimalist and sophisticated aesthetic under soft, diffuse lighting that reduces harsh shadows, creating a relaxed yet opulent atmosphere.HEX VALUES: ["#afac9f", "#d3d0c3", "#a29c8b", "#dedcd0", "#080503", "#958a78", "#c0beb2", "#3f2f20", "#24190f", "#524238", "#6f563f", "#7b6e5d", "#5b4229", "#d8bba5"]
 ```
 
 </details>
 
-👤 [Sea Eagle](https://promptsref.com/user/eaglesea53) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=ba2f8b3c9106b5747427ae050b72d822&show=true) · Tags: `character`, `prompt`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=d296fd6e995c21e6d2c02bb1dd002ae5&show=true) · Tags: `product`
 
 ---
 
-#### 6. Y2K Japanese video game magazine cover, fictional 2004 nightlife issue
+#### 6. {
 
-<img src="images/prompts/promptsref-16416.png" alt="Y2K Japanese video game magazine cover, fictional 2004 nightlife issue" width="560">
+<img src="images/prompts/promptsref-30918.png" alt="{" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Y2K Japanese video game magazine cover, fictional 2004 nightlife issue, ultra close-up high-angle portrait of an adult East Asian woman in her mid-20s, Japanese/Korean refined beauty, her face filling almost the entire frame, looking up through oversized glossy black sunglasses, wet glossy lips slightly parted, luminous skin under harsh nightclub flash, black shoulder-length hair, thin leather choker, one hand with black vinyl glove touching the edge of her sunglasses, oversized black blazer sliding slightly off one shoulder but still fully covering her body, subtle collarbone and shoulder line visible, complete opaque outfit, no nudity, nightclub neon reflections inside the sunglasses showing blurred dance-floor lights and a suggestive silhouette reflection without explicit detail, heavy halftone dot printing, xerox scan noise, CMYK misregistration, scratched ink texture, black background with green-yellow skin highlights, giant rounded futuristic masthead text across the top reading “SELENE”, small Japanese katakana labels, tiny technical production text blocks, vertical side typography, barcode, red warning sticker, fictional copyright marks, dense graphic design layout, PS2-era cyber fashion magazine aesthetic, intimate adult nightlife tension, stylish but restrained
+{
+  "style_rules": {
+    "background": "pure black (#000)",
+    "typography": "ultra-condensed bold white, left-aligned, 50-65% frame coverage",
+    "photography": "black and white, high contrast, film grain, documentary candid",
+    "photo_placement": "inset between text lines, window-in-wall effect",
+    "format": "16:9 horizontal",
+    "metadata": "bottom-right small caps: [CONTEXT] // [DETAIL] + colored accent",
+    "mood": "monumental, raw, intimate"
+  },
+  "negative": "color photos, thin/serif fonts, centered layout, decorative elements, gradients",
+  "variables": {
+    "subject": "[person] doing [unseen activity] in [environment]",
+    "headline": "[3-6 word declarative statement about the hidden moment]",
+    "tag": "[CONTEXT] // [DETAIL]",
+    "accent": "orange brush stroke | red dot"
+  }
+}
+{
+"style_rules": {
+“背景”: “纯黑色 (#000)”
+“字体”：“超窄粗体白色，左对齐，50-65% 边框覆盖率”，
+“摄影”：“黑白、高对比度、胶片颗粒、纪实抓拍”
+"photo_placement": "插入文本行之间，窗中墙效果",
+"格式": "16:9 水平",
+"metadata": "右下角小型大写字母：[CONTEXT] // [DETAIL] + 彩色强调文字",
+“氛围”：“宏大、原始、亲密”
+  },
+“负面”： “彩色照片、细/衬线字体、居中布局、装饰元素、渐变”
+"变量": {
+“主体”：[人]在[环境]中进行[未看到的活动]”，
+“标题”：[关于隐藏时刻的3-6个字的陈述句]
+"标签": [上下文] // [详情]，
+“重音”： “橙色笔触 | 红色圆点”
+  }
+}
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=a57bccf8671de9a75e235c31a7db9bca&show=true) · Tags: `product`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=3d1fd1494e27cdc5881b0571cca5ad31&show=true) · Tags: `poster`
 
 ---
 
-#### 7. RETRO POP-ART BEVERAGE COLLAGE SYSTEM
+#### 7. A beautiful woman in black suit on cafe face camera
 
-<img src="images/prompts/promptsref-16316.png" alt="RETRO POP-ART BEVERAGE COLLAGE SYSTEM" width="560">
+<img src="images/prompts/promptsref-30898.png" alt="A beautiful woman in black suit on cafe face camera" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-RETRO POP-ART BEVERAGE COLLAGE SYSTEM
-
-A premium commercial beverage advertising poster designed with a vibrant, playful mixed-media pop-art aesthetic.
-
-Central Subject:
-A photorealistic, matte-finish aluminum soda can stands in the lower-center. The can features realistic condensation water droplets running down its side, with an elegant, modern branding label in pastel orange and teal.
-
-The Aesthetic (Mixed-Media & Pop-Art):
-The background is a solid pastel-teal backdrop. The realistic 3D can is surrounded by bold, flat 2D vector illustrations of orange slices, retro 70s-style hand-drawn sunbursts, and playful graphic splashes of juice in bright orange and white.
-
-Design Elements:
-A mix of flat 2D graphic sparkles, halftone pattern overlays in the background, and 3D realistic mint leaves floating around the top of the can for a textured contrast.
-
-Typography:
-Huge, playful retro-serif typography in the background reading "Zesty & Fresh" in a bold cream color, layered behind the vector orange slices and the realistic can.
-
-Lighting:
-Bright, summery studio lighting, crisp soft shadows, realistic metallic reflections on the can, high-contrast fresh atmosphere.
-
-Commercial Value:
-Highly reusable for FMCG brands, healthy soda startups, organic juices, and summer social media marketing campaigns.
-
-Aspect Ratio: 9:16 vertical poster format.
-Quality: Ultra detailed, 8K masterpiece, clean commercial rendering.
+A beautiful woman in black suit on cafe face camera
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=a8efd3c5a840eee172d94bd143b4b8c8&show=true) · Tags: `product`
+👤 [Malik King](https://promptsref.com/user/malikking8274) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=c3b7864be1a91ab04bd50954fd11aafe&show=true) · Tags: `portrait`
 
 ---
 
-#### 8. Create a premium collector-edition character poster of [Long hair Future
+#### 8. Ratio: 9:16
 
-<img src="images/prompts/promptsref-16194.png" alt="Create a premium collector-edition character poster of [Long hair Future" width="560">
+<img src="images/prompts/promptsref-30897.png" alt="Ratio: 9:16" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a premium collector-edition character poster of [Long hair Future Trunks ] from [Dragon Ball Z].Character AnalysisAnalyze the character’s canon personality, emotional identity, visual symbolism, and dominant energy.Identify the character’s strongest archetype (heroic, calm, mysterious, aggressive, rebellious, strategic, etc.) and build the entire composition around it.Visual DirectionAnime illustration × contemporary poster design × premium branding artwork.Style ModeBlend luxury editorial aesthetics, futuristic cyberpunk design, urban street-art energy, and modern minimalist composition while keeping the character instantly recognizable.PoseCreate an iconic pose that reflects the character’s personality:• Heroic → confident elevated stance• Calm → relaxed elegance• Mysterious → concealed posture and controlled presence• Aggressive → forward momentum and tension• Rebellious → attitude-driven silhouetteFacial ExpressionEmotionally authentic, faithful to canon personality, highly expressive yet refined.OutfitReimagine the original costume as premium designer streetwear:• Luxury tailoring• Futuristic techwear details• Urban street-fashion influences• Simplified iconic character elementsPreserve the most recognizable features of the original design.CompositionVertical format ({aspect_ratio})Premium poster layoutStrong visual hierarchyOff-center positioningDynamic depthCollector-edition presentationColorsPure white backgroundCharacter signature color as dominant accentOne complementary secondary accent colorBackgroundMinimal architectural formsAbstract holographic elementsGraffiti-inspired graphic texturesClean geometric shapesLuxury branding aestheticsEffectsEnergy trailsPaint splashesGlitch fragmentsMotion streaksThin graphic accentsFloating visual symbols connected to the characterLightingProfessional cinematic lightingStrong rim lightSoft colored glowClean shadowsHigh contrast highlightsRenderingUltra-detailed anime artworkPremium branding qualityCollector-edition posterModern graphic design aestheticsSharp focus4K masterpieceCustomize this prompt with these user-specific details:Subject:[Long hair Future Trunks ] from [Dragon Ball Z]
+Ratio: 9:16
+Style: Edo-style Japanese woodblock prints + traditional Japanese paintings + anime fan art illustrations
+Character: 娜美 from One Piece
 ```
 
 </details>
 
-👤 [onezuka Kard](https://promptsref.com/user/onezukard) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0538ac0d046b1238d6bc48312b21ef95&show=true) · Tags: `branding`, `prompt`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0a8f7e8b102e6aab278ed5a91ad26662&show=true) · Tags: `character`
 
 ---
 
-#### 9. Create a premium collector-edition character poster of [Long hair Super
+#### 9. Ratio: 9:16
 
-<img src="images/prompts/promptsref-16190.png" alt="Create a premium collector-edition character poster of [Long hair Super" width="560">
+<img src="images/prompts/promptsref-30895.png" alt="Ratio: 9:16" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a premium collector-edition character poster of [Long hair Super Future Trunks ] from [Dragon Ball Z].Character AnalysisAnalyze the character’s canon personality, emotional identity, visual symbolism, and dominant energy.Identify the character’s strongest archetype (heroic, calm, mysterious, aggressive, rebellious, strategic, etc.) and build the entire composition around it.Visual DirectionAnime illustration × contemporary poster design × premium branding artwork.Style ModeBlend luxury editorial aesthetics, futuristic cyberpunk design, urban street-art energy, and modern minimalist composition while keeping the character instantly recognizable.PoseCreate an iconic pose that reflects the character’s personality:• Heroic → confident elevated stance• Calm → relaxed elegance• Mysterious → concealed posture and controlled presence• Aggressive → forward momentum and tension• Rebellious → attitude-driven silhouetteFacial ExpressionEmotionally authentic, faithful to canon personality, highly expressive yet refined.OutfitReimagine the original costume as premium designer streetwear:• Luxury tailoring• Futuristic techwear details• Urban street-fashion influences• Simplified iconic character elementsPreserve the most recognizable features of the original design.CompositionVertical format ({aspect_ratio})Premium poster layoutStrong visual hierarchyOff-center positioningDynamic depthCollector-edition presentationColorsPure white backgroundCharacter signature color as dominant accentOne complementary secondary accent colorBackgroundMinimal architectural formsAbstract holographic elementsGraffiti-inspired graphic texturesClean geometric shapesLuxury branding aestheticsEffectsEnergy trailsPaint splashesGlitch fragmentsMotion streaksThin graphic accentsFloating visual symbols connected to the characterLightingProfessional cinematic lightingStrong rim lightSoft colored glowClean shadowsHigh contrast highlightsRenderingUltra-detailed anime artworkPremium branding qualityCollector-edition posterModern graphic design aestheticsSharp focus4K masterpieceCustomize this prompt with these user-specific details:Subject:[Long hair Super Future Trunks ] from [Dragon Ball Z]
+Ratio: 9:16
+Style: Edo-style Japanese woodblock prints + traditional Japanese paintings + anime fan art illustrations
+Character: Robin from One Piece
 ```
 
 </details>
 
-👤 [onezuka Kard](https://promptsref.com/user/onezukard) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0342135586e210e1ba87886f10667a4f&show=true) · Tags: `branding`, `prompt`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=ee91a26b54da8f67180f5657a810dfdd&show=true) · Tags: `character`
 
 ---
 
-#### 10. Create a premium collector-edition character poster of [Beast Gohan] fro
+#### 10. Generate a vertical 9:16 high-definition realistic photography portrait
 
-<img src="images/prompts/promptsref-16173.png" alt="Create a premium collector-edition character poster of [Beast Gohan] fro" width="560">
+<img src="images/prompts/promptsref-30764.png" alt="Generate a vertical 9:16 high-definition realistic photography portrait" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a premium collector-edition character poster of [Beast Gohan] from [Dragon Ball Super : Super Hero].Character AnalysisAnalyze the character’s canon personality, emotional identity, visual symbolism, and dominant energy.Identify the character’s strongest archetype (heroic, calm, mysterious, aggressive, rebellious, strategic, etc.) and build the entire composition around it.Visual DirectionAnime illustration × contemporary poster design × premium branding artwork.Style ModeBlend luxury editorial aesthetics, futuristic cyberpunk design, urban street-art energy, and modern minimalist composition while keeping the character instantly recognizable.PoseCreate an iconic pose that reflects the character’s personality:• Heroic → confident elevated stance• Calm → relaxed elegance• Mysterious → concealed posture and controlled presence• Aggressive → forward momentum and tension• Rebellious → attitude-driven silhouetteFacial ExpressionEmotionally authentic, faithful to canon personality, highly expressive yet refined.OutfitReimagine the original costume as premium designer streetwear:• Luxury tailoring• Futuristic techwear details• Urban street-fashion influences• Simplified iconic character elementsPreserve the most recognizable features of the original design.CompositionVertical format ({aspect_ratio})Premium poster layoutStrong visual hierarchyOff-center positioningDynamic depthCollector-edition presentationColorsPure white backgroundCharacter signature color as dominant accentOne complementary secondary accent colorBackgroundMinimal architectural formsAbstract holographic elementsGraffiti-inspired graphic texturesClean geometric shapesLuxury branding aestheticsEffectsEnergy trailsPaint splashesGlitch fragmentsMotion streaksThin graphic accentsFloating visual symbols connected to the characterLightingProfessional cinematic lightingStrong rim lightSoft colored glowClean shadowsHigh contrast highlightsRenderingUltra-detailed anime artworkPremium branding qualityCollector-edition posterModern graphic design aestheticsSharp focus4K masterpieceCustomize this prompt with these user-specific details:Subject: {Beast Gohan} from {Dragon Ball Super: Super Hero}
+Generate a vertical 9:16 high-definition realistic photography portrait in ancient style, with the theme of [Spring]. Close-up mobile phone perspective, low-angle slight upward shot, with the lens positioned slightly below the character's chest area. The character's upper body is prominently leaning forward toward the lens, with shoulders, collarbone, front collar of the garment, and hands approaching the lower part of the frame, creating a near-large-far-small perspective and a sense of intimate interaction. The head is slightly raised, chin subtly lifted, eyes naturally gazing down at the lens, with a sweet and gentle expression, carrying a light smile, as if leaning in to interact with the lens. An adult young East Asian woman, with delicate and natural facial features, realistic skin texture, and authentic skin details. Slender figure, witha cinched waistline, full and three-dimensional upper body, clear collarbone and shoulder-neck lines. Natural loose updo or half-pinned hairstyle, adorned with small flowers, silver hairpins, tassels, or ancient-style hair accessories, featuring stray strands and a subtle sense of breeze. Wearing an [Main Color Tone] ancient-style tube top or strap-style inner garment, layered with a lightweight shawl, wide-sleeved thin gauze, or embroidered outer robe, with the fabric showing realistic folds, natural draping, and floral embroidery. Hands naturally resting on the front chest fabric. shawl, or flower branches, forming a foreground layer at the bottom of the frame. The background is [Ancient Town Flower Wall / Lantern Festival Flower Market/ Teahouse Window Side/ Garden Corridor], incorporating realistic environmental details such as vines, flowers, lanterns, tea sets, wooden windows, ancient street stalls, decorative pendants, corridors, white walls, and gray tiles. The background is slightly blurred, with natural soft lighting, fresh and translucent, evoking an authentic ancient-style travel photography feel.
 ```
 
 </details>
 
-👤 [Rizki D. Kurniawan](https://promptsref.com/user/rdkonezuka) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=7e2d20d602ac116e513b196280e0bc2c&show=true) · Tags: `branding`, `prompt`, `cinematic`
+👤 [Shykh Uzir](https://promptsref.com/user/shykhuzir) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=3432ab755b3b4ae95a6e3d757d602e58&show=true) · Tags: `character`
 
 ---
 
-#### 11. Create a hyper-realistic global sportswear campaign poster titled
+#### 11. Subject and Composition
 
-<img src="images/prompts/promptsref-15835.png" alt="Create a hyper-realistic global sportswear campaign poster titled" width="560">
+<img src="images/prompts/promptsref-30757.png" alt="Subject and Composition" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a hyper-realistic global sportswear campaign poster titled:
-"DESIRE THE WORK."
-IMPORTANT:
-This should NOT look like a sportswear catalog.
-This should feel like the most expensive Nike campaign never made.
-The image must stop viewers instantly, even as a tiny mobile thumbnail.
-The goal is pure visual impact.
-FORMAT:
-Vertical premium poster.
-Luxury editorial sports photography.
-One image. Four athletes. One obsession.
-CONCEPT:
-The world's most physically gifted athletes captured at the exact moment where discipline becomes beautiful.
-Every subject should radiate: focus, confidence, power, and irresistible athletic presence.
-COMPOSITION:
-The image is divided into four dynamic zones that blend seamlessly together.
-TOP LEFT:
-Elite female sprinter exploding from starting blocks.
-Low camera angle.
-Powerful legs under maximum tension.
-Muscles visibly engaged.
-Tiny sweat droplets illuminated by stadium lights.
-Hair flowing backward with force.
-Eyes locked forward.
-TOP RIGHT:
-Male basketball player suspended at the apex of a dunk.
-Rain falling around him.
-Open performance jacket revealing elite athletic physique.
-Stadium lights creating a halo behind him.
-The moment feels impossible yet real.
-BOTTOM LEFT:
-Female boxer wrapping her hands before a fight.
-Close-up.
-Direct eye contact with camera.
-Slight bruise on cheek.
-Focused breathing.
-Sweat catching hard light.
-Quiet confidence.
-This frame should feel dangerous.
-BOTTOM RIGHT:
-Male footballer striking a ball at full power.
-Wet jersey naturally clinging from rain.
-Turf exploding beneath boots.
-Veins visible in forearms.
-Pure competitive intensity.
-CENTREPIECE:
-A massive fractured swoosh-inspired shape formed naturally from:
+Subject and Composition
+A minimalist and elegant Subha Bakhair greeting card design centered on a serene architectural composition. The scene features the iconic white dome and two minarets of Al-Masjid al-Quba rendered in a clean, sophisticated aesthetic. A subtle, modern elevator glass lift is integrated into the side of the mosque structure, featuring sleek brushed steel and transparent glass panels that reflect the surrounding courtyard light. Tiny, graceful silhouettes of birds are scattered near the dome, adding a sense of movement and scale.
 
-flying sweat
+Typography and Calligraphy
+At the top, prominent bold black Arabic calligraphy reads Jummah Mubarak, with the English translation placed directly underneath in a crisp, modern sans-serif font. At the bottom, exquisite Arabic calligraphy displays the Quranic verse لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا, followed by its English transliteration and the text Allah does not burden a soul beyond that it can bear, maintaining a clear and balanced visual hierarchy.
 
-rain particles
+Lighting and Atmosphere
+Soft, diffused daylight creates a calm and spiritual atmosphere, emphasizing the clean lines of the architecture. The lighting is high-key and even, avoiding harsh shadows to maintain a professional, corporate, and modern feel. The air feels crisp and still, with a sense of quiet reverence.
 
-chalk dust
+Material and Color Palette
+The background is a textured light grey, reminiscent of high-end stationery or premium paper stock. The color palette is strictly monochromatic grayscale, utilizing subtle gradients and clean whites, deep blacks, and soft greys to ensure a cohesive and sophisticated look.
 
-turf debris
-
-motion trails
-
-Do NOT use a literal logo.
-Instead create an abstract symbol born from movement itself.
-TYPOGRAPHY:
-Typography should dominate the composition like a luxury fashion campaign.
-Massive condensed bold lettering:
-DESIRE
-THE
-WORK
-The words should stretch across the entire poster.
-Letters partially hidden behind athletes.
-Letters intersecting with motion trails.
-Some portions subtly distorted by speed and energy.
-Additional micro typography:
-"04:37 AM"
-"NO SHORTCUTS."
-"REPEAT."
-"AGAIN."
-"PRESSURE IS A PRIVILEGE."
-Small performance-inspired interface graphics:
-
-sprint timing markers
-
-heartbeat lines
-
-court markings
-
-track lane graphics
-
-motion analysis overlays
-
-All integrated elegantly.
-LIGHTING:
-Premium sports-fashion lighting.
-Deep blacks.
-Hard highlights.
-Rim lighting on skin.
-Rain illuminated by stadium lights.
-Luxury commercial contrast.
-Everything should feel expensive.
-TEXTURES:
-
-realistic skin pores
-
-visible sweat
-
-realistic hair movement
-
-fabric folds
-
-chalk particles
-
-water droplets
-
-turf fragments
-
-athletic tape texture
-
-Absolutely no AI artifacts.
-STYLE:
-Blend:
-
-Nike global campaigns
-
-Vogue sports editorials
-
-Olympic advertising
-
-luxury fashion photography
-
-elite sports documentaries
-
-COLOR PALETTE:
-deep black, bright white, metallic silver, storm gray, subtle electric neon accents.
-FINAL FEELING:
-The poster should feel like a $100 million sportswear campaign designed to make viewers wish they trained harder, looked stronger, and lived with more intensity.
+Constraints
+No oversaturated colors, no vibrant neons, no plastic textures, no distorted architectural elements, no blurry or low-resolution text, no extra watermarks or logos. Ensure the calligraphy is sharp and legible, and the integration of the lift is seamless and architecturally consistent.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=60d383aad75353b97ab895564ce4787a&show=true) · Tags: `comparison`, `logo`
+👤 [Shykh Uzir](https://promptsref.com/user/shykhuzir) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=f752c2973efbd782549ff0e1d7eb0e60&show=true) · Tags: `branding`, `logo`
 
 ---
 
-#### 12. [SPOTIFY — LOST IN THE BEAT]
+#### 12. Create a carousel for this quote
 
-<img src="images/prompts/promptsref-15834.png" alt="[SPOTIFY — LOST IN THE BEAT]" width="560">
+<img src="images/prompts/promptsref-30740.png" alt="Create a carousel for this quote" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-[SPOTIFY — LOST IN THE BEAT]
-
-Act as Spotify Creative Studio, AKQA, Buck, COLLINS, Pentagram and Media.Monks creating a Cannes Lions Grand Prix-winning social media marketing poster.
-
-This is a premium Spotify campaign.
-
-This is NOT AI fantasy art.
-
-This is NOT a cyberpunk illustration.
-
-This is NOT a floating-person poster.
-
-Everything must feel intentionally crafted inside Adobe Illustrator by a senior designer.
-
-CREATIVE PLATFORM
-
-LOST IN THE BEAT
-
-The visual idea is simple:
-
-Music becomes movement.
-
-The entire composition should feel like sound physically pulling the layout apart.
-
-ART DIRECTION
-Ultra-clean premium design.
-
-Large-scale typography dominates the composition.
-
-The words
-
-LOST
-IN THE
-BEAT
-
-become the visual hero.
-
-Typography stretches, bends, compresses and flows as if affected by bass frequencies.
-
-Parts of the letterforms subtly dissolve into waveform structures.
-
-Certain edges distort from vibration.
-
-No cheesy glitch effects.
-
-No fake AI distortions.
-
-Everything should feel deliberately designed.
-
-LAYOUT SYSTEM
-
-Swiss grid foundation.
-
-Modern editorial layout.
-
-Extreme hierarchy.
-
-Massive oversized typography occupying 70% of canvas.
-
-Negative space used intelligently.
-
-Perfect alignment.
-
-High-end poster design aesthetics.
-
-Luxury magazine meets music culture.
-
-SPOTIFY BRAND LANGUAGE
-
-Official Spotify green.
-
-Deep black background.
-
-Subtle lime gradients.
-
-Minimal white typography.
-
-Tiny Spotify interface details integrated naturally.
-
-Micro playlist metadata.
-
-Small progress bar.
-
-Track duration indicators.
-
-Designer-crafted information hierarchy.
-
-Nothing feels pasted.
-
-MUSIC VISUALIZATION
-
-Instead of generic equalizers:
-
-Create elegant waveform ribbons.
-
-Abstract frequency curves.
-
-Data-driven sound structures.
-
-Beautiful vector motion paths.
-
-Dynamic rhythm patterns.
-
-Everything feels premium and intelligent.
-
-HERO SUBJECT
-
-No floating character.
-
-Use only a tightly art-directed portrait.
-
-Young contemporary artist.
-
-Shot like a luxury fashion campaign.
-
-Strong expression.
-
-Authentic attitude.
-
-Monochrome treatment.
-
-Placed strategically within typography.
-
-Face partially interacting with letterforms.
-
-Typography and portrait feel designed together.
-
-TEXTURE
-
-Illustrator vector precision.
-
-Subtle grain.
-
-Premium print texture.
-
-Modern editorial imperfections.
-
-Luxury poster finish.
-
-No CGI energy swirls.
-
-No liquid effects.
-
-No random particles.
-
-COLOR SYSTEM
-
-90% black.
-
-8% Spotify green.
-
-2% white.
-
-Extremely controlled palette.
-
-Premium restraint.
-
-TYPOGRAPHY
-
-Massive custom condensed sans-serif.
-
-Inspired by Spotify Wrapped,
-Nike Campaigns,
-Modern Music Festivals,
-High-End Editorial Design.
-
-Custom kerning.
-
-Custom distortions.
-
-Beautiful hierarchy.
-
-Typography feels handcrafted.
-
-MOOD
-
-Sophisticated.
-Youthful.
-Cultural.
-Modern.
-Premium.
-Obsessively art-directed.
-
-The kind of Spotify campaign that wins Cannes Lions and gets featured on Behance Graphic Design Served.
-
-1080×1350
-4:5 aspect ratio
-
-Vector-first design.
-Adobe Illustrator aesthetic.
-Premium social media advertising.
-Brand campaign quality.
+Create a carousel for this quote
+“The hardest part wasn’t starting over. It was believing I deserved a new beginning.”
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=cb788c4fb1109fcd0a7efee19056cbf1&show=true) · Tags: `comparison`
+👤 [Lani Rae](https://promptsref.com/user/raeresilienceandluxe) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0f7664db5c471ef07ebea270586d1633&show=true) · Tags: `illustration`
 
 ---
 
-#### 13. A world-class luxury fashion editorial poster for XCLUSIVE, inspired by
+#### 13. 同风格，不一样的场景甚至是更好的震撼场景不要参考图中的水印
 
-<img src="images/prompts/promptsref-15833.png" alt="A world-class luxury fashion editorial poster for XCLUSIVE, inspired by" width="560">
+<img src="images/prompts/promptsref-30738.png" alt="同风格，不一样的场景甚至是更好的震撼场景不要参考图中的水印" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-A world-class luxury fashion editorial poster for XCLUSIVE, inspired by contemporary Korean luxury streetwear campaigns and high-end fashion publications. The composition features a massive oversized geometric typographic backdrop displaying the word “PRAJWAL” in bold architectural lettering, seamlessly integrated into the design as a dominant visual element. Typography appears sculptural, layered, and sophisticated, creating depth while maintaining a clean editorial aesthetic.
-At the center stands a full-body fashion model wearing an oversized monochromatic black luxury streetwear ensemble, featuring premium tailored fabrics, refined textures, exaggerated silhouettes, and subtle designer detailing. The styling blends Seoul luxury fashion culture with avant-garde runway influences, delivering a modern, aspirational look. The model adopts a minimal yet expressive pose with effortless confidence, maintaining an elegant neutral facial expression that conveys exclusivity and sophistication.
-The atmosphere merges Vogue editorial refinement with futuristic luxury streetwear energy, creating a campaign image suitable for a global fashion house. The environment is clean and uncluttered, emphasizing form, silhouette, and typography. Soft diffused studio lighting wraps around the subject, producing smooth gradients, delicate shadows, and premium fashion-advertising polish.
-Color grading is dominated by a sophisticated monochromatic palette, featuring rich blacks contrasted against subtle white, ivory, cream, and soft pastel highlights. The image maintains exceptional balance between minimalism and visual impact, with precise spacing, luxury branding aesthetics, and magazine-cover-level art direction.
-Professional fashion photography, ultra-realistic, luxury campaign design, premium editorial layout, high-end graphic design integration, sharp fabric texture detail, immaculate styling, museum-quality print finish, global fashion advertising standard, Vogue Korea aesthetic, luxury streetwear branding, cinematic studio lighting, ultra-clean composition, photorealistic, 8K resolution, award-winning fashion poster.
+同风格，不一样的场景甚至是更好的震撼场景不要参考图中的水印
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=d684888b42153ccd8729b4bfc7b4ad45&show=true) · Tags: `branding`, `cinematic`
+👤 [彭彭忠普](https://promptsref.com/user/1575243pzp) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=be5f1f6fefb44446dbfcde2a86ccfdf7&show=true) · Tags: `illustration`
 
 ---
 
-#### 14. FORMAT
+#### 14. This is a digital poster blending music visualization, UI design, and cr
 
-<img src="images/prompts/promptsref-15613.png" alt="FORMAT" width="560">
+<img src="images/prompts/promptsref-30708.png" alt="This is a digital poster blending music visualization, UI design, and cr" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-FORMAT:
-4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
-Style: Apple-level minimalism × bold Gen-Z composition × hyper-real commercial photography
+This is a digital poster blending music visualization, UI design, and creative photography.
 
-🧠 CORE INTENT:
-“PRO, WITHOUT TRYING.”
+The main subject is a hand holding a small Marshall-style mini speaker or charger device in an outdoor green environment. The device is treated as a conceptual “music controller,” as if it can release and manipulate sound energy.
 
-Effortless power.
-Quiet confidence.
-No noise — just precision.
+Above the device, multiple floating music album covers appear, arranged in a dynamic 3D orbit. They look like emotional fragments being emitted from the music itself, transforming sound into visible objects.
 
-🎬 SCENE COMPOSITION:
+The background is heavily motion-blurred greenery, creating a sense of speed and depth. Overlaid on top is a Spotify-style music player UI bar, including playback controls and interface elements, reinforcing the digital streaming aesthetic.
 
-BACKGROUND:
-Pure matte white canvas with a dominant rounded rectangle block in ultra-vibrant burnt orange gradient (top-left → bottom-right glow)
+Hand-drawn arrows, doodles, and annotations are added to enhance the design language, making the composition feel like a hybrid between real photography and UI/UX visual design.
 
-GIANT TYPOGRAPHY (BACKGROUND LAYER):
-“PRO”
-- ultra-bold geometric sans-serif
-- stretched wide kerning
-- partially cropped by frame edges
-- soft shadow depth
-- color: deep orange slightly darker than background block
-- subtle emboss effect
-
-👤 SUBJECT (HUMAN ELEMENT):
-
-- Female model, clean editorial look (Apple casting style)
-- Neutral expression (confident, calm, not smiling)
-- Hair: natural flow, slightly wind-touched
-- Outfit:
-  → muted tones (off-white + deep maroon jacket)
-  → minimal styling, no distractions
-
-POSE:
-- Shot from slightly low angle (hero perspective)
-- One hand extended toward camera holding iPhone
-- Body slightly angled for depth
-- Face aligned toward viewer (eye contact)
-
-📱 PRODUCT (HERO FOCUS):
-
-DEVICE:
-iPhone 17 Pro in Titanium Orange finish
-
-POSITION:
-- Extreme foreground (forced perspective)
-- Slight tilt to reveal camera module depth
-
-DETAILING:
-- triple camera system hyper-sharp
-- lens reflections physically accurate
-- brushed titanium edge highlights
-- micro-scratches + realistic material response
-- Apple logo centered, subtle reflective gloss
-
-REFLECTION:
-- soft studio reflection on device edges
-- micro light bloom around camera rings
-
-✨ LIGHTING SYSTEM:
-
-MAIN LIGHT:
-Soft studio key light (front-left)
-→ smooth skin tones
-→ clean product highlights
-
-RIM LIGHT:
-Warm edge light from right
-→ enhances phone silhouette
-→ highlights metallic edges
-
-ACCENT LIGHT:
-Subtle glow from background orange block
-
-SHADOW:
-Soft drop shadow under subject + phone
-(no harsh contrast)
-
-🎨 COLOR SYSTEM:
-
-- Primary: Apple Orange (hero)
-- Secondary: Clean white
-- Accent: warm highlights + skin tones
-- Contrast: deep micro-shadows
-
-No over-saturation.
-No neon.
-Controlled premium palette.
-
-✨ GRAPHIC ELEMENTS:
-
-- Minimal sparkle icons ✦ (2–3 only)
-- Soft floating UI pill (glass morphism)
-- Very subtle grain for realism
-
-✍️ TYPOGRAPHY SYSTEM:
-
-TOP LEFT:
-Apple logo (black, small, clean)
-
-TOP RIGHT:
-“Built for Apple Intelligence.” (thin sans-serif)
-
-MID LEFT (pill):
-“iPhone 17 Pro”
-
-CENTER DOMINANT:
-“PRO” (background type)
-
-BOTTOM RIGHT (body text):
-Small paragraph:
-
-“iPhone 17 Pro. Uncompromising power.
-A19 Pro chip. Advanced camera system.
-Designed for what’s next.”
-
-📊 FEATURE STRIP (BOTTOM GRID):
-
-4 rounded cards (glass-white panels):
-
-1. A19 PRO CHIP  
-   “Unstoppable performance.”
-
-2. 48MP PRO CAMERA  
-   “Total creative control.”
-
-3. 4K DOLBY VISION  
-   “Cinematic in every frame.”
-
-4. APPLE INTELLIGENCE  
-   “Personal. Private. Powerful.”
-
-Icons minimal line style
-
-📐 COMPOSITION GRID:
-
-- Top: brand + statement
-- Mid: subject + product (dominant)
-- Background: typography layer
-- Bottom: feature modules
-
-Eye flow:
-Face → Phone → Camera → “PRO” → Features
-
-🎥 CAMERA SPECS:
-
-- ARRI Alexa Mini LF
-- 50mm anamorphic lens
-- shallow depth of field
-- HDR rendering
-- ultra-real skin + material detail
-- slight lens distortion for realism
+Overall, the mood is playful, creative, and immersive—an interpretation of music as something visible, controllable, and physically manifested in space.
 ```
 
 </details>
 
-👤 [Peter](https://promptsref.com/user/p26351792) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=706579c111a59f2323837fd37e711cff&show=true) · Tags: `comparison`, `cinematic`, `logo`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=055438ea5452459bb05e01403fdd2677&show=true) · Tags: `comparison`
 
 ---
 
-#### 15. 竖版 9:16，极简白色 cosplay 服装信息页，上下保留大量白色留白，尤其底部留出清晰呼吸空间。纯白摄影棚背景，明亮高调柔光，真实商业棚拍
+#### 15. Park Scene (Start – Happy Boy)
 
-<img src="images/prompts/promptsref-15534.png" alt="竖版 9:16，极简白色 cosplay 服装信息页，上下保留大量白色留白，尤其底部留出清晰呼吸空间。纯白摄影棚背景，明亮高调柔光，真实商业棚拍" width="560">
+<img src="images/prompts/promptsref-30702.png" alt="Park Scene (Start – Happy Boy)" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-竖版 9:16，极简白色 cosplay 服装信息页，上下保留大量白色留白，尤其底部留出清晰呼吸空间。纯白摄影棚背景，明亮高调柔光，真实商业棚拍质感，高级时尚杂志目录版式，干净、克制、艺术化、留白充足。
+Park Scene (Start – Happy Boy)
 
-顶部使用大号黑色粗体标题：“FIREFLY / 流萤”。标题下方添加一行非常小、精致的副标题：“STELLAR FIREFLY STYLE”。在标题周围点缀少量极细线条小图标，颜色为青绿色、浅金色、黑色：萤火虫图标、星轨图标、羽翼状装饰图标、能量核心图标。图标必须很小、稀疏、高级，不要拥挤。
-
-左侧是统一的黑色细线边框服装与配饰清单，固定分为 3 个编号区块。每个区块正好包含 2 个白底商品切图，总共 6 个商品切图：
-第 1 区：银白色渐变发饰与深蓝蝴蝶结发带；青绿色星形 / 萤火虫能量耳饰；
-第 2 区：深咖黑色短披肩外套；白色、青绿色、浅金色拼接的层叠短裙式连体服；
-第 3 区：青蓝渐变过膝袜与腿部装饰片；白色短靴，带金色扣件与青蓝色蝴蝶结装饰。
-每个商品都以干净的白底产品切图呈现，每个产品下方都有小号 “1x” 数量标签。
-
-自动将《崩坏：星穹铁道》中的流萤重新诠释为更适合现实穿搭的高级时尚 cosplay 造型。保留角色的可识别特征：银白色长发，发尾带淡青蓝渐变，温柔但坚定的少女感气质，白色、青绿色、浅金色主色调，深色短披肩，萤火虫与星光意象，轻盈的羽翼状衣摆，干净、明亮、略带未来感的幻想风格。
-
-右侧是一位明确成年的亚洲女性时尚博主，真人全身出镜，穿着完整的流萤灵感高级时装造型：银白色长发自然垂落，发尾有淡青蓝渐变，佩戴深蓝蝴蝶结发饰与小巧青绿色耳饰；上身穿白色与青绿色拼接的修身连体短裙，胸前有浅金色能量核心装饰；外搭深咖黑色短披肩外套，衣摆自然展开；腰部和裙摆有半透明青绿色羽翼状层叠装饰；腿部穿青蓝渐变过膝袜，搭配白色短靴和金色细节。
-
-人物姿势优雅、轻盈、温柔但有力量感：双腿自然交错站立，身体微微侧转，一只手轻放在胸前或靠近能量核心，另一只手自然向外展开，像萤火虫散发微光的瞬间。镜头使用轻微低角度时尚摄影视角，拉长腿部线条但不造成畸变。表情温柔、清澈、坚定，带有安静守护感和星际幻想气质。
-
-让人物看起来真实鲜活：自然皮肤纹理，真实银白发丝，可信的布料褶皱、皮革边缘、半透明纱质层次，柔和的棚拍地面阴影，真实比例，修长但不过度夸张的腿部。整体画面像高级服装目录页，而不是廉价 cosplay 展示图。
-
-避免廉价塑料感、过度二次元滤镜、夸张动漫脸、错误文字、拥挤版式、背景杂乱、身体比例扭曲、手指错误、商品清单贴近底部、人物贴近底部、未经设计的杂乱 logo、低质感 cosplay 服装。
+Prompt:
+A cinematic scene of a little boy named Amir playing alone in a quiet green city park, sunny daylight, realistic style, soft lighting, peaceful atmosphere, trees and benches in background, ultra detailed, 4K, shallow depth of field
 ```
 
 </details>
 
-👤 [Miaonster](https://promptsref.com/user/miaonster17) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=ad512b86672f00c64859f542909ce8dc&show=true) · Tags: `branding`, `logo`
+👤 [سید فرزاد](https://promptsref.com/user/sydfrzad88) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=bc47ba328e9a36a1f5a857fd9bd06631&show=true) · Tags: `illustration`, `prompt`, `cinematic`
 
 ---
 
-#### 16. Vertical character poster featuring Saiyan from Dragon Ball as the absol
+#### 16. This is a hybrid visual composition combining internet tutorial cover de
 
-<img src="images/prompts/promptsref-15069.png" alt="Vertical character poster featuring Saiyan from Dragon Ball as the absol" width="560">
+<img src="images/prompts/promptsref-30701.png" alt="This is a hybrid visual composition combining internet tutorial cover de" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Vertical character poster featuring Saiyan from Dragon Ball as the absolute main visual, occupying most of the composition. Semi-realistic anime aesthetics blended with UE5 hyper-realistic rendering. Chest-up half-body portrait, eye-level camera, camera height around the chest, strong close-up perspective.
+This is a hybrid visual composition combining internet tutorial cover design, street photography, and digital UI collage aesthetics.
 
-His right hand reaches toward the camera with a menacing finger-point pose, foreground hand enlarged by perspective, creating intimidation, depth, and visual pressure. Sleek alien anatomy, realistic glossy skin texture, subtle vein details, sharp facial features, cold cruel eyes, smooth bio-armor surface, purple gem-like plates, white organic armor, preserving his iconic silhouette and color palette.
+The subject is a young male captured through an extreme ultra-wide fisheye lens, creating exaggerated perspective distortion. He is in a highly dynamic moment—tilting his head back while drinking from a bottle, with his body leaning forward, frozen mid-action in a visually intense composition.
 
-On the left side, add bold vertical typography reading Saiyan in large distressed letters. The typography includes irregular scratch marks, damaged ink texture, sharp blade-like cuts, cracked print effects, and vintage wanted-poster wear. Beside or below the name, include a character dossier panel with ID number, galactic emperor profile data, combat stats, barcode, extinction-level warning labels, energy-output charts, and pseudo-technical text.
+The image is not purely photographic but heavily designed as a layered visual artwork. The background resembles a digital desktop interface blended with real space, featuring scattered folder icons such as “james.jpg,” “telegram.FAQ,” and “tutorials_video,” along with hand-drawn doodles, stars, and composition grid overlays.
 
-White, purple, black, and cold violet lighting palette. Cinematic studio lighting, strong rim light, subtle volumetric haze, high contrast, clean poster composition, premium villain promotional poster quality, ultra-detailed, sharp focus, dramatic depth of field, UE5 render, 4K.
+A bold title, “RANDOM TUTORIALS,” dominates the layout, reinforcing the feel of an internet-native tutorial compilation cover.
+
+The overall atmosphere sits between chaos and structure: a fusion of candid motion photography and graphic design collage. It feels like a snapshot of information overload—compressing digital learning culture into a single high-energy frozen moment.
 ```
 
 </details>
 
-👤 [Le Démon à Lunettes](https://promptsref.com/user/compteofficieldal) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=260ea66319bf50fcc2f79f75def806c9&show=true) · Tags: `branding`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=234b274c4451fbf88fccfcc5b43702dd&show=true) · Tags: `comparison`
 
 ---
 
-#### 17. Create an ultra-premium modern Japanese street-art editorial poster feat
+#### 17. This is an aesthetic editorial-style outdoor portrait blending photograp
 
-<img src="images/prompts/promptsref-14979.png" alt="Create an ultra-premium modern Japanese street-art editorial poster feat" width="560">
+<img src="images/prompts/promptsref-30697.png" alt="This is an aesthetic editorial-style outdoor portrait blending photograp" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create an ultra-premium modern Japanese street-art editorial poster featuring [EMINEM] as the main subject.
+This is an aesthetic editorial-style outdoor portrait blending photography and graphic design poster elements.
 
-Automatically analyze the artist's identity, public image, branding, fashion style, personality, career, fan culture, visual aesthetics, iconic colors, and overall vibe. Generate a unique color palette that perfectly matches the artist. Do not use fixed colors. The entire design, accents, typography highlights, stickers, graffiti, and visual elements must adapt naturally to the artist.
+The subject is a young woman wearing round glasses, with light blonde hair styled in a loose messy bun. Her expression is calm and introspective, gently gazing toward the upper-left distance as if lost in thought.
 
-Style combines Japanese street culture, Harajuku fashion, Y2K aesthetics, luxury editorial design, collectible idol merchandise, retro internet graphics, magazine cover layouts, modern pop-art, graffiti art, and premium streetwear branding.
+She wears a layered outfit consisting of a white collared shirt under a brown knit sweater, creating a soft vintage academic aesthetic. Her skin remains natural and realistic, softly illuminated by warm golden hour sunlight.
 
-Background uses clean premium paper texture with subtle print imperfections, vintage editorial details, and modern magazine aesthetics.
+The composition is a medium close-up portrait taken from a slight low angle. The background consists of blurred greenery and a warm sunset sky gradient. Golden sunlight wraps around her silhouette, creating a soft rim light that separates her from the background.
 
-Place massive oversized black typography behind the subject displaying the artist's first name as the primary graphic element.
+Graphic design elements are overlaid on the image, including grid lines, alignment guides, and bold typography featuring the word “Aesthetic,” along with subtle branding text, giving the image a hybrid feel between real photography and editorial poster design.
 
-Overlay the typography with a huge graffiti-style handwritten version of the artist's name using colors derived from the artist's visual identity.
-
-Main Subject:
-
-High-quality cutout portrait of [ARTIST NAME].
-
-Absolute facial accuracy.
-
-Center composition.
-
-Natural pose.
-
-Professional studio lighting.
-
-Fashion campaign quality.
-
-Premium magazine-cover presence.
-
-Street-Art Elements:
-
-Graffiti paint strokes.
-
-Sticker graphics.
-
-Hand-drawn doodles.
-
-Japanese typography.
-
-Barcode labels.
-
-Magazine clippings.
-
-Torn paper effects.
-
-Retro web graphics.
-
-Pixel-inspired icons.
-
-Spray paint textures.
-
-Urban design details.
-
-Editorial Layout:
-
-Large artist name section.
-
-Automatically generated biography.
-
-Career highlights.
-
-Achievements.
-
-Interesting facts.
-
-Retro computer popup window with a short message inspired by the artist's personality.
-
-Decorative Japanese katakana rendering of the artist's name.
-
-Professional visual hierarchy.
-
-Dynamic asymmetrical composition.
-
-Luxury poster balance.
-
-No creator credit.
-
-No watermark.
-
-No official profile text.
-
-No unnecessary logos.
-
-Visual Quality:
-
-Ultra detailed.
-
-Highly realistic.
-
-Sharp typography.
-
-Professional graphic design.
-
-Premium collectible merchandise aesthetic.
-
-Luxury fashion campaign quality.
-
-Japanese street-art energy.
-
-Modern Gen-Z aesthetic.
-
-Pinterest-worthy.
-
-Instagram-ready.
-
-Museum-quality graphic design.
-
-4K resolution.
-
-Vertical poster format.
-
-Aspect ratio 4:5.
+Overall, the mood is calm, warm, and cinematic, capturing a suspended aesthetic moment where light, time, and introspection intersect.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=1ba09ff5d2b7c9545e227a2611aaf3bf&show=true) · Tags: `branding`, `logo`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=359d4605356d49efa3ece2b1d2f76562&show=true) · Tags: `comparison`, `cinematic`
 
 ---
 
-#### 18. You are a world class creative director, brand strategist, editorial art
+#### 18. This is a candid, rainy-day training shot of a professional American foo
 
-<img src="images/prompts/promptsref-14976.png" alt="You are a world class creative director, brand strategist, editorial art" width="560">
+<img src="images/prompts/promptsref-30696.png" alt="This is a candid, rainy-day training shot of a professional American foo" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-You are a world class creative director, brand strategist, editorial art director, and visual identity designer specializing in high impact campaign systems for global brands.Your task is to create a bold, visually explosive, highly curated editorial moodboard collage composition that feels like a modern brand identity system.This should feel like a brand world captured in one frame, not a clean layout, slightly chaotic, layered, and expressive.BRAND INPUTS:BRAND NAME: WORDINDUSTRY / PRODUCT TYPE: clothing brandPRIMARY BRAND COLOR: white, black and neon orangeSECONDARY BRAND COLOR: whiteACCENT COLOR (optional): translucent frostBRAND PERSONALITY: fresh, minimal, youthful, cleanOPTIONAL SLOGAN / TEXT: Word Out!VISUAL STYLE:Create a dense, layered moodboard-style composition combining:• real product photography or lifestyle shots• packaging elements (bags, boxes, labels, tags)• typography snippets and brand phrases• illustrated graphics and doodles• icons, symbols, and stickers• abstract graphic shapes and patterns• UI-like elements (menus, cards, labels)• editorial cutouts and overlapping assetsThe composition should feel:• slightly messy but intentionally designed• layered with depth and overlaps• like a Pinterest board meets high-end campaign• expressive, youthful, and brand-heavy• visually rich and scroll-stoppingART DIRECTION:Include a mix of elements such as:• product packaging mockups (bags, boxes, labels, stickers)• lifestyle shot (person interacting with product or brand)• bold typography blocks with brand phrases• illustrated objects interacting with real elements• menu-style or UI-style panels• abstract shapes, blobs, squiggles, starbursts• brand-related icons or symbols• badge / stamp graphics• textile or merch items (t-shirt, cap, tote bag, etc.)• playful graphic overlaysCOMPOSITION RULES:• asymmetrical layout (NOT grid-based)• elements scattered but balanced• overlapping layers with depth• mix of large hero elements + small details• combine clean areas with dense clusters• include cutout-style compositions• avoid too much empty spaceCOLOR & DESIGN LANGUAGE:• strictly follow brand color palette• strong use of PRIMARY COLOR across elements• secondary color used for contrast and layering• minimal additional colors (keep it brand-consistent)• high contrast, bold visual identityTYPOGRAPHY:• modern editorial typography• mix of serif / sans-serif if relevant• bold headlines + small UI text• include brand name and/or slogan naturally in layout• typography should feel integrated, not separateVISUAL CHARACTERISTICS:• premium campaign look• modern brand identity system• editorial + commercial hybrid aesthetic• highly shareable social media visual• playful but intentional chaos• cohesive even in randomness(Also refer to photos attached for inspo)IMPORTANT:This should feel like:• a brand world explosion in one frame• a creative direction board for a global campaign• a visual identity snapshot of the brandNOT a clean layoutNOT a gridNOT minimalIt must feel alive, layered, and expressive.
+This is a candid, rainy-day training shot of a professional American football quarterback.
+
+The athlete wears a red practice jersey and a black helmet with a jaguar-style logo. He is captured in a classic dropback motion, feet widely planted, body leaning back in controlled balance, holding the football firmly as he prepares to throw. The moment reflects a critical decision phase as he reads the defense.
+
+His eyes are locked in intense focus, scanning the field for passing options. The expression is calm yet highly decisive, embodying elite-level game awareness. Rain and slight sweat blend into the uniform and skin, enhancing the realism of an intense training environment.
+
+The image is shot in a professional sports documentary style with a low sideline angle and a long telephoto lens look (around 200mm). The subject is tack sharp while the background is heavily blurred, compressing depth and emphasizing motion clarity. Overcast natural lighting creates a cool, diffused tone across the scene, with visible rain particles adding texture to the air.
+
+The background consists of a blurred practice field and distant trees, with no distinct structures, creating a fully immersive athletic environment that feels like a high-pressure game simulation.
+
+A bold poster-style text overlay reinforces a motivational quote about having a killer instinct and knowing when to finish the game, adding a heroic, cinematic narrative layer.
+
+Overall, the mood sits between sports documentary realism and cinematic poster drama, emphasizing authenticity, intensity, and the decisive nature of the moment.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=ae496dc1eb40055a664c7f3d04eae6be&show=true) · Tags: `comparison`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=8930980d68e213dc5587746e03f7515b&show=true) · Tags: `branding`, `cinematic`, `logo`
 
 ---
 
-#### 19. Create an ultra-premium modern Japanese street-art editorial poster feat
+#### 19. A high-resolution vertical Pixar-style 3D character illustration. Visual
 
-<img src="images/prompts/promptsref-14187.png" alt="Create an ultra-premium modern Japanese street-art editorial poster feat" width="560">
+<img src="images/prompts/promptsref-30695.png" alt="A high-resolution vertical Pixar-style 3D character illustration. Visual" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create an ultra-premium modern Japanese street-art editorial poster featuring [SULYOON- NMIXX] as the main subject.
-
-Automatically analyze the artist's identity, public image, branding, fashion style, personality, career, fan culture, visual aesthetics, iconic colors, and overall vibe. Generate a unique color palette that perfectly matches the artist. Do not use fixed colors. The entire design, accents, typography highlights, stickers, graffiti, and visual elements must adapt naturally to the artist.
-
-Style combines Japanese street culture, Harajuku fashion, Y2K aesthetics, luxury editorial design, collectible idol merchandise, retro internet graphics, magazine cover layouts, modern pop-art, graffiti art, and premium streetwear branding.
-
-Background uses clean premium paper texture with subtle print imperfections, vintage editorial details, and modern magazine aesthetics.
-
-Place massive oversized black typography behind the subject displaying the artist's first name as the primary graphic element.
-
-Overlay the typography with a huge graffiti-style handwritten version of the artist's name using colors derived from the artist's visual identity.
-
-Main Subject:
-
-High-quality cutout portrait of [ARTIST NAME].
-
-Absolute facial accuracy.
-
-Center composition.
-
-Natural pose.
-
-Professional studio lighting.
-
-Fashion campaign quality.
-
-Premium magazine-cover presence.
-
-Street-Art Elements:
-
-Graffiti paint strokes.
-
-Sticker graphics.
-
-Hand-drawn doodles.
-
-Japanese typography.
-
-Barcode labels.
-
-Magazine clippings.
-
-Torn paper effects.
-
-Retro web graphics.
-
-Pixel-inspired icons.
-
-Spray paint textures.
-
-Urban design details.
-
-Editorial Layout:
-
-Large artist name section.
-
-Automatically generated biography.
-
-Career highlights.
-
-Achievements.
-
-Interesting facts.
-
-Retro computer popup window with a short message inspired by the artist's personality.
-
-Decorative Japanese katakana rendering of the artist's name.
-
-Professional visual hierarchy.
-
-Dynamic asymmetrical composition.
-
-Luxury poster balance.
-
-No creator credit.
-
-No watermark.
-
-No official profile text.
-
-No unnecessary logos.
-
-Visual Quality:
-
-Ultra detailed.
-
-Highly realistic.
-
-Sharp typography.
-
-Professional graphic design.
-
-Premium collectible merchandise aesthetic.
-
-Luxury fashion campaign quality.
-
-Japanese street-art energy.
-
-Modern Gen-Z aesthetic.
-
-Pinterest-worthy.
-
-Instagram-ready.
-
-Museum-quality graphic design.
-
-4K resolution.
-
-Vertical poster format.
-
-Aspect ratio 4:5.
+A high-resolution vertical Pixar-style 3D character illustration. Visual irony concept, minimalist composition with vast negative space.Main character:
+A happy, relaxed graphic designer depicted as a stylized Pixar 3D character. He is smiling warmly, holding a smartphone to his ear, comfortably talking to a client.
+Wearing an elegant royal olive-green jacket, a clean white t-shirt underneath, and matching olive-green trousers. He has a neat modern haircut, stylish glasses, and a very relaxed, confident posture.Background:
+Flat, clean, solid mustard yellow background with a subtle matte texture. The composition is zoomed out to leave a massive amount of empty negative space around the character.Key Concept – Shadow as the hidden truth:
+A distinct spotlight casts a disproportionately SMALL and concentrated shadow on the mustard yellow wall behind him. The shadow does NOT mirror his relaxed body shape.
+Instead, it takes the silhouette of a tiny but sinister, scheming "evil client" figure. The shadow has jagged edges, a mischievous demonic grin, and hands with long sharp fingers rubbing together. The shadow is kept intentionally small to emphasize the vast yellow negative space.Lighting & Rendering:
+Pixar-like rendering with detailed but stylized textures. Soft ambient light on the character, hard light for the crisp dark shadow. Warm cinematic color grading.
+--no text, letters, typography, words, fonts, watermarks, clutter --ar 4:5 --style raw --v 6.0
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0844f94e0d7f407a8448945d5f0b3d77&show=true) · Tags: `branding`, `logo`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=cefc5b9cd0824ae8ae45fe60cf5d44a4&show=true) · Tags: `character`, `cinematic`
 
 ---
 
-#### 20. Transform the input image into a premium designer collectible-art toy ae
+#### 20. A fresh high-key white-background lifestyle portrait of a young woman in
 
-<img src="images/prompts/promptsref-14186.png" alt="Transform the input image into a premium designer collectible-art toy ae" width="560">
+<img src="images/prompts/promptsref-30693.png" alt="A fresh high-key white-background lifestyle portrait of a young woman in" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Transform the input image into a premium designer collectible-art toy aesthetic. Preserve the subject's identity, pose, composition, and key features, but reinterpret everything as a highly detailed stylized vinyl/resin character. Features: Cute yet sophisticated designer toy proportions Large expressive eyes with subtle side-glance attitude Smooth polished skin and soft sculpted facial features High-end 3D render quality Hyper-detailed materials and textures Soft ambient global illumination Studio-grade lighting with gentle bloom Slightly exaggerated facial proportions Clean toy-like surface finish Premium collectible figurine appearance Styling: Add playful graphic stickers, pins, patches, charms, decals,   that match the subject's personality Decorative details should feel curated and collectible, not random Fashion and clothing should remain inspired by the original image but elevated into designer-toy aesthetics Rich layered materials such as knit fabrics, glossy plastics, enamel pins, embroidered patches, metallic jewelry, and soft textiles Subtle freckles, texture details, and micro-surface imperfections for realism Composition: Centered portrait framing Magazine-cover presentation Bold oversized typography Modern editorial layout Minimal geometric UI elements Limited edition collectible packaging design language Clean visual hierarchy Luxury streetwear toy-brand aesthetic Color System: Extract the dominant color from the outfit Use that color as the primary background gradient Create monochromatic harmony between background and wardrobe Add small complementary accent colors through stickers and accessories Vibrant but cohesive palette Rendering: Ultra-detailed 3D character render Octane/Redshift/Cinema4D quality Sharp focus High contrast Soft depth of field Commercial toy photography Luxury collectible product shot Premium designer art toy aesthetic Contemporary street-culture collectible design
+A fresh high-key white-background lifestyle portrait of a young woman in her 20s standing against a pure white to pale gray-white bright background. The camera is close and low, placed below the waist or hip level and looking upward. The subject is centered in a vertical 3:4 or 4:5 frame, captured from the head to below the hips, with the lower legs cropped out. The overall feeling is like a Japanese lifestyle magazine image, a city commute moment after buying coffee in bright morning light.  She has a natural black or deep dark-brown short bob haircut around chin length, with airy bangs and softly inward-curved ends. The side hair gently frames the cheeks, with a subtle backlit rim along the edges. Her expression is calm and gentle, lips naturally closed, eyes looking toward the upper right side of the frame as if noticing something in the distance. Makeup is clean and everyday: lightweight natural base, soft natural brows, subtle eyeliner, light lashes, barely visible blush, and muted nude-pink or soft rose-beige lips.  She wears a milk-white sleeveless high-neck cropped ribbed knit top. The fine vertical rib texture is visible, the fabric is close-fitting and slightly elastic, and the hem stops around the upper abdomen with small natural wrinkles and side stretch. She pairs it with pale washed-blue low-rise or mid-low-rise skinny jeans, with a low waistband, three metal buttons, pale stitching, clear front pocket and fly lines, and slight tension wrinkles around the hips and upper thighs. Her left hand holds the strap of a large beige tote bag hanging from the left shoulder or arm, while her right hand holds a brown takeaway coffee paper cup with a black lid. The right wrist bends naturally. A light-colored watch or bracelet may appear on the left wrist, with very minimal accessories overall.  Visible skin includes the face, neck, both shoulders, upper arms, forearms, hands, fingers, a small amount of underarm-edge skin, a large area of the waist and abdomen, the navel area, and the side waist. The chest, hips, and legs are mostly covered by the top and jeans; the back, buttocks, and leg skin are not visible. Her skin tone is fair warm ivory, bright and clean under the high-key white background and soft backlight, with slight beige-pink undertones in the shadows. The skin should look delicate but real, with natural softness and subtle folds on the abdomen and realistic color variation around the finger joints. It should feel warm, soft, lightly elastic, and human, not plastic or over-smoothed.  Lighting is made of large white diffused ambient light and soft backlight, as if photographed near a white window, in a white studio set, or under strong diffused daylight. The background is slightly brighter than the subject, with light spilling from behind and above. Weak frontal fill keeps shadows shallow. Soft highlights appear on the shoulders, side of the face, arms, and abdomen edges, while faint gray shadows sit under the chest and lower abdomen where fabric and body overlap. The image should be low-contrast, clean, bright, and softly backlit, with a slightly overexposed white background while preserving the subject’s outline. Keep the real low-angle perspective, slight body tilt, clothing wrinkles, and everyday object feeling of the coffee cup and tote bag.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=b1a5bfc5bc6012225eb6431d864e9550&show=true) · Tags: `comparison`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=389eb7fcfc1a45a176d694584976d367&show=true) · Tags: `comparison`
 
 ---
 
-#### 21. Create a premium collector-edition character poster of [五条悟] from [franc
+#### 21. Crea una ilustración deportiva de élite inspirada en el Real Madrid, com
 
-<img src="images/prompts/promptsref-14179.png" alt="Create a premium collector-edition character poster of [五条悟] from [franc" width="560">
+<img src="images/prompts/promptsref-30690.png" alt="Crea una ilustración deportiva de élite inspirada en el Real Madrid, com" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a premium collector-edition character poster of [五条悟] from [franchise].Character AnalysisAnalyze the character’s canon personality, emotional identity, visual symbolism, and dominant energy.Identify the character’s strongest archetype (heroic, calm, mysterious, aggressive, rebellious, strategic, etc.) and build the entire composition around it.Visual DirectionAnime illustration × contemporary poster design × premium branding artwork.Style ModeBlend luxury editorial aesthetics, futuristic cyberpunk design, urban street-art energy, and modern minimalist composition while keeping the character instantly recognizable.PoseCreate an iconic pose that reflects the character’s personality:• Heroic → confident elevated stance• Calm → relaxed elegance• Mysterious → concealed posture and controlled presence• Aggressive → forward momentum and tension• Rebellious → attitude-driven silhouetteFacial ExpressionEmotionally authentic, faithful to canon personality, highly expressive yet refined.OutfitReimagine the original costume as premium designer streetwear:• Luxury tailoring• Futuristic techwear details• Urban street-fashion influences• Simplified iconic character elementsPreserve the most recognizable features of the original design.CompositionVertical format ({aspect_ratio})Premium poster layoutStrong visual hierarchyOff-center positioningDynamic depthCollector-edition presentationColorsPure white backgroundCharacter signature color as dominant accentOne complementary secondary accent colorBackgroundMinimal architectural formsAbstract holographic elementsGraffiti-inspired graphic texturesClean geometric shapesLuxury branding aestheticsEffectsEnergy trailsPaint splashesGlitch fragmentsMotion streaksThin graphic accentsFloating visual symbols connected to the characterLightingProfessional cinematic lightingStrong rim lightSoft colored glowClean shadowsHigh contrast highlightsRenderingUltra-detailed anime artworkPremium branding qualityCollector-edition posterModern graphic design aestheticsSharp focus4K masterpieceCustomize this prompt with these user-specific details:Subject: {character_name} from {franchise}
+**Crea una ilustración deportiva de élite inspirada en el Real Madrid, combinando arte digital hiper detallado, energía visual explosiva y estética de cartel oficial de la UEFA Champions League.**
+
+Ibrahima Konaté futbolista francés de élite en plena acción, corriendo con el balón Adidas oficial de la Champions League a máxima velocidad, expresión concentrada y competitiva, mirada dirigida hacia un objetivo fuera de cuadro. Cabello corto con reflejos dorados, físico atlético definido, postura dinámica con sensación de movimiento real.
+
+El jugador viste el uniforme oficial blanco del Real Madrid 2026/2027:
+* Tres franjas Adidas en Rosa Intenso / Magenta RGB(233, 30, 99) sobre los hombros.
+* Cuello redondo con ribetes Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64).
+* Bordes de mangas Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64) a juego.
+* Escudo oficial del Real Madrid bordado en el pecho izquierdo.
+* Logotipo tres barras Adidas minimalista (sin la palabra Adidas debajo de las tres barras) Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64)  en el pecho derecho.
+* Patrocinador “Emirates Fly Better” centrado en Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64).
+* Parche circular Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64) con las letras HP en blanco en la manga derecha.
+* Pantalón blanco, Tres franjas Adidas en Rosa Intenso / Magenta RGB(233, 30, 99) en ambos lados, Escudo oficial del Real Madrid bordado en el pierna derecha, bordes de pantalón Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64).
+* Medias blancas, en el centro letras RM en Rosa Intenso / Magenta RGB(233, 30, 99) y Logotipo tres barras Adidas minimalista (sin la palabra Adidas debajo de las tres barras) Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64) minimalista.
+* Botas Adidas profesionales.
+* Tejido técnico deportivo con textura ligera visible.
+
+### Composición
+
+Formato vertical tipo póster.
+
+Jugador ocupando el centro de la composición.
+
+Perspectiva ligeramente contrapicada para transmitir poder y protagonismo.
+
+Pierna adelantada conduciendo el balón.
+
+Sensación de avance hacia el espectador.
+
+Composición extremadamente dinámica.
+
+### Fondo
+
+Gigantesco escudo oficial del Real Madrid integrado detrás del jugador.
+
+Escudo parcialmente transparente y fusionado con el entorno gráfico.
+
+Elementos artísticos rodeando toda la composición:
+
+* Salpicaduras de pintura blanca.
+* Pinceladas Rosa Intenso / Magenta RGB(233, 30, 99) explosivas.
+* Trazos gestuales energéticos.
+* Efectos de tinta.
+* Partículas dinámicas.
+* Líneas de velocidad.
+* Explosiones de color.
+* Splash art profesional.
+
+Fondo blanco limpio para maximizar el contraste visual.
+
+### Dirección Artística
+
+Inspirado en:
+
+* Adidas Football Campaign
+* FIFA World Cup Posters
+* UEFA Euro Creative Design
+* Marvel Sports Illustration
+* Digital Sports Art
+* Behance Elite Sports Posters
+* Nike Football Visual Identity
+* Modern Football Hero Artwork
+
+### Estilo de Ilustración
+
+Ilustración digital hiperrealista.
+
+Mezcla de:
+
+* comic premium
+* concept art
+* sports illustration
+* editorial design
+
+Pinceladas visibles.
+
+Detalles extremadamente nítidos.
+
+Sombras pintadas manualmente.
+
+Reflejos brillantes.
+
+Acabado tipo obra de arte comercial.
+
+### Paleta Cromática
+
+Colores dominantes:
+
+* Blanco Real Madrid.
+* Rosa Intenso / Magenta RGB(233, 30, 99).
+* Verde Azulado Oscuro / Esmeralda RGB(0, 77, 64).
+* Blanco brillante.
+
+Contraste extremo.
+
+Saturación controlada.
+
+Acabado premium.
+
+### Iluminación
+
+Iluminación cinematográfica.
+
+Luz principal lateral.
+
+Rim light dorado.
+
+Reflejos deportivos.
+
+Volumen tridimensional.
+
+Texturas perfectamente definidas.
+
+### Elementos Extra
+
+* Detalles de UEFA Champions League.
+* Energía visual tipo UEFA Champions League.
+* Balón Adidas oficial de la Champions League fotorealista integrado con efectos de pintura.
+* Movimiento congelado en el instante perfecto.
+
+### Calidad Visual
+
+Ultra detailed football artwork, elite sports illustration, Real Madrid team poster, dynamic football action, hyper realistic digital painting, premium sports branding, splash art masterpiece, cinematic sports design, explosive paint strokes, national team hero poster, vibrant colors, high-end digital illustration, editorial sports campaign, award-winning artwork, concept art quality, ultra sharp details, HDR, 8K, masterpiece, professional football poster.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=88047cd65c3155e2b1fba3fd2ccb43d1&show=true) · Tags: `branding`, `prompt`, `cinematic`
+👤 [Rubén Oñate](https://promptsref.com/user/tsubasa10mur) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=2e12256a5c20e595708fe29d145ef29c&show=true) · Tags: `branding`, `cinematic`, `logo`
 
 ---
 
-#### 22. Ultra-realistic summer beauty product photography: bronzer bottle. Recta
+#### 22. Create a premium collector-edition character poster of [Orange Piccolo]
 
-<img src="images/prompts/promptsref-14177.png" alt="Ultra-realistic summer beauty product photography: bronzer bottle. Recta" width="560">
+<img src="images/prompts/promptsref-30676.png" alt="Create a premium collector-edition character poster of [Orange Piccolo]" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Ultra-realistic summer beauty product photography: bronzer bottle. Rectangular matte bottle in a warm bronze shade with a clean white cap, placed diagonally on wet beach sand as a gentle sea wave washes onto it. Soft sea foam and tiny bubbles around the base, water partially running down the label, subtle sand texture visible under the shallow clear water, golden sunlight creating natural highlights and soft shadows, highly detailed ripples on the water and realistic foam patterns, fresh summer aesthetic, minimalist, clean branding, centered and crisp, warm beach lighting during golden hour, cinematic top-down composition, natural reflections on the wet surface, editorial advertising style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury cosmetics advertisement. Aspect ratio 4.5
+Create a premium collector-edition character poster of [Orange Piccolo] from [Dragon Ball Super : Super Hero].Character AnalysisAnalyze the character’s canon personality, emotional identity, visual symbolism, and dominant energy.Identify the character’s strongest archetype (heroic, calm, mysterious, aggressive, rebellious, strategic, etc.) and build the entire composition around it.Visual DirectionAnime illustration × contemporary poster design × premium branding artwork.Style ModeBlend luxury editorial aesthetics, futuristic cyberpunk design, urban street-art energy, and modern minimalist composition while keeping the character instantly recognizable.PoseCreate an iconic pose that reflects the character’s personality:• Heroic → confident elevated stance• Calm → relaxed elegance• Mysterious → concealed posture and controlled presence• Aggressive → forward momentum and tension• Rebellious → attitude-driven silhouetteFacial ExpressionEmotionally authentic, faithful to canon personality, highly expressive yet refined.OutfitReimagine the original costume as premium designer streetwear:• Luxury tailoring• Futuristic techwear details• Urban street-fashion influences• Simplified iconic character elementsPreserve the most recognizable features of the original design.CompositionVertical format ({aspect_ratio})Premium poster layoutStrong visual hierarchyOff-center positioningDynamic depthCollector-edition presentationColorsPure white backgroundCharacter signature color as dominant accentOne complementary secondary accent colorBackgroundMinimal architectural formsAbstract holographic elementsGraffiti-inspired graphic texturesClean geometric shapesLuxury branding aestheticsEffectsEnergy trailsPaint splashesGlitch fragmentsMotion streaksThin graphic accentsFloating visual symbols connected to the characterLightingProfessional cinematic lightingStrong rim lightSoft colored glowClean shadowsHigh contrast highlightsRenderingUltra-detailed anime artworkPremium branding qualityCollector-edition posterModern graphic design aestheticsSharp focus4K masterpieceCustomize this prompt with these user-specific details:Subject: {Beast Gohan} from {Dragon Ball Super: Super Hero}
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=8f9eee39e576805a2e46edf6c734b5f1&show=true) · Tags: `product`, `cinematic`
+👤 [Rizki D. Kurniawan](https://promptsref.com/user/rdkonezuka) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0ab1de82d0f4bf08b700ec9e5d9349a4&show=true) · Tags: `branding`, `prompt`, `cinematic`
 
 ---
 
-#### 23. 竖屏 9:16，从上方俯拍的近景构图，纯白摄影棚背景，高亮柔光。一名明确成年的韩国超酷美女穿搭博主，深色顺滑长发，精致妆容，极简时尚穿搭，整体干
+#### 23. Photorealistic candid sports photography snapshot with strong "real spor
 
-<img src="images/prompts/promptsref-14098.png" alt="竖屏 9:16，从上方俯拍的近景构图，纯白摄影棚背景，高亮柔光。一名明确成年的韩国超酷美女穿搭博主，深色顺滑长发，精致妆容，极简时尚穿搭，整体干" width="560">
+<img src="images/prompts/promptsref-30673.png" alt="Photorealistic candid sports photography snapshot with strong &quot;real spor" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-竖屏 9:16，从上方俯拍的近景构图，纯白摄影棚背景，高亮柔光。一名明确成年的韩国超酷美女穿搭博主，深色顺滑长发，精致妆容，极简时尚穿搭，整体干净利落。镜头从她上方略微俯视拍摄，近景到半身构图。她举起一只手，伸出食指，像是突然想到了一个好主意，眼神明亮自信，脸上带一点俏皮又很酷的笑意。姿势有“满电准备营业”的能量感，聪明、轻快、适合短视频开场。画面上方有一个简洁的灯泡图标。干净时尚，真实摄影质感，皮肤自然，细节清晰，不要科幻变身，不要粒子特效，不要夸张动漫滤镜，不要杂乱背景。
+Photorealistic candid sports photography snapshot with strong "real sports venue + surreal humor" atmosphere. A real stunning Japanese woman who looks strikingly like a live-action Mai Shiranui from Fatal Fury / King of Fighters, mid-20s, long silky dark brown hair in a high energetic ponytail tied with signature red ribbon, warm expressive brown eyes, delicate yet striking facial features with natural playful seductive charm, fair flawless skin, athletic toned curvaceous hourglass figure. She sits relaxed in professional baseball stadium stands during game intermission, body slightly leaning back against the seat, casual and at ease posture. Subtle smile with restrained smugness and pride, relaxed content eyes, as if unintentionally captured while watching the match.
+
+She is casually dressed for a day at the ballpark: fitted navy blue fan t-shirt with subtle team branding, dark slim jeans, light jacket draped over the adjacent seat. 
+
+Lively baseball stands background with spectators in blue jerseys, drink cups and snacks on armrests, typical stadium seating structures. Lower frame shows visible game scoreboard displaying "LAD vs SF". Uniform cold white overhead stadium lighting, realistic documentary sports arena atmosphere with slight film grain and noise. Surreal humorous contrast of an iconic anime character appearing as a real person casually attending an MLB game. Shot on professional sports camera with telephoto lens, shallow depth of field, sharp focus on her face and hair, natural skin texture, photorealistic, hyper-detailed, 8k, masterpiece.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=1faa7165939d3641a82244577aed3d75&show=true) · Tags: `illustration`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=b2ed49e29a91c6b557ce4a53b88100b9&show=true) · Tags: `branding`
 
 ---
 
-#### 24. Minimal monochrome sticker illustration of [SUBJECT], bold black outline
+#### 24. 一张电影感竖版父亲与孩子的致敬海报，一位父亲牵着孩子走在一片湿地上，两人都是短袖短裤户外穿搭，远处有几个近大远小的风车磨坊，脚下的路是木板搭起来
 
-<img src="images/prompts/promptsref-14072.png" alt="Minimal monochrome sticker illustration of [SUBJECT], bold black outline" width="560">
+<img src="images/prompts/promptsref-30400.png" alt="一张电影感竖版父亲与孩子的致敬海报，一位父亲牵着孩子走在一片湿地上，两人都是短袖短裤户外穿搭，远处有几个近大远小的风车磨坊，脚下的路是木板搭起来" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Minimal monochrome sticker illustration of [SUBJECT], bold black outlines, tiny accent colors, modern streetwear branding style.
+一张电影感竖版父亲与孩子的致敬海报，一位父亲牵着孩子走在一片湿地上，两人都是短袖短裤户外穿搭，远处有几个近大远小的风车磨坊，脚下的路是木板搭起来的小路，左边有高高的芦苇荡绿油油的一片，右边是湖。父亲与孩子在整个图的中央位置，图片前景是木板路，正午的阳光，天空中有鸟飞过，低角度的戏剧性构图，镜头光晕，史诗级Netflix人文风格海报，底部大而醒目的标题文字写着“Father's Day & Summer Solstice”，电影级调色，逼真数字绘画，超精细，清晰对焦，9:16的海报构图。
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=e41b2f73e055d3ea0df9eb190c5e99dc&show=true) · Tags: `branding`
+👤 [陈道暗](https://promptsref.com/user/565160629) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=aca2c7c2a802c3548c984389357ab455&show=true) · Tags: `illustration`
 
 ---
 
-#### 25. 图像生成。一位日本女性，在自己的房间里站着自拍，俏皮自信的微笑，优雅姿势，浅景深，像手机拍摄的 casual 自拍照片
+#### 25. {
 
-<img src="images/prompts/promptsref-13888.png" alt="图像生成。一位日本女性，在自己的房间里站着自拍，俏皮自信的微笑，优雅姿势，浅景深，像手机拍摄的 casual 自拍照片" width="560">
+<img src="images/prompts/promptsref-30388.png" alt="{" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-图像生成。一位日本女性，在自己的房间里站着自拍，俏皮自信的微笑，优雅姿势，浅景深，像手机拍摄的 casual 自拍照片。
+{
+  "subject": {
+    "description": "A young woman with a clean, minimal, modern urban portrait aesthetic",
+    "mirror_rules": "normal non-mirrored composition",
+    "age": "20-30",
+    "expression": {
+      "eyes": {
+        "look": "calm, slight direct gaze",
+        "energy": "composed and subtle",
+        "direction": "slightly off-center toward camera"
+      },
+      "mouth": {
+        "position": "naturally closed",
+        "energy": "relaxed"
+      },
+      "overall": "soft, slightly cool but natural portrait expression"
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "light natural makeup, clean base, soft lip tone"
+    }
+  },
 
-照片上方叠加明显的粗马克笔和海报颜料手绘涂鸦，形成后期画上去的 cosplay 服装。服装必须像贴纸或涂鸦一样覆盖在照片之上，而不是现实中穿着的衣服。皮肤上不要有任何涂鸦，保持真实皮肤质感、自然身体、真实房间背景。强烈的 overlay 效果，照片和涂鸦层清晰分离，SNS 编辑风，Y2K 网络文化风格，业余手机快照，不完美构图，轻微运动模糊，真实生活感。
+  "hair": {
+    "color": "black",
+    "style": "chin-length straight bob, middle or slight side part",
+    "effect": "smooth, sleek, lightly framing the face"
+  },
 
-主题：白雪公主手绘涂鸦 cosplay。
+  "body": {
+    "frame": "slim and balanced",
+    "waist": "naturally defined",
+    "chest": "natural fitted silhouette",
+    "legs": "not fully visible",
+    "skin": {
+      "visible_areas": "shoulders, arms, collarbones, upper chest, partial back",
+      "tone": "fair natural skin tone",
+      "texture": "fine natural skin texture",
+      "lighting_effect": "mix of daylight and strong flash creating bright highlights"
+    }
+  },
+
+  "pose": {
+    "position": "standing with slight backward lean",
+    "base": "hands placed behind resting on window ledge",
+    "overall": "casual relaxed indoor portrait pose"
+  },
+
+  "clothing": {
+    "top": {
+      "type": "halter knit dress",
+      "color": "grey",
+      "details": "minimal, solid color, body-hugging knit",
+      "effect": "soft fabric closely following silhouette"
+    },
+    "bottom": {
+      "type": "dress continuation",
+      "color": "grey",
+      "details": "straight elongated fit",
+      "effect": "natural drape"
+    }
+  },
+
+  "accessories": {
+    "headwear": null,
+    "jewelry": null,
+    "device": null,
+    "prop": "window ledge as support"
+  },
+
+  "photography": {
+    "camera_style": "handheld smartphone or compact camera with direct flash",
+    "angle": "slightly eye-level, slightly upward tilt",
+    "shot_type": "half-body portrait",
+    "aspect_ratio": "3:4",
+    "texture": "flash photography grain with slightly hard shadows",
+    "lighting": "strong natural window light + direct flash, background overexposed",
+    "depth_of_field": "medium depth, subject sharp, background softly blurred"
+  },
+
+  "background": {
+    "setting": "high-rise indoor window area",
+    "wall_color": "light interior tones",
+    "elements": [
+      "large glass window",
+      "river or water surface",
+      "distant city skyline",
+      "bridge structure"
+    ],
+    "atmosphere": "bright, airy, slightly overexposed city view",
+    "lighting": "strong daylight flooding through window"
+  },
+
+  "the_vibe": {
+    "energy": "quiet, minimal, slightly editorial",
+    "mood": "clean yet slightly distant",
+    "aesthetic": "urban casual portrait with social media snapshot feel",
+    "authenticity": "more candid than studio-polished",
+    "intimacy": "mild personal diary feel",
+    "story": "a casual moment captured by the window",
+    "caption_energy": "‘The light was good, just stood there for a while’"
+  },
+
+  "constraints": {
+    "must_keep": [
+      "black bob haircut",
+      "grey halter knit dress",
+      "bright window + city background",
+      "candid flash snapshot feeling"
+    ],
+    "avoid": [
+      "over-retouched skin",
+      "studio-perfect lighting",
+      "over-sharp background",
+      "rigid posing"
+    ]
+  },
+
+  "negative_prompt": [
+    "over smoothing",
+    "cartoon style",
+    "deformation",
+    "low resolution",
+    "extra people",
+    "unnatural pose",
+    "plastic skin"
+  ]
+}
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=a91f4f90f3ad315fab282f5c124a8edd&show=true) · Tags: `character`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=92ccdfcb1bcec2ca8fc6cde3095ac898&show=true) · Tags: `portrait`, `prompt`
 
 ---
 
-#### 26. Donald Trump reimagined as a surreal muscular national-guard-like cinema
+#### 26. 这是一张极具电影感的体育人物肖像照片
 
-<img src="images/prompts/promptsref-13854.png" alt="Donald Trump reimagined as a surreal muscular national-guard-like cinema" width="560">
+<img src="images/prompts/promptsref-30380.png" alt="这是一张极具电影感的体育人物肖像照片" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Donald Trump reimagined as a surreal muscular national-guard-like cinematic figure, exaggerated bodybuilder physique, arms crossed powerfully, still frontal pose, blank restrained expression, Rembrandt lighting, a single hard golden beam lighting only half of his face and chest, remaining features buried in deep black shadow, intense chiaroscuro contrast, pure black background, horizontal motion-blur streaks behind him creating a sense of rapid movement, dramatic low-key cinematic photography, realistic skin texture, sculptural muscles, 8K detail, ultra sharp, bottom-left small white minimalist typography reading "NATIONAL FLAG GUARD FOR OUR GLORY; MPET", editorial parody poster, no extra text
+这是一张极具电影感的体育人物肖像照片。
+
+画面中的主体是C罗。
+
+他的眼神非常集中，带有强烈的内在张力，像是在比赛开始前的静默瞬间。嘴唇自然闭合，没有任何外放情绪，整个人呈现出一种“压住情绪”的竞技状态。
+
+光线是整个画面的核心：一束强烈的定向硬光从侧前方打来，并通过遮挡形成类似钥匙孔形状的光影结构，直接切割在他的脸上。一半面部被强光照亮，另一半则沉入深黑阴影中，形成极高对比度的戏剧性视觉效果。
+
+背景是纯黑色摄影棚，没有任何环境干扰，使人物成为唯一视觉中心。浅景深让背景完全虚化，强化孤立感与舞台感。
+
+镜头语言类似85mm人像镜头的近距离特写，略带侧前方平视角度，整体构图紧凑、压迫感强。皮肤质感被真实保留，可以看到自然的纹理与细微毛孔，没有过度磨皮或商业美化。
+
+整体氛围像是比赛前的最后几秒安静时刻：没有动作，但充满即将爆发的力量。画面情绪克制、沉稳、紧张，带有强烈的电影级体育肖像质感。
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=de416d8523a3406ceb40f684c842cf91&show=true) · Tags: `branding`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=0a5c58211724f9b1038fb1eddcd037c5&show=true) · Tags: `illustration`
 
 ---
 
-#### 27. 竖屏 9:16，纯白摄影棚背景，高亮柔光，半身近景或 3/4 身构图。同一位明确成年的亚洲女性穿搭博主
+#### 27. a man in an elegant business suit in 1972 Italy smoking while leaning ag
 
-<img src="images/prompts/promptsref-13797.png" alt="竖屏 9:16，纯白摄影棚背景，高亮柔光，半身近景或 3/4 身构图。同一位明确成年的亚洲女性穿搭博主" width="560">
+<img src="images/prompts/promptsref-30377.png" alt="a man in an elegant business suit in 1972 Italy smoking while leaning ag" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-竖屏 9:16，纯白摄影棚背景，高亮柔光，半身近景或 3/4 身构图。同一位明确成年的亚洲女性穿搭博主，
-她做一个“满电准备营业”的自信姿势：一手轻扶耳饰或整理头发，另一手扶在腰侧，身体微微侧向镜头，肩颈打开，表情从慵懒变成明亮、自信、带一点俏皮笑意。画面上方是简洁的满电电池图标，电量格填满，旁边有小字“FULL ENERGY”或“READY”。干净时尚，不要科幻变身，不要粒子特效，不要夸张动漫滤镜。
+a man in an elegant business suit in 1972 Italy smoking while leaning against a car, white background
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=c51a07d73beb585e0041b6befdc031cc&show=true) · Tags: `illustration`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=9cac2ec4c89bcd70274d43f6ce4ed17c&show=true) · Tags: `portrait`
 
 ---
 
-#### 28. 以具体主题内容为核心生成一张具有作品集封面秩序的视觉作品。核心对象不要完整陈列，而是先被压缩成一个偏离中轴的主质量，沉入半透明雾化表层与低饱和背
+#### 28. A top-down perspective of a short-haired Japanese high school girl lying
 
-<img src="images/prompts/promptsref-13734.png" alt="以具体主题内容为核心生成一张具有作品集封面秩序的视觉作品。核心对象不要完整陈列，而是先被压缩成一个偏离中轴的主质量，沉入半透明雾化表层与低饱和背" width="560">
+<img src="images/prompts/promptsref-30376.png" alt="A top-down perspective of a short-haired Japanese high school girl lying" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-以具体主题内容为核心生成一张具有作品集封面秩序的视觉作品。核心对象不要完整陈列，而是先被压缩成一个偏离中轴的主质量，沉入半透明雾化表层与低饱和背景场之间；对象的完整轮廓、次要细节和普通说明都被压花玻璃颗粒、细小折射位移、乳白雾化和低对比模糊吞没，只在最能承载主题识别的位置切出一条干净清晰的窄窗，让该局部保留真实质感、较高对比和必要色彩，其余部分化为暗部质量、柔化轮廓、破碎边缘和被背景吃掉的过渡。清晰窄窗要像从材料表面擦开的精确缝隙，尺寸克制但语义准确，成为观者进入主题的唯一强入口。背景由主题的空间关系、材料属性、时间方向和情绪温度推导成大面积低噪声色场，上部或外侧保留轻空气感，一侧形成淡色呼吸区，主体所在区域压入更低明度；背景不承担普通场景叙事，而承担吞没边缘、承载白色文字、制造距离和记忆感的结构功能。色彩保持大面积低饱和结构色、低明度主体色、少量集中真实色和白色信息色之间的比例，色相随主题改变，明度层级、饱和度克制和局部色彩价值保持稳定。画面使用清晰、半清晰、失焦三层：清晰窄窗负责主题识别，短促粗白标题和编号保持半清晰可读，主体大部、背景和底部微型信息进入雾化失焦。文字采用现代无衬线字体，白色或近白，粗标题短促、厚重、像印在玻璃上并被表层轻微咬边；角落标识、边缘日期、编号和底部微型注释组成元数据坐标系，像作品编号、档案记录和制作参数，文字服务于阅读路线而不遮盖清晰窄窗。整体表面保留可见的颗粒压花玻璃触感，纹理随底层明暗改变密度，暗部更密集，亮部更乳白，边缘出现细碎折射和轻微位移，所有图像、对象和文字都像被同一块材料统一压住。最终画面应呈现冷静、克制、带技术档案感的视觉封面：信息被有意识地隐藏，只有最关键的局部被释放。
-
-本次主题：疯狂星期四 KFC 
-比例：9:10
+A top-down perspective of a short-haired Japanese high school girl lying on a white floor. She wears a white short-sleeve uniform shirt, black short skirt, black leather shoes, and white socks. She has headphones on and holds an MP3 player in her hand. Surrounding her are scattered vinyl records and old vintage televisions viewed from above, creating a nostalgic scene with clear spatial arrangement. The composition emphasizes clean lines and contrast between the white floor and darker objects, capturing a calm, contemplative mood from this elevated viewpoint.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=06377d3c83ec9c0f109e5a7044eeb09a&show=true) · Tags: `illustration`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=9fe55a4743ac7e06561399052cdabb47&show=true) · Tags: `illustration`
 
 ---
 
-#### 29. 竖屏 9:16，白色背景，极简穿搭指南排版。顶部左侧是大号黑体中文标题“低能量穿搭”，下方是英文“LOW-ENERGY”。左侧有三个黑色细线边框
+#### 29. (Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful
 
-<img src="images/prompts/promptsref-13709.png" alt="竖屏 9:16，白色背景，极简穿搭指南排版。顶部左侧是大号黑体中文标题“低能量穿搭”，下方是英文“LOW-ENERGY”。左侧有三个黑色细线边框" width="560">
+<img src="images/prompts/promptsref-30375.png" alt="(Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-竖屏 9:16，白色背景，极简穿搭指南排版。顶部左侧是大号黑体中文标题“低能量穿搭”，下方是英文“LOW-ENERGY”。左侧有三个黑色细线边框的商品清单框，展示圆框眼镜、咖啡杯、白色长袖上衣、米色拖鞋、灰色宽松长裤、蓝灰条纹宽松衬衫，每个商品为白底抠图，并带有“1x”数量标识。右侧是一位年轻亚洲女生全身站立，戴眼镜，穿米色内搭、宽松蓝灰条纹衬衫、灰色宽腿裤和软底拖鞋，双手捧着杯子，神情安静放松。
+(Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful female influencer with glowing healthy skin, holding a skincare serum bottle toward the camera, natural smile, cozy bedroom environment, soft natural daylight, realistic home setting, elegant neutral decor.Large hero portrait on the left side.Right side featuring (6 UGC storyboard panels):(Hook Shot),(Product Introduction),(Product Application),(Lifestyle Shot),(Results Shot),(Call To Action).Each panel showing realistic influencer actions and natural expressions.Bottom section featuring (Key Ingredients Box) with elegant skincare icons and ingredient highlights.Additional product close-ups, serum texture shots, lifestyle B-roll images, premium beauty advertising layout.(Soft Natural Lighting),(Real & Relatable),(Clean Editorial Design),(UGC Creator Style),(Premium Skincare Branding),(Warm Beige Color Palette),(Photorealistic),(Ultra Detailed),(Vertical 9:16),(8K Quality).Negative Prompt:watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered layout, dark lighting, cartoon, CGI.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=91023270b99d6c4206b994819b4e094a&show=true) · Tags: `illustration`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=48663b0c0c78bcdca245c1cf1fcadc68&show=true) · Tags: `product`, `prompt`, `logo`
 
 ---
 
-#### 30. A playful, chaotic nighttime selfie captured with a wide-angle smartphon
+#### 30. Create a premium high-fashion editorial series featuring a stylish Korea
 
-<img src="images/prompts/promptsref-13632.png" alt="A playful, chaotic nighttime selfie captured with a wide-angle smartphon" width="560">
+<img src="images/prompts/promptsref-30374.png" alt="Create a premium high-fashion editorial series featuring a stylish Korea" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-A playful, chaotic nighttime selfie captured with a wide-angle smartphone lens and direct flash, featuring a young person making a fierce "rawr" expression toward the camera. Wearing an oversized royal blue windbreaker jacket, messy black hair, dramatic facial expression, teeth showing, playful attitude. The image is covered with hand-drawn doodle illustrations including white cat ears, whiskers, sketch outlines around the subject, stars, arrows, scribbles, and a cute green cartoon dinosaur breathing fire. Bold handwritten graffiti-style text such as "RAWR!", "NOPE, STILL NOT NORMAL", and "CURRENT MOOD" scattered around the frame. High-contrast flash photography, vibrant colors, candid Y2K aesthetic, scrapbook journaling style, social media sticker art, youthful energy, whimsical chaos, detailed doodles, urban night setting under a canopy tent, sharp focus, glossy skin highlights, trendy Gen Z photography, editorial street-style selfie, ultra-detailed, 4K.
+Create a premium high-fashion editorial series featuring a stylish Korean female model with sharp, elegant, modern beauty aesthetics. Maintain consistent facial identity across all panels. Design a 2x2 grid layout composed of four separate 9:16 vertical posters, separated by thin white spacing. Each panel must show the same model in a different stylish pose, angle, and camera perspective: Panel 1: front-facing portrait, soft confident expression Panel 2: side profile with cinematic lighting and subtle motion pose Panel 3: over-the-shoulder glance, fashion editorial attitude Panel 4: low-angle shot for powerful luxury aesthetic Style & Direction:  Ultra-stylish Korean fashion model aesthetic (Seoul street + luxury editorial vibe)  Clean modern studio photography  Softbox lighting with smooth shadows  Minimal off-white / light gray background  High-end magazine fashion look  Natural makeup, flawless skin, elegant styling  Outfits: simple but premium, modern street-luxury fusion  Typography: Minimal bold headline at top-left of full composition Small subtle contact details at bottom in clean sans-serif font Overall feel: luxury Korean fashion editorial, ultra-clean, minimal, premium magazine cover series, 8K ultra-detailed photography
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=410df9be03d71c02d4f9c362360d9082&show=true) · Tags: `poster`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=aa4bd7e386bf81ce5b38ff07e24dd0cc&show=true) · Tags: `comparison`, `cinematic`
 
 ---
 
-#### 31. Dynamic Japanese TV drama impact shot, wide-angle action POV from the ha
+#### 31. 主体核心
 
-<img src="images/prompts/promptsref-13615.png" alt="Dynamic Japanese TV drama impact shot, wide-angle action POV from the ha" width="560">
+<img src="images/prompts/promptsref-30349.png" alt="主体核心" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Dynamic Japanese TV drama impact shot, wide-angle action POV from the harassing passenger being knocked backward inside a commuter train, adult East Asian woman in her mid-20s delivering a sharp self-defense front kick, same white bandeau crop top, black faux-leather high-waisted shorts with slim suspenders, choker, long auburn hair flying with motion, her full body visible, powerful foreshortened perspective, shoe and leg moving toward camera but not a fetish crop, train ceiling lights streaking from motion blur, overhead straps swinging, commuters recoiling in shock, dutch angle, handheld camera shake, compressed broadcast screenshot texture, high-impact but non-graphic action, no blood, no serious injury,
+主体核心
+超写实精致少女，淡紫渐变通透大眼，粉调柔润无瑕皮肤，细腻真实皮肤肌理，通透水光唇，温柔浅笑，蓬松深紫带银闪碎发高盘发，发丝缠绕水晶碎钻流苏发饰、紫色立体珠花发簪，额间紫水晶额饰，长款紫水晶链条流苏耳坠，多层细闪水晶颈链；露肩黑色网纱内搭，暗黑做旧机能风外套，黑色宽背带双肩痛包，包身挂满银色链条、紫色星星挂饰、紫色笑脸别针、毛绒小白猫玩偶挂件，包面透明闪片夹层；纤细手指佩戴多枚细钻戒指，指甲涂渐变紫闪美甲；头顶趴卧一只通体雪白长毛幼猫，猫咪紫水晶碎钻缀满皮毛，淡紫色眼眸，蓬松长尾垂落发丝旁，猫咪毛发根根分明真实蓬松。
+画面风格与质感
+8K 超高清，极致写实人像，电影级柔光景深，细腻胶片颗粒，超精细毛发渲染，皮肤次世代 PBR 材质，珠光细闪、星光碎钻闪光特效，全息霓虹紫蓝渐变光斑，水晶折射通透高光，高对比度，暗调氛围感，赛博甜酷 Y2K 千禧辣妹风，梦幻紫黑主色调，低明度暗底搭配高饱和紫闪点缀，细腻珠光肌理，全局微弱星光粒子漂浮，玻璃反光、金属链条冷调光泽，精致二次元写实融合真人质感，厚涂细腻光影，五官精致无 AI 畸形，五官比例完美，柔和轮廓阴影。
+背景元素
+满版拼贴涂鸦贴纸背景，黑灰棋盘格底纹，像素爱心图案、白色兔子简笔画、笑脸融化贴纸、英文贴纸文字（MOOD、offline、play nice、too weird too cute、offline、ERROR、GAME OVER、be kind、no signal），碎紫色全息镭射亮片、透明水晶碎片、五角星星光光斑，重叠复古拼贴风，模糊虚化背景突出人物主体，背景带微弱故障艺术像素噪点，紫蓝霓虹光晕漫射。
+光影、渲染、参数要求
+柔光侧逆光，发丝边缘轮廓光，水晶金属多处高光折射，面部柔和面光无硬阴影，Octane 顶级渲染，UE5 全局光照，超细腻细节纹理，85mm 人像镜头，浅景深虚化背景，极致细节，极致锐化五官，毛发分层渲染，闪耀星光特效，珠光闪粉遍布画面，色彩浓郁梦幻紫黑色调，高细节，超高逼真度，真人写实质感，无畸形手部、无崩坏五官、无多余肢体、模糊瑕疵、低画质、噪点过重、暗沉糊脸、廉价塑料质感。
+负面提示词（必加，杜绝崩坏失真）
+低分辨率，模糊，糊脸，五官扭曲，手部畸形，多手指，残缺肢体，畸形猫咪，塑料廉价质感，卡通平涂，二次元纯动漫画风，粗糙噪点，暗沉发黑，过曝发白，水印文字遮挡人物，多余杂物，变形链条，破碎水晶，色彩脏污，人体结构错误，发际线崩坏，发丝结块，毛发无层次，皮肤塑料感，无光泽，光影生硬，丑化面部，歪嘴斜眼，模糊背景抢主体，画面灰蒙蒙，缺少闪片星光。
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=20150b31ff6cd8b791dff32b6f7f8143&show=true) · Tags: `portrait`
+👤 [Patrick Lee (Zyceson)](https://promptsref.com/user/zyceson0831) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=bdd118eeb13ee7748b51da0cf07bae33&show=true) · Tags: `character`
 
 ---
 
-#### 32. Vertical advertising poster with a surreal playful concept, photorealist
+#### 32. Create a wide, horizontal character reference sheet featuring Leorio as
 
-<img src="images/prompts/promptsref-13594.png" alt="Vertical advertising poster with a surreal playful concept, photorealist" width="560">
+<img src="images/prompts/promptsref-30337.png" alt="Create a wide, horizontal character reference sheet featuring Leorio as" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Vertical advertising poster with a surreal playful concept, photorealistic rendering. The entire composition is shot from a first-person POV from inside a cardboard moving box looking straight up — the viewer sees the inside walls of the box converging toward a bright square opening at the top.Canvas: Vertical 3:4 portrait poster.Foreground / framing (fills ~70% of the image): The interior of an opened kraft-brown cardboard moving box, seen from the bottom looking up. The four inner walls of the box recede in strong one-point perspective toward the center-top of the frame, creating a natural vignette that guides the eye upward. The cardboard has realistic texture — visible corrugation, slight scuff marks, shipping creases, authentic warm kraft-paper tones. The inner flaps are fully opened outward so the square "window" at the top is clean and unobstructed. Subtle soft shadow along the inner corners of the box. The bottom edge of the frame shows the inside floor of the box, slightly out of focus.Sky opening (top of the composition, ~30% of the image): A bright, clear midday sky visible through the opening — soft pale cerulean-blue with a few fluffy cumulus clouds drifting across. Natural sunlight streams down into the box, subtly brightening the upper edges of the cardboard walls.Subjects (peeking down into the box from above, filling the sky opening): Two curious dairy cows framing the top opening — one on the left, one on the right — peering downward into the box with big gentle eyes. Both are Holstein cows (the classic black-and-white dairy breed):Left cow: Head tilted slightly, one ear perked up, one floppy. Big glossy dark eyes with long lashes. Pink muzzle visible, mouth slightly open as if mid-chew. Black and white patchy fur, visible fine hair detail. Looking directly down into the box at the viewer with a curious, almost questioning expression.Right cow: Head angled the other direction, slightly closer to the camera so her pink nose is prominent in the frame. Warm pink nostrils, soft breath visible. Wide innocent eyes, friendly expression. Black and white markings, one ear tag visible (generic yellow, no brand).Both cows are photographed with the same bright natural daylight as the sky. The perspective makes them appear enormous, like they've discovered something in a box much larger than themselves. Their heads lean in from outside the frame of the box opening, creating a playful "what's in here?" moment. Shallow depth of field keeps the cows sharp and the cardboard slightly softer.Main headline (bottom of poster, large bold sans-serif, deep charcoal-black): Horizontally aligned, slightly left-weighted, in a modern grotesk sans-serif: "OUT OF / THE BOX." Clean confident typography, all caps, tight leading between the two lines.Sub-headline (directly below the main headline, smaller, medium-weight sans-serif, muted grey): Two-line supporting copy, center-aligned: "Fresh milk, straight from the farm. / No middlemen, no long shelf lives, no surprises."Bottom-right corner: Small clean brand logo lockup — a minimalist circular glyph containing a stylized milk-drop or simple cow silhouette, next to the brand wordmark in bold clean sans: "PASTURE & CO." (placeholder fictional brand name).Below the logo, a small tracked uppercase line: "FIND US IN STORES · PASTUREANDCO.FARM".Bottom-left corner: A small minimalist info block in tracked uppercase sans-serif, charcoal text on kraft background:"DELIVERED FRESHEVERY MORNING— SINCE 2022"Next to it, a tiny line-icon illustration of a milk bottle with a small sunrise motif behind it.Very bottom edge (thin strip, tiny tracked uppercase sans): "FARM-TO-BOTTLE DAIRY · COW-TO-CUSTOMER · EST. 2022".Palette: warm kraft-brown cardboard (#B8916B), bright cerulean sky (#A8C8E4), soft cumulus cloud white, natural black-and-white Holstein markings, pink muzzles, deep charcoal typography (#1A1A1A), muted grey support text (#6B6B6B).Typography: bold modern grotesk sans-serif for headline (like Neue Haas Grotesk Bold, Söhne Bold, or Inter Black), medium-weight sans for sub-copy, tracked uppercase sans for meta.Mood: clever, playful, wholesome, fresh, trustworthy, farm-direct.Finish: crisp commercial photography, bright natural daylight, subtle photographic texture, polished advertising quality. Shutterstock / Cannes Lion-quality dairy advertisement poster, 4k vertical.
+Create a wide, horizontal character reference sheet featuring Leorio as a new master from hutner x hunter The background should be white grid paper.
+
+The page should include multiple angles of the same character:
+
+A front close-up
+A confident standing front pose (one hand on hip)
+A back-facing standing pose
+A pose of him using nen ability remote punch 
+
+
+
+The layout should be customized to fit the character’s personality—visually rich yet clean and easy to read. You may include handwritten-style annotations, small arrows, and a prominent title area styled like a character name header.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=777d5e7a1f33f866e8c84531fe9823fd&show=true) · Tags: `product`, `logo`
+👤 [wesley jackson](https://promptsref.com/user/kenboxxer13) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=8eeb6f4b5bd5fe4d86728e538c0ad4bf&show=true) · Tags: `comparison`
 
 ---
 
-#### 33. A bold urban streetwear editorial campaign poster, a young male model we
+#### 33. A realistic vertical outdoor phone snapshot of a young adult woman sitti
 
-<img src="images/prompts/promptsref-13584.png" alt="A bold urban streetwear editorial campaign poster, a young male model we" width="560">
+<img src="images/prompts/promptsref-30166.png" alt="A realistic vertical outdoor phone snapshot of a young adult woman sitti" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-A bold urban streetwear editorial campaign poster, a young male model wearing oversized graphic hoodie and cargo pants in vivid orange and black, dynamic graffiti mural background in vivid colors, strong graphic composition, low angle shot, dramatic lens flare, the visual energy of Supreme and Off-White campaign photography combined, high contrast color blocking
+A realistic vertical outdoor phone snapshot of a young adult woman sitting beside a curb or on the edge of a sidewalk. She is curled up slightly, with both arms naturally wrapped around her knees, looking toward the upper-left distance in side profile. She is not looking at the camera. Her eyes feel calm and slightly absent-minded, as if she has paused for a quiet moment in bright summer sunlight. Her lips are naturally closed, and her expression is soft, restrained, slightly cool, with a faint melancholic undertone.
+
+She has dark brown short hair, between chin and collarbone length, with side-parted bangs and a few strands falling near her cheek and chin. The hair is smooth but not overly perfect, with slightly inward-curved ends. Sunlight creates warm brown highlights on the hair surface, while a few flyaway strands remain visible. Preserve her soft side profile, slightly lifted nose tip, natural jawline, and rounded cheek. Her makeup is clean and everyday: sheer glowing base, natural brown brows, soft pink blush, a sun-warmed flush on the cheeks and nose tip, very subtle eyeliner, and soft pink lips. Avoid heavy glam makeup or an exaggerated influencer face.
+
+She wears a pale blue-green floral thin-strap summer dress, close to mint blue, aqua, or soft green-blue, with small white flower prints. The top has thin straps, a small front tie, and natural gathering around the neckline and waist. The skirt covers her curled legs and forms large realistic folds around the knees and lower body. The fabric is light and soft, with a gentle sheen under sunlight, turning slightly green-gray in shadow. Keep it like an everyday summer floral sundress, not a polished formal dress.
+
+Visible skin includes the side of her face, ear, neck, collarbones, both shoulders, partial upper chest, both arms, hands, fingers, and small edges of the legs. The shoulders, collarbones, upper arms, and hands are the main sunlit skin areas. Her skin tone is fair and warm, creamy-bright in direct sunlight, with soft warm-gray shadows. The skin should look fine, soft, and slightly dewy, as if it would feel warm from the sun, smooth, clean, and gently elastic. The highlights on the shoulder and arms should be rounded and realistic, not plastic or overly smoothed. Strong outdoor sunlight comes diagonally from the upper-right side of the frame, lighting the cheek, nose bridge, shoulder, collarbones, upper arms, and hands. The inner arms, dress folds, and curb area fall into deeper shadows, keeping the real contrast of outdoor daylight.
+
+The shot should feel like a friend standing nearby and taking a casual photo from slightly above and from her front-right side. Use a vertical medium-close portrait frame, close to her upper body and knees. The composition should not be perfectly centered; keep a slight accidental imbalance. The background is an outdoor street edge: dark gray asphalt, light gray concrete curb, grainy sidewalk texture, deep green roadside plants, a few fallen leaves, and hard shadows cast by sunlight. The subject is clear, while the background is only slightly softened and still recognizable. Avoid excessive bokeh. The overall image should feel like a real lifestyle photo taken under strong afternoon sun, not a studio portrait.
+
+The mood is as if she had been walking along a bright summer road, then sat down and looked into the distance for a moment, briefly separating herself from the destination. The atmosphere is quiet, soft, bright, and slightly lost in thought.
+
+Negative prompt: oversexualized, exaggerated body, plastic skin, heavy makeup, studio lighting, perfect symmetry, over-retouched, anime style, extra fingers, distorted hands, bad anatomy, too much bokeh, fake outdoor background, harsh HDR.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=54b235c8dff1fc8eee2f79591082869a&show=true) · Tags: `poster`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=e23742f39c9390fb2123afc5ec57dc38&show=true) · Tags: `comparison`, `prompt`
 
 ---
 
-#### 34. Make the aspect ratio 2:3 , Cutting-edge internet operations visual desi
+#### 34. 夜间办公室场景，冷蓝色暗调氛围，CCD 直闪摄影风格，竖版 9:16 构图。画面参考高端写实人像写真，轻微倾斜构图，低机位到平视之间的拍摄角度
 
-<img src="images/prompts/promptsref-13083.png" alt="Make the aspect ratio 2:3 , Cutting-edge internet operations visual desi" width="560">
+<img src="images/prompts/promptsref-30163.png" alt="夜间办公室场景，冷蓝色暗调氛围，CCD 直闪摄影风格，竖版 9:16 构图。画面参考高端写实人像写真，轻微倾斜构图，低机位到平视之间的拍摄角度" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Make the aspect ratio 2:3 , Cutting-edge internet operations visual design master standard, Behance / Dribbble 3D illustration style poster, C4D style, soft-light rendering, high saturation, dopamine palette, abstract art, clean minimalist background, visually fresh, youthful and cheerful, refined and delicate. Theme: 清风廉洁
+夜间办公室场景，冷蓝色暗调氛围，CCD 直闪摄影风格，竖版 9:16 构图。画面参考高端写实人像写真，轻微倾斜构图，低机位到平视之间的拍摄角度，带一点随手抓拍感但构图精致。 一位成年东亚女性坐在办公桌边缘，身体微侧，形成自然优雅的 S 曲线。肩颈拉长，背部微微挺直，胯部轻微侧推，一条腿交叉压在另一条腿上，腿部线条向画面下方延伸，姿态克制、稳定、危险而迷人。她半垂眼直视镜头，眼神冷淡、清醒、带有压迫感，表情克制疏离，呈现冷艳蛊惑的 siren pose。 她戴黑色细框眼镜，黑发自然盘起，少量碎发垂落在脸颊两侧。穿白色修身高领上衣，黑色高腰短裙，黑色半透丝袜，黑色尖头高跟鞋。皮肤为半哑光冷白调，保留真实皮肤纹理、细微毛孔、自然高光与轻微瑕疵，不要过度磨皮。 坐在地上，身体微微前倾并略向镜头侧转，一侧肩膀自然下沉，姿态松弛慵懒；双腿自然弯曲交叠，一条腿向前延伸，另一条腿收在身体前方，形成柔和舒展的腿部线条；一只手撑在身体侧后方支撑重心，另一只手自然放在地面或腿侧；头部微微倾斜，下巴略低，目光平静看向镜头，整体像夜晚室内随手拍的放松瞬间。。整体姿态像夜晚办公室里正在讲解公式的冷感女教师 / 高智感都市女性。 背景是一块大型白板，上面写满数学公式、函数、积分、级数、统计符号和推导过程，字迹自然手写，不需要完全可读，但要有真实白板笔书写质感。办公室窗外是夜色城市，高楼灯光模糊可见，百叶窗、办公椅、文件夹、马克杯、笔筒等细节增强真实感。 光影使用 CCD 直闪效果：正面冷白闪光打亮人物面部、白色上衣和腿部轮廓，形成清晰高光与硬阴影；背景较暗，蓝黑色夜间办公室氛围明显。画面带轻微颗粒、低饱和、冷色调、真实数码闪光质感。整体风格为冷艳、克制、知识感、危险蛊惑、高级夜拍写真。 负面提示词： 不要动漫风，不要塑料皮肤，不要过度磨皮，不要夸张表情，不要低俗姿势，不要畸形手指，不要多余手指，不要错误肢体结构，不要比例失衡，不要过度暴露，不要廉价网红棚拍感，不要白板乱码文字，不要水印，不要 logo，不要模糊脸，不要 AI 感过强。
 ```
 
 </details>
 
-👤 [燕争先](https://promptsref.com/user/yanzhengxian26) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=434da7310e9ece0d23b24353432e05b8&show=true) · Tags: `poster`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=d9d52c13de919206cb506f2524619010&show=true) · Tags: `branding`, `logo`
 
 ---
 
-#### 35. Luxury anime fashion magazine cover inspired by Vogue and haute couture
+#### 35. {
 
-<img src="images/prompts/promptsref-13023.png" alt="Luxury anime fashion magazine cover inspired by Vogue and haute couture" width="560">
+<img src="images/prompts/promptsref-30161.png" alt="{" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Luxury anime fashion magazine cover inspired by Vogue and haute couture editorials, One Piece character reimagined as an elite fashion icon, dramatic cinematic composition, ultra detailed anime illustration, premium magazine typography, elegant serif fonts, glossy luxury magazine layout, dark moody atmosphere, couture fashion styling, designer outfit with intricate embroidery and jewelry, rich textures, cinematic rim lighting, luxury editorial photography aesthetic, layered composition with giant character portrait in background, dramatic shadows, fashion campaign energy, sophisticated pose, flowing smoke and glowing effects, high contrast lighting, premium black and gold color palette, polished digital painting, highly detailed facial features, anime x luxury fashion fusion, masterpiece quality, trending on ArtStation, 8k
-
-Character themes:
-• Jinbe — ocean-inspired royal kimono couture, deep navy and sapphire tones, gold wave embroidery, powerful calm aura, water and mist effects, regal luxury styling
-• Brook — gothic haute couture skeleton violinist, black Victorian fashion, silver embroidery, dark roses, smoky atmosphere, elegant gothic fantasy aesthetic
-• Franky — futuristic cyberpunk luxury fashion, chrome metallic armor, neon blue accents, robotic couture, industrial sci-fi editorial vibe, high-tech luxury magazine styling
-• Nico Robin — elegant dark academia haute couture, black velvet dress with gold floral jewelry, mysterious luxury aura, deep burgundy background, sophisticated feminine fashion
-
-Magazine cover details:
-large “VOGUE” masthead at top, luxury fashion brand inspired layout, editorial quotes and taglines, premium typography placement, spring/summer fashion issue aesthetic, cinematic fashion photography composition, collectible limited edition magazine cover design
+{
+  "subject": {
+    "description": "A young adult woman sitting by the window inside a train, shown in side profile, quietly writing in a notebook. The image feels like a realistic casual phone photo captured during a commute or a short trip.",
+    "mirror_rules": "Not a mirror selfie; do not add mirror reflections or a visible selfie phone.",
+    "age": "young adult woman, early-to-mid 20s impression",
+    "expression": {
+      "eyes": {
+        "look": "looking sideways out of the window, calm and slightly absent-minded",
+        "energy": "soft, restrained, peaceful after a little tiredness",
+        "direction": "gaze directed toward the left side of the frame, outside the window"
+      },
+      "mouth": {
+        "position": "lips naturally closed",
+        "energy": "no obvious smile, quiet and thoughtful"
+      },
+      "overall": "soft side-profile features, as if she has just drifted out of her thoughts, calm, focused, slightly private"
+    },
+    "face": {
+      "preserve_original": "Preserve the soft side profile, small nose bridge, natural jawline, subtle eye makeup, and clean realistic skin texture. Avoid over-sharpening or influencer-style beautification.",
+      "makeup": "Inspired by East Asian clean everyday makeup: sheer base, natural brows, soft pink blush, subtle eyeliner, low-key lip color, more like realistic commuter makeup than heavy studio glam."
+    }
+  },
+  "hair": {
+    "color": "dark brown-black hair with warm brown highlights under sunlight",
+    "style": "low ponytail or low bun, airy bangs and side wisps close to the cheek and ear",
+    "effect": "smooth but not overly perfect, natural hair flow on the crown, a few flyaway strands, thin highlights along the top and edges from the window light"
+  },
+  "body": {
+    "frame": "upper body in frame, seated with a slight forward lean, slim shoulder and neck line, natural posture",
+    "waist": "waist mostly covered by clothing and sitting pose, only a slight fitted waistline visible",
+    "chest": "upper chest area is visible due to the wide neckline and inner lace layer; keep the description grounded in clothing and posture, without exaggeration",
+    "legs": "legs are mostly out of frame, only a partial dark plaid skirt or bottom is visible near the lower frame",
+    "skin": {
+      "visible_areas": "visible skin includes side of face, ear, neck, collarbones, partial upper chest, hands and wrists; one side of the shoulder-neck area is exposed by the wide neckline.",
+      "tone": "fair warm natural skin tone, brighter where direct window light hits, slightly soft gray in shadow",
+      "texture": "the skin appears fine but realistically soft, like clean, slightly cool, gently elastic skin; hand skin is thinner, with natural knuckle and wrist transitions",
+      "lighting_effect": "strong natural daylight from the left train window falls on the cheek edge, neck, collarbones, back of the hands, and clothing folds, creating bright highlights; the right side and inside of the neckline fall into soft shadow with uneven real-world bounce light from the carriage."
+    }
+  },
+  "pose": {
+    "position": "seated on a blue train seat, body angled forward-left, head turned toward the window",
+    "base": "one hand steadies the notebook while the other holds a black pen and writes",
+    "overall": "slightly closed-in seated posture, relaxed shoulders, delicate hand movement, like a quiet moment caught by chance"
+  },
+  "clothing": {
+    "top": {
+      "type": "cream-white long-sleeve wide-neck top with visible lace inner layer",
+      "color": "warm cream white, with pale pink-white lace underneath",
+      "details": "wide neckline, one shoulder-neck area exposed, natural folds and tension at the chest, simple cuffs, soft slightly elastic fabric with gentle drape",
+      "effect": "the garment conforms to the sitting posture with realistic wrinkles; sunlight slightly overexposes parts of the white fabric, while shadows turn milky gray"
+    },
+    "bottom": {
+      "type": "dark plaid skirt or plaid bottom",
+      "color": "deep navy, gray-black plaid",
+      "details": "only partially visible at the lower frame and front of the body, giving a casual commuter or school-inspired feeling",
+      "effect": "clear contrast against the cream-white top"
+    }
+  },
+  "accessories": {
+    "jewelry": "thin gold necklace with a small pendant resting near the collarbone",
+    "device": "no obvious electronic device",
+    "prop": "black pen, open lined or grid notebook"
+  },
+  "photography": {
+    "camera_style": "realistic phone photography, close casual snapshot, social-media lifestyle-photo texture; avoid overly polished commercial portrait styling",
+    "angle": "slightly high angle from the woman’s front-right side, close to the upper body, including side profile, chest area, hands, and notebook",
+    "shot_type": "vertical medium-close portrait, candid composition",
+    "aspect_ratio": "2:3 vertical",
+    "texture": "slight digital sharpening, window highlights mildly blown out, subtle noise in interior shadows, edges do not need to be perfectly clean",
+    "lighting": "strong daytime natural light from the large left-side window; the sky and city outside reflect cool white light, while gray carriage walls and the blue seat provide weak bounce fill; no obvious studio rim light",
+    "depth_of_field": "medium depth of field, subject clear, city buildings and rail structure outside slightly blurred but still recognizable, like a phone portrait mode with incomplete background blur"
+  },
+  "background": {
+    "setting": "inside a modern city train or light rail carriage, window seat",
+    "wall_color": "light gray interior wall with black window frame",
+    "elements": [
+      "large train window",
+      "blurred city buildings outside",
+      "rail or elevated track structure",
+      "blue seat back",
+      "small yellow safety sign near the window"
+    ],
+    "atmosphere": "bright, quiet, moving urban commute atmosphere, with a short pause of midday or afternoon sunlight",
+    "lighting": "outside daylight is stronger than the carriage light, background exterior slightly bright and washed out, interior kept in soft shadow"
+  },
+  "the_vibe": {
+    "energy": "quiet, focused, soft",
+    "mood": "as if she had just written a sentence and then got distracted by the city outside",
+    "aesthetic": "Japanese/East Asian commuter lifestyle photo, train-window light, natural daylight, realistic phone-shot feeling",
+    "authenticity": "keep slight framing imbalance, blown window highlights, messy flyaway hair, real clothing folds, and environmental bounce light",
+    "intimacy": "close but non-intrusive, like a friend casually captured the moment from the next seat",
+    "story": "She is on her way somewhere, the notebook still open, the thoughts from a few minutes ago left on the page while she now briefly looks out the window.",
+    "caption_energy": "“Writing down the words I didn’t finish saying.”"
+  },
+  "constraints": {
+    "must_keep": [
+      "train window seat",
+      "woman in side profile looking out the window",
+      "black pen writing in an open notebook",
+      "strong left-side window light",
+      "low ponytail, loose strands, clean subtle makeup",
+      "cream wide-neck top with visible lace inner edge",
+      "blue train seat and urban window view",
+      "realistic casual phone-photo texture"
+    ],
+    "avoid": [
+      "oversexualizing the subject",
+      "exaggerated body proportions",
+      "commercial studio lighting",
+      "over-smoothed plastic skin",
+      "perfectly symmetrical composition",
+      "too much blur that removes the train environment",
+      "heavy influencer makeup",
+      "unnatural huge eyes or sharp chin",
+      "changing the train into a cafe or bedroom"
+    ]
+  },
+  "negative_prompt": [
+    "oversexualized",
+    "exaggerated body",
+    "plastic skin",
+    "heavy makeup",
+    "studio lighting",
+    "perfect symmetry",
+    "over-retouched",
+    "fake window view",
+    "anime style",
+    "extra fingers",
+    "distorted hands",
+    "bad anatomy",
+    "too much bokeh",
+    "harsh HDR"
+  ]
+}
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=8e9ad1779bc90b86c5cfe1a534bc0042&show=true) · Tags: `branding`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=4d43d9678defe18fad7204e565ecff3b&show=true) · Tags: `comparison`, `prompt`
 
 ---
 
-#### 36. 「超电影级动漫真人化巨物透视海报」
+#### 36. extreme close-up facial portrait, tilted side angle; gaze looking out of
 
-<img src="images/prompts/promptsref-13022.png" alt="「超电影级动漫真人化巨物透视海报」" width="560">
+<img src="images/prompts/promptsref-30152.png" alt="extreme close-up facial portrait, tilted side angle; gaze looking out of" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-「超电影级动漫真人化巨物透视海报」
+extreme close-up facial portrait, tilted side angle; gaze looking out of frame, shallow depth of field, dark blurred background.
 
-主体角色：
+cinematic lighting, golden hour, strong highlight-and-shadow contrast, realistic naturalism, film texture.
 
-【宇智波斑】
+amber eyes with bright catchlights, messy fine soft hair strands brushing across the face in the wind, slightly flushed cheeks, natural flawless no-makeup look, soft lips.
 
-剧情主题：
-
-【忍界大战降临】
-
-画面采用：
-
-超低机位仰视视角，
-超广角镜头，
-强烈近大远小透视，
-角色脚部距离镜头极近，
-形成巨大压迫感与空间冲击力。
-
-角色以：
-
-“迈步向镜头前进”的动作构图。
-
-前脚踩在镜头前方，
-鞋底纹理清晰可见，
-形成强烈视觉张力。
-
-角色要求：
-
-真人电影质感，
-超高颜值，
-动漫真人化，
-皮肤细节真实，
-头发丝清晰，
-布料有真实纹理，
-具有电影级灯光与空气感。
-
-角色服装自动匹配人物身份与世界观。
-
-画面氛围：
-
-日漫电影海报风格，
-新海诚电影光影，
-斯皮尔伯格电影运镜感，
-高动态范围光照，
-电影级景深，
-空气透视，
-阳光穿透云层，
-具有青春感与史诗感。
-
-背景世界：
-
-根据角色剧情，
-自动生成对应世界观场景：
-
-例如：
-
-忍者村、
-未来都市、
-废土城市、
-神殿、
-天空之城、
-魔法学院、
-蒸汽朋克都市、
-赛博城市、
-古代战场、
-异世界王国、
-山脉森林、
-海边城市、
-巨型机械都市。
-
-背景必须具有：
-
-超大空间感、
-真实建筑层次、
-远景城市、
-电影级天空云层。
-
-文字排版：
-
-顶部加入超大电影标题文字，
-字体为：
-
-透明玻璃质感、
-液态字体、
-金属字体、
-未来感字体、
-动漫电影标题字体。
-
-海报四周加入：
-
-日系手写英文、
-人物称号、
-阵营信息、
-世界观标签、
-神秘符号、
-小型设定文字。
-
-整体版式参考：
-
-动漫电影海报、
-游戏角色主视觉、
-Netflix真人版海报、
-日系轻小说封面。
-
-画面色彩：
-
-高饱和电影色彩，
-天空蓝，
-云层白，
-阳光金色，
-角色主色自动匹配人物设定。
-
-细节要求：
-
-电影级清晰度，
-8K，
-超精细，
-真实皮肤，
-真实鞋底纹理，
-头发飘动，
-布料动态，
-空气粒子，
-阳光边缘光，
-镜头光晕，
-景深虚化，
-极致透视感。
-
-禁止：
-
-低质量，
-Q版，
-卡通感，
-扁平插画，
-多人混乱构图，
-普通站立姿势，
-低细节背景，
-裁切脚部，
-错误透视，
-畸形肢体，
-模糊画质。
+high-resolution realistic skin pores, sunlight passing through skin and backlit hair strands, fuzzy fiber details of black wool-blend fabric.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=ab7b80e2248ec132a427c46a187ab1b8&show=true) · Tags: `illustration`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=67de4a0459dc033c18ec7d55332916f3&show=true) · Tags: `portrait`, `cinematic`
 
 ---
 
-#### 37. Create a premium modern editorial branding poster for [RUCHI]
+#### 37. Composition prompt: extreme close-up facial portrait, tilted side angle
 
-<img src="images/prompts/promptsref-13020.png" alt="Create a premium modern editorial branding poster for [RUCHI]" width="560">
+<img src="images/prompts/promptsref-30148.png" alt="Composition prompt: extreme close-up facial portrait, tilted side angle" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create a premium modern editorial branding poster for [RUCHI].
+Composition prompt: extreme close-up facial portrait, tilted side angle; gaze looking out of frame, shallow depth of field, dark blurred background.
 
-TOPIC:
-[EDITORIAL / FASHION / LIFESTYLE THEME]
+Visual style prompt: cinematic lighting, golden hour, strong highlight-and-shadow contrast, realistic naturalism, film texture.
 
-STYLE & ART DIRECTION:
+Facial detail prompt: amber eyes with bright catchlights, messy fine soft hair strands brushing across the face in the wind, slightly flushed cheeks, natural flawless no-makeup look, soft lips.
 
-Contemporary minimalist editorial design
-
-Monochromatic branding aesthetic
-
-Clean luxury composition
-
-Modern creative-agency visual identity
-
-Soft studio photography style
-
-Oversized abstract typography integration
-
-Minimal geometric branding
-
-High-end lifestyle campaign aesthetic
-
-Scandinavian-inspired visual simplicity
-
-Modern art-direction poster design
-
-MAIN SUBJECT:
-
-A stylish realistic young woman seated prominently in a designer chair
-
-Fashion-forward outfit matching the monochromatic palette
-
-Relaxed confident pose
-
-Contemporary editorial styling
-
-Premium realistic studio photography
-
-Modern expressive fashion aesthetic
-
-Strong personality and visual identity
-
-Soft realistic shadows beneath the subject and furniture
-
-Large designer furniture piece integrated as part of the composition
-
-LAYOUT & COMPOSITION:
-
-Same exact minimalist composition and visual structure as the reference design
-
-Large oversized abstract letter "R" or typography shape dominating the background
-
-Subject placed asymmetrically in the foreground
-
-Spacious negative space
-
-Minimal branding details in the corners
-
-Strong visual balance between typography and subject
-
-Editorial magazine-inspired hierarchy
-
-Clean modern alignment
-
-Minimal clutter and highly refined spacing
-
-TEXT & TYPOGRAPHY:
-
-Oversized geometric typography
-
-Minimal branding text
-
-Thin modern sans-serif fonts
-
-Abstract letterform integration
-
-Small editorial metadata text
-
-Luxury contemporary typography hierarchy
-
-DEPTH & LIGHTING:
-
-Soft cinematic studio lighting
-
-Gentle monochromatic shadows
-
-Smooth gradient lighting
-
-Premium editorial depth
-
-Soft realistic reflections
-
-Contemporary luxury atmosphere
-
-EXTRA DESIGN DETAILS:
-
-Minimal grain texture
-
-Clean modern gradients
-
-Abstract geometric branding
-
-Soft monochromatic transitions
-
-Designer furniture aesthetic
-
-Minimal art-poster mood
-
-COLOR PALETTE:
-
-Green color
-
-Tonal monochromatic variations
-
-Soft neutral highlights
-
-Clean editorial contrast
-
-QUALITY:
-
-Ultra realistic editorial photography
-
-Premium branding poster
-
-Behance-quality modern composition
-
-Contemporary fashion campaign quality
-
-Same exact visual identity and layout as the reference.Same Face as Reference Image.
-
-8K Ultra high resolution.
+Texture prompt: high-resolution realistic skin pores, sunlight passing through skin and backlit hair strands, fuzzy fiber details of black wool-blend fabric.
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=89ac1147fd18b150c7fbd5c949177c82&show=true) · Tags: `comparison`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=8b57ed9f6296945568f56a8de146d1d7&show=true) · Tags: `portrait`, `prompt`, `cinematic`
 
 ---
 
-#### 38. 将【主题】的【角色】的新设计为【转换的主题】中的角色形象。画面保持统一构图：正方形 1:1 比例，角色位于画面正中央，占画面高度约 70%，全身
+#### 38. {
 
-<img src="images/prompts/promptsref-13018.png" alt="将【主题】的【角色】的新设计为【转换的主题】中的角色形象。画面保持统一构图：正方形 1:1 比例，角色位于画面正中央，占画面高度约 70%，全身" width="560">
+<img src="images/prompts/promptsref-30141.png" alt="{" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-将【主题】的【角色】的新设计为【转换的主题】中的角色形象。画面保持统一构图：正方形 1:1 比例，角色位于画面正中央，占画面高度约 70%，全身或接近全身展示，轻微低角度视角，三分之二正面朝向，动态但稳定的英雄站姿。背景为【转换的主题】的标志性环境，背景层次清晰但不喧宾夺主。整体风格统一为高质量 3D 游戏宣传海报、精致角色渲染、干净轮廓、清晰边缘、柔和电影级光照、轻微景深、细节丰富但画面整洁。
-需要保留原本角色最具辨识度的核心特征，包括发型、服装色彩、标志性装备、气质和姿态，但材质、比例、道具与环境需要自然融合进《我的世界》的视觉语言中。不要改变角色身份，不要生成无关人物，不要加入文字、Logo、水印或边框。画面风格每次都保持一致：中心构图、单人角色、游戏海报感、明亮清晰、可爱但酷炫、适合头像或社交媒体封面。
+{
+  "subject": {
+    "description": "A young woman in a sweet animal-themed maid cosplay outfit, appearing multiple times in one high-key white studio collage. The image feels like a character photo set, light, playful, and close to a Japanese idol cosplay lookbook.",
+    "mirror_rules": "Not a mirror selfie; keep the multi-pose same-character collage instead of turning it into a single portrait.",
+    "age": "young adult, early 20s",
+    "expression": {
+      "eyes": {
+        "look": "soft, clear eyes with a slightly coy and camera-aware sweetness",
+        "energy": "cute, lively, mildly shy",
+        "direction": "most poses look toward the camera, with a few slight side glances or downward looks"
+      },
+      "mouth": {
+        "position": "naturally closed lips or a very subtle smile",
+        "energy": "restrained cuteness, no exaggerated grin"
+      },
+      "overall": "Sweet and approachable expression, like frozen frames from a character photoshoot, posed yet still light and girlish."
+    },
+    "face": {
+      "preserve_original": "Preserve the small rounded face shape, soft features, large bright eyes, and naturally cute facial proportions. Avoid making the face overly influencer-like or Westernized.",
+      "makeup": "Japanese idol and sweet cosplay-inspired makeup: clean fair base, soft pink blush under the eyes and across the cheeks, delicate eyeliner, natural eye-enlarging lashes, light brown eyeshadow, soft pink lips, clean and gentle overall."
+    }
+  },
+  "hair": {
+    "color": "dark brown, close to black tea brown",
+    "style": "curled twin tails with large curled ends, airy bangs, and loose side strands framing the face",
+    "effect": "slightly fluffy and springy curls with a natural studio-light sheen; styled but still retaining individual hair texture."
+  },
+  "body": {
+    "frame": "petite, slim, light and delicate body frame",
+    "waist": "waist is covered by the top and apron, only subtly suggested through layered clothing",
+    "chest": "chest area is fully covered by the white apron and pale yellow top; the focus is on costume layering rather than body curves",
+    "legs": "legs are largely visible, including knees, lower thighs, and parts of the calves; poses include lifted legs, kneeling, leaning, and playful dynamic angles",
+    "skin": {
+      "visible_areas": "Visible skin mainly includes the face, neck, a small area near the collarbone, hands, wrists, knees, lower thighs, upper calves, and around the knees. Shoulders, chest, waist, hips, back, and buttock-adjacent areas are mostly covered by clothing, apron, skirt, and the fluffy white tail prop.",
+      "tone": "fair light warm skin tone, appearing brighter under the high-key white background and strong soft light, with a slight pink undertone.",
+      "texture": "The skin looks soft and smooth, like lightly powdered skin under thin foundation. Hands and legs keep subtle real human shadows and joint contours, giving a warm, clean, slightly velvety tactile impression.",
+      "lighting_effect": "Large soft studio light wraps around the skin from the front and above, while the white background bounces fill light back onto the body. Skin edges have very shallow shadows; cheeks, fingers, and knees catch small soft highlights."
+    }
+  },
+  "pose": {
+    "position": "The same character appears in multiple poses across the frame: standing in profile and looking back, jumping with one leg raised, reaching both hands forward, kneeling, leaning sideways, and making playful lifted-leg poses.",
+    "base": "Most poses use toes, one leg, knees, or a tilted body axis to create a floating, lightweight feeling, as if selected frames from a continuous studio shoot were collaged together.",
+    "overall": "Playful, energetic, and character-driven; arms and skirt edges create outward diagonal lines, avoiding stiff upright posing."
+  },
+  "clothing": {
+    "top": {
+      "type": "pale yellow wide-sleeved kimono-style top with a white maid apron layered over it",
+      "color": "creamy pale yellow and white",
+      "details": "wide furisode-like sleeves, small pastel cartoon prints on the fabric, white ruffled collar and apron edges, white apron covering the front torso",
+      "effect": "The top feels loose and airy; sleeves fan outward during movement, while the white apron strengthens the cute maid-costume identity."
+    },
+    "bottom": {
+      "type": "brown pleated mini skirt with visible white lace underskirt trim",
+      "color": "dark brown with thin stripes, white lace trim",
+      "details": "fine vertical stripes, pleated construction, white lace peeking under the hem; paired with gray-white mid-calf socks and dark brown loafers",
+      "effect": "The skirt naturally opens or falls against the legs depending on the pose, creating a mild sense of motion."
+    }
+  },
+  "accessories": {
+    "headwear": "Animal-ear headpiece with yellow fluffy long ears, a white pom-pom, and a pink bow, suggesting a cute rabbit or puppy character.",
+    "jewelry": "no obvious jewelry",
+    "device": "no visible device",
+    "prop": "A round fluffy white tail prop on the back, adding to the animal-character design."
+  },
+  "photography": {
+    "camera_style": "High-key white studio cosplay photoshoot, with multiple full-body and half-body shots composited into one canvas; a blend of product-style character photography and idol lookbook imagery.",
+    "angle": "Mostly frontal or three-quarter angles from around waist-to-chest camera height, with some stronger top-down feeling in crouched or leaning poses.",
+    "shot_type": "Primarily full-body collage, with a few closer half-body poses; generous white negative space between figures.",
+    "aspect_ratio": "Vertical canvas, roughly 2:3 ratio, high-resolution social media collage.",
+    "texture": "Clean and bright, slightly overexposed, high-key white background, soft but still detailed fabric and skin; low noise with a mild soft-focus impression.",
+    "lighting": "Large softboxes from the front and above create an even main light; white floor and backdrop bounce strong fill light. Shadows are very pale, with only faint contact shadows below shoes and legs.",
+    "depth_of_field": "Deep depth of field; clothing, headwear, shoes, and socks stay mostly sharp, while the white background has no visible depth reference."
+  },
+  "background": {
+    "setting": "pure white photography studio background",
+    "wall_color": "high-key pure white",
+    "elements": [
+      "no furniture",
+      "no environmental props",
+      "large empty white spaces between the collaged figures",
+      "a faint social-media-like watermark trace in the lower right"
+    ],
+    "atmosphere": "bright, clean, lightweight, like a character reference sheet or cosplay promotional collage.",
+    "lighting": "The background is evenly lit with almost no visible shadows, and the figure edges have slight highlight spill."
+  },
+  "the_vibe": {
+    "energy": "lively, sweet, lightweight, bouncy",
+    "mood": "It feels as if a set of character action shots had just been completed, leaving behind playful excitement and cute emotional residue.",
+    "aesthetic": "Japanese sweet-girl cosplay, animal maid, high-key white studio, social media photo collage.",
+    "authenticity": "Keep a real studio photoshoot feeling: allow slightly uneven skirt movement, imperfect finger spread, small curl offsets, and minor pose-to-pose scale variation.",
+    "intimacy": "The character often looks directly at the camera, creating closeness, while still feeling like a public cosplay lookbook.",
+    "story": "She seems to be playing a soft little animal maid in a studio, just jumping, turning, kneeling, and immediately making another pose for the camera.",
+    "caption_energy": "“Fluffy little maid on duty today.”"
+  },
+  "constraints": {
+    "must_keep": [
+      "multi-pose collage of the same female character",
+      "pure white high-key studio background",
+      "pale yellow wide-sleeved kimono-style top",
+      "white maid apron",
+      "brown pleated mini skirt with white lace trim",
+      "gray-white mid-calf socks and dark brown loafers",
+      "yellow fluffy animal ears, white pom-pom, pink bow",
+      "fluffy white tail",
+      "sweet Japanese cosplay photoshoot feeling",
+      "bright soft lighting and slightly overexposed white background"
+    ],
+    "avoid": [
+      "do not change into a realistic street background",
+      "do not reduce it to one standing pose",
+      "do not add strong dark shadows or cinematic low-key lighting",
+      "do not oversexualize",
+      "do not expose chest, waist, hips, or buttocks",
+      "do not turn the outfit into a normal school uniform",
+      "do not use a Western supermodel face or heavy glam makeup",
+      "do not create plastic skin or excessive AI smoothing",
+      "do not add complex background props"
+    ]
+  },
+  "negative_prompt": [
+    "low quality",
+    "dark background",
+    "single pose only",
+    "oversexualized",
+    "exposed cleavage",
+    "bare waist",
+    "heavy makeup",
+    "western glam face",
+    "plastic skin",
+    "distorted hands",
+    "extra fingers",
+    "bad anatomy",
+    "messy collage",
+    "harsh shadows",
+    "cinematic low key",
+    "realistic street scene"
+  ]
+}
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=7ec0a40ba57ab81bc0432421239a7ba5&show=true) · Tags: `branding`, `logo`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=14ff7e68aff2051de60bc416011183ff&show=true) · Tags: `product`, `prompt`, `cinematic`
 
 ---
 
-#### 39. 3D printed mask Story promotion oversized futuristic sunglasses position
+#### 39. Cinematic photorealistic render of a detailed Lego minifigure styled aft
 
-<img src="images/prompts/promptsref-13017.png" alt="3D printed mask Story promotion oversized futuristic sunglasses position" width="560">
+<img src="images/prompts/promptsref-30030.png" alt="Cinematic photorealistic render of a detailed Lego minifigure styled aft" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-3D printed mask Story promotion oversized futuristic sunglasses positioned like sculpture, giant word "HERO MASK" behind in bold white typography, powder purple studio background, dark ambience, reflective floor, Custom Mask Promotional aesthetic, ultra-clean layout, editorial magazine styling
+Cinematic photorealistic render of a detailed Lego minifigure styled after Neo from The Matrix, black slicked-back hair, sleeping face down with head resting on folded arms on a dark wooden desk, exhausted peaceful expression, multiple retro beige CRT computer monitors surrounding him, the main monitor clearly displaying green text "Wake up, Neo..." with a black silhouette figure on screen, another monitor showing green code, vintage keyboard under his arms, white Lego coffee mug on the left, boombox and game controller on the right, dark moody green cinematic lighting with strong screen glow, glossy realistic plastic textures on the Lego minifigure and objects, visible studs and seams, shallow depth of field, sharp focus on the minifigure and monitor text, soft background blur, nostalgic cyberpunk atmosphere, The Matrix 1999 aesthetic reimagined in highly detailed Lego style --ar 16:9 --stylize 250 --v 6
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=21b0af24bd2bd88fc0d31ff7c210fda5&show=true) · Tags: `poster`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=d852f20aefd95dfe04c77984d40d85b0&show=true) · Tags: `comparison`, `cinematic`
 
 ---
 
-#### 40. Create an ultra-premium conceptual automotive campaign poster for Suzuki
+#### 40. Extreme close-up cinematic photorealistic portrait of a beautiful young
 
-<img src="images/prompts/promptsref-13015.png" alt="Create an ultra-premium conceptual automotive campaign poster for Suzuki" width="560">
+<img src="images/prompts/promptsref-30028.png" alt="Extreme close-up cinematic photorealistic portrait of a beautiful young" width="560">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
-Create an ultra-premium conceptual automotive campaign poster for Suzuki Dzire 2023
-
-Portrait orientation only.
-4:5 luxury editorial aspect ratio.
-The campaign should feel like:
-a real global billboard advertisement,
-luxury fashion-editorial minimalism,
-and emotionally intelligent commercial storytelling.
-
-The final image must feel:
-instantly readable,
-emotionally powerful,
-minimal,
-premium,
-and impossible to scroll past.
-IMPORTANT CREATIVE PHILOSOPHY:
-The concept must NOT feel like:
-“graphic design around a car.”
-The VEHICLE itself must become:
-the conceptual mechanic.
-The campaign should be built around:
-ONE compressed emotional truth about the vehicle.
-
-The idea must read in under 1 second.
-The concept should feel:
-physically integrated,
-emotionally relatable,
-visually satisfying,
-and commercially believable.
-AVOID:
-abstract artistic randomness,
-overcomplicated visual metaphors,
-cinematic storytelling,
-environment-heavy scenes,
-or decorative conceptual effects.
-The best conceptual direction should come from:
-a relatable human feeling.
-CORE CONCEPT FORMULA:
-Build the campaign using this structure:
-
-PRODUCT TRUTH
-+
-RELATABLE HUMAN EMOTION
-+
-ONE PHYSICAL VISUAL METAPHOR
-+
-MINIMAL VIBRANT COMPOSITION
-+
-EMOTIONALLY INTELLIGENT TYPOGRAPHY
-
-The visual metaphor should physically interact with the vehicle itself.
-Examples of conceptual mechanics:
-
-the vehicle creating calm space
-the vehicle removing friction
-
-the vehicle interrupting chaos
-the vehicle transforming disorder into flow
-
-the vehicle physically simplifying complexity
-
-the vehicle becoming the source of relief, balance, smoothness, precision, or confidence
-The car itself should feel like:
-the solution to the emotional tension.
-VISUAL STYLE:
-EXTREME restraint.
-Only include:
-
-one hero vehicle
-one dominant conceptual mechanic
-one bold vibrant background
-one emotionally intelligent typography system
-elegant negative space
-The vehicle must remain:
-
-hyper-visible
-dominant
-
-sculptural
-
-premium
-
-emotionally magnetic
-The concept should NEVER overpower the vehicle.
-BACKGROUND PHILOSOPHY:
-Use strong vibrant premium monochrome backgrounds.
-Preferred directions:
-rich warm orange
-luxury crimson
-vibrant amber
-deep graphite
-
-glossy black
-
-warm cream
-
-metallic champagne
-espresso brown
-muted premium yellow
-warm coral
-rich cobalt (only when emotionally justified)
-The background should feel:
-graphic,
-fashion-editorial,
-premium,
-modern,
-and emotionally alive.
-
-Avoid:
-dull corporate tones
-
-weak gradients
-
-generic luxury aesthetics
-
-busy scenery
-
-realistic city environments
-excessive textures
-COMPOSITION RULES:
-Portrait layout only.
-The composition should feel:
-clean,
-iconic,
-balanced,
-and globally billboard-ready.
-
-Use:
-
-massive negative space
-strong hierarchy
-elegant tension
-controlled visual interruption
-product-first composition
-
-The conceptual mechanic should guide the eye directly toward the vehicle.
-
-The image should feel:
-minimal yet emotionally loud.
-
-MINIMALISM RULES:
-
-NO:
-
-roads
-cities
-landscapes
-excessive props
-cinematic realism
-sci-fi fantasy
-floating holograms
-overdesigned futuristic effects
-clutter
-unnecessary storytelling elements
-The strongest concepts should feel:
-simple,
-inevitable,
-and emotionally true.
-
-TYPOGRAPHY PHILOSOPHY:
-Typography is NOT decoration.
-Typography completes the emotional meaning of the concept.
-The copy should feel:
-emotionally intelligent
-slightly philosophical
-
-human
-
-premium
-fashion-editorial
-culturally sharp
-instantly memorable
-The typography should create:
-the emotional punchline.
-Examples of strong reinforcement copy styles:
-
-“Some things just work.”
-
-“Smooth changes everything.”
-
-“The world rushes. You don’t.”
-“Make room for calm.”
-“Normal ends here.”
-“Some things should feel effortless.”
-“Built like nothing else.”
-
-“The easy part of your day.”
-
-Typography styling:
-elegant sans-serif
-bold but restrained
-spacious layout
-billboard-clean hierarchy
-
-premium editorial balance
-
-REALISM RULES:
-The final image must feel:
-
-photographed
-
-premium
-
-hyper realistic
-globally campaign-ready
-visually tactile
-commercially believable
-Avoid:
-fake CGI look
-AI-looking textures
-excessive cinematic grading
-unrealistic reflections
-cluttered conceptual design
-
-over-rendered futurism
-FINAL OUTPUT GOAL:
-The final image should feel like:
-a luxury fashion campaign,
-a Cannes Lions-winning automotive billboard,
-emotionally compressed conceptual advertising,
-minimal but emotionally addictive visual storytelling,
-and a globally recognizable campaign where the vehicle itself becomes the physical symbol of a relatable emotional truth.
+Extreme close-up cinematic photorealistic portrait of a beautiful young East Asian woman in her early 20s, delicate features, long jet-black wet hair heavily soaked with many fine glossy strands clinging to her forehead, cheeks and nose, wet hair strands dramatically crossing her face and casting intricate linear shadows across her skin, dewy glistening moist skin with strong specular highlights and water droplets under harsh natural sunlight, strong directional side lighting from upper left creating bright golden highlights on left side of face and deep dramatic shadows on the right, intense dark eyes with soft piercing gaze looking slightly off to the left of frame, slightly parted natural glossy lips, subtle natural flush on cheeks, wearing simple white collared shirt visible at the bottom, head gently tilted, intimate and vulnerable expression, razor sharp focus on eyes and facial details, extremely shallow depth of field, heavily blurred bright blue outdoor background, ultra detailed wet hair strands and skin texture, natural lighting only, filmic color grading, photorealistic, 8k --ar 2:3 --stylize 150
 ```
 
 </details>
 
-👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=40b503750dde41efd93fb10076dad534&show=true) · Tags: `comparison`, `cinematic`
+👤 [xie underwood](https://promptsref.com/user/wanxiaoba123) · [Source](https://promptsref.com/tool/AI-Image-Generator?share_id=d0b3307536503a57bd9151dca81394fc&show=true) · Tags: `portrait`, `cinematic`
 
 ---
 
@@ -2062,16 +1440,16 @@ and a globally recognizable campaign where the vehicle itself becomes the physic
 
 | Category | Prompts |
 |---|---:|
-| Brand & Logos | 197 |
-| Character Design | 119 |
-| Before / After & Comparisons | 51 |
-| Product & E-commerce | 223 |
-| Illustration & Art | 82 |
-| Posters & Typography | 58 |
-| Portrait & People | 558 |
+| Before / After & Comparisons | 63 |
+| Illustration & Art | 93 |
+| Brand & Logos | 204 |
+| Product & E-commerce | 228 |
+| Posters & Typography | 61 |
+| Portrait & People | 564 |
+| Character Design | 125 |
 | 3D Renders | 45 |
 | Charts & Infographics | 75 |
-| **Total** | **1408** |
+| **Total** | **1458** |
 
 ---
 
